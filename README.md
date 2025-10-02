@@ -101,7 +101,7 @@ All files follow the ADFG standard format with consistent column structure:
     "species_id": 410,
     "species_name": "Chinook Salmon",
     "year": 1939,
-    "last_updated": "2025-01-28T10:00:00Z",
+    "last_updated": "2025-10-02T18:30:39Z",
     "data_source": "ADF&G Commercial"
   }
 }
@@ -138,71 +138,52 @@ This dataset follows the official AFCA Location Codes Framework for commercial f
 
 This dataset contains **45 locations** across Alaska with commercial fishing data. Each location is organized by AFCA Location Codes Framework (1000-1999 range).
 
-### Complete Location List (45 Locations)
+### Complete Location List
 
 | Location ID | Location Name | Species Available | GitHub Folder |
 |-------------|---------------|-------------------|---------------|
-| 1001 | Akalura River | chinook |  [Commercial](http://localhost:8000/) |
-| 1025 | Akiak Creek (Upper) | pink, coho, chinook | [Commercial](http://localhost:8000/) |
-| 1026 | Akulurak River (Upper) | chinook | [Commercial](http://localhost:8000/) |
-| 1033 | Takotna River Weir | chinook, sockeye, coho, chum, other | [Commercial](http://localhost:8000/) |
-| 1034 | Telaquana River | chinook, sockeye, coho, chum | [Commercial](http://localhost:8000/) |
-| 1035 | Tuluksak River | chinook, sockeye, coho, pink, chum | [Commercial](http://localhost:8000/) |
-| 1036 | Tatlawiksuk River | chinook, sockeye, coho, chum | [Commercial](http://localhost:8000/) |
-| 1037 | Eldorado River | chinook, sockeye, coho, pink, chum | [Commercial](http://localhost:8000/) |
-| 1038 | Bonanza River | chinook, sockeye, coho, pink, chum | [Commercial](http://localhost:8000/) |
-| 1039 | Commercial Location 1039 | other | [Commercial](http://localhost:8000/) |
-| 1040 | Commercial Location 1040 | other | [Commercial](http://localhost:8000/) |
-| 1041 | Commercial Location 1041 | other | [Commercial](http://localhost:8000/) |
-| 1042 | Commercial Location 1042 | other | [Commercial](http://localhost:8000/) |
-| 1043 | Commercial Location 1043 | other | [Commercial](http://localhost:8000/) |
-| 1044 | Commercial Location 1044 | other | [Commercial](http://localhost:8000/) |
-| 1046 | Commercial Location 1046 | other | [Commercial](http://localhost:8000/) |
-| 1047 | Commercial Location 1047 | other | [Commercial](http://localhost:8000/) |
-| 1048 | Commercial Location 1048 | other | [Commercial](http://localhost:8000/) |
-| 1049 | Commercial Location 1049 | other | [Commercial](http://localhost:8000/) |
-| 1050 | Commercial Location 1050 | other | [Commercial](http://localhost:8000/) |
-| 1051 | Commercial Location 1051 | chinook, sockeye, coho, pink, chum, other | [Commercial](http://localhost:8000/) |
-| 1052 | Commercial Location 1052 | chinook, sockeye, coho, pink, chum, other | [Commercial](http://localhost:8000/) |
-| 1053 | Commercial Location 1053 | other | [Commercial](http://localhost:8000/) |
-| 1054 | Commercial Location 1054 | other | [Commercial](http://localhost:8000/) |
-| 1055 | Commercial Location 1055 | other | [Commercial](http://localhost:8000/) |
-| 1056 | Commercial Location 1056 | other | [Commercial](http://localhost:8000/) |
-| 1057 | Commercial Location 1057 | other | [Commercial](http://localhost:8000/) |
-| 1058 | Commercial Location 1058 | other | [Commercial](http://localhost:8000/) |
-| 1059 | Commercial Location 1059 | other | [Commercial](http://localhost:8000/) |
-| 1060 | Commercial Location 1060 | other | [Commercial](http://localhost:8000/) |
-| 1061 | Commercial Location 1061 | other | [Commercial](http://localhost:8000/) |
-| 1062 | Commercial Location 1062 | other | [Commercial](http://localhost:8000/) |
-| 1063 | Commercial Location 1063 | other | [Commercial](http://localhost:8000/) |
-| 1065 | Commercial Location 1065 | other | [Commercial](http://localhost:8000/) |
-| 1066 | Commercial Location 1066 | other | [Commercial](http://localhost:8000/) |
-| 1068 | Commercial Location 1068 | other | [Commercial](http://localhost:8000/) |
-| 1069 | Commercial Location 1069 | other | [Commercial](http://localhost:8000/) |
-| 1070 | Commercial Location 1070 | other | [Commercial](http://localhost:8000/) |
-| 1071 | Commercial Location 1071 | other | [Commercial](http://localhost:8000/) |
-| 1072 | Commercial Location 1072 | other | [Commercial](http://localhost:8000/) |
-| 1101 | Bristol Bay Location | other | [Commercial](http://localhost:8000/) |
-| 1201 | Cook Inlet Location | chinook, sockeye, coho, pink, chum | [Commercial](http://localhost:8000/) |
-| 1501 | Prince William Sound Location | chinook, sockeye, coho, pink, chum | [Commercial](http://localhost:8000/) |
-
-*Note: This table shows all 45 locations in the commercial dataset. Each location folder contains species-specific subdirectories with commercial fishing data following AFCA Location Codes Framework.*
-
-### Regional Organization
-
-The locations are organized by management areas:
-
-- **Arctic-Yukon-Kuskokwim Region (1000-1099)**: Yukon River, Kuskokwim, Norton Sound, Kotzebue
-- **Bristol Bay Area (1100-1199)**: Bristol Bay commercial fisheries
-- **Cook Inlet Area (1200-1299)**: Upper and Lower Cook Inlet
-- **Westward Minor Areas (1300-1399)**: Chignik, Alaska Peninsula, Aleutian Islands
-- **Kodiak Island Area (1400-1499)**: Kodiak Island commercial fisheries
-- **Prince William Sound & Copper River (1500-1599)**: PWS Area commercial fisheries
-- **Southeastern Alaska Area (1600-1699)**: Southeast Alaska commercial fisheries
-- **Future Expansion (1700-1999)**: Reserved for additional locations
-
-### Data Sources
-Commercial fishing data from Alaska Department of Fish & Game (ADFG) management regions.
-
-### Last Updated
-2025-01-28T10:00:00Z
+| 1001 | Akalura River Weir | chinook, sockeye, coho, pink, chum | [1001](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1001) |
+| 1025 | Situk Lower | chinook, sockeye, coho, chum | [1025](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1025) |
+| 1026 | Ford Arm | chinook | [1026](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1026) |
+| 1027 | Ilnik River | - | [1027](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1027) |
+| 1032 | Hetta Lake | - | [1032](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1032) |
+| 1033 | Speel Lake | chinook, sockeye, coho, chum | [1033](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1033) |
+| 1034 | Sashin Creek | chinook, sockeye, coho, chum | [1034](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1034) |
+| 1035 | Tahltan Lake | chinook, sockeye, coho, pink, chum | [1035](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1035) |
+| 1036 | Salmon River (Aniak) | chinook, sockeye, coho, chum | [1036](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1036) |
+| 1037 | Salmon Lake Stream | chinook, sockeye, coho, pink, chum | [1037](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1037) |
+| 1038 | Kanektok River | chinook, sockeye, coho, pink, chum | [1038](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1038) |
+| 1039 | Karta River | 999 | [1039](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1039) |
+| 1040 | Uganik River | 999 | [1040](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1040) |
+| 1041 | Neva Creek | 999 | [1041](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1041) |
+| 1042 | Warm Chuck Lake | 999 | [1042](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1042) |
+| 1043 | Sitkoh Lake Creek | 999 | [1043](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1043) |
+| 1044 | Big Bay Creek | 999 | [1044](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1044) |
+| 1046 | Klag Lake | 999 | [1046](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1046) |
+| 1047 | Lake Eva | 999 | [1047](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1047) |
+| 1048 | Little Waterfall | 999 | [1048](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1048) |
+| 1049 | Little Kitoi | 999 | [1049](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1049) |
+| 1050 | Location 1050 | 999 | [1050](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1050) |
+| 1051 | Location 1051 | chinook, sockeye, coho, pink, chum, 999 | [1051](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1051) |
+| 1052 | Location 1052 | chinook, sockeye, coho, pink, chum, 999 | [1052](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1052) |
+| 1053 | Location 1053 | 999 | [1053](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1053) |
+| 1054 | Location 1054 | 999 | [1054](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1054) |
+| 1055 | Location 1055 | 999 | [1055](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1055) |
+| 1056 | Location 1056 | 999 | [1056](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1056) |
+| 1057 | Location 1057 | 999 | [1057](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1057) |
+| 1058 | Location 1058 | 999 | [1058](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1058) |
+| 1059 | Location 1059 | 999 | [1059](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1059) |
+| 1060 | Location 1060 | 999 | [1060](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1060) |
+| 1061 | Location 1061 | 999 | [1061](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1061) |
+| 1062 | Location 1062 | 999 | [1062](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1062) |
+| 1063 | Location 1063 | 999 | [1063](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1063) |
+| 1065 | Location 1065 | 999 | [1065](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1065) |
+| 1066 | Location 1066 | 999 | [1066](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1066) |
+| 1068 | Location 1068 | 999 | [1068](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1068) |
+| 1069 | Location 1069 | 999 | [1069](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1069) |
+| 1070 | Location 1070 | 999 | [1070](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1070) |
+| 1071 | Location 1071 | 999 | [1071](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1071) |
+| 1072 | Location 1072 | 999 | [1072](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1072) |
+| 1101 | Location 1101 | sockeye | [1101](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1101) |
+| 1201 | Location 1201 | chinook, sockeye, coho, pink, chum | [1201](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1201) |
+| 1501 | Location 1501 | chinook, sockeye, coho, pink, chum | [1501](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1501) |
