@@ -187,3 +187,21 @@ This dataset contains **45 locations** across Alaska with commercial fishing dat
 | 1101 | Location 1101 | sockeye | [1101](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1101) |
 | 1201 | Location 1201 | chinook, sockeye, coho, pink, chum | [1201](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1201) |
 | 1501 | Location 1501 | chinook, sockeye, coho, pink, chum | [1501](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1501) |
+
+## 🧩 AFCA App Integration
+
+This repository is consumed by the Alaska Fish Count App (AFCA). Components load `manifest.json` first, then resolve data paths strictly via the manifest (no hardcoded URLs). The app selects the appropriate repo by location ID range:
+
+- SPORT: 0–100 (200–999 reserved)
+- COMMERCIAL: 1000–1999
+- SASAP (Historical): 2000–2999
+
+AFCA fetches JSON files directly from GitHub Raw/JSDelivr using the manifest paths and handles errors gracefully.
+
+## 🗂️ Repository Roles
+
+- `adfg-sport-dataset` (0–100 used; 200–999 reserved): Active ADF&G sport fish count data.
+- `adfg-commercial-dataset` (1000–1999): Commercial fish count datasets organized by AFCA Location Codes Framework.
+- `adfg-sasap-dataset` (2000–2999): Historical escapement counts (SASAP, 1922–2017).
+
+Each repo is scoped to its range to avoid overlap and to keep the AFCA app loading logic simple and deterministic.
