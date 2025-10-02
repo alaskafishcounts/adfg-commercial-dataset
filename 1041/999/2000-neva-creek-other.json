@@ -1,0 +1,4351 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "June, 18 2000 00:00:00",
+      8,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 19 2000 00:00:00",
+      2,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 20 2000 00:00:00",
+      48,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 20 2000 00:00:00",
+      4,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 20 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 21 2000 00:00:00",
+      12,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 21 2000 00:00:00",
+      12,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 21 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 22 2000 00:00:00",
+      17,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 22 2000 00:00:00",
+      17,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 22 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 23 2000 00:00:00",
+      6,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 23 2000 00:00:00",
+      168,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 23 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 24 2000 00:00:00",
+      112,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 24 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 24 2000 00:00:00",
+      192,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 24 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 24 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 25 2000 00:00:00",
+      4,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 25 2000 00:00:00",
+      169,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 25 2000 00:00:00",
+      2,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 25 2000 00:00:00",
+      838,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 25 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 25 2000 00:00:00",
+      2,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 26 2000 00:00:00",
+      43,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 26 2000 00:00:00",
+      21,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 26 2000 00:00:00",
+      26,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 26 2000 00:00:00",
+      1088,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 26 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 26 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 26 2000 00:00:00",
+      343,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 27 2000 00:00:00",
+      18,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 27 2000 00:00:00",
+      135,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 27 2000 00:00:00",
+      321,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 27 2000 00:00:00",
+      799,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 27 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 27 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 27 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 27 2000 00:00:00",
+      52,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 28 2000 00:00:00",
+      21,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 28 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 28 2000 00:00:00",
+      559,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 28 2000 00:00:00",
+      1268,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 28 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 28 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 28 2000 00:00:00",
+      2,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 28 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 28 2000 00:00:00",
+      192,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 29 2000 00:00:00",
+      68,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 29 2000 00:00:00",
+      86,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 29 2000 00:00:00",
+      1194,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 29 2000 00:00:00",
+      777,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 29 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 29 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 29 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 29 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 29 2000 00:00:00",
+      516,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 30 2000 00:00:00",
+      72,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 30 2000 00:00:00",
+      75,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 30 2000 00:00:00",
+      1387,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 30 2000 00:00:00",
+      417,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 30 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 30 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 30 2000 00:00:00",
+      27,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 30 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 30 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 30 2000 00:00:00",
+      74,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "June, 30 2000 00:00:00",
+      303,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      14,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      14,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      366,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      260,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      4,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      14,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      125,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      175,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      145,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      3,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      26,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      48,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      293,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      190,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      18,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      1,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      14,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      72,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      495,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      39,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      16,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      18,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      397,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      172,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      35,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      1,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      23,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      9,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      13,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      14,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      342,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      143,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      19,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      24,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      432,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      261,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      28,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      4,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      9,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      2,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      16,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      186,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      124,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      1961,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      6,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      5,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      209,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      389,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      45,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      11,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      368,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      12,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      7,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      216,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      239,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      1327,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      28,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      477,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      333,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      174,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      400,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      97,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      33,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      18,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      194,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      11,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      14,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      673,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      1216,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      4,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      62,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      76,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      261,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      202,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      287,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      852,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      164,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      62,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      128,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      128,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      9,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      219,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      717,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      683,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      65,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      240,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      138,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      171,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      128,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      589,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      255,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      9,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      4,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      75,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      20,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      103,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      495,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      761,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      89,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      58,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      73,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      221,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      103,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      396,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      306,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      6,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      134,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      14,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      265,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      3,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      170,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      143,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      482,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      334,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      32,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      41,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      236,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      202,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      336,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      557,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      8,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      81,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      176,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      409,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      228,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      130,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      406,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      586,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      111,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      48,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      221,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      280,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      720,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      579,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      1,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      123,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      65,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      64,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      35,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      69,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      134,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      453,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      11,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      335,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      98,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      128,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      244,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      378,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      1362,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      242,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      20,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      85,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      17,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      48,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      11,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      539,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      68,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      233,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      151,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      83,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      162,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      185,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      111,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      535,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      108,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      73,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      46,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      200,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      222,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      129,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      51,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      12,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      226,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      60,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      159,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      141,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      124,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      839,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      208,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      34,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      65,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      85,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      47,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      210,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      110,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      44,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      201,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      65,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      104,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      169,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      862,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      239,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      47,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      15,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      35,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      16,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      119,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      112,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      40,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      46,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      120,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      11,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      20,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      116,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      415,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      805,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      82,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      15,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      2,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      27,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      12,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      151,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      29,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      40,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      107,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      98,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      69,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      26,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      76,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      474,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      232,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      121,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      21,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      76,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      55,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      45,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      8,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      55,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      80,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      1,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      12,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      50,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      259,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      100,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      75,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      207,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      8,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      35,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      60,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      298,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      5,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      21,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      82,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      112,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      12,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      105,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      31,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      225,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      51,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      20,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      33,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      11,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      21,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      19,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      18,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      56,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      15,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      55,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      12,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      32,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      352,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      113,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      203,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      36,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      67,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      11,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      66,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      10,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      13,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      109,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      14,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      14,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      23,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      104,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      149,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      33,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      25,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      25,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      127,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      36,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      4,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      109,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      79,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      17,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      11,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      50,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      161,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      45,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      1,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      106,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      7,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      77,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      13,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      6,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      43,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      35,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      15,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      77,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      83,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      54,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      17,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      35,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      11,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      22,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      7,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      20,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      29,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      11,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      27,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      41,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      56,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      13,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      7,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      19,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      1,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      48,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      20,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      10,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      33,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      4,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      2,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      8,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      31,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      36,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      47,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      3,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      3,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      13,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      37,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      9,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      36,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      2,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      11,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      5,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      1,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      25,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      3,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      28,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      13,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      2,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 27 2000 00:00:00",
+      6,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 27 2000 00:00:00",
+      7,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 27 2000 00:00:00",
+      15,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 27 2000 00:00:00",
+      1,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 27 2000 00:00:00",
+      10,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 27 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 27 2000 00:00:00",
+      56,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 27 2000 00:00:00",
+      9,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 28 2000 00:00:00",
+      7,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 28 2000 00:00:00",
+      4,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 28 2000 00:00:00",
+      10,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 28 2000 00:00:00",
+      8,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 28 2000 00:00:00",
+      28,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 28 2000 00:00:00",
+      17,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 28 2000 00:00:00",
+      4,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 29 2000 00:00:00",
+      65,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 29 2000 00:00:00",
+      9,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 29 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 30 2000 00:00:00",
+      18,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 30 2000 00:00:00",
+      7,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 30 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 31 2000 00:00:00",
+      12,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "July, 31 2000 00:00:00",
+      1,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 01 2000 00:00:00",
+      7,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 01 2000 00:00:00",
+      1,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 02 2000 00:00:00",
+      4,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 02 2000 00:00:00",
+      1,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 03 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 03 2000 00:00:00",
+      93,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 03 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 04 2000 00:00:00",
+      1,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 04 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 05 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 05 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 06 2000 00:00:00",
+      1,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 06 2000 00:00:00",
+      12,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 07 2000 00:00:00",
+      2,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 07 2000 00:00:00",
+      3,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 07 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 08 2000 00:00:00",
+      0,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 08 2000 00:00:00",
+      6,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 09 2000 00:00:00",
+      7,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 09 2000 00:00:00",
+      18,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 10 2000 00:00:00",
+      4,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 11 2000 00:00:00",
+      3,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ],
+    [
+      2000,
+      "August, 12 2000 00:00:00",
+      3,
+      999,
+      1041,
+      "Location 1041",
+      "2000_Glacial Lake_Sockeye"
+    ]
+  ]
+}

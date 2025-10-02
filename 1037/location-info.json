@@ -1,0 +1,36 @@
+{
+  "location_id": "1037",
+  "name": "Eldorado River",
+  "slug": "eldorado-river",
+  "official_name": "Eldorado River",
+  "region": "Arctic-Yukon-Kuskokwim",
+  "management_area": "Kuskokwim",
+  "monitoring_method": "Weir",
+  "gps": [
+    61.0,
+    -155.0
+  ],
+  "operating_period": "June - August",
+  "operator": "KRITFC with ADF&G support",
+  "species": {
+    "410": {
+      "id": 410,
+      "name": "Chinook Salmon",
+      "slug": "chinook",
+      "data_available": true,
+      "years": []
+    },
+    "450": {
+      "id": 450,
+      "name": "Chum Salmon",
+      "slug": "chum",
+      "data_available": true,
+      "years": []
+    }
+  },
+  "description": "The Eldorado River is located in the Kuskokwim River basin and is monitored for salmon escapement.",
+  "data_available": true,
+  "last_updated": "2025-10-01T20:58:29.629868",
+  "source": "ADFG Fish Counts Database",
+  "notes": "Commercial fishing location in Kuskokwim management area."
+}

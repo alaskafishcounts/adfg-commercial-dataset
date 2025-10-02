@@ -1,0 +1,6133 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "June, 09 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 10 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 10 2010 00:00:00",
+      5,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 11 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 11 2010 00:00:00",
+      5,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 12 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 12 2010 00:00:00",
+      2,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 13 2010 00:00:00",
+      2,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 13 2010 00:00:00",
+      7,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 14 2010 00:00:00",
+      2,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 14 2010 00:00:00",
+      11,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 15 2010 00:00:00",
+      10,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 15 2010 00:00:00",
+      7,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 16 2010 00:00:00",
+      67,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 16 2010 00:00:00",
+      4,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 17 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 17 2010 00:00:00",
+      114,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 17 2010 00:00:00",
+      22,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 18 2010 00:00:00",
+      25,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 18 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 18 2010 00:00:00",
+      63,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 18 2010 00:00:00",
+      14,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 19 2010 00:00:00",
+      64,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 19 2010 00:00:00",
+      10,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 19 2010 00:00:00",
+      23,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 19 2010 00:00:00",
+      4,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 20 2010 00:00:00",
+      26,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 20 2010 00:00:00",
+      22,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 20 2010 00:00:00",
+      12,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 20 2010 00:00:00",
+      273,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 20 2010 00:00:00",
+      5,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 21 2010 00:00:00",
+      8,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 21 2010 00:00:00",
+      10,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 21 2010 00:00:00",
+      5,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 21 2010 00:00:00",
+      494,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 21 2010 00:00:00",
+      6,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 21 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 22 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 22 2010 00:00:00",
+      22,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 22 2010 00:00:00",
+      10,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 22 2010 00:00:00",
+      73,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 22 2010 00:00:00",
+      97,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 22 2010 00:00:00",
+      47,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 22 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 23 2010 00:00:00",
+      10,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 23 2010 00:00:00",
+      531,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 23 2010 00:00:00",
+      2,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 23 2010 00:00:00",
+      76,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 23 2010 00:00:00",
+      300,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 23 2010 00:00:00",
+      124,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 23 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 23 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 24 2010 00:00:00",
+      66,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 24 2010 00:00:00",
+      1701,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 24 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 24 2010 00:00:00",
+      22,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 24 2010 00:00:00",
+      69,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 24 2010 00:00:00",
+      312,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 24 2010 00:00:00",
+      345,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 24 2010 00:00:00",
+      5,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 24 2010 00:00:00",
+      1,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 25 2010 00:00:00",
+      54,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 25 2010 00:00:00",
+      872,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 25 2010 00:00:00",
+      4,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 25 2010 00:00:00",
+      189,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 25 2010 00:00:00",
+      48,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 25 2010 00:00:00",
+      632,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 25 2010 00:00:00",
+      791,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 25 2010 00:00:00",
+      126,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 25 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 26 2010 00:00:00",
+      84,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 26 2010 00:00:00",
+      208,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 26 2010 00:00:00",
+      10,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 26 2010 00:00:00",
+      765,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 26 2010 00:00:00",
+      61,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 26 2010 00:00:00",
+      1493,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 26 2010 00:00:00",
+      2281,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 26 2010 00:00:00",
+      397,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 26 2010 00:00:00",
+      26,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 27 2010 00:00:00",
+      49,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 27 2010 00:00:00",
+      85,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 27 2010 00:00:00",
+      2,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 27 2010 00:00:00",
+      800,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 27 2010 00:00:00",
+      258,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 27 2010 00:00:00",
+      3735,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 27 2010 00:00:00",
+      328,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 27 2010 00:00:00",
+      465,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 27 2010 00:00:00",
+      7,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 27 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      10,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      312,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      10,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      270,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      365,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      683,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      1689,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      342,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      1263,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      14,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      22,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      117,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      2011,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      30,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      396,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      315,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      1276,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      1055,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      525,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      2664,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      218,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      3,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      1434,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      604,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      70,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      733,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      113,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      976,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      850,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      1826,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      1683,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      477,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      6,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 01 2010 00:00:00",
+      2333,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 01 2010 00:00:00",
+      289,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 01 2010 00:00:00",
+      75,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 01 2010 00:00:00",
+      2056,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 01 2010 00:00:00",
+      537,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 01 2010 00:00:00",
+      1132,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 01 2010 00:00:00",
+      541,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 01 2010 00:00:00",
+      1767,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 01 2010 00:00:00",
+      494,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 01 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 01 2010 00:00:00",
+      167,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 01 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 01 2010 00:00:00",
+      340,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      1870,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      932,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      80,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      2095,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      1996,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      496,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      338,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      3097,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      352,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      118,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      2,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      49,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      3,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      814,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      2502,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      2688,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      115,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      1894,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      2127,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      1200,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      178,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      6437,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      1593,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      481,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      126,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      7,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      559,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      1495,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      2894,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      382,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      1427,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      5989,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      3919,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      404,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      5393,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      3784,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      2111,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      201,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      5,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      200,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      2899,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      163,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      498,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      191,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      4420,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      6937,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      787,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      2516,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      825,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      2285,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      17,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      85,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      33,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      92,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      1713,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      2475,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      745,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      4344,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      5687,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      7653,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      835,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      9557,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      3933,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      4422,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      426,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      36,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      91,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      604,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      1206,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      4269,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      2161,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      5982,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      4082,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      1926,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      824,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      8494,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      11367,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      2102,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      14,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      75,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      494,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      416,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      2171,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      7049,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      3566,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      3955,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      711,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      2174,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      1242,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      9521,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      4570,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      2139,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      135,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      289,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      550,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      913,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      4108,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      5867,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      1480,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      32,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      2686,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      1337,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      827,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      5265,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      473,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      1984,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      154,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      478,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      83,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      708,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      6134,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      588,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      2067,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      2726,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      1588,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      2504,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      572,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      563,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      661,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      1313,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      746,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      104,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      1146,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      1171,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      4676,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      2640,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      11163,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      1321,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      5412,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      1605,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      2162,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      1984,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      1189,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      1193,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      29,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      1631,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      863,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      5626,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      3487,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      2622,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      1714,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      5621,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      953,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      11139,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      3980,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      893,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      1197,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      44,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      1786,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      521,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      4042,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      1372,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      2310,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      1719,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      1805,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      3447,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      7050,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      4350,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      1069,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      1431,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      4,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      727,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      2308,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      904,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      1241,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      4139,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      1675,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      1936,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      2383,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      4860,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      9510,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      894,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      2829,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      66,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      1259,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      734,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      2598,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      2531,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      2441,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      665,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      2865,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      1719,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      6170,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      5190,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      1546,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      344,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      435,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      1754,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      2282,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      4902,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      2223,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      1827,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      197,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      3508,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      842,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      2088,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      2077,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      1826,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      291,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      237,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      673,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      2821,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      4476,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      1850,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      1861,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      175,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      5266,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      334,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      431,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      5425,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      2767,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      976,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      235,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      1006,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      2054,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      5212,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      1573,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      1863,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      185,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      3335,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      370,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      1332,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      4172,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      1069,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      925,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      477,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      1028,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      2185,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      57,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      1860,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      2508,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      244,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      394,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      938,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      3132,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      4090,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      1102,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      1027,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      106,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      1243,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      2527,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      3864,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      2508,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      3566,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      82,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      1651,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      655,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      9667,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      4691,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      1073,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      188,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      75,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      475,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      1008,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      3112,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      6947,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      4202,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      3441,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      151,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      3041,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      729,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      5461,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      9818,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      1599,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      486,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      270,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      316,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      657,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      2187,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      2515,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      3158,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      3310,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      129,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      2750,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      22,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      3049,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      5231,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      2702,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      338,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      880,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      549,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      1479,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      1733,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      2355,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      3932,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      128,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      2132,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      2693,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      5325,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      4060,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      339,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      516,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      811,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      386,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      2073,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      1006,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      1940,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      1537,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      118,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      777,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      45,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      3603,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      3586,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      149,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      243,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      485,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      359,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      3698,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      1713,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      1112,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      1925,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      91,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      2061,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      555,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      5409,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      2044,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      255,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      322,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      381,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      465,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      3002,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      2894,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      2695,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      2320,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      0,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      2041,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      4982,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      3469,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      549,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      434,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      265,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      67,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      2206,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      1708,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      1725,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      1619,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      24,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      2296,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      4192,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      2514,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      1275,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      303,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      251,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      269,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      1447,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      1518,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      1943,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      2249,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      65,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      1736,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      2809,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      2862,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      3362,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      136,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      248,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      162,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      2936,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      3870,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      1361,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      1581,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      170,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      2059,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      1010,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      2853,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      2469,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      93,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      712,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      456,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      1230,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      1484,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      1269,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      1375,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      120,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      2000,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      1946,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      1204,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      2015,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      1335,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      387,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      1720,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      1227,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      1200,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      1656,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      82,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      1516,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      2551,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      1289,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      2259,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      777,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      282,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      1332,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      1198,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      2628,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      142,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      525,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      1109,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      1060,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      734,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      266,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      670,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      138,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      934,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      1329,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      2262,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      1429,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      547,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      2342,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      1415,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      401,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      312,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      585,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      848,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 03 2010 00:00:00",
+      1335,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 03 2010 00:00:00",
+      1402,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 03 2010 00:00:00",
+      974,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 03 2010 00:00:00",
+      2279,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 03 2010 00:00:00",
+      1035,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 03 2010 00:00:00",
+      62,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 03 2010 00:00:00",
+      2379,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 03 2010 00:00:00",
+      732,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 03 2010 00:00:00",
+      500,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 03 2010 00:00:00",
+      561,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 04 2010 00:00:00",
+      1270,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 04 2010 00:00:00",
+      1111,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 04 2010 00:00:00",
+      983,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 04 2010 00:00:00",
+      1382,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 04 2010 00:00:00",
+      724,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 04 2010 00:00:00",
+      1611,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 04 2010 00:00:00",
+      1726,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 04 2010 00:00:00",
+      936,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 04 2010 00:00:00",
+      1345,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 04 2010 00:00:00",
+      378,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 05 2010 00:00:00",
+      1076,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 05 2010 00:00:00",
+      1026,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 05 2010 00:00:00",
+      765,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 05 2010 00:00:00",
+      1316,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 05 2010 00:00:00",
+      1384,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 05 2010 00:00:00",
+      1413,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 05 2010 00:00:00",
+      2316,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 05 2010 00:00:00",
+      214,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 05 2010 00:00:00",
+      1124,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 05 2010 00:00:00",
+      200,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 06 2010 00:00:00",
+      1283,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 06 2010 00:00:00",
+      1034,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 06 2010 00:00:00",
+      605,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 06 2010 00:00:00",
+      1699,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 06 2010 00:00:00",
+      1189,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 06 2010 00:00:00",
+      702,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 06 2010 00:00:00",
+      1209,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 06 2010 00:00:00",
+      147,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 06 2010 00:00:00",
+      567,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 06 2010 00:00:00",
+      275,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 07 2010 00:00:00",
+      165,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 07 2010 00:00:00",
+      781,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 07 2010 00:00:00",
+      893,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 07 2010 00:00:00",
+      1008,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 07 2010 00:00:00",
+      1131,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 07 2010 00:00:00",
+      1381,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 07 2010 00:00:00",
+      796,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 07 2010 00:00:00",
+      258,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 07 2010 00:00:00",
+      708,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 07 2010 00:00:00",
+      340,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      1019,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      1379,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      553,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      648,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      516,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      748,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      578,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      325,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      124,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 09 2010 00:00:00",
+      740,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 09 2010 00:00:00",
+      797,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 09 2010 00:00:00",
+      505,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 09 2010 00:00:00",
+      555,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 09 2010 00:00:00",
+      649,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 09 2010 00:00:00",
+      783,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 09 2010 00:00:00",
+      153,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 09 2010 00:00:00",
+      16,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      1219,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      733,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      635,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      754,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      29,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      724,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      13,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      28,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      1057,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      844,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      564,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      678,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      465,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      3,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      19,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 12 2010 00:00:00",
+      1075,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 12 2010 00:00:00",
+      736,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 12 2010 00:00:00",
+      969,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 12 2010 00:00:00",
+      497,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 12 2010 00:00:00",
+      305,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 12 2010 00:00:00",
+      5,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 12 2010 00:00:00",
+      27,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 13 2010 00:00:00",
+      933,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 13 2010 00:00:00",
+      675,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 13 2010 00:00:00",
+      442,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 13 2010 00:00:00",
+      403,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 13 2010 00:00:00",
+      321,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 13 2010 00:00:00",
+      8,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 13 2010 00:00:00",
+      23,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 14 2010 00:00:00",
+      697,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 14 2010 00:00:00",
+      1314,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 14 2010 00:00:00",
+      292,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 14 2010 00:00:00",
+      361,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 14 2010 00:00:00",
+      262,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 14 2010 00:00:00",
+      3,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 14 2010 00:00:00",
+      48,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 15 2010 00:00:00",
+      698,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 15 2010 00:00:00",
+      414,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 15 2010 00:00:00",
+      358,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 15 2010 00:00:00",
+      427,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 15 2010 00:00:00",
+      226,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 15 2010 00:00:00",
+      7,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 15 2010 00:00:00",
+      24,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 16 2010 00:00:00",
+      487,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 16 2010 00:00:00",
+      366,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 16 2010 00:00:00",
+      14,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 17 2010 00:00:00",
+      732,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 17 2010 00:00:00",
+      342,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 18 2010 00:00:00",
+      577,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 18 2010 00:00:00",
+      193,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 19 2010 00:00:00",
+      625,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 19 2010 00:00:00",
+      245,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 20 2010 00:00:00",
+      439,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 20 2010 00:00:00",
+      195,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 21 2010 00:00:00",
+      320,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 21 2010 00:00:00",
+      139,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 22 2010 00:00:00",
+      367,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 22 2010 00:00:00",
+      111,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 23 2010 00:00:00",
+      131,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 24 2010 00:00:00",
+      119,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 25 2010 00:00:00",
+      94,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 26 2010 00:00:00",
+      70,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ],
+    [
+      2010,
+      "August, 27 2010 00:00:00",
+      92,
+      999,
+      1058,
+      "Location 1058",
+      "2010_Unalakleet River_Chum"
+    ]
+  ]
+}

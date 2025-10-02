@@ -1,0 +1,67 @@
+{
+  "id": 1027,
+  "name": "Goodnews River Middle Fork",
+  "slug": "goodnews-river-middle-fork",
+  "region": "Arctic-Yukon-Kuskokwim Region",
+  "adfg_management_area": "Kuskokwim Area",
+  "closest_city": "Anchorage",
+  "coordinates": {
+    "primary": {
+      "latitude": 61.2181,
+      "longitude": -149.9003,
+      "source": "ADFG"
+    }
+  },
+  "method": "Weir",
+  "status": "Active",
+  "species_coverage": {
+    "410": "Chinook Salmon",
+    "450": "Chum Salmon",
+    "440": "Pink Salmon",
+    "430": "Coho Salmon",
+    "420": "Sockeye Salmon"
+  },
+  "notes": "Primary monitoring site for goodnews river middle fork escapement monitoring.",
+  "data_sources": [
+    {
+      "name": "ADFG Commercial Salmon Fisheries",
+      "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm",
+      "type": "web_portal"
+    }
+  ],
+  "years_covered": [
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2019
+  ],
+  "total_files": 6,
+  "species_count": 5,
+  "data_types": [
+    "daily"
+  ]
+}

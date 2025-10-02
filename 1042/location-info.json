@@ -1,0 +1,22 @@
+{
+  "id": "1042",
+  "name": "Noatak River",
+  "slug": "noatak-river",
+  "region": "Arctic-Yukon-Kuskokwim",
+  "management_area": "Norton Sound & Kotzebue",
+  "monitoring_method": "Weir",
+  "gps": [
+    0.0,
+    0.0
+  ],
+  "species": [
+    "Chum",
+    "Pink"
+  ],
+  "years_available": [
+    "1981-1998"
+  ],
+  "data_source": "ADFG Commercial Dataset",
+  "created_date": "2025-10-01T21:16:55.632613",
+  "notes": "Location added from data-to-convert processing. GPS coordinates need to be updated."
+}
