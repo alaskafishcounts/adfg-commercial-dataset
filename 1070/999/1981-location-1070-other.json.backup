@@ -1,0 +1,2227 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1981,
+      "July, 02 1981 00:00:00",
+      86,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 03 1981 00:00:00",
+      476,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 04 1981 00:00:00",
+      539,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 04 1981 00:00:00",
+      31,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 05 1981 00:00:00",
+      531,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 05 1981 00:00:00",
+      215,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 06 1981 00:00:00",
+      528,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 06 1981 00:00:00",
+      758,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 07 1981 00:00:00",
+      544,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 07 1981 00:00:00",
+      135,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 08 1981 00:00:00",
+      639,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 08 1981 00:00:00",
+      97,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 08 1981 00:00:00",
+      142,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 09 1981 00:00:00",
+      935,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 09 1981 00:00:00",
+      0,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 09 1981 00:00:00",
+      137,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 10 1981 00:00:00",
+      845,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 10 1981 00:00:00",
+      0,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 10 1981 00:00:00",
+      325,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 11 1981 00:00:00",
+      1203,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 11 1981 00:00:00",
+      0,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 11 1981 00:00:00",
+      474,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 12 1981 00:00:00",
+      2122,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 12 1981 00:00:00",
+      0,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 12 1981 00:00:00",
+      213,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 12 1981 00:00:00",
+      955,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 13 1981 00:00:00",
+      2281,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 13 1981 00:00:00",
+      0,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 13 1981 00:00:00",
+      83,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 14 1981 00:00:00",
+      2497,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 14 1981 00:00:00",
+      0,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 14 1981 00:00:00",
+      161,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 15 1981 00:00:00",
+      2487,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 15 1981 00:00:00",
+      2226,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 15 1981 00:00:00",
+      61,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 16 1981 00:00:00",
+      2069,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 16 1981 00:00:00",
+      455,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 16 1981 00:00:00",
+      140,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 16 1981 00:00:00",
+      2239,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 17 1981 00:00:00",
+      2301,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 17 1981 00:00:00",
+      0,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 17 1981 00:00:00",
+      575,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 18 1981 00:00:00",
+      2834,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 18 1981 00:00:00",
+      0,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 18 1981 00:00:00",
+      406,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 19 1981 00:00:00",
+      4210,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 19 1981 00:00:00",
+      309,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 19 1981 00:00:00",
+      0,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 19 1981 00:00:00",
+      339,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 20 1981 00:00:00",
+      4760,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 20 1981 00:00:00",
+      0,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 20 1981 00:00:00",
+      0,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 20 1981 00:00:00",
+      892,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 21 1981 00:00:00",
+      4702,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 21 1981 00:00:00",
+      700,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 21 1981 00:00:00",
+      0,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 22 1981 00:00:00",
+      7420,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 22 1981 00:00:00",
+      626,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 22 1981 00:00:00",
+      130,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 23 1981 00:00:00",
+      7219,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 23 1981 00:00:00",
+      1185,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 23 1981 00:00:00",
+      203,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 23 1981 00:00:00",
+      877,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 23 1981 00:00:00",
+      79,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 24 1981 00:00:00",
+      5521,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 24 1981 00:00:00",
+      997,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 24 1981 00:00:00",
+      379,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 25 1981 00:00:00",
+      5540,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 25 1981 00:00:00",
+      1125,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 25 1981 00:00:00",
+      326,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 25 1981 00:00:00",
+      249,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 26 1981 00:00:00",
+      12468,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 26 1981 00:00:00",
+      1891,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 26 1981 00:00:00",
+      128,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 26 1981 00:00:00",
+      1354,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 26 1981 00:00:00",
+      4266,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 27 1981 00:00:00",
+      9220,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 27 1981 00:00:00",
+      123,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 27 1981 00:00:00",
+      224,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 27 1981 00:00:00",
+      735,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 28 1981 00:00:00",
+      9488,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 28 1981 00:00:00",
+      0,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 28 1981 00:00:00",
+      248,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 28 1981 00:00:00",
+      2799,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 29 1981 00:00:00",
+      3394,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 29 1981 00:00:00",
+      1039,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 29 1981 00:00:00",
+      290,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 29 1981 00:00:00",
+      14231,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 30 1981 00:00:00",
+      4846,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 30 1981 00:00:00",
+      1370,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 30 1981 00:00:00",
+      260,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 30 1981 00:00:00",
+      4039,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 30 1981 00:00:00",
+      2261,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 31 1981 00:00:00",
+      4663,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 31 1981 00:00:00",
+      2860,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 31 1981 00:00:00",
+      244,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "July, 31 1981 00:00:00",
+      1054,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 01 1981 00:00:00",
+      5163,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 01 1981 00:00:00",
+      3406,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 01 1981 00:00:00",
+      342,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 02 1981 00:00:00",
+      6324,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 02 1981 00:00:00",
+      1438,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 02 1981 00:00:00",
+      359,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 02 1981 00:00:00",
+      3444,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 02 1981 00:00:00",
+      2192,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 02 1981 00:00:00",
+      14474,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 03 1981 00:00:00",
+      8184,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 03 1981 00:00:00",
+      3427,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 03 1981 00:00:00",
+      464,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 03 1981 00:00:00",
+      3396,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 04 1981 00:00:00",
+      11062,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 04 1981 00:00:00",
+      2679,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 04 1981 00:00:00",
+      286,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 04 1981 00:00:00",
+      767,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 05 1981 00:00:00",
+      9432,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 05 1981 00:00:00",
+      3056,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 05 1981 00:00:00",
+      436,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 05 1981 00:00:00",
+      15146,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 06 1981 00:00:00",
+      15829,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 06 1981 00:00:00",
+      3040,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 06 1981 00:00:00",
+      576,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 06 1981 00:00:00",
+      11699,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 06 1981 00:00:00",
+      12041,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 07 1981 00:00:00",
+      10531,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 07 1981 00:00:00",
+      2670,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 07 1981 00:00:00",
+      407,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 07 1981 00:00:00",
+      4495,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 08 1981 00:00:00",
+      7225,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 08 1981 00:00:00",
+      3497,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 08 1981 00:00:00",
+      545,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 09 1981 00:00:00",
+      6727,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 09 1981 00:00:00",
+      5122,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 09 1981 00:00:00",
+      705,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 09 1981 00:00:00",
+      4473,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 09 1981 00:00:00",
+      31160,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 10 1981 00:00:00",
+      5306,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 10 1981 00:00:00",
+      3124,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 10 1981 00:00:00",
+      590,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 10 1981 00:00:00",
+      18932,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 11 1981 00:00:00",
+      4187,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 11 1981 00:00:00",
+      3902,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 11 1981 00:00:00",
+      809,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 11 1981 00:00:00",
+      10373,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 12 1981 00:00:00",
+      4365,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 12 1981 00:00:00",
+      2366,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 12 1981 00:00:00",
+      2528,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 12 1981 00:00:00",
+      9471,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 13 1981 00:00:00",
+      6367,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 13 1981 00:00:00",
+      2258,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 13 1981 00:00:00",
+      1040,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 13 1981 00:00:00",
+      7754,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 13 1981 00:00:00",
+      13789,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 14 1981 00:00:00",
+      5641,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 14 1981 00:00:00",
+      3160,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 14 1981 00:00:00",
+      774,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 14 1981 00:00:00",
+      3785,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 15 1981 00:00:00",
+      3414,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 15 1981 00:00:00",
+      3501,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 15 1981 00:00:00",
+      333,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 16 1981 00:00:00",
+      1505,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 16 1981 00:00:00",
+      1799,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 16 1981 00:00:00",
+      134,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 16 1981 00:00:00",
+      19252,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 16 1981 00:00:00",
+      18179,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 17 1981 00:00:00",
+      11263,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 17 1981 00:00:00",
+      2212,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 17 1981 00:00:00",
+      583,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 17 1981 00:00:00",
+      7747,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 18 1981 00:00:00",
+      6489,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 18 1981 00:00:00",
+      2116,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 18 1981 00:00:00",
+      861,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 18 1981 00:00:00",
+      13932,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 19 1981 00:00:00",
+      9704,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 19 1981 00:00:00",
+      1813,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 19 1981 00:00:00",
+      1287,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 20 1981 00:00:00",
+      10090,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 20 1981 00:00:00",
+      1686,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 20 1981 00:00:00",
+      862,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 20 1981 00:00:00",
+      10377,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 20 1981 00:00:00",
+      7886,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 21 1981 00:00:00",
+      9282,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 21 1981 00:00:00",
+      551,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 21 1981 00:00:00",
+      436,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 21 1981 00:00:00",
+      12969,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 22 1981 00:00:00",
+      6249,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 22 1981 00:00:00",
+      823,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 22 1981 00:00:00",
+      228,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 23 1981 00:00:00",
+      8569,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 23 1981 00:00:00",
+      407,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 23 1981 00:00:00",
+      393,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 23 1981 00:00:00",
+      6086,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 24 1981 00:00:00",
+      4865,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 24 1981 00:00:00",
+      512,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 24 1981 00:00:00",
+      433,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 24 1981 00:00:00",
+      16828,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 25 1981 00:00:00",
+      6693,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 25 1981 00:00:00",
+      1271,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 25 1981 00:00:00",
+      224,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 25 1981 00:00:00",
+      6130,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 26 1981 00:00:00",
+      5536,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 26 1981 00:00:00",
+      2349,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 26 1981 00:00:00",
+      308,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 26 1981 00:00:00",
+      39055,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 27 1981 00:00:00",
+      4322,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 27 1981 00:00:00",
+      1070,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 27 1981 00:00:00",
+      331,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 27 1981 00:00:00",
+      5938,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 27 1981 00:00:00",
+      7281,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 28 1981 00:00:00",
+      2027,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 28 1981 00:00:00",
+      2401,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 28 1981 00:00:00",
+      210,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 29 1981 00:00:00",
+      2070,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 29 1981 00:00:00",
+      1613,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 29 1981 00:00:00",
+      204,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 29 1981 00:00:00",
+      11883,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 29 1981 00:00:00",
+      4625,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 30 1981 00:00:00",
+      3391,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 30 1981 00:00:00",
+      1211,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 30 1981 00:00:00",
+      490,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 30 1981 00:00:00",
+      3787,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 30 1981 00:00:00",
+      5540,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 31 1981 00:00:00",
+      5480,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 31 1981 00:00:00",
+      984,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "August, 31 1981 00:00:00",
+      4279,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 01 1981 00:00:00",
+      6950,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 01 1981 00:00:00",
+      1290,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 02 1981 00:00:00",
+      4220,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 02 1981 00:00:00",
+      754,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 02 1981 00:00:00",
+      3283,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 03 1981 00:00:00",
+      2577,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 03 1981 00:00:00",
+      1312,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 03 1981 00:00:00",
+      5102,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 04 1981 00:00:00",
+      1891,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 04 1981 00:00:00",
+      519,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 05 1981 00:00:00",
+      1875,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 05 1981 00:00:00",
+      566,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 06 1981 00:00:00",
+      2105,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 06 1981 00:00:00",
+      536,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 06 1981 00:00:00",
+      4860,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 07 1981 00:00:00",
+      1350,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 07 1981 00:00:00",
+      6128,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 08 1981 00:00:00",
+      801,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 09 1981 00:00:00",
+      97,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 10 1981 00:00:00",
+      4334,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 10 1981 00:00:00",
+      1989,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ],
+    [
+      1981,
+      "September, 13 1981 00:00:00",
+      961,
+      450,
+      1070,
+      "Location 1070",
+      "1981_Noatak River_Chum"
+    ]
+  ]
+}

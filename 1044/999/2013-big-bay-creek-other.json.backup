@@ -1,0 +1,3541 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "June, 26 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "June, 26 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "June, 27 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "June, 27 2013 00:00:00",
+      2,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "June, 28 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "June, 28 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "June, 29 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "June, 29 2013 00:00:00",
+      4,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "June, 30 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "June, 30 2013 00:00:00",
+      5,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "June, 30 2013 00:00:00",
+      4,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 01 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 01 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 01 2013 00:00:00",
+      3,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 01 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 02 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 02 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 02 2013 00:00:00",
+      3,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 02 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 02 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 03 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 03 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 03 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 03 2013 00:00:00",
+      7,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 03 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 04 2013 00:00:00",
+      9,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 04 2013 00:00:00",
+      26,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 04 2013 00:00:00",
+      6,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 04 2013 00:00:00",
+      7,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 04 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 05 2013 00:00:00",
+      18,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 05 2013 00:00:00",
+      9,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 05 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 05 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 05 2013 00:00:00",
+      9,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 05 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      10,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      7,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      9,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      17,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      59,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      3,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 07 2013 00:00:00",
+      24,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 07 2013 00:00:00",
+      3,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 07 2013 00:00:00",
+      15,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 07 2013 00:00:00",
+      12,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 07 2013 00:00:00",
+      33,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 07 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 07 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      2,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      9,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      59,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      20,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      2,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      4,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      8,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      22,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      3,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      22,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      258,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      5,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      12,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      9,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      2,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      158,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      60,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      7,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      15,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      37,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      19,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      28,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      10,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      14,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      29,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      4,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      41,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      237,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      33,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      47,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      190,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      181,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      15,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      4,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      42,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      5,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      5,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      277,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      201,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      100,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      11,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      5,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      157,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      26,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      20,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      140,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      462,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      113,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      10,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      7,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      9,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      10,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      25,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      3,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      138,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      81,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      235,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      38,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      44,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      4,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      17,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      3,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      2,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      161,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      67,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      113,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      12,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      45,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      13,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      23,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      19,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      220,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      39,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      309,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      104,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      2,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      52,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      2,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      26,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      48,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      16,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      9,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      32,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      16,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      30,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      3,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      45,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      10,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      79,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      46,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      10,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      92,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      54,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      20,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      4,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      17,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      28,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      68,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      5,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      78,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      160,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      264,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      106,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      14,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      10,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      8,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      2,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      87,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      46,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      28,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      160,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      220,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      213,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      32,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      8,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      6,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      20,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      74,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      86,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      60,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      465,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      211,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      41,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      25,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      3,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      90,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      19,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      45,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      31,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      70,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      357,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      40,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      22,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      41,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      46,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      20,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      5,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      121,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      27,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      24,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      76,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      44,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      65,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      19,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      159,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      178,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      32,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      46,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      80,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      20,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      17,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      45,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      204,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      68,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      118,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      37,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      11,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      3,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      58,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      15,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      160,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      17,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      10,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      9,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      56,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      4,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      60,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      92,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      179,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      51,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      7,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      7,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      21,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      34,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      43,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      26,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      108,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      124,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      30,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      26,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      7,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      41,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      18,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      34,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      51,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      105,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      84,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      35,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      32,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      11,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      33,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      39,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      13,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      4,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      40,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      81,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      48,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      5,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      49,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      34,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      41,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      37,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      34,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      58,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      14,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      33,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      12,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      64,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      11,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      3,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      6,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      63,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      26,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      23,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 03 2013 00:00:00",
+      13,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 03 2013 00:00:00",
+      10,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 03 2013 00:00:00",
+      63,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 03 2013 00:00:00",
+      52,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 03 2013 00:00:00",
+      70,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 03 2013 00:00:00",
+      23,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 03 2013 00:00:00",
+      15,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 04 2013 00:00:00",
+      62,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 04 2013 00:00:00",
+      11,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 04 2013 00:00:00",
+      3,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 04 2013 00:00:00",
+      18,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 04 2013 00:00:00",
+      80,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 04 2013 00:00:00",
+      39,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 04 2013 00:00:00",
+      24,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 05 2013 00:00:00",
+      8,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 05 2013 00:00:00",
+      6,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 05 2013 00:00:00",
+      18,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 05 2013 00:00:00",
+      15,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 05 2013 00:00:00",
+      67,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 05 2013 00:00:00",
+      52,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 05 2013 00:00:00",
+      9,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 06 2013 00:00:00",
+      22,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 06 2013 00:00:00",
+      6,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 06 2013 00:00:00",
+      53,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 06 2013 00:00:00",
+      39,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 06 2013 00:00:00",
+      96,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 06 2013 00:00:00",
+      15,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 06 2013 00:00:00",
+      31,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 07 2013 00:00:00",
+      10,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 07 2013 00:00:00",
+      24,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 07 2013 00:00:00",
+      19,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 07 2013 00:00:00",
+      20,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 07 2013 00:00:00",
+      54,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 07 2013 00:00:00",
+      22,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 07 2013 00:00:00",
+      23,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 08 2013 00:00:00",
+      14,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 08 2013 00:00:00",
+      5,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 08 2013 00:00:00",
+      16,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 08 2013 00:00:00",
+      23,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 08 2013 00:00:00",
+      35,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 08 2013 00:00:00",
+      14,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 08 2013 00:00:00",
+      15,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 09 2013 00:00:00",
+      6,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 09 2013 00:00:00",
+      16,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 09 2013 00:00:00",
+      21,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 09 2013 00:00:00",
+      12,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 09 2013 00:00:00",
+      49,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 09 2013 00:00:00",
+      4,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 09 2013 00:00:00",
+      3,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 10 2013 00:00:00",
+      4,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 10 2013 00:00:00",
+      27,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 10 2013 00:00:00",
+      14,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 10 2013 00:00:00",
+      6,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 10 2013 00:00:00",
+      15,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 10 2013 00:00:00",
+      8,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 11 2013 00:00:00",
+      11,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 11 2013 00:00:00",
+      20,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 11 2013 00:00:00",
+      25,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 11 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 11 2013 00:00:00",
+      15,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 11 2013 00:00:00",
+      6,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 12 2013 00:00:00",
+      5,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 12 2013 00:00:00",
+      25,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 12 2013 00:00:00",
+      16,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 12 2013 00:00:00",
+      6,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 12 2013 00:00:00",
+      6,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 13 2013 00:00:00",
+      2,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 13 2013 00:00:00",
+      5,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 13 2013 00:00:00",
+      30,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 13 2013 00:00:00",
+      7,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 13 2013 00:00:00",
+      22,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 14 2013 00:00:00",
+      5,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 14 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 14 2013 00:00:00",
+      36,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 14 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 14 2013 00:00:00",
+      15,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 15 2013 00:00:00",
+      4,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 15 2013 00:00:00",
+      4,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 15 2013 00:00:00",
+      3,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 15 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 15 2013 00:00:00",
+      8,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 16 2013 00:00:00",
+      7,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 16 2013 00:00:00",
+      5,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 16 2013 00:00:00",
+      15,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 16 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 16 2013 00:00:00",
+      10,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 17 2013 00:00:00",
+      6,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 17 2013 00:00:00",
+      10,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 17 2013 00:00:00",
+      11,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 17 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 17 2013 00:00:00",
+      6,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 18 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 18 2013 00:00:00",
+      6,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 18 2013 00:00:00",
+      17,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 18 2013 00:00:00",
+      2,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 18 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 19 2013 00:00:00",
+      3,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 19 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 19 2013 00:00:00",
+      15,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 19 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 20 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 20 2013 00:00:00",
+      7,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 20 2013 00:00:00",
+      2,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 21 2013 00:00:00",
+      0,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 21 2013 00:00:00",
+      17,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 22 2013 00:00:00",
+      16,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 22 2013 00:00:00",
+      9,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 23 2013 00:00:00",
+      4,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 23 2013 00:00:00",
+      11,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 24 2013 00:00:00",
+      4,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 24 2013 00:00:00",
+      3,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 25 2013 00:00:00",
+      4,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ],
+    [
+      2013,
+      "August, 26 2013 00:00:00",
+      1,
+      450,
+      1044,
+      "Location 1044",
+      "2013_Solomon River_Chum"
+    ]
+  ]
+}

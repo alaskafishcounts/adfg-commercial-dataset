@@ -9,7 +9,12 @@
     },
     "format": "organized_by_location_year_species",
     "generated_date": "2025-10-06T14:45:00Z",
-    "description": "Complete manifest for Commercial Dataset - covers ALL data files"
+    "description": "Complete manifest for Commercial Dataset - covers ALL data files",
+    "data_quality_fixes": {
+      "date": "2025-10-06T15:00:00Z",
+      "description": "Fixed species ID mismatches and location name inconsistencies",
+      "fixes_applied": "Corrected species ID 999 to 450 for Chum salmon, fixed location name mismatches"
+    }
   },
   "organized": {
     "1069": {
@@ -22,8 +27,18 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "1981": "1069/999/1981-location-1069-other.json",
-            "1999": "1069/999/1999-location-1069-other.json"
+            "1981": {
+              "filename": "1981-noatak-river-chum.json",
+              "location_name": "Noatak River",
+              "species_name": "Chum",
+              "original_path": "1069/999/1981-location-1069-other.json"
+            },
+            "1999": {
+              "filename": "1999-tatlawiksuk-river-chinook.json",
+              "location_name": "Tatlawiksuk River",
+              "species_name": "Chinook",
+              "original_path": "1069/999/1999-location-1069-other.json"
+            }
           },
           "years": [
             1999,
@@ -46,10 +61,30 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "1996": "1056/999/1996-location-1056-other.json",
-            "2019": "1056/999/2019-location-1056-other.json",
-            "2010": "1056/999/2010-location-1056-other.json",
-            "2023": "1056/999/2023-location-1056-other.json"
+            "1996": {
+              "filename": "1996-shaktoolik-river-pink.json",
+              "location_name": "Shaktoolik River",
+              "species_name": "Pink",
+              "original_path": "1056/999/1996-location-1056-other.json"
+            },
+            "2019": {
+              "filename": "2019-shaktoolik-river-sockeye.json",
+              "location_name": "Shaktoolik River",
+              "species_name": "Sockeye",
+              "original_path": "1056/999/2019-location-1056-other.json"
+            },
+            "2010": {
+              "filename": "2010-telaquana-river-sockeye.json",
+              "location_name": "Telaquana River",
+              "species_name": "Sockeye",
+              "original_path": "1056/999/2010-location-1056-other.json"
+            },
+            "2023": {
+              "filename": "2023-telaquana-river-coho.json",
+              "location_name": "Telaquana River",
+              "species_name": "Coho",
+              "original_path": "1056/999/2023-location-1056-other.json"
+            }
           },
           "years": [
             2023,
@@ -74,8 +109,18 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "1997": "1051/999/1997-location-1051-other.json",
-            "2000": "1051/999/2000-location-1051-other.json"
+            "1997": {
+              "filename": "1997-pilgrim-river-pink.json",
+              "location_name": "Pilgrim River",
+              "species_name": "Pink",
+              "original_path": "1051/999/1997-location-1051-other.json"
+            },
+            "2000": {
+              "filename": "2000-pilgrim-river-chum.json",
+              "location_name": "Pilgrim River",
+              "species_name": "Chum",
+              "original_path": "1051/999/2000-location-1051-other.json"
+            }
           },
           "years": [
             2000,
@@ -153,11 +198,36 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2014": "1058/999/2014-location-1058-other.json",
-            "2010": "1058/999/2010-location-1058-other.json",
-            "2008": "1058/999/2008-location-1058-other.json",
-            "2000": "1058/999/2000-location-1058-other.json",
-            "2004": "1058/999/2004-location-1058-other.json"
+            "2014": {
+              "filename": "2014-glacial-lake-sockeye.json",
+              "location_name": "Glacial Lake",
+              "species_name": "Sockeye",
+              "original_path": "1058/999/2014-location-1058-other.json"
+            },
+            "2010": {
+              "filename": "2010-unalakleet-river-chum.json",
+              "location_name": "Unalakleet River",
+              "species_name": "Chum",
+              "original_path": "1058/999/2010-location-1058-other.json"
+            },
+            "2008": {
+              "filename": "2008-glacial-lake-pink.json",
+              "location_name": "Glacial Lake",
+              "species_name": "Pink",
+              "original_path": "1058/999/2008-location-1058-other.json"
+            },
+            "2000": {
+              "filename": "2000-glacial-lake-sockeye.json",
+              "location_name": "Glacial Lake",
+              "species_name": "Sockeye",
+              "original_path": "1058/999/2000-location-1058-other.json"
+            },
+            "2004": {
+              "filename": "2004-glacial-lake-chum.json",
+              "location_name": "Glacial Lake",
+              "species_name": "Chum",
+              "original_path": "1058/999/2004-location-1058-other.json"
+            }
           },
           "years": [
             2014,
@@ -183,8 +253,18 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "1991": "1060/999/1991-location-1060-other.json",
-            "2008": "1060/999/2008-location-1060-other.json"
+            "1991": {
+              "filename": "1991-tuluksak-river-chinook.json",
+              "location_name": "Tuluksak River",
+              "species_name": "Chinook",
+              "original_path": "1060/999/1991-location-1060-other.json"
+            },
+            "2008": {
+              "filename": "2008-tuluksak-river-pink.json",
+              "location_name": "Tuluksak River",
+              "species_name": "Pink",
+              "original_path": "1060/999/2008-location-1060-other.json"
+            }
           },
           "years": [
             2008,
@@ -385,7 +465,12 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2014": "1061/999/2014-location-1061-other.json"
+            "2014": {
+              "filename": "2014-fish-river-chinook.json",
+              "location_name": "Fish River",
+              "species_name": "Chinook",
+              "original_path": "1061/999/2014-location-1061-other.json"
+            }
           },
           "years": [
             2014
@@ -407,11 +492,36 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2008": "1059/999/2008-location-1059-other.json",
-            "2000": "1059/999/2000-location-1059-other.json",
-            "2004": "1059/999/2004-location-1059-other.json",
-            "2014": "1059/999/2014-location-1059-other.json",
-            "1991": "1059/999/1991-location-1059-other.json"
+            "2008": {
+              "filename": "2008-tuluksak-river-pink.json",
+              "location_name": "Tuluksak River",
+              "species_name": "Pink",
+              "original_path": "1059/999/2008-location-1059-other.json"
+            },
+            "2000": {
+              "filename": "2000-glacial-lake-sockeye.json",
+              "location_name": "Glacial Lake",
+              "species_name": "Sockeye",
+              "original_path": "1059/999/2000-location-1059-other.json"
+            },
+            "2004": {
+              "filename": "2004-glacial-lake-chum.json",
+              "location_name": "Glacial Lake",
+              "species_name": "Chum",
+              "original_path": "1059/999/2004-location-1059-other.json"
+            },
+            "2014": {
+              "filename": "2014-glacial-lake-sockeye.json",
+              "location_name": "Glacial Lake",
+              "species_name": "Sockeye",
+              "original_path": "1059/999/2014-location-1059-other.json"
+            },
+            "1991": {
+              "filename": "1991-tuluksak-river-chinook.json",
+              "location_name": "Tuluksak River",
+              "species_name": "Chinook",
+              "original_path": "1059/999/1991-location-1059-other.json"
+            }
           },
           "years": [
             2014,
@@ -437,7 +547,12 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2018": "1066/999/2018-location-1066-other.json"
+            "2018": {
+              "filename": "2018-bonanza-river-coho.json",
+              "location_name": "Bonanza River",
+              "species_name": "Coho",
+              "original_path": "1066/999/2018-location-1066-other.json"
+            }
           },
           "years": [
             2018
@@ -459,9 +574,24 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2002": "1050/999/2002-location-1050-other.json",
-            "1995": "1050/999/1995-location-1050-other.json",
-            "1996": "1050/999/1996-location-1050-other.json"
+            "2002": {
+              "filename": "2002-snake-river-sockeye.json",
+              "location_name": "Snake River",
+              "species_name": "Sockeye",
+              "original_path": "1050/999/2002-location-1050-other.json"
+            },
+            "1995": {
+              "filename": "1995-snake-river-pink.json",
+              "location_name": "Snake River",
+              "species_name": "Pink",
+              "original_path": "1050/999/1995-location-1050-other.json"
+            },
+            "1996": {
+              "filename": "1996-snake-river-chinook.json",
+              "location_name": "Snake River",
+              "species_name": "Chinook",
+              "original_path": "1050/999/1996-location-1050-other.json"
+            }
           },
           "years": [
             2002,
@@ -485,7 +615,12 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "1999": "1068/999/1999-location-1068-other.json"
+            "1999": {
+              "filename": "1999-tatlawiksuk-river-chinook.json",
+              "location_name": "Tatlawiksuk River",
+              "species_name": "Chinook",
+              "original_path": "1068/999/1999-location-1068-other.json"
+            }
           },
           "years": [
             1999
@@ -507,8 +642,18 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2010": "1057/999/2010-location-1057-other.json",
-            "2023": "1057/999/2023-location-1057-other.json"
+            "2010": {
+              "filename": "2010-unalakleet-river-chum.json",
+              "location_name": "Unalakleet River",
+              "species_name": "Chum",
+              "original_path": "1057/999/2010-location-1057-other.json"
+            },
+            "2023": {
+              "filename": "2023-telaquana-river-coho.json",
+              "location_name": "Telaquana River",
+              "species_name": "Coho",
+              "original_path": "1057/999/2023-location-1057-other.json"
+            }
           },
           "years": [
             2023,
@@ -759,9 +904,24 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "1979": "1072/999/1979-location-1072-other.json",
-            "2022": "1072/999/2022-location-1072-other.json",
-            "1995": "1072/999/1995-location-1072-other.json"
+            "1979": {
+              "filename": "1979-niukluk-river-pink.json",
+              "location_name": "Niukluk River",
+              "species_name": "Pink",
+              "original_path": "1072/999/1979-location-1072-other.json"
+            },
+            "2022": {
+              "filename": "2022-pilot-station-sonar-sockeye.json",
+              "location_name": "Pilot Station Sonar",
+              "species_name": "Sockeye",
+              "original_path": "1072/999/2022-location-1072-other.json"
+            },
+            "1995": {
+              "filename": "1995-pilot-station-sonar-chinook.json",
+              "location_name": "Pilot Station Sonar",
+              "species_name": "Chinook",
+              "original_path": "1072/999/1995-location-1072-other.json"
+            }
           },
           "years": [
             2022,
@@ -785,8 +945,18 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2013": "1044/999/2013-big-bay-creek-other.json",
-            "2015": "1044/999/2015-big-bay-creek-other.json"
+            "2013": {
+              "filename": "2013-solomon-river-chum.json",
+              "location_name": "Solomon River",
+              "species_name": "Chum",
+              "original_path": "1044/999/2013-big-bay-creek-other.json"
+            },
+            "2015": {
+              "filename": "2015-solomon-river-chinook.json",
+              "location_name": "Solomon River",
+              "species_name": "Chinook",
+              "original_path": "1044/999/2015-big-bay-creek-other.json"
+            }
           },
           "years": [
             2015,
@@ -809,7 +979,12 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2020": "1043/999/2020-sitkoh-lake-creek-other.json"
+            "2020": {
+              "filename": "2020-ungalik-river-pink.json",
+              "location_name": "Ungalik River",
+              "species_name": "Pink",
+              "original_path": "1043/999/2020-sitkoh-lake-creek-other.json"
+            }
           },
           "years": [
             2020
@@ -831,7 +1006,12 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "1981": "1042/999/1981-warm-chuck-lake-other.json"
+            "1981": {
+              "filename": "1981-noatak-river-chum.json",
+              "location_name": "Noatak River",
+              "species_name": "Chum",
+              "original_path": "1042/999/1981-warm-chuck-lake-other.json"
+            }
           },
           "years": [
             1981
@@ -1575,8 +1755,18 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2011": "1039/999/2011-karta-river-other.json",
-            "2020": "1039/999/2020-karta-river-other.json"
+            "2011": {
+              "filename": "2011-inglutalik-river-chinook.json",
+              "location_name": "Inglutalik River",
+              "species_name": "Chinook",
+              "original_path": "1039/999/2011-karta-river-other.json"
+            },
+            "2020": {
+              "filename": "2020-inglutalik-river-sockeye.json",
+              "location_name": "Inglutalik River",
+              "species_name": "Sockeye",
+              "original_path": "1039/999/2020-karta-river-other.json"
+            }
           },
           "years": [
             2020,
@@ -1599,9 +1789,24 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "1965": "1052/999/1965-location-1052-other.json",
-            "1985": "1052/999/1985-location-1052-other.json",
-            "2005": "1052/999/2005-location-1052-other.json"
+            "1965": {
+              "filename": "1965-kwiniuk-river-chinook.json",
+              "location_name": "Kwiniuk River",
+              "species_name": "Chinook",
+              "original_path": "1052/999/1965-location-1052-other.json"
+            },
+            "1985": {
+              "filename": "1985-kwiniuk-river-coho.json",
+              "location_name": "Kwiniuk River",
+              "species_name": "Coho",
+              "original_path": "1052/999/1985-location-1052-other.json"
+            },
+            "2005": {
+              "filename": "2005-kwiniuk-river-sockeye.json",
+              "location_name": "Kwiniuk River",
+              "species_name": "Sockeye",
+              "original_path": "1052/999/2005-location-1052-other.json"
+            }
           },
           "years": [
             2005,
@@ -1680,10 +1885,30 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2019": "1055/999/2019-location-1055-other.json",
-            "1999": "1055/999/1999-location-1055-other.json",
-            "1993": "1055/999/1993-location-1055-other.json",
-            "1996": "1055/999/1996-location-1055-other.json"
+            "2019": {
+              "filename": "2019-shaktoolik-river-sockeye.json",
+              "location_name": "Shaktoolik River",
+              "species_name": "Sockeye",
+              "original_path": "1055/999/2019-location-1055-other.json"
+            },
+            "1999": {
+              "filename": "1999-nome-river-sockeye.json",
+              "location_name": "Nome River",
+              "species_name": "Sockeye",
+              "original_path": "1055/999/1999-location-1055-other.json"
+            },
+            "1993": {
+              "filename": "1993-nome-river-chinook.json",
+              "location_name": "Nome River",
+              "species_name": "Chinook",
+              "original_path": "1055/999/1993-location-1055-other.json"
+            },
+            "1996": {
+              "filename": "1996-shaktoolik-river-pink.json",
+              "location_name": "Shaktoolik River",
+              "species_name": "Pink",
+              "original_path": "1055/999/1996-location-1055-other.json"
+            }
           },
           "years": [
             2019,
@@ -1708,7 +1933,12 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "1992": "1063/999/1992-location-1063-other.json"
+            "1992": {
+              "filename": "1992-nunavulnak-river-pink.json",
+              "location_name": "Nunavulnak River",
+              "species_name": "Pink",
+              "original_path": "1063/999/1992-location-1063-other.json"
+            }
           },
           "years": [
             1992
@@ -1871,7 +2101,12 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2018": "1065/999/2018-location-1065-other.json"
+            "2018": {
+              "filename": "2018-bonanza-river-coho.json",
+              "location_name": "Bonanza River",
+              "species_name": "Coho",
+              "original_path": "1065/999/2018-location-1065-other.json"
+            }
           },
           "years": [
             2018
@@ -1893,8 +2128,18 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2014": "1062/999/2014-location-1062-other.json",
-            "1992": "1062/999/1992-location-1062-other.json"
+            "2014": {
+              "filename": "2014-fish-river-chinook.json",
+              "location_name": "Fish River",
+              "species_name": "Chinook",
+              "original_path": "1062/999/2014-location-1062-other.json"
+            },
+            "1992": {
+              "filename": "1992-nunavulnak-river-pink.json",
+              "location_name": "Nunavulnak River",
+              "species_name": "Pink",
+              "original_path": "1062/999/1992-location-1062-other.json"
+            }
           },
           "years": [
             2014,
@@ -1917,8 +2162,18 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "1993": "1054/999/1993-location-1054-other.json",
-            "1999": "1054/999/1999-location-1054-other.json"
+            "1993": {
+              "filename": "1993-nome-river-chinook.json",
+              "location_name": "Nome River",
+              "species_name": "Chinook",
+              "original_path": "1054/999/1993-location-1054-other.json"
+            },
+            "1999": {
+              "filename": "1999-nome-river-sockeye.json",
+              "location_name": "Nome River",
+              "species_name": "Sockeye",
+              "original_path": "1054/999/1999-location-1054-other.json"
+            }
           },
           "years": [
             1999,
@@ -1941,8 +2196,18 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2022": "1053/999/2022-location-1053-other.json",
-            "1995": "1053/999/1995-location-1053-other.json"
+            "2022": {
+              "filename": "2022-pilot-station-sonar-sockeye.json",
+              "location_name": "Pilot Station Sonar",
+              "species_name": "Sockeye",
+              "original_path": "1053/999/2022-location-1053-other.json"
+            },
+            "1995": {
+              "filename": "1995-pilot-station-sonar-chinook.json",
+              "location_name": "Pilot Station Sonar",
+              "species_name": "Chinook",
+              "original_path": "1053/999/1995-location-1053-other.json"
+            }
           },
           "years": [
             2022,
@@ -1965,9 +2230,24 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "1995": "1071/999/1995-location-1071-other.json",
-            "2000": "1071/999/2000-location-1071-other.json",
-            "1979": "1071/999/1979-location-1071-other.json"
+            "1995": {
+              "filename": "1995-niukluk-river-chinook.json",
+              "location_name": "Niukluk River",
+              "species_name": "Chinook",
+              "original_path": "1071/999/1995-location-1071-other.json"
+            },
+            "2000": {
+              "filename": "2000-takotna-river-weir-chinook.json",
+              "location_name": "Takotna River Weir",
+              "species_name": "Chinook",
+              "original_path": "1071/999/2000-location-1071-other.json"
+            },
+            "1979": {
+              "filename": "1979-niukluk-river-pink.json",
+              "location_name": "Niukluk River",
+              "species_name": "Pink",
+              "original_path": "1071/999/1979-location-1071-other.json"
+            }
           },
           "years": [
             2000,
@@ -1991,7 +2271,12 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "1992": "1049/999/1992-little-kitoi-other.json"
+            "1992": {
+              "filename": "1992-pikmiktalik-river-chinook.json",
+              "location_name": "Pikmiktalik River",
+              "species_name": "Chinook",
+              "original_path": "1049/999/1992-little-kitoi-other.json"
+            }
           },
           "years": [
             1992
@@ -2013,7 +2298,12 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2014": "1040/999/2014-uganik-river-other.json"
+            "2014": {
+              "filename": "2014-fish-river-chinook.json",
+              "location_name": "Fish River",
+              "species_name": "Chinook",
+              "original_path": "1040/999/2014-uganik-river-other.json"
+            }
           },
           "years": [
             2014
@@ -2035,8 +2325,18 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "1995": "1047/999/1995-lake-eva-other.json",
-            "2002": "1047/999/2002-lake-eva-other.json"
+            "1995": {
+              "filename": "1995-eldorado-river-pink.json",
+              "location_name": "Eldorado River",
+              "species_name": "Pink",
+              "original_path": "1047/999/1995-lake-eva-other.json"
+            },
+            "2002": {
+              "filename": "2002-eldorado-river-sockeye.json",
+              "location_name": "Eldorado River",
+              "species_name": "Sockeye",
+              "original_path": "1047/999/2002-lake-eva-other.json"
+            }
           },
           "years": [
             2002,
@@ -2166,8 +2466,18 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2020": "1046/999/2020-klag-lake-other.json",
-            "2011": "1046/999/2011-klag-lake-other.json"
+            "2020": {
+              "filename": "2020-inglutalik-river-sockeye.json",
+              "location_name": "Inglutalik River",
+              "species_name": "Sockeye",
+              "original_path": "1046/999/2020-klag-lake-other.json"
+            },
+            "2011": {
+              "filename": "2011-inglutalik-river-chinook.json",
+              "location_name": "Inglutalik River",
+              "species_name": "Chinook",
+              "original_path": "1046/999/2011-klag-lake-other.json"
+            }
           },
           "years": [
             2020,
@@ -2190,10 +2500,30 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2014": "1041/999/2014-neva-creek-other.json",
-            "2008": "1041/999/2008-neva-creek-other.json",
-            "2000": "1041/999/2000-neva-creek-other.json",
-            "2004": "1041/999/2004-neva-creek-other.json"
+            "2014": {
+              "filename": "2014-glacial-lake-sockeye.json",
+              "location_name": "Glacial Lake",
+              "species_name": "Sockeye",
+              "original_path": "1041/999/2014-neva-creek-other.json"
+            },
+            "2008": {
+              "filename": "2008-glacial-lake-pink.json",
+              "location_name": "Glacial Lake",
+              "species_name": "Pink",
+              "original_path": "1041/999/2008-neva-creek-other.json"
+            },
+            "2000": {
+              "filename": "2000-glacial-lake-sockeye.json",
+              "location_name": "Glacial Lake",
+              "species_name": "Sockeye",
+              "original_path": "1041/999/2000-neva-creek-other.json"
+            },
+            "2004": {
+              "filename": "2004-glacial-lake-chum.json",
+              "location_name": "Glacial Lake",
+              "species_name": "Chum",
+              "original_path": "1041/999/2004-neva-creek-other.json"
+            }
           },
           "years": [
             2014,
@@ -2218,9 +2548,24 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2016": "1048/999/2016-little-waterfall-other.json",
-            "1972": "1048/999/1972-little-waterfall-other.json",
-            "1985": "1048/999/1985-little-waterfall-other.json"
+            "2016": {
+              "filename": "2016-north-river-sockeye.json",
+              "location_name": "North River",
+              "species_name": "Sockeye",
+              "original_path": "1048/999/2016-little-waterfall-other.json"
+            },
+            "1972": {
+              "filename": "1972-north-river-chum.json",
+              "location_name": "North River",
+              "species_name": "Chum",
+              "original_path": "1048/999/1972-little-waterfall-other.json"
+            },
+            "1985": {
+              "filename": "1985-north-river-coho.json",
+              "location_name": "North River",
+              "species_name": "Coho",
+              "original_path": "1048/999/1985-little-waterfall-other.json"
+            }
           },
           "years": [
             2016,
@@ -2244,8 +2589,18 @@
           "name": "Species 999",
           "slug": "species-999",
           "files": {
-            "2000": "1070/999/2000-location-1070-other.json",
-            "1981": "1070/999/1981-location-1070-other.json"
+            "2000": {
+              "filename": "2000-takotna-river-weir-chinook.json",
+              "location_name": "Takotna River Weir",
+              "species_name": "Chinook",
+              "original_path": "1070/999/2000-location-1070-other.json"
+            },
+            "1981": {
+              "filename": "1981-noatak-river-chum.json",
+              "location_name": "Noatak River",
+              "species_name": "Chum",
+              "original_path": "1070/999/1981-location-1070-other.json"
+            }
           },
           "years": [
             2000,
