@@ -1,1337 +1,3806 @@
 {
   "version": "3.0.0",
-  "created": "2025-09-30T16:56:07.261206",
-  "source": "ADFG Commercial Fisheries Dataset",
-  "description": "Commercial fish count data from ADFG converted to AFCA v1.0.1 format",
-  "total_files": 1195,
-  "total_records": 68862,
-  "locations": {
-    "5002": {
-      "name": "George River Weir",
-      "type": "commercial",
-      "prefix": "ADFGC"
-    },
-    "6003": {
-      "name": "McLees Lake Weir",
-      "type": "commercial",
-      "prefix": "ADFGC"
-    },
-    "5008": {
-      "name": "North River Weir",
-      "type": "commercial",
-      "prefix": "ADFGC"
-    },
-    "6006": {
-      "name": "Sandy River Weir",
-      "type": "commercial",
-      "prefix": "ADFGC"
-    },
-    "5010": {
-      "name": "Yukon River Sonar",
-      "type": "commercial",
-      "prefix": "ADFGC"
-    },
-    "5007": {
-      "name": "Norton River Daily Escapement",
-      "type": "commercial",
-      "prefix": "ADFGC"
-    },
-    "6005": {
-      "name": "Orzinski Lake Weir",
-      "type": "commercial",
-      "prefix": "ADFGC"
-    },
-    "6002": {
-      "name": "Ilnik River Weir",
-      "type": "commercial",
-      "prefix": "ADFGC"
-    },
-    "5009": {
-      "name": "Nunakogak River Weir",
-      "type": "commercial",
-      "prefix": "ADFGC"
-    },
-    "unknown": {
-      "name": "unknown",
-      "type": "commercial",
-      "prefix": "ADFGC"
-    },
-    "6004": {
-      "name": "Nelson River Weir",
-      "type": "commercial",
-      "prefix": "ADFGC"
-    },
-    "6001": {
-      "name": "Bear River Weir",
-      "type": "commercial",
-      "prefix": "ADFGC"
-    }
+  "metadata": {
+    "generated": "2025-10-02T00:00:00Z",
+    "generation_timestamp": "2025-10-06T17:57:37Z",
+    "total_files": 502,
+    "format": "organized_by_location_year_species",
+    "repository": "alaskafishcounts/adfg-commercial-dataset",
+    "description": "Alaska Fish Count App",
+    "source": "ADF&G Fish Counts + Other Verified Gov Resources for Archival",
+    "years_covered": 0,
+    "locations_with_data": 7,
+    "species_covered": 0
   },
-  "species": {
-    "unknown": {
-      "name": "unknown",
-      "category": "salmon"
+  "index": {
+    "locations": {
+      "1001": "andreafsky-river-east-fork-escapement",
+      "1026": "george",
+      "1051": "shaktoolik",
+      "1052": "inglutalik",
+      "1101": "egegik",
+      "1201": "pilgrim",
+      "1501": "eldorado"
     },
-    "420": {
-      "name": "Sockeye Salmon",
-      "category": "salmon"
+    "species": {
+      "410": "chinook",
+      "420": "sockeye",
+      "430": "coho",
+      "440": "pink",
+      "450": "chum",
+      "999": "other"
     },
-    "410": {
-      "name": "Chinook Salmon",
-      "category": "salmon"
-    }
-  },
-  "years": {},
-  "statistics": {
-    "locations_count": 12,
-    "species_count": 3,
-    "years_covered": [
-      "1965",
-      "1966",
-      "1967",
-      "1968",
-      "1969",
-      "1970",
-      "1971",
-      "1972",
-      "1973",
-      "1974",
-      "1975",
-      "1976",
-      "1977",
-      "1978",
-      "1979",
-      "1980",
-      "1981",
-      "1982",
-      "1983",
-      "1984",
-      "1985",
-      "1986",
-      "1987",
-      "1988",
-      "1989",
-      "1990",
-      "1991",
-      "1992",
-      "1993",
-      "1994",
-      "1995",
-      "1996",
-      "1997",
-      "1998",
-      "1999",
-      "2000",
-      "2001",
-      "2002",
-      "2003",
-      "2004",
-      "2005",
-      "2006",
-      "2007",
-      "2008",
-      "2009",
-      "2010",
-      "2011",
-      "2012",
-      "2013",
-      "2014",
-      "2015",
-      "2016",
-      "2017",
-      "2018",
-      "2019",
-      "2020",
-      "2021",
-      "2022",
-      "2023",
-      "2024",
-      "2025"
+    "years": [
+      1965,
+      1972,
+      1979,
+      1981,
+      1982,
+      1983,
+      1984,
+      1985,
+      1986,
+      1987,
+      1988,
+      1991,
+      1992,
+      1993,
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
     ],
-    "total_data_points": 68862
+    "data_size_mb": 0
   },
-  "organized": {
-    "6003": {
-      "name": "McLees Lake Weir",
-      "slug": "mclees-lake-weir",
-      "type": "commercial",
-      "prefix": "ADFGC",
-      "total_files": 15,
+  "framework": "AFCA Location Codes Framework",
+  "management_areas": {
+    "1000-1099": "Arctic-Yukon-Kuskokwim Region",
+    "1100-1199": "Bristol Bay Area",
+    "1200-1299": "Cook Inlet Area",
+    "1300-1399": "Westward Minor Areas",
+    "1400-1499": "Kodiak Island Area",
+    "1500-1599": "Prince William Sound & Copper River",
+    "1600-1699": "Southeastern Alaska Area",
+    "1700-1999": "Reserved for Expansion"
+  },
+  "locations": {
+    "1001": {
+      "name": "Andreafsky River East Fork Escapement",
+      "slug": "andreafsky-river-east-fork-escapement",
+      "region": "5000-andreafsky-river-east-fork-escapement",
       "species": {
-        "2008": {
-          "name": "Species 2008",
-          "total_files": 1,
-          "files": {
-            "420": "6003-mclees-lake-weir/420-sockeye/2008_mclees-lake-weir-annual-summary.json"
-          }
+        "420": {
+          "name": "sockeye",
+          "files": [
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river-east-fork-escapement-420-sockeye.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river--east-fork--escapement-420-sockeye.json"
+            }
+          ]
         },
-        "2009": {
-          "name": "Species 2009",
-          "total_files": 1,
-          "files": {
-            "420": "6003-mclees-lake-weir/420-sockeye/2009_mclees-lake-weir-annual-summary.json"
-          }
+        "440": {
+          "name": "pink",
+          "files": [
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river-east-fork-escapement-440-pink.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river--east-fork--escapement-440-pink.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river--east-fork--escapement-440-pink.json"
+            }
+          ]
         },
-        "2004": {
-          "name": "Species 2004",
-          "total_files": 1,
-          "files": {
-            "420": "6003-mclees-lake-weir/420-sockeye/2004_mclees-lake-weir-annual-summary.json"
-          }
+        "430": {
+          "name": "coho",
+          "files": [
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1981,
+              "filename": "1981-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1983,
+              "filename": "1983-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1985,
+              "filename": "1985-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1982,
+              "filename": "1982-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1985,
+              "filename": "1985-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1984,
+              "filename": "1984-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1982,
+              "filename": "1982-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1984,
+              "filename": "1984-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1981,
+              "filename": "1981-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1983,
+              "filename": "1983-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1981,
+              "filename": "1981-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1983,
+              "filename": "1983-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1985,
+              "filename": "1985-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1982,
+              "filename": "1982-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1985,
+              "filename": "1985-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1984,
+              "filename": "1984-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1982,
+              "filename": "1982-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1984,
+              "filename": "1984-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1981,
+              "filename": "1981-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1983,
+              "filename": "1983-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river--east-fork--escapement-430-coho.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river-east-fork-escapement-430-coho.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river--east-fork--escapement-430-coho.json"
+            }
+          ]
         },
-        "2013": {
-          "name": "Species 2013",
-          "total_files": 1,
-          "files": {
-            "420": "6003-mclees-lake-weir/420-sockeye/2013_mclees-lake-weir-annual-summary.json"
-          }
+        "410": {
+          "name": "chinook",
+          "files": [
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river--east-fork--escapement-410-chinook.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river-east-fork-escapement-410-chinook.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river-east-fork-escapement-410-chinook.json"
+            }
+          ]
         },
-        "2003": {
-          "name": "Species 2003",
-          "total_files": 1,
-          "files": {
-            "420": "6003-mclees-lake-weir/420-sockeye/2003_mclees-lake-weir-annual-summary.json"
-          }
-        },
-        "2014": {
-          "name": "Species 2014",
-          "total_files": 2,
-          "files": {
-            "420": "6003-mclees-lake-weir/420-sockeye/2014_mclees-lake-weir-annual-summary.json"
-          }
-        },
-        "2005": {
-          "name": "Species 2005",
-          "total_files": 1,
-          "files": {
-            "420": "6003-mclees-lake-weir/420-sockeye/2005_mclees-lake-weir-annual-summary.json"
-          }
-        },
-        "2012": {
-          "name": "Species 2012",
-          "total_files": 1,
-          "files": {
-            "420": "6003-mclees-lake-weir/420-sockeye/2012_mclees-lake-weir-annual-summary.json"
-          }
-        },
-        "2002": {
-          "name": "Species 2002",
-          "total_files": 1,
-          "files": {
-            "420": "6003-mclees-lake-weir/420-sockeye/2002_mclees-lake-weir-annual-summary.json"
-          }
-        },
-        "2007": {
-          "name": "Species 2007",
-          "total_files": 1,
-          "files": {
-            "420": "6003-mclees-lake-weir/420-sockeye/2007_mclees-lake-weir-annual-summary.json"
-          }
-        },
-        "2010": {
-          "name": "Species 2010",
-          "total_files": 1,
-          "files": {
-            "420": "6003-mclees-lake-weir/420-sockeye/2010_mclees-lake-weir-annual-summary.json"
-          }
-        },
-        "2001": {
-          "name": "Species 2001",
-          "total_files": 1,
-          "files": {
-            "420": "6003-mclees-lake-weir/420-sockeye/2001_mclees-lake-weir-annual-summary.json"
-          }
-        },
-        "2006": {
-          "name": "Species 2006",
-          "total_files": 1,
-          "files": {
-            "420": "6003-mclees-lake-weir/420-sockeye/2006_mclees-lake-weir-annual-summary.json"
-          }
-        },
-        "2011": {
-          "name": "Species 2011",
-          "total_files": 1,
-          "files": {
-            "420": "6003-mclees-lake-weir/420-sockeye/2011_mclees-lake-weir-annual-summary.json"
-          }
+        "450": {
+          "name": "chum",
+          "files": [
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2021,
+              "filename": "2021-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 1981,
+              "filename": "1981-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 1983,
+              "filename": "1983-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 1985,
+              "filename": "1985-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 1987,
+              "filename": "1987-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2013,
+              "filename": "2013-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2003,
+              "filename": "2003-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 1982,
+              "filename": "1982-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2001,
+              "filename": "2001-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 1998,
+              "filename": "1998-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 1985,
+              "filename": "1985-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 1988,
+              "filename": "1988-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2014,
+              "filename": "2014-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2006,
+              "filename": "2006-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 1984,
+              "filename": "1984-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2016,
+              "filename": "2016-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 1982,
+              "filename": "1982-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2005,
+              "filename": "2005-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2008,
+              "filename": "2008-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2004,
+              "filename": "2004-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 1984,
+              "filename": "1984-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2010,
+              "filename": "2010-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2024,
+              "filename": "2024-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 1981,
+              "filename": "1981-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2018,
+              "filename": "2018-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2015,
+              "filename": "2015-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 1994,
+              "filename": "1994-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2009,
+              "filename": "2009-andreafsky-river--east-fork--escapement-450-chum.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 1983,
+              "filename": "1983-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2017,
+              "filename": "2017-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2007,
+              "filename": "2007-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 1986,
+              "filename": "1986-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 2012,
+              "filename": "2012-andreafsky-river-east-fork-escapement-450-chum.json"
+            },
+            {
+              "year": 1999,
+              "filename": "1999-andreafsky-river--east-fork--escapement-450-chum.json"
+            }
+          ]
         }
       }
     },
-    "5002": {
-      "name": "George River Weir",
-      "slug": "george-river-weir",
-      "type": "commercial",
-      "prefix": "ADFGC",
-      "total_files": 66,
+    "1026": {
+      "name": "George",
+      "slug": "george",
+      "region": "5000-george",
       "species": {
-        "2002": {
-          "name": "Species 2002",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2002_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "2021": {
-          "name": "Species 2021",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2021_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "2000": {
-          "name": "Species 2000",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2000_Location-ADFGC-1009_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2017": {
-          "name": "Species 2017",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2017_Location-ADFGC-1009_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2019": {
-          "name": "Species 2019",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2019_Location-ADFGC-1009_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2025": {
-          "name": "Species 2025",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2025_Location-ADFGC-1009_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2024": {
-          "name": "Species 2024",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2024_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "2007": {
-          "name": "Species 2007",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2007_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "2015": {
-          "name": "Species 2015",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2015_Location-ADFGC-1009_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "1993": {
-          "name": "Species 1993",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/1993_Location-ADFGC-1009_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2010": {
-          "name": "Species 2010",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2010_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "2008": {
-          "name": "Species 2008",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2008_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "1995": {
-          "name": "Species 1995",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/1995_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "2018": {
-          "name": "Species 2018",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2018_Location-ADFGC-1009_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2016": {
-          "name": "Species 2016",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2016_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "2001": {
-          "name": "Species 2001",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2001_Location-ADFGC-1009_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "1996": {
-          "name": "Species 1996",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/1996_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "2013": {
-          "name": "Species 2013",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2013_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "2022": {
-          "name": "Species 2022",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2022_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "2014": {
-          "name": "Species 2014",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2014_Location-ADFGC-1009_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2003": {
-          "name": "Species 2003",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2003_Location-ADFGC-1009_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "1999": {
-          "name": "Species 1999",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/1999_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "2004": {
-          "name": "Species 2004",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2004_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "1998": {
-          "name": "Species 1998",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/1998_Location-ADFGC-1009_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2009": {
-          "name": "Species 2009",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2009_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "2011": {
-          "name": "Species 2011",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2011_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "1994": {
-          "name": "Species 1994",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/1994_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "2005": {
-          "name": "Species 2005",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2005_Location-ADFGC-1009_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2012": {
-          "name": "Species 2012",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2012_Location-ADFGC-1009_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2006": {
-          "name": "Species 2006",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2006_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "2020": {
-          "name": "Species 2020",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2020_Location-ADFGC-1009_Chinook_escapement.json"
-          }
-        },
-        "1997": {
-          "name": "Species 1997",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/1997_Location-ADFGC-1009_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2023": {
-          "name": "Species 2023",
-          "total_files": 2,
-          "files": {
-            "410": "5002-george-river-weir/410-chinook/2023_Location-ADFGC-1009_Chinook_escapement.json"
-          }
+        "410": {
+          "name": "chinook",
+          "files": [
+            {
+              "year": 1996,
+              "filename": "1996-george-410-chinook.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-george-410-chinook.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-george-410-chinook.json"
+            }
+          ]
         }
       }
     },
-    "5010": {
-      "name": "Yukon River Sonar",
-      "slug": "yukon-river-sonar",
-      "type": "commercial",
-      "prefix": "ADFGC",
-      "total_files": 279,
+    "1051": {
+      "name": "Shaktoolik",
+      "slug": "shaktoolik",
+      "region": "5000-shaktoolik",
       "species": {
-        "2004": {
-          "name": "Species 2004",
-          "total_files": 8,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2004_Norton Daily and Cumulative Escapement(7)_converted.json"
-          }
+        "420": {
+          "name": "sockeye",
+          "files": [
+            {
+              "year": 2019,
+              "filename": "2019-shaktoolik-420-sockeye.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-shaktoolik-420-sockeye.json"
+            },
+            {
+              "year": 2019,
+              "filename": "2019-shaktoolik-420-sockeye.json"
+            }
+          ]
         },
-        "1995": {
-          "name": "Species 1995",
-          "total_files": 3,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/1995_Norton Daily and Cumulative Escapement(2)_converted.json"
-          }
+        "440": {
+          "name": "pink",
+          "files": [
+            {
+              "year": 1996,
+              "filename": "1996-shaktoolik-440-pink.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-shaktoolik-440-pink.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-shaktoolik-440-pink.json"
+            }
+          ]
         },
-        "1992": {
-          "name": "Species 1992",
-          "total_files": 4,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/1992_Norton Daily and Cumulative Escapement(12)_converted.json"
-          }
+        "430": {
+          "name": "coho",
+          "files": [
+            {
+              "year": 1996,
+              "filename": "1996-shaktoolik-430-coho.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-shaktoolik-430-coho.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-shaktoolik-430-coho.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-shaktoolik-430-coho.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-shaktoolik-430-coho.json"
+            }
+          ]
         },
-        "2016": {
-          "name": "Species 2016",
-          "total_files": 9,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2016_Norton Daily and Cumulative Escapement(2)_converted.json"
-          }
+        "410": {
+          "name": "chinook",
+          "files": [
+            {
+              "year": 1996,
+              "filename": "1996-shaktoolik-410-chinook.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-shaktoolik-410-chinook.json"
+            },
+            {
+              "year": 1996,
+              "filename": "1996-shaktoolik-410-chinook.json"
+            }
+          ]
         },
-        "1994": {
-          "name": "Species 1994",
-          "total_files": 3,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/1994_Norton Daily and Cumulative Escapement(3)_converted.json"
-          }
-        },
-        "2005": {
-          "name": "Species 2005",
-          "total_files": 8,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2005_Norton Daily and Cumulative Escapement(6)_converted.json"
-          }
-        },
-        "2017": {
-          "name": "Species 2017",
-          "total_files": 9,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2017_Norton Daily and Cumulative Escapement(3)_converted.json"
-          }
-        },
-        "1986": {
-          "name": "Species 1986",
-          "total_files": 3,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/1986_Norton Daily and Cumulative Escapement(6)_converted.json"
-          }
-        },
-        "2009": {
-          "name": "Species 2009",
-          "total_files": 8,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2009_Norton Daily and Cumulative Escapement(1)_converted.json"
-          }
-        },
-        "2024": {
-          "name": "Species 2024",
-          "total_files": 9,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2024_Norton Daily and Cumulative Escapement(6)_converted.json"
-          }
-        },
-        "2018": {
-          "name": "Species 2018",
-          "total_files": 9,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2018_Norton Daily and Cumulative Escapement(7)_converted.json"
-          }
-        },
-        "2013": {
-          "name": "Species 2013",
-          "total_files": 8,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2013_Norton Daily and Cumulative Escapement(8)_converted.json"
-          }
-        },
-        "2015": {
-          "name": "Species 2015",
-          "total_files": 8,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2015_Norton Daily and Cumulative Escapement(1)_converted.json"
-          }
-        },
-        "2012": {
-          "name": "Species 2012",
-          "total_files": 8,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2012_Norton Daily and Cumulative Escapement(9)_converted.json"
-          }
-        },
-        "2007": {
-          "name": "Species 2007",
-          "total_files": 8,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2007_Norton Daily and Cumulative Escapement(4)_converted.json"
-          }
-        },
-        "2019": {
-          "name": "Species 2019",
-          "total_files": 9,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2019_Norton Daily and Cumulative Escapement(6)_converted.json"
-          }
-        },
-        "1996": {
-          "name": "Species 1996",
-          "total_files": 7,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/1996_Norton Daily and Cumulative Escapement(1)_converted.json"
-          }
-        },
-        "2025": {
-          "name": "Species 2025",
-          "total_files": 9,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2025_Norton Daily and Cumulative Escapement(7)_converted.json"
-          }
-        },
-        "2023": {
-          "name": "Species 2023",
-          "total_files": 9,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2023_Norton Daily and Cumulative Escapement(1)_converted.json"
-          }
-        },
-        "2001": {
-          "name": "Species 2001",
-          "total_files": 8,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2001_Norton Daily and Cumulative Escapement(2)_converted.json"
-          }
-        },
-        "2000": {
-          "name": "Species 2000",
-          "total_files": 8,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2000_Norton Daily and Cumulative Escapement(3)_converted.json"
-          }
-        },
-        "2021": {
-          "name": "Species 2021",
-          "total_files": 9,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2021_Norton Daily and Cumulative Escapement(3)_converted.json"
-          }
-        },
-        "2020": {
-          "name": "Species 2020",
-          "total_files": 9,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2020_Norton Daily and Cumulative Escapement(2)_converted.json"
-          }
-        },
-        "2002": {
-          "name": "Species 2002",
-          "total_files": 8,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2002_Norton Daily and Cumulative Escapement(1)_converted.json"
-          }
-        },
-        "2010": {
-          "name": "Species 2010",
-          "total_files": 8,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2010_Norton Daily and Cumulative Escapement(4)_converted.json"
-          }
-        },
-        "1993": {
-          "name": "Species 1993",
-          "total_files": 3,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/1993_Norton Daily and Cumulative Escapement(3)_converted.json"
-          }
-        },
-        "2011": {
-          "name": "Species 2011",
-          "total_files": 8,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2011_Norton Daily and Cumulative Escapement(2)_converted.json"
-          }
-        },
-        "2008": {
-          "name": "Species 2008",
-          "total_files": 8,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2008_Norton Daily and Cumulative Escapement(8)_converted.json"
-          }
-        },
-        "2003": {
-          "name": "Species 2003",
-          "total_files": 8,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2003_Norton Daily and Cumulative Escapement(7)_converted.json"
-          }
-        },
-        "2022": {
-          "name": "Species 2022",
-          "total_files": 9,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2022_Norton Daily and Cumulative Escapement(7)_converted.json"
-          }
-        },
-        "2014": {
-          "name": "Species 2014",
-          "total_files": 8,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2014_Norton Daily and Cumulative Escapement(8)_converted.json"
-          }
-        },
-        "1997": {
-          "name": "Species 1997",
-          "total_files": 7,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/1997_Norton Daily and Cumulative Escapement(8)_converted.json"
-          }
-        },
-        "2006": {
-          "name": "Species 2006",
-          "total_files": 8,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/2006_Norton Daily and Cumulative Escapement(2)_converted.json"
-          }
-        },
-        "1998": {
-          "name": "Species 1998",
-          "total_files": 7,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/1998_Norton Daily and Cumulative Escapement(3)_converted.json"
-          }
-        },
-        "1999": {
-          "name": "Species 1999",
-          "total_files": 8,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/1999_Norton Daily and Cumulative Escapement(2)_converted.json"
-          }
-        },
-        "1974": {
-          "name": "Species 1974",
-          "total_files": 3,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/1974_Norton Daily and Cumulative Escapement(7)_converted.json"
-          }
-        },
-        "1984": {
-          "name": "Species 1984",
-          "total_files": 3,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/1984_Norton Daily and Cumulative Escapement(7)_converted.json"
-          }
-        },
-        "1985": {
-          "name": "Species 1985",
-          "total_files": 4,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/1985_Norton Daily and Cumulative Escapement(6)_converted.json"
-          }
-        },
-        "1972": {
-          "name": "Species 1972",
-          "total_files": 3,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/1972_Norton Daily and Cumulative Escapement(9)_converted.json"
-          }
-        },
-        "1973": {
-          "name": "Species 1973",
-          "total_files": 3,
-          "files": {
-            "410": "5010-yukon-river-sonar/410-chinook/1973_Norton Daily and Cumulative Escapement(7)_converted.json"
-          }
+        "450": {
+          "name": "chum",
+          "files": [
+            {
+              "year": 1996,
+              "filename": "1996-shaktoolik-450-chum.json"
+            }
+          ]
         }
       }
     },
-    "6001": {
-      "name": "Bear River Weir",
-      "slug": "bear-river-weir",
-      "type": "commercial",
-      "prefix": "ADFGC",
-      "total_files": 0,
-      "species": {}
-    },
-    "6002": {
-      "name": "Ilnik River Weir",
-      "slug": "ilnik-river-weir",
-      "type": "commercial",
-      "prefix": "ADFGC",
-      "total_files": 0,
-      "species": {}
-    },
-    "6005": {
-      "name": "Orzinski Lake Weir",
-      "slug": "orzinski-lake-weir",
-      "type": "commercial",
-      "prefix": "ADFGC",
-      "total_files": 0,
-      "species": {}
-    },
-    "5009": {
-      "name": "Nunakogak River Weir",
-      "slug": "nunakogak-river-weir",
-      "type": "commercial",
-      "prefix": "ADFGC",
-      "total_files": 2,
+    "1052": {
+      "name": "Inglutalik",
+      "slug": "inglutalik",
+      "region": "5000-inglutalik",
       "species": {
-        "1992": {
-          "name": "Species 1992",
-          "total_files": 2,
-          "files": {
-            "410": "5009-nunakogak-river-weir/410-chinook/1992_Location-ADFGC-1019_Chinook_escapement.json"
-          }
+        "420": {
+          "name": "sockeye",
+          "files": [
+            {
+              "year": 2020,
+              "filename": "2020-inglutalik-420-sockeye.json"
+            },
+            {
+              "year": 2020,
+              "filename": "2020-inglutalik-420-sockeye.json"
+            },
+            {
+              "year": 2020,
+              "filename": "2020-inglutalik-420-sockeye.json"
+            }
+          ]
+        },
+        "440": {
+          "name": "pink",
+          "files": [
+            {
+              "year": 2011,
+              "filename": "2011-inglutalik-440-pink.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-inglutalik-440-pink.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-inglutalik-440-pink.json"
+            }
+          ]
+        },
+        "430": {
+          "name": "coho",
+          "files": [
+            {
+              "year": 2011,
+              "filename": "2011-inglutalik-430-coho.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-inglutalik-430-coho.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-inglutalik-430-coho.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-inglutalik-430-coho.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-inglutalik-430-coho.json"
+            }
+          ]
+        },
+        "410": {
+          "name": "chinook",
+          "files": [
+            {
+              "year": 2011,
+              "filename": "2011-inglutalik-410-chinook.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-inglutalik-410-chinook.json"
+            },
+            {
+              "year": 2011,
+              "filename": "2011-inglutalik-410-chinook.json"
+            }
+          ]
+        },
+        "450": {
+          "name": "chum",
+          "files": [
+            {
+              "year": 2011,
+              "filename": "2011-inglutalik-450-chum.json"
+            }
+          ]
         }
       }
     },
-    "6004": {
-      "name": "Nelson River Weir",
-      "slug": "nelson-river-weir",
-      "type": "commercial",
-      "prefix": "ADFGC",
-      "total_files": 0,
-      "species": {}
-    },
-    "5008": {
-      "name": "North River Weir",
-      "slug": "north-river-weir",
-      "type": "commercial",
-      "prefix": "ADFGC",
-      "total_files": 72,
+    "1101": {
+      "name": "Egegik",
+      "slug": "egegik",
+      "region": "5000-egegik",
       "species": {
-        "2018": {
-          "name": "Species 2018",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2018_Location-ADFGC-1018_Chinook_escapement.json"
-          }
-        },
-        "2023": {
-          "name": "Species 2023",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2023_Location-ADFGC-1018_Chinook_escapement.json"
-          }
-        },
-        "2000": {
-          "name": "Species 2000",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2000_Location-ADFGC-1018_Chinook_escapement.json"
-          }
-        },
-        "1985": {
-          "name": "Species 1985",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/1985_Location-ADFGC-1018_Chinook_escapement.json"
-          }
-        },
-        "2005": {
-          "name": "Species 2005",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2005_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2012": {
-          "name": "Species 2012",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2012_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "1973": {
-          "name": "Species 1973",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/1973_Location-ADFGC-1018_Chinook_escapement.json"
-          }
-        },
-        "2020": {
-          "name": "Species 2020",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2020_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "1998": {
-          "name": "Species 1998",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/1998_Location-ADFGC-1018_Chinook_escapement.json"
-          }
-        },
-        "2017": {
-          "name": "Species 2017",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2017_Location-ADFGC-1018_Chinook_escapement.json"
-          }
-        },
-        "2009": {
-          "name": "Species 2009",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2009_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2010": {
-          "name": "Species 2010",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2010_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2007": {
-          "name": "Species 2007",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2007_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "1996": {
-          "name": "Species 1996",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/1996_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "1997": {
-          "name": "Species 1997",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/1997_Location-ADFGC-1018_Chinook_escapement.json"
-          }
-        },
-        "2022": {
-          "name": "Species 2022",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2022_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2004": {
-          "name": "Species 2004",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2004_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2013": {
-          "name": "Species 2013",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2013_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2014": {
-          "name": "Species 2014",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2014_Location-ADFGC-1018_Chinook_escapement.json"
-          }
-        },
-        "2021": {
-          "name": "Species 2021",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2021_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2011": {
-          "name": "Species 2011",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2011_Location-ADFGC-1018_Chinook_escapement.json"
-          }
-        },
-        "1999": {
-          "name": "Species 1999",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/1999_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "1986": {
-          "name": "Species 1986",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/1986_Location-ADFGC-1018_Chinook_escapement.json"
-          }
-        },
-        "2003": {
-          "name": "Species 2003",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2003_Location-ADFGC-1018_Chinook_escapement.json"
-          }
-        },
-        "2006": {
-          "name": "Species 2006",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2006_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "1972": {
-          "name": "Species 1972",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/1972_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2008": {
-          "name": "Species 2008",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2008_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2025": {
-          "name": "Species 2025",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2025_Location-ADFGC-1018_Chinook_escapement.json"
-          }
-        },
-        "1984": {
-          "name": "Species 1984",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/1984_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2015": {
-          "name": "Species 2015",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2015_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2002": {
-          "name": "Species 2002",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2002_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2016": {
-          "name": "Species 2016",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2016_Location-ADFGC-1018_Chinook_escapement.json"
-          }
-        },
-        "1974": {
-          "name": "Species 1974",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/1974_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2019": {
-          "name": "Species 2019",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2019_Location-ADFGC-1018_Chinook_escapement_20250930_141557.json"
-          }
-        },
-        "2001": {
-          "name": "Species 2001",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2001_Location-ADFGC-1018_Chinook_escapement.json"
-          }
-        },
-        "2024": {
-          "name": "Species 2024",
-          "total_files": 2,
-          "files": {
-            "410": "5008-north-river-weir/410-chinook/2024_Location-ADFGC-1018_Chinook_escapement.json"
-          }
+        "420": {
+          "name": "sockeye",
+          "files": [
+            {
+              "year": 2023,
+              "filename": "2023-egegik-420-sockeye.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-egegik-420-sockeye.json"
+            },
+            {
+              "year": 2023,
+              "filename": "2023-egegik-420-sockeye.json"
+            }
+          ]
         }
       }
     },
-    "6006": {
-      "name": "Sandy River Weir",
-      "slug": "sandy-river-weir",
-      "type": "commercial",
-      "prefix": "ADFGC",
-      "total_files": 0,
-      "species": {}
-    },
-    "5007": {
-      "name": "Norton River Daily Escapement",
-      "slug": "norton-river-daily-escapement",
-      "type": "commercial",
-      "prefix": "ADFGC",
-      "total_files": 34,
+    "1201": {
+      "name": "Pilgrim",
+      "slug": "pilgrim",
+      "region": "5000-pilgrim",
       "species": {
-        "2015": {
-          "name": "Species 2015",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2015_norton-river-daily-cumulative-escapement_converted.json"
-          }
+        "420": {
+          "name": "sockeye",
+          "files": [
+            {
+              "year": 2000,
+              "filename": "2000-pilgrim-420-sockeye.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-pilgrim-420-sockeye.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-pilgrim-420-sockeye.json"
+            }
+          ]
         },
-        "2020": {
-          "name": "Species 2020",
-          "total_files": 2,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2020_norton-river-daily-cumulative-escapement_converted.json"
-          }
+        "440": {
+          "name": "pink",
+          "files": [
+            {
+              "year": 1997,
+              "filename": "1997-pilgrim-440-pink.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-pilgrim-440-pink.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-pilgrim-440-pink.json"
+            }
+          ]
         },
-        "2022": {
-          "name": "Species 2022",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2022_norton-river-daily-cumulative-escapement_converted.json"
-          }
+        "430": {
+          "name": "coho",
+          "files": [
+            {
+              "year": 1997,
+              "filename": "1997-pilgrim-430-coho.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-pilgrim-430-coho.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-pilgrim-430-coho.json"
+            },
+            {
+              "year": 2000,
+              "filename": "2000-pilgrim-430-coho.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-pilgrim-430-coho.json"
+            }
+          ]
         },
-        "2009": {
-          "name": "Species 2009",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2009_norton-river-daily-cumulative-escapement_converted.json"
-          }
+        "410": {
+          "name": "chinook",
+          "files": [
+            {
+              "year": 1997,
+              "filename": "1997-pilgrim-410-chinook.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-pilgrim-410-chinook.json"
+            },
+            {
+              "year": 1997,
+              "filename": "1997-pilgrim-410-chinook.json"
+            }
+          ]
         },
-        "2017": {
-          "name": "Species 2017",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2017_norton-river-daily-cumulative-escapement_converted.json"
-          }
+        "450": {
+          "name": "chum",
+          "files": [
+            {
+              "year": 2000,
+              "filename": "2000-pilgrim-450-chum.json"
+            }
+          ]
+        }
+      }
+    },
+    "1501": {
+      "name": "Eldorado",
+      "slug": "eldorado",
+      "region": "5000-eldorado",
+      "species": {
+        "420": {
+          "name": "sockeye",
+          "files": [
+            {
+              "year": 2002,
+              "filename": "2002-eldorado-420-sockeye.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-eldorado-420-sockeye.json"
+            },
+            {
+              "year": 2002,
+              "filename": "2002-eldorado-420-sockeye.json"
+            }
+          ]
         },
-        "2024": {
-          "name": "Species 2024",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2024_norton-river-daily-cumulative-escapement_converted.json"
-          }
+        "440": {
+          "name": "pink",
+          "files": [
+            {
+              "year": 1995,
+              "filename": "1995-eldorado-440-pink.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-eldorado-440-pink.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-eldorado-440-pink.json"
+            }
+          ]
         },
-        "2018": {
-          "name": "Species 2018",
-          "total_files": 2,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2018_norton-river-daily-cumulative-escapement-v2_converted.json"
-          }
+        "430": {
+          "name": "coho",
+          "files": [
+            {
+              "year": 1995,
+              "filename": "1995-eldorado-430-coho.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-eldorado-430-coho.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-eldorado-430-coho.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-eldorado-430-coho.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-eldorado-430-coho.json"
+            }
+          ]
         },
-        "2011": {
-          "name": "Species 2011",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2011_norton-river-daily-cumulative-escapement_converted.json"
-          }
+        "410": {
+          "name": "chinook",
+          "files": [
+            {
+              "year": 1995,
+              "filename": "1995-eldorado-410-chinook.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-eldorado-410-chinook.json"
+            },
+            {
+              "year": 1995,
+              "filename": "1995-eldorado-410-chinook.json"
+            }
+          ]
         },
-        "1995": {
-          "name": "Species 1995",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/1995_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "2013": {
-          "name": "Species 2013",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2013_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "1997": {
-          "name": "Species 1997",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/1997_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "2019": {
-          "name": "Species 2019",
-          "total_files": 2,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2019_norton-river-daily-cumulative-escapement-v2_converted.json"
-          }
-        },
-        "2001": {
-          "name": "Species 2001",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2001_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "2003": {
-          "name": "Species 2003",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2003_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "1999": {
-          "name": "Species 1999",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/1999_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "2005": {
-          "name": "Species 2005",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2005_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "2007": {
-          "name": "Species 2007",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2007_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "2014": {
-          "name": "Species 2014",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2014_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "2021": {
-          "name": "Species 2021",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2021_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "2023": {
-          "name": "Species 2023",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2023_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "2008": {
-          "name": "Species 2008",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2008_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "2016": {
-          "name": "Species 2016",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2016_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "2025": {
-          "name": "Species 2025",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2025_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "2010": {
-          "name": "Species 2010",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2010_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "1996": {
-          "name": "Species 1996",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/1996_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "2012": {
-          "name": "Species 2012",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2012_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "2000": {
-          "name": "Species 2000",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2000_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "1998": {
-          "name": "Species 1998",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/1998_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "2002": {
-          "name": "Species 2002",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2002_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "2004": {
-          "name": "Species 2004",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2004_norton-river-daily-cumulative-escapement_converted.json"
-          }
-        },
-        "2006": {
-          "name": "Species 2006",
-          "total_files": 1,
-          "files": {
-            "410": "5007-norton-river-escapement/410-chinook/2006_norton-river-daily-cumulative-escapement_converted.json"
-          }
+        "450": {
+          "name": "chum",
+          "files": [
+            {
+              "year": 1995,
+              "filename": "1995-eldorado-450-chum.json"
+            }
+          ]
         }
       }
     }
   },
-  "format": "organized_by_location_species_year",
-  "converted_from": "organized_by_location_year_species",
-  "conversion_date": "2025-01-28T00:00:00Z"
+  "statistics": {
+    "year_range": {
+      "min": 1981,
+      "max": 2024
+    },
+    "species_counts": {
+      "420": 141,
+      "440": 204,
+      "430": 246,
+      "410": 207,
+      "450": 78
+    },
+    "location_counts": {
+      "1001": 810,
+      "1026": 3,
+      "1051": 15,
+      "1052": 15,
+      "1101": 3,
+      "1201": 15,
+      "1501": 15
+    }
+  }
 }
