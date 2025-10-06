@@ -1,171 +1,223 @@
-# ADFG Commercial Fish Count Dataset
+# ADFG Commercial Dataset
 
-## Overview
-This repository contains fish count data from the Alaska Department of Fish and Game (ADFG) Commercial Fisheries division, organized by the four management regions and their respective commercial monitoring stations.
+Public GitHub data repository for Alaska Fish Counts (AFCA) Commercial dataset. Files are served directly via GitHub Raw/CDN and consumed by the AFCA app using a manifest-first pipeline (same style as Sport).
 
-## ADFG Commercial Fisheries Management Regions
+## AFCA Location Codes Framework - Commercial Dataset (1000-1999)
 
-Alaska's fisheries are managed at a local area level through four regions, each containing multiple area offices:
+This dataset contains commercial fishing data organized according to the official AFCA Location Codes Framework.
 
-### 1. Arctic-Yukon-Kuskokwim Region
-The Arctic-Yukon-Kuskokwim (AYK) Region encompasses the coastal waters of Alaska and includes the rivers and streams that drain into the Bering, Chukchi, and Beaufort Seas. It stretches from its boundary at Cape Newenham with the Bristol Bay area to the border with Canada on the Arctic Ocean. The Yukon River, with the fifth largest drainage in North America, lies within this management region, as do many other major rivers; the Kuskokwim being second in size next to the Yukon.
+### About / Usage (matches Sport style)
+- Manifest format: `organized_by_location_year_species`
+- Manifest URL: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/manifest.json`
+- Data access pattern: `manifest.organized[locationId][speciesId][year] -> filepath`
+- CDN access: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/[filepath]`
+- No guessed paths; all file resolutions are manifest-driven
 
-**Management Areas:**
-- Yukon Management Area
-- Arctic Management Area  
-- Norton Sound & Kotzebue Management Areas
-- Kuskokwim Management Area
+### Example
+```js
+// Given locationId, speciesId, year
+const filePath = manifest.organized[locationId][speciesId][year];
+const url = `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/${filePath}`;
+const res = await fetch(url);
+const json = await res.json();
+```
 
-**Commercial Monitoring Locations:**
-- **5001-kuskokwim-river-sonar** - Kuskokwim River Commercial (Sonar)
-- **5002-george-river-weir** - George River Commercial (Weir)
-- **5007-norton-river-escapement** - Norton River Escapement (Weir)
-- **5008-north-river-weir** - North River Commercial (Weir)
-- **5009-nunakogak-river-weir** - Nunakogak River Commercial (Weir)
-- **5010-yukon-river-sonar** - Yukon River Commercial (Sonar)
+### Dataset Statistics
+- **Total Files**: 502
+- **Total Locations**: 45
+- **ID Range**: 1000-1999
+- **Year Range**: 1981-2024
+- **Framework**: AFCA Location Codes Framework
 
-### 2. Central Region
-Central Region Alaska commercial fisheries are composed of four distinct management areas that include Bristol Bay, Prince William Sound and Copper River, Upper Cook Inlet, and Lower Cook Inlet. Although all 5 species of salmon are harvested in each area, sockeye and pink salmon are the most abundant and most valuable. This area encompasses some of the largest and most valuable salmon fisheries in the world. From Bristol Bay, home of the largest sockeye salmon fishery in the world, to the Copper River where sockeye and Chinook salmon fetch some of the highest prices per pound paid to commercial fishermen.
+### Management Area Blocks
 
-**Management Areas:**
-- Bristol Bay Management Area
-- Cook Inlet Management Area
-- Upper Cook Inlet Management Area
-- Lower Cook Inlet Management Area
-- Prince William Sound Management Area
-- Copper River Management Area
+#### 1000-1099: Arctic-Yukon-Kuskokwim (AYK) Region
+- **1000-1024**: Yukon River Area
+- **1025-1049**: Kuskokwim Area  
+- **1050-1074**: Norton Sound & Kotzebue
+- **1075-1099**: Arctic Coast
 
-**Commercial Monitoring Locations:**
-- *Additional locations to be added as data becomes available*
+#### 1100-1199: Bristol Bay Area
+- Dedicated block for Bristol Bay region
 
-### 3. Southeast Alaska & Yakutat Region
-The Southeast Alaska/Yakutat Region (Region I) consists of Alaska waters between Cape Suckling on the north and Dixon Entrance on the south. Salmon are commercially harvested in Southeast Alaska with purse seines and drift gillnets; in Yakutat with set gillnets; and in both areas with hand and power troll gear. Herring are harvested in winter bait, sac roe, spawn-on-kelp, and bait pound fisheries. Miscellaneous shellfish (sea cucumber, sea urchins, and geoduck clams) are harvested in dive fisheries in the region.
+#### 1200 of-1299: Cook Inlet Area
+- Full block covering Upper and Lower Cook Inlet
 
-**Commercial Monitoring Locations:**
-- *Additional locations to be added as data becomes available*
+#### 1300-1399: Westward Minor Areas
+- **1300-1324**: Chignik Area
+- **1325-1349**: Alaska Peninsula & Aleutian Islands
+- **1350-1374**: Reserved/Expandable
+- **1375-1399**: Reserved
 
-### 4. Westward Region
-Westward Region includes the Kodiak Archipelago, the north and south sides of the Alaska Peninsula (including Chignik, the Shumagin Islands, and Port Moller), and the Aleutian Islands. Dutch Harbor, the number one fishing port in the nation, in pounds landed, is situated in the Aleutian Islands. This region encompasses all Pacific Ocean waters extending south from the Kodiak Archipelago and west of the longitude of the eastern side of Cook Inlet, as well as Bering Sea waters east of the maritime boundary between Russia and the United States.
+#### 1400-1499: Kodiak Island Area
+- Full 100-code block for Kodiak Island
 
-**Management Areas:**
-- Kodiak Management Area
-- Chignik Management Area
-- Alaska Peninsula Management Area
-- Bering Sea/Aleutians Islands Area
+#### 1500-1599: Prince William Sound & Copper River
+- Dedicated block for PWS Area
 
-**Commercial Monitoring Locations:**
-- **6001-bear-river-weir** - Bear River Weir (Sockeye)
-- **6002-ilnik-river-weir** - Ilnik River Weir (Sockeye)
-- **6003-mclees-lake-weir** - McLees Lake Weir (Sockeye)
-- **6004-nelson-river-weir** - Nelson River Weir (Sockeye)
-- **6005-orzinski-lake-weir** - Orzinski Lake Weir (Sockeye)
-- **6006-sandy-river-weir** - Sandy River Weir (Sockeye)
+#### 1600-1699: Southeastern Alaska Area
+- Full block for Southeast Alaska
 
-## Data Source
-- **Primary Source**: [ADFG Commercial Fisheries](https://www.adfg.alaska.gov/index.cfm?adfg=fishingcommercialbyarea.interior)
-- **Data Format**: CSV/Excel files from ADFG commercial archives
-- **Coverage**: Historical fish count data from commercial monitoring stations across all four regions
-- **Update Frequency**: Manual updates from ADFG commercial sites
+#### 1700-1999: Reserved for Expansion
+- Buffer for future expansion
 
-## Project Description
-The Kuskokwim River is the second largest drainage in Alaska, flowing west approximately 730 km from the confluence of its east and north forks to the Bering Sea. The glacially fed north fork originates northwest of Denali in the Kuskokwim Mountains and Alaska Range, bringing the total length to 1,130 km.
+### Species Coverage
+- **sockeye** (ID: 420): Commercial salmon counts
+- **pink** (ID: 440): Commercial salmon counts  
+- **coho** (ID: 430): Commercial salmon counts
+- **chinook** (ID: 410): Commercial salmon counts
+- **chum** (ID: 450): Commercial salmon counts
 
-**Sonar Project Details:**
-- Location: 130 river km upriver from confluence of Kuskokwim River and Church Slough (20 river km upriver from Bethel)
-- River width: 450 m bankfull width at sonar site
-- Technology: Combination of split-beam and imaging sonar
-- Methodology: Drift gillnet fishing used to apportion counts
-- Operation period: June 1 - August 26 (extended from July 26 since 2020)
-
-## Repository Structure
+### Data Structure
 ```
 adfg-commercial-dataset/
-├── data/                           # Converted JSON data files
-│   ├── manifest.json              # File organization index
-│   ├── 01-master/                 # Master location and species data
-│   └── ADFGC-REGION-LOCATION-METHOD/  # Location-based organization
-│       ├── location-info.json     # Location metadata
-│       └── SPECIES-NAME/          # Species-based organization
-│           └── YEAR_filename.json # Individual year files
-├── scripts/                       # Data processing scripts
-│   ├── csv-to-afca.py            # CSV to AFCA JSON converter
-│   ├── validate-data.py          # Data validation script
-│   └── update-manifest.py        # Manifest update script
-├── docs/                          # Documentation
-│   ├── data-schema.md            # Data format documentation
-│   └── conversion-log.md         # Conversion process log
-├── workflows/                     # GitHub Actions workflows
-│   └── data-sync.yml             # Automated data sync workflow
-└── README.md                     # This file
+├── [location-id]/           # AFCA framework location ID (1000-1999)
+│   ├── [species-id]/        # Species ID (410, 420, 430, etc.)
+│   │   ├── [year]-[location-slug]-[species-slug].json
+│   │   └── ...
+│   └── ...
+├── manifest.json            # Dataset manifest with AFCA framework
+└── README.md               # This file
 ```
 
-## Naming Conventions
-
-### Location IDs
-- **Format**: `ADFGC-REGION-LOCATION-METHOD`
-- **Examples**:
-  - `ADFGC-NORTON-YUKON-RIVER` (Norton Sound region, Yukon River, Commercial)
-  - `ADFGC-AP-MCLEES-LAKE-WEIR` (Alaska Peninsula region, McLees Lake, Weir)
-
-### Species Folders
-- **Format**: `SPECIES-NAME`
-- **Examples**:
-  - `Chinook-Salmon/` (instead of numeric IDs)
-  - `Sockeye-Salmon/`
-
-### File Names
-- **Format**: `YEAR_location_species_type.json`
-- **Examples**:
-  - `2023_Location-ADFGC-1009_Chinook_escapement.json`
-  - `2008_mclees-lake-weir-annual-summary.json`
-
-## Data Format
-All data follows the AFCA v1.0.1 JSON format:
+### Manifest Structure (flat)
 ```json
 {
-  "DATA": [
-    {
-      "date": "YYYY-MM-DD",
-      "count": number,
-      "species": "species_name",
-      "location": "location_name",
-      "method": "sonar|weir|visual",
-      "notes": "additional_information"
+  "version": "3.0.0",
+  "organized": {
+    "1050": {
+      "999": {
+        "1995": "1050/999/1995-location-1050-other.json"
+      }
     }
-  ],
-  "metadata": {
-    "source": "ADFG Commercial Fisheries",
-    "location": "location_details",
-    "method": "monitoring_method",
-    "period": "operation_period",
-    "last_updated": "timestamp"
   }
 }
 ```
 
-## Usage
-1. **Data Conversion**: Use `scripts/csv-to-afca.py` to convert CSV files to AFCA format
-2. **Validation**: Run `scripts/validate-data.py` to check data quality
-3. **Manifest Update**: Use `scripts/update-manifest.py` to update file organization
-4. **Deployment**: Data is automatically synced via GitHub Actions
+### Framework Compliance
+This dataset follows the official AFCA Location Codes Framework:
+- ✅ Commercial dataset uses 1000-1999 range
+- ✅ Management area blocks properly assigned
+- ✅ Geographic organization maintained
+- ✅ Reserved ranges for future expansion
+- ✅ Compatible with AFCA app data loading
 
-## Integration with AFCA
-This dataset integrates with the Alaska Fish Count App (AFCA) v1.0.1:
-- Follows same manifest-driven data loading system
-- Compatible with existing AFCA components
-- Uses same location and species ID system
-- Maintains data consistency with main AFCA dataset
+### Data Format
+All files follow the ADFG standard format with consistent column structure:
 
-## License
-Data sourced from Alaska Department of Fish and Game - Commercial Fisheries Division.
-All data is public domain and available for research and educational purposes.
+```json
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1939,
+      "May, 26 1939 00:00:00",
+      3,
+      410,
+      1001,
+      "Akalura Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1001,
+    "location_name": "Akalura Creek",
+    "species_id": 410,
+    "species_name": "Chinook Salmon",
+    "year": 1939,
+    "last_updated": "2025-10-02T18:30:39Z",
+    "data_source": "ADF&G Commercial"
+  }
+}
+```
 
-## Contributing
-1. Download CSV files from ADFG commercial site
-2. Convert using provided scripts
-3. Validate data quality
-4. Submit pull request with converted data
-5. Update documentation as needed
+### AFCA Location Codes Framework
+This dataset follows the official AFCA Location Codes Framework for commercial fishing locations:
 
-## Contact
-For questions about this dataset, please refer to the main AFCA project documentation.
+#### Location ID Range: 1000-1999
+- **1000-1099**: Arctic-Yukon-Kuskokwim (AYK) Region
+  - 1000-1024: Yukon River Area
+  - 1025-1049: Kuskokwim Area
+  - 1050-1074: Norton Sound & Kotzebue
+  - 1075-1099: Arctic Coast
+- **1100-1199**: Bristol Bay Area
+- **1200-1299**: Cook Inlet Area
+- **1300-1399**: Westward Minor Areas
+  - 1300-1324: Chignik Area
+  - 1325-1349: Alaska Peninsula & Aleutian Islands
+  - 1350-1374: Reserved/Expandable
+  - 1375-1399: Reserved
+- **1400-1499**: Kodiak Island Area
+- **1500-1599**: Prince William Sound & Copper River
+- **1600-1699**: Southeastern Alaska Area
+- **1700-1999**: Reserved for Expansion
+
+#### File Naming Convention
+- **Format**: `YEAR-location-slug-species-slug.json`
+- **Example**: `1986-akalura-river-chinook.json`
+- **Location Slug**: Lowercase, hyphenated location name
+- **Species Slug**: Lowercase, hyphenated species name
+
+## Location Directory
+
+This dataset contains **45 locations** across Alaska with commercial fishing data. Each location is organized by AFCA Location Codes Framework (1000-1999 range).
+
+### Complete Location List
+
+| Location ID | Location Name | Species Available |
+|-------------|---------------|-------------------|
+| 1001 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1001">Akalura River Weir</a> | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1001/440">pink</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1001/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1001/410">chinook</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1001/420">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1001/450">chum</a> |
+| 1025 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1025">Situk Lower</a> | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1025/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1025/410">chinook</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1025/420">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1025/450">chum</a> |
+| 1026 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1026">Ford Arm</a> | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1026/410">chinook</a> |
+| 1027 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1027">Ilnik River</a> | - |
+| 1032 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1032">Hetta Lake</a> | - |
+| 1033 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1033">Speel Lake</a> | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1033/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1033/410">chinook</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1033/420">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1033/450">chum</a> |
+| 1034 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1034">Sashin Creek</a> | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1034/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1034/410">chinook</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1034/420">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1034/450">chum</a> |
+| 1035 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1035">Tahltan Lake</a> | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1035/440">pink</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1035/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1035/410">chinook</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1035/420">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1035/450">chum</a> |
+| 1036 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1036">Salmon River (Aniak)</a> | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1036/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1036/410">chinook</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1036/420">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1036/450">chum</a> |
+| 1037 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1037">Salmon Lake Stream</a> | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1037/440">pink</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1037/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1037/410">chinook</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1037/420">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1037/450">chum</a> |
+| 1038 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1038">Kanektok River</a> | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1038/440">pink</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1038/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1038/410">chinook</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1038/420">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1038/450">chum</a> |
+| 1039 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1039">Karta River</a> | - |
+| 1040 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1040">Uganik River</a> | - |
+| 1041 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1041">Neva Creek</a> | - |
+| 1042 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1042">Warm Chuck Lake</a> | - |
+| 1043 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1043">Sitkoh Lake Creek</a> | - |
+| 1044 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1044">Big Bay Creek</a> | - |
+| 1046 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1046">Klag Lake</a> | - |
+| 1047 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1047">Lake Eva</a> | - |
+| 1048 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1048">Little Waterfall</a> | - |
+| 1049 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1049">Little Kitoi</a> | - |
+| 1050 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1050">Commercial Location 1050</a> | - |
+| 1051 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1051">Commercial Location 1051</a> | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1051/440">pink</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1051/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1051/410">chinook</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1051/420">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1051/450">chum</a> |
+| 1052 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1052">Commercial Location 1052</a> | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1052/440">pink</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1052/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1052/410">chinook</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1052/420">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1052/450">chum</a> |
+| 1053 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1053">Commercial Location 1053</a> | - |
+| 1054 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1054">Commercial Location 1054</a> | - |
+| 1055 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1055">Commercial Location 1055</a> | - |
+| 1056 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1056">Commercial Location 1056</a> | - |
+| 1057 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1057">Commercial Location 1057</a> | - |
+| 1058 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1058">Commercial Location 1058</a> | - |
+| 1059 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1059">Commercial Location 1059</a> | - |
+| 1060 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1060">Commercial Location 1060</a> | - |
+| 1061 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1061">Commercial Location 1061</a> | - |
+| 1062 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1062">Commercial Location 1062</a> | - |
+| 1063 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1063">Commercial Location 1063</a> | - |
+| 1065 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1065">Commercial Location 1065</a> | - |
+| 1066 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1066">Commercial Location 1066</a> | - |
+| 1068 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1068">Commercial Location 1068</a> | - |
+| 1069 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1069">Commercial Location 1069</a> | - |
+| 1070 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1070">Commercial Location 1070</a> | - |
+| 1071 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1071">Commercial Location 1071</a> | - |
+| 1072 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1072">Commercial Location 1072</a> | - |
+| 1101 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1101">Commercial Location 1101</a> | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1101/420">sockeye</a> |
+| 1201 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1201">Commercial Location 1201</a> | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1201/440">pink</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1201/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1201/410">chinook</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1201/420">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1201/450">chum</a> |
+| 1501 | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1501">Commercial Location 1501</a> | <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1501/440">pink</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1501/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1501/410">chinook</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1501/420">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1501/450">chum</a> |
+
+
