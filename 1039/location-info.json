@@ -1,0 +1,26 @@
+{
+  "id": "1039",
+  "name": "Inglutalik River",
+  "slug": "inglutalik-river",
+  "region": "Arctic-Yukon-Kuskokwim",
+  "management_area": "Norton Sound & Kotzebue",
+  "monitoring_method": "Weir",
+  "gps": [
+    0.0,
+    0.0
+  ],
+  "species": [
+    "Sockeye",
+    "Chum",
+    "Coho",
+    "Chinook",
+    "Pink"
+  ],
+  "years_available": [
+    "2020-2021",
+    "2011-2023"
+  ],
+  "data_source": "ADFG Commercial Dataset",
+  "created_date": "2025-10-01T21:16:54.808130",
+  "notes": "Location added from data-to-convert processing. GPS coordinates need to be updated."
+}

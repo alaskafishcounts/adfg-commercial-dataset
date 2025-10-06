@@ -1,0 +1,26 @@
+{
+  "id": "1041",
+  "name": "Glacial Lake",
+  "slug": "glacial-lake",
+  "region": "Arctic-Yukon-Kuskokwim",
+  "management_area": "Norton Sound & Kotzebue",
+  "monitoring_method": "Weir",
+  "gps": [
+    0.0,
+    0.0
+  ],
+  "species": [
+    "Sockeye",
+    "Chum",
+    "Pink"
+  ],
+  "years_available": [
+    "2014-2020",
+    "2000-2015",
+    "2008-2015",
+    "2004-2015"
+  ],
+  "data_source": "ADFG Commercial Dataset",
+  "created_date": "2025-10-01T21:16:55.420540",
+  "notes": "Location added from data-to-convert processing. GPS coordinates need to be updated."
+}

@@ -1,0 +1,895 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "June, 01 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 02 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 03 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 04 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 05 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 06 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 07 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 08 2021 00:00:00",
+      303,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 09 2021 00:00:00",
+      355,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 10 2021 00:00:00",
+      737,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 11 2021 00:00:00",
+      950,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 12 2021 00:00:00",
+      830,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 13 2021 00:00:00",
+      994,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 14 2021 00:00:00",
+      2037,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 15 2021 00:00:00",
+      1355,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 16 2021 00:00:00",
+      3333,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 17 2021 00:00:00",
+      4342,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 18 2021 00:00:00",
+      6635,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 19 2021 00:00:00",
+      1569,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 20 2021 00:00:00",
+      1674,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 21 2021 00:00:00",
+      7421,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 22 2021 00:00:00",
+      6246,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 23 2021 00:00:00",
+      5071,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 24 2021 00:00:00",
+      6549,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 25 2021 00:00:00",
+      7705,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 26 2021 00:00:00",
+      10559,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 27 2021 00:00:00",
+      11581,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 28 2021 00:00:00",
+      15908,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 29 2021 00:00:00",
+      23561,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "June, 30 2021 00:00:00",
+      36415,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 01 2021 00:00:00",
+      32671,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 02 2021 00:00:00",
+      22821,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 03 2021 00:00:00",
+      32673,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 04 2021 00:00:00",
+      56482,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 05 2021 00:00:00",
+      56124,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 06 2021 00:00:00",
+      39890,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 07 2021 00:00:00",
+      42628,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 08 2021 00:00:00",
+      43024,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 09 2021 00:00:00",
+      21250,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 10 2021 00:00:00",
+      21785,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 11 2021 00:00:00",
+      19520,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 12 2021 00:00:00",
+      21811,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 13 2021 00:00:00",
+      24927,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 14 2021 00:00:00",
+      44081,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 15 2021 00:00:00",
+      14310,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 16 2021 00:00:00",
+      20505,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 17 2021 00:00:00",
+      16137,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 18 2021 00:00:00",
+      7461,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 19 2021 00:00:00",
+      8041,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 20 2021 00:00:00",
+      14984,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 21 2021 00:00:00",
+      5516,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 22 2021 00:00:00",
+      3166,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 23 2021 00:00:00",
+      2755,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 24 2021 00:00:00",
+      1244,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 25 2021 00:00:00",
+      1752,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 26 2021 00:00:00",
+      1237,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 27 2021 00:00:00",
+      1782,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 28 2021 00:00:00",
+      2225,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 29 2021 00:00:00",
+      951,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 30 2021 00:00:00",
+      130,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "July, 31 2021 00:00:00",
+      687,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 01 2021 00:00:00",
+      793,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 02 2021 00:00:00",
+      1981,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 03 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 04 2021 00:00:00",
+      462,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 05 2021 00:00:00",
+      819,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 06 2021 00:00:00",
+      1413,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 07 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 08 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 09 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 10 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 11 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 12 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 13 2021 00:00:00",
+      440,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 14 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 15 2021 00:00:00",
+      293,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 16 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 17 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 18 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 19 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 20 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 21 2021 00:00:00",
+      136,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 22 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 23 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 24 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 25 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 26 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 27 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 28 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 29 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 30 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "August, 31 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "September, 01 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "September, 02 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "September, 03 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "September, 04 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "September, 05 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ],
+    [
+      2021,
+      "September, 06 2021 00:00:00",
+      0,
+      420,
+      1025,
+      "Location 1025",
+      "Kuskokwim River Sonar"
+    ]
+  ]
+}

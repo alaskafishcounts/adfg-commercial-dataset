@@ -1,0 +1,382 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      0,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      1,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      57,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      30,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      73,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      34,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      1160,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      902,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      865,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      1920,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      1095,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      1718,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      2963,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      2367,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      4572,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      8125,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      5285,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      2598,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      2763,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      1438,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      193,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      300,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      1276,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      1955,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      2019,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      2322,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      3646,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      1497,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      1324,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      896,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      691,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      594,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      572,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      535,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      383,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      335,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      142,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      191,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      149,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      168,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ],
+    [
+      2008,
+      "January, 01 2008 00:00:00",
+      105,
+      450,
+      1001,
+      "Location 1001",
+      "Andreafsky River East Fork Escapement"
+    ]
+  ]
+}
