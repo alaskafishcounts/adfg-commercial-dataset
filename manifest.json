@@ -1,2691 +1,4104 @@
 {
   "version": "3.0.0",
-  "metadata": {
-    "total_files": 486,
-    "total_locations": 43,
-    "year_range": {
-      "earliest": 1965,
-      "latest": 2025
-    },
-    "format": "organized_by_location_year_species",
-    "generated_date": "2025-10-06T14:45:00Z",
-    "description": "Complete manifest for Commercial Dataset - covers ALL data files",
-    "data_quality_fixes": {
-      "date": "2025-10-06T15:00:00Z",
-      "description": "Fixed species ID mismatches and location name inconsistencies",
-      "fixes_applied": "Corrected species ID 999 to 450 for Chum salmon, fixed location name mismatches"
-    },
-    "last_updated": "2025-10-10T08:17:16.803415Z",
-    "location_name_fixes": {
-      "date": "2025-10-10T08:17:16.803422Z",
-      "fixes_applied": 43,
-      "description": "Fixed generic Station XXXX names to proper location names"
-    }
-  },
+  "dataset": "adfg-commercial-dataset",
+  "description": "ADF&G Commercial Fisheries Dataset",
+  "last_updated": "2025-10-10",
+  "total_files": 486,
+  "year_range": [
+    1965,
+    2025
+  ],
   "organized": {
-    "1069": {
-      "name": "Commercial Location 1069",
-      "slug": "commercial-location-1069",
-      "region": "Unknown",
-      "total_files": 2,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "1981": {
-              "filename": "1981-noatak-river-chum.json",
-              "location_name": "Noatak River",
-              "species_name": "Chum",
-              "original_path": "1069/999/1981-location-1069-other.json"
-            },
-            "1999": {
-              "filename": "1999-tatlawiksuk-river-chinook.json",
-              "location_name": "Tatlawiksuk River",
-              "species_name": "Chinook",
-              "original_path": "1069/999/1999-location-1069-other.json"
-            }
-          },
-          "years": [
-            1999,
-            1981
-          ],
-          "file_count": 2
-        }
+    "1070": {
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          2000,
+          2000
+        ],
+        "files": [
+          {
+            "file": "1070/410/2000-takotna-river-weir-chinook.json",
+            "year": 2000,
+            "total_records": 1796,
+            "size_bytes": 242319
+          }
+        ]
       },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1056": {
-      "name": "Commercial Location 1056",
-      "slug": "commercial-location-1056",
-      "region": "Unknown",
-      "total_files": 4,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "1996": {
-              "filename": "1996-shaktoolik-river-pink.json",
-              "location_name": "Shaktoolik River",
-              "species_name": "Pink",
-              "original_path": "1056/999/1996-location-1056-other.json"
-            },
-            "2019": {
-              "filename": "2019-shaktoolik-river-sockeye.json",
-              "location_name": "Shaktoolik River",
-              "species_name": "Sockeye",
-              "original_path": "1056/999/2019-location-1056-other.json"
-            },
-            "2010": {
-              "filename": "2010-telaquana-river-sockeye.json",
-              "location_name": "Telaquana River",
-              "species_name": "Sockeye",
-              "original_path": "1056/999/2010-location-1056-other.json"
-            },
-            "2023": {
-              "filename": "2023-telaquana-river-coho.json",
-              "location_name": "Telaquana River",
-              "species_name": "Coho",
-              "original_path": "1056/999/2023-location-1056-other.json"
-            }
-          },
-          "years": [
-            2023,
-            2019,
-            2010,
-            1996
-          ],
-          "file_count": 4
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1051": {
-      "name": "Commercial Location 1051",
-      "slug": "commercial-location-1051",
-      "region": "Unknown",
-      "total_files": 7,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "1997": {
-              "filename": "1997-pilgrim-river-pink.json",
-              "location_name": "Pilgrim River",
-              "species_name": "Pink",
-              "original_path": "1051/999/1997-location-1051-other.json"
-            },
-            "2000": {
-              "filename": "2000-pilgrim-river-chum.json",
-              "location_name": "Pilgrim River",
-              "species_name": "Chum",
-              "original_path": "1051/999/2000-location-1051-other.json"
-            }
-          },
-          "years": [
-            2000,
-            1997
-          ],
-          "file_count": 2
-        },
-        "440": {
-          "name": "Species 440",
-          "slug": "species-440",
-          "files": {
-            "1996": "1051/440/1996-location-1051-pink.json"
-          },
-          "years": [
-            1996
-          ],
-          "file_count": 1
-        },
-        "430": {
-          "name": "Species 430",
-          "slug": "species-430",
-          "files": {
-            "1996": "1051/430/1996-location-1051-coho.json"
-          },
-          "years": [
-            1996
-          ],
-          "file_count": 1
-        },
-        "410": {
-          "name": "Species 410",
-          "slug": "species-410",
-          "files": {
-            "1996": "1051/410/1996-location-1051-chinook.json"
-          },
-          "years": [
-            1996
-          ],
-          "file_count": 1
-        },
-        "420": {
-          "name": "Species 420",
-          "slug": "species-420",
-          "files": {
-            "2019": "1051/420/2019-location-1051-sockeye.json"
-          },
-          "years": [
-            2019
-          ],
-          "file_count": 1
-        },
-        "450": {
-          "name": "Species 450",
-          "slug": "species-450",
-          "files": {
-            "1996": "1051/450/1996-location-1051-chum.json"
-          },
-          "years": [
-            1996
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1058": {
-      "name": "Commercial Location 1058",
-      "slug": "commercial-location-1058",
-      "region": "Unknown",
-      "total_files": 5,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2014": {
-              "filename": "2014-glacial-lake-sockeye.json",
-              "location_name": "Glacial Lake",
-              "species_name": "Sockeye",
-              "original_path": "1058/999/2014-location-1058-other.json"
-            },
-            "2010": {
-              "filename": "2010-unalakleet-river-chum.json",
-              "location_name": "Unalakleet River",
-              "species_name": "Chum",
-              "original_path": "1058/999/2010-location-1058-other.json"
-            },
-            "2008": {
-              "filename": "2008-glacial-lake-pink.json",
-              "location_name": "Glacial Lake",
-              "species_name": "Pink",
-              "original_path": "1058/999/2008-location-1058-other.json"
-            },
-            "2000": {
-              "filename": "2000-glacial-lake-sockeye.json",
-              "location_name": "Glacial Lake",
-              "species_name": "Sockeye",
-              "original_path": "1058/999/2000-location-1058-other.json"
-            },
-            "2004": {
-              "filename": "2004-glacial-lake-chum.json",
-              "location_name": "Glacial Lake",
-              "species_name": "Chum",
-              "original_path": "1058/999/2004-location-1058-other.json"
-            }
-          },
-          "years": [
-            2014,
-            2010,
-            2008,
-            2004,
-            2000
-          ],
-          "file_count": 5
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1060": {
-      "name": "Commercial Location 1060",
-      "slug": "commercial-location-1060",
-      "region": "Unknown",
-      "total_files": 2,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "1991": {
-              "filename": "1991-tuluksak-river-chinook.json",
-              "location_name": "Tuluksak River",
-              "species_name": "Chinook",
-              "original_path": "1060/999/1991-location-1060-other.json"
-            },
-            "2008": {
-              "filename": "2008-tuluksak-river-pink.json",
-              "location_name": "Tuluksak River",
-              "species_name": "Pink",
-              "original_path": "1060/999/2008-location-1060-other.json"
-            }
-          },
-          "years": [
-            2008,
-            1991
-          ],
-          "file_count": 2
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1034": {
-      "name": "Commercial Location 1034",
-      "slug": "commercial-location-1034",
-      "region": "Unknown",
-      "total_files": 4,
-      "species": {
-        "430": {
-          "name": "Species 430",
-          "slug": "species-430",
-          "files": {
-            "2025": "1034/430/2025-sashin-creek-coho.json"
-          },
-          "years": [
-            2025
-          ],
-          "file_count": 1
-        },
-        "410": {
-          "name": "Species 410",
-          "slug": "species-410",
-          "files": {
-            "2025": "1034/410/2025-sashin-creek-chinook.json"
-          },
-          "years": [
-            2025
-          ],
-          "file_count": 1
-        },
-        "420": {
-          "name": "Species 420",
-          "slug": "species-420",
-          "files": {
-            "2025": "1034/420/2025-sashin-creek-sockeye.json"
-          },
-          "years": [
-            2025
-          ],
-          "file_count": 1
-        },
-        "450": {
-          "name": "Species 450",
-          "slug": "species-450",
-          "files": {
-            "2025": "1034/450/2025-sashin-creek-chum.json"
-          },
-          "years": [
-            2025
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1201": {
-      "name": "Commercial Location 1201",
-      "slug": "commercial-location-1201",
-      "region": "Unknown",
-      "total_files": 6,
-      "species": {
-        "440": {
-          "name": "Species 440",
-          "slug": "species-440",
-          "files": {
-            "1997": "1201/440/1997-location-1201-pink.json"
-          },
-          "years": [
-            1997
-          ],
-          "file_count": 1
-        },
-        "430": {
-          "name": "Species 430",
-          "slug": "species-430",
-          "files": {
-            "2000": "1201/430/2000-location-1201-coho.json",
-            "1997": "1201/430/1997-location-1201-coho.json"
-          },
-          "years": [
-            2000,
-            1997
-          ],
-          "file_count": 2
-        },
-        "410": {
-          "name": "Species 410",
-          "slug": "species-410",
-          "files": {
-            "1997": "1201/410/1997-location-1201-chinook.json"
-          },
-          "years": [
-            1997
-          ],
-          "file_count": 1
-        },
-        "420": {
-          "name": "Species 420",
-          "slug": "species-420",
-          "files": {
-            "2000": "1201/420/2000-location-1201-sockeye.json"
-          },
-          "years": [
-            2000
-          ],
-          "file_count": 1
-        },
-        "450": {
-          "name": "Species 450",
-          "slug": "species-450",
-          "files": {
-            "2000": "1201/450/2000-location-1201-chum.json"
-          },
-          "years": [
-            2000
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1033": {
-      "name": "Commercial Location 1033",
-      "slug": "commercial-location-1033",
-      "region": "Unknown",
-      "total_files": 4,
-      "species": {
-        "430": {
-          "name": "Species 430",
-          "slug": "species-430",
-          "files": {
-            "2025": "1033/430/2025-speel-lake-coho.json"
-          },
-          "years": [
-            2025
-          ],
-          "file_count": 1
-        },
-        "410": {
-          "name": "Species 410",
-          "slug": "species-410",
-          "files": {
-            "2025": "1033/410/2025-speel-lake-chinook.json"
-          },
-          "years": [
-            2025
-          ],
-          "file_count": 1
-        },
-        "420": {
-          "name": "Species 420",
-          "slug": "species-420",
-          "files": {
-            "2025": "1033/420/2025-speel-lake-sockeye.json"
-          },
-          "years": [
-            2025
-          ],
-          "file_count": 1
-        },
-        "450": {
-          "name": "Species 450",
-          "slug": "species-450",
-          "files": {
-            "2025": "1033/450/2025-speel-lake-chum.json"
-          },
-          "years": [
-            2025
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1061": {
-      "name": "Commercial Location 1061",
-      "slug": "commercial-location-1061",
-      "region": "Unknown",
-      "total_files": 1,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2014": {
-              "filename": "2014-fish-river-chinook.json",
-              "location_name": "Fish River",
-              "species_name": "Chinook",
-              "original_path": "1061/999/2014-location-1061-other.json"
-            }
-          },
-          "years": [
-            2014
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1059": {
-      "name": "Commercial Location 1059",
-      "slug": "commercial-location-1059",
-      "region": "Unknown",
-      "total_files": 5,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2008": {
-              "filename": "2008-tuluksak-river-pink.json",
-              "location_name": "Tuluksak River",
-              "species_name": "Pink",
-              "original_path": "1059/999/2008-location-1059-other.json"
-            },
-            "2000": {
-              "filename": "2000-glacial-lake-sockeye.json",
-              "location_name": "Glacial Lake",
-              "species_name": "Sockeye",
-              "original_path": "1059/999/2000-location-1059-other.json"
-            },
-            "2004": {
-              "filename": "2004-glacial-lake-chum.json",
-              "location_name": "Glacial Lake",
-              "species_name": "Chum",
-              "original_path": "1059/999/2004-location-1059-other.json"
-            },
-            "2014": {
-              "filename": "2014-glacial-lake-sockeye.json",
-              "location_name": "Glacial Lake",
-              "species_name": "Sockeye",
-              "original_path": "1059/999/2014-location-1059-other.json"
-            },
-            "1991": {
-              "filename": "1991-tuluksak-river-chinook.json",
-              "location_name": "Tuluksak River",
-              "species_name": "Chinook",
-              "original_path": "1059/999/1991-location-1059-other.json"
-            }
-          },
-          "years": [
-            2014,
-            2008,
-            2004,
-            2000,
-            1991
-          ],
-          "file_count": 5
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1066": {
-      "name": "Commercial Location 1066",
-      "slug": "commercial-location-1066",
-      "region": "Unknown",
-      "total_files": 1,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2018": {
-              "filename": "2018-bonanza-river-coho.json",
-              "location_name": "Bonanza River",
-              "species_name": "Coho",
-              "original_path": "1066/999/2018-location-1066-other.json"
-            }
-          },
-          "years": [
-            2018
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1050": {
-      "name": "Commercial Location 1050",
-      "slug": "commercial-location-1050",
-      "region": "Unknown",
-      "total_files": 3,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2002": {
-              "filename": "2002-snake-river-sockeye.json",
-              "location_name": "Snake River",
-              "species_name": "Sockeye",
-              "original_path": "1050/999/2002-location-1050-other.json"
-            },
-            "1995": {
-              "filename": "1995-snake-river-pink.json",
-              "location_name": "Snake River",
-              "species_name": "Pink",
-              "original_path": "1050/999/1995-location-1050-other.json"
-            },
-            "1996": {
-              "filename": "1996-snake-river-chinook.json",
-              "location_name": "Snake River",
-              "species_name": "Chinook",
-              "original_path": "1050/999/1996-location-1050-other.json"
-            }
-          },
-          "years": [
-            2002,
-            1996,
-            1995
-          ],
-          "file_count": 3
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1068": {
-      "name": "Commercial Location 1068",
-      "slug": "commercial-location-1068",
-      "region": "Unknown",
-      "total_files": 1,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "1999": {
-              "filename": "1999-tatlawiksuk-river-chinook.json",
-              "location_name": "Tatlawiksuk River",
-              "species_name": "Chinook",
-              "original_path": "1068/999/1999-location-1068-other.json"
-            }
-          },
-          "years": [
-            1999
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1057": {
-      "name": "Commercial Location 1057",
-      "slug": "commercial-location-1057",
-      "region": "Unknown",
-      "total_files": 2,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2010": {
-              "filename": "2010-unalakleet-river-chum.json",
-              "location_name": "Unalakleet River",
-              "species_name": "Chum",
-              "original_path": "1057/999/2010-location-1057-other.json"
-            },
-            "2023": {
-              "filename": "2023-telaquana-river-coho.json",
-              "location_name": "Telaquana River",
-              "species_name": "Coho",
-              "original_path": "1057/999/2023-location-1057-other.json"
-            }
-          },
-          "years": [
-            2023,
-            2010
-          ],
-          "file_count": 2
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1035": {
-      "name": "Commercial Location 1035",
-      "slug": "commercial-location-1035",
-      "region": "Unknown",
-      "total_files": 5,
-      "species": {
-        "440": {
-          "name": "Species 440",
-          "slug": "species-440",
-          "files": {
-            "2025": "1035/440/2025-tahltan-lake-pink.json"
-          },
-          "years": [
-            2025
-          ],
-          "file_count": 1
-        },
-        "430": {
-          "name": "Species 430",
-          "slug": "species-430",
-          "files": {
-            "2025": "1035/430/2025-tahltan-lake-coho.json"
-          },
-          "years": [
-            2025
-          ],
-          "file_count": 1
-        },
-        "410": {
-          "name": "Species 410",
-          "slug": "species-410",
-          "files": {
-            "2025": "1035/410/2025-tahltan-lake-chinook.json"
-          },
-          "years": [
-            2025
-          ],
-          "file_count": 1
-        },
-        "420": {
-          "name": "Species 420",
-          "slug": "species-420",
-          "files": {
-            "2025": "1035/420/2025-tahltan-lake-sockeye.json"
-          },
-          "years": [
-            2025
-          ],
-          "file_count": 1
-        },
-        "450": {
-          "name": "Species 450",
-          "slug": "species-450",
-          "files": {
-            "2025": "1035/450/2025-tahltan-lake-chum.json"
-          },
-          "years": [
-            2025
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1101": {
-      "name": "Commercial Location 1101",
-      "slug": "commercial-location-1101",
-      "region": "Unknown",
-      "total_files": 1,
-      "species": {
-        "420": {
-          "name": "Species 420",
-          "slug": "species-420",
-          "files": {
-            "2023": "1101/420/2023-location-1101-sockeye.json"
-          },
-          "years": [
-            2023
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1501": {
-      "name": "Commercial Location 1501",
-      "slug": "commercial-location-1501",
-      "region": "Unknown",
-      "total_files": 5,
-      "species": {
-        "440": {
-          "name": "Species 440",
-          "slug": "species-440",
-          "files": {
-            "1995": "1501/440/1995-location-1501-pink.json"
-          },
-          "years": [
-            1995
-          ],
-          "file_count": 1
-        },
-        "430": {
-          "name": "Species 430",
-          "slug": "species-430",
-          "files": {
-            "1995": "1501/430/1995-location-1501-coho.json"
-          },
-          "years": [
-            1995
-          ],
-          "file_count": 1
-        },
-        "410": {
-          "name": "Species 410",
-          "slug": "species-410",
-          "files": {
-            "1995": "1501/410/1995-location-1501-chinook.json"
-          },
-          "years": [
-            1995
-          ],
-          "file_count": 1
-        },
-        "420": {
-          "name": "Species 420",
-          "slug": "species-420",
-          "files": {
-            "2002": "1501/420/2002-location-1501-sockeye.json"
-          },
-          "years": [
-            2002
-          ],
-          "file_count": 1
-        },
-        "450": {
-          "name": "Species 450",
-          "slug": "species-450",
-          "files": {
-            "1995": "1501/450/1995-location-1501-chum.json"
-          },
-          "years": [
-            1995
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1026": {
-      "name": "Commercial Location 1026",
-      "slug": "commercial-location-1026",
-      "region": "Unknown",
-      "total_files": 27,
-      "species": {
-        "410": {
-          "name": "Species 410",
-          "slug": "species-410",
-          "files": {
-            "2015": "1026/410/2015-ford-arm-chinook.json",
-            "2009": "1026/410/2009-ford-arm-chinook.json",
-            "1997": "1026/410/1997-ford-arm-chinook.json",
-            "2025": "1026/410/2025-ford-arm-chinook.json",
-            "2017": "1026/410/2017-ford-arm-chinook.json",
-            "2001": "1026/410/2001-ford-arm-chinook.json",
-            "2011": "1026/410/2011-ford-arm-chinook.json",
-            "2007": "1026/410/2007-ford-arm-chinook.json",
-            "2023": "1026/410/2023-ford-arm-chinook.json",
-            "2019": "1026/410/2019-ford-arm-chinook.json",
-            "2013": "1026/410/2013-ford-arm-chinook.json",
-            "2005": "1026/410/2005-ford-arm-chinook.json",
-            "2021": "1026/410/2021-ford-arm-chinook.json",
-            "2002": "1026/410/2002-ford-arm-chinook.json",
-            "2014": "1026/410/2014-ford-arm-chinook.json",
-            "2000": "1026/410/2000-ford-arm-chinook.json",
-            "2016": "1026/410/2016-ford-arm-chinook.json",
-            "1996": "1026/410/1996-ford-arm-chinook.json",
-            "2008": "1026/410/2008-ford-arm-chinook.json",
-            "2024": "1026/410/2024-ford-arm-chinook.json",
-            "2022": "1026/410/2022-ford-arm-chinook.json",
-            "2018": "1026/410/2018-ford-arm-chinook.json",
-            "2006": "1026/410/2006-ford-arm-chinook.json",
-            "2010": "1026/410/2010-ford-arm-chinook.json",
-            "2020": "1026/410/2020-ford-arm-chinook.json",
-            "2004": "1026/410/2004-ford-arm-chinook.json",
-            "2012": "1026/410/2012-ford-arm-chinook.json"
-          },
-          "years": [
-            2025,
-            2024,
-            2023,
-            2022,
-            2021,
-            2020,
-            2019,
-            2018,
-            2017,
-            2016,
-            2015,
-            2014,
-            2013,
-            2012,
-            2011,
-            2010,
-            2009,
-            2008,
-            2007,
-            2006,
-            2005,
-            2004,
-            2002,
-            2001,
-            2000,
-            1997,
-            1996
-          ],
-          "file_count": 27
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1072": {
-      "name": "Commercial Location 1072",
-      "slug": "commercial-location-1072",
-      "region": "Unknown",
-      "total_files": 3,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "1979": {
-              "filename": "1979-niukluk-river-pink.json",
-              "location_name": "Niukluk River",
-              "species_name": "Pink",
-              "original_path": "1072/999/1979-location-1072-other.json"
-            },
-            "2022": {
-              "filename": "2022-pilot-station-sonar-sockeye.json",
-              "location_name": "Pilot Station Sonar",
-              "species_name": "Sockeye",
-              "original_path": "1072/999/2022-location-1072-other.json"
-            },
-            "1995": {
-              "filename": "1995-pilot-station-sonar-chinook.json",
-              "location_name": "Pilot Station Sonar",
-              "species_name": "Chinook",
-              "original_path": "1072/999/1995-location-1072-other.json"
-            }
-          },
-          "years": [
-            2022,
-            1995,
-            1979
-          ],
-          "file_count": 3
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1044": {
-      "name": "Commercial Location 1044",
-      "slug": "commercial-location-1044",
-      "region": "Unknown",
-      "total_files": 2,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2013": {
-              "filename": "2013-solomon-river-chum.json",
-              "location_name": "Solomon River",
-              "species_name": "Chum",
-              "original_path": "1044/999/2013-big-bay-creek-other.json"
-            },
-            "2015": {
-              "filename": "2015-solomon-river-chinook.json",
-              "location_name": "Solomon River",
-              "species_name": "Chinook",
-              "original_path": "1044/999/2015-big-bay-creek-other.json"
-            }
-          },
-          "years": [
-            2015,
-            2013
-          ],
-          "file_count": 2
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1043": {
-      "name": "Commercial Location 1043",
-      "slug": "commercial-location-1043",
-      "region": "Unknown",
-      "total_files": 1,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2020": {
-              "filename": "2020-ungalik-river-pink.json",
-              "location_name": "Ungalik River",
-              "species_name": "Pink",
-              "original_path": "1043/999/2020-sitkoh-lake-creek-other.json"
-            }
-          },
-          "years": [
-            2020
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1042": {
-      "name": "Commercial Location 1042",
-      "slug": "commercial-location-1042",
-      "region": "Unknown",
-      "total_files": 1,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "1981": {
-              "filename": "1981-noatak-river-chum.json",
-              "location_name": "Noatak River",
-              "species_name": "Chum",
-              "original_path": "1042/999/1981-warm-chuck-lake-other.json"
-            }
-          },
-          "years": [
-            1981
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1037": {
-      "name": "Commercial Location 1037",
-      "slug": "commercial-location-1037",
-      "region": "Unknown",
-      "total_files": 146,
-      "species": {
-        "440": {
-          "name": "Species 440",
-          "slug": "species-440",
-          "files": {
-            "2014": "1037/440/2014-salmon-lake-stream-pink.json",
-            "2001": "1037/440/2001-salmon-lake-stream-pink.json",
-            "2025": "1037/440/2025-salmon-lake-stream-pink.json",
-            "2002": "1037/440/2002-salmon-lake-stream-pink.json",
-            "2017": "1037/440/2017-salmon-lake-stream-pink.json",
-            "2019": "1037/440/2019-salmon-lake-stream-pink.json",
-            "1996": "1037/440/1996-salmon-lake-stream-pink.json",
-            "1998": "1037/440/1998-salmon-lake-stream-pink.json",
-            "2020": "1037/440/2020-salmon-lake-stream-pink.json",
-            "2011": "1037/440/2011-salmon-lake-stream-pink.json",
-            "2004": "1037/440/2004-salmon-lake-stream-pink.json",
-            "2023": "1037/440/2023-salmon-lake-stream-pink.json",
-            "2007": "1037/440/2007-salmon-lake-stream-pink.json",
-            "2009": "1037/440/2009-salmon-lake-stream-pink.json",
-            "2012": "1037/440/2012-salmon-lake-stream-pink.json",
-            "1995": "1037/440/1995-salmon-lake-stream-pink.json",
-            "2013": "1037/440/2013-salmon-lake-stream-pink.json",
-            "2008": "1037/440/2008-salmon-lake-stream-pink.json",
-            "2006": "1037/440/2006-salmon-lake-stream-pink.json",
-            "2022": "1037/440/2022-salmon-lake-stream-pink.json",
-            "1999": "1037/440/1999-salmon-lake-stream-pink.json",
-            "1997": "1037/440/1997-salmon-lake-stream-pink.json",
-            "2005": "1037/440/2005-salmon-lake-stream-pink.json",
-            "2010": "1037/440/2010-salmon-lake-stream-pink.json",
-            "2021": "1037/440/2021-salmon-lake-stream-pink.json",
-            "2018": "1037/440/2018-salmon-lake-stream-pink.json",
-            "2016": "1037/440/2016-salmon-lake-stream-pink.json",
-            "2003": "1037/440/2003-salmon-lake-stream-pink.json",
-            "2024": "1037/440/2024-salmon-lake-stream-pink.json",
-            "2000": "1037/440/2000-salmon-lake-stream-pink.json",
-            "2015": "1037/440/2015-salmon-lake-stream-pink.json"
-          },
-          "years": [
-            2025,
-            2024,
-            2023,
-            2022,
-            2021,
-            2020,
-            2019,
-            2018,
-            2017,
-            2016,
-            2015,
-            2014,
-            2013,
-            2012,
-            2011,
-            2010,
-            2009,
-            2008,
-            2007,
-            2006,
-            2005,
-            2004,
-            2003,
-            2002,
-            2001,
-            2000,
-            1999,
-            1998,
-            1997,
-            1996,
-            1995
-          ],
-          "file_count": 31
-        },
-        "430": {
-          "name": "Species 430",
-          "slug": "species-430",
-          "files": {
-            "1998": "1037/430/1998-salmon-lake-stream-coho.json",
-            "1996": "1037/430/1996-salmon-lake-stream-coho.json",
-            "2011": "1037/430/2011-salmon-lake-stream-coho.json",
-            "2004": "1037/430/2004-salmon-lake-stream-coho.json",
-            "2020": "1037/430/2020-salmon-lake-stream-coho.json",
-            "2009": "1037/430/2009-salmon-lake-stream-coho.json",
-            "2007": "1037/430/2007-salmon-lake-stream-coho.json",
-            "2012": "1037/430/2012-salmon-lake-stream-coho.json",
-            "2023": "1037/430/2023-salmon-lake-stream-coho.json",
-            "1995": "1037/430/1995-salmon-lake-stream-coho.json",
-            "2025": "1037/430/2025-salmon-lake-stream-coho.json",
-            "2014": "1037/430/2014-salmon-lake-stream-coho.json",
-            "2001": "1037/430/2001-salmon-lake-stream-coho.json",
-            "2002": "1037/430/2002-salmon-lake-stream-coho.json",
-            "2019": "1037/430/2019-salmon-lake-stream-coho.json",
-            "2017": "1037/430/2017-salmon-lake-stream-coho.json",
-            "2016": "1037/430/2016-salmon-lake-stream-coho.json",
-            "2018": "1037/430/2018-salmon-lake-stream-coho.json",
-            "2003": "1037/430/2003-salmon-lake-stream-coho.json",
-            "2000": "1037/430/2000-salmon-lake-stream-coho.json",
-            "2015": "1037/430/2015-salmon-lake-stream-coho.json",
-            "2024": "1037/430/2024-salmon-lake-stream-coho.json",
-            "2022": "1037/430/2022-salmon-lake-stream-coho.json",
-            "2013": "1037/430/2013-salmon-lake-stream-coho.json",
-            "2006": "1037/430/2006-salmon-lake-stream-coho.json",
-            "2008": "1037/430/2008-salmon-lake-stream-coho.json",
-            "1997": "1037/430/1997-salmon-lake-stream-coho.json",
-            "1999": "1037/430/1999-salmon-lake-stream-coho.json",
-            "2021": "1037/430/2021-salmon-lake-stream-coho.json",
-            "2005": "1037/430/2005-salmon-lake-stream-coho.json",
-            "2010": "1037/430/2010-salmon-lake-stream-coho.json"
-          },
-          "years": [
-            2025,
-            2024,
-            2023,
-            2022,
-            2021,
-            2020,
-            2019,
-            2018,
-            2017,
-            2016,
-            2015,
-            2014,
-            2013,
-            2012,
-            2011,
-            2010,
-            2009,
-            2008,
-            2007,
-            2006,
-            2005,
-            2004,
-            2003,
-            2002,
-            2001,
-            2000,
-            1999,
-            1998,
-            1997,
-            1996,
-            1995
-          ],
-          "file_count": 31
-        },
-        "410": {
-          "name": "Species 410",
-          "slug": "species-410",
-          "files": {
-            "2019": "1037/410/2019-salmon-lake-stream-chinook.json",
-            "1999": "1037/410/1999-salmon-lake-stream-chinook.json",
-            "2003": "1037/410/2003-salmon-lake-stream-chinook.json",
-            "2011": "1037/410/2011-salmon-lake-stream-chinook.json",
-            "2022": "1037/410/2022-salmon-lake-stream-chinook.json",
-            "2006": "1037/410/2006-salmon-lake-stream-chinook.json",
-            "2014": "1037/410/2014-salmon-lake-stream-chinook.json",
-            "2000": "1037/410/2000-salmon-lake-stream-chinook.json",
-            "2012": "1037/410/2012-salmon-lake-stream-chinook.json",
-            "2021": "1037/410/2021-salmon-lake-stream-chinook.json",
-            "2005": "1037/410/2005-salmon-lake-stream-chinook.json",
-            "2024": "1037/410/2024-salmon-lake-stream-chinook.json",
-            "2017": "1037/410/2017-salmon-lake-stream-chinook.json",
-            "2008": "1037/410/2008-salmon-lake-stream-chinook.json",
-            "1997": "1037/410/1997-salmon-lake-stream-chinook.json",
-            "2016": "1037/410/2016-salmon-lake-stream-chinook.json",
-            "2025": "1037/410/2025-salmon-lake-stream-chinook.json",
-            "2004": "1037/410/2004-salmon-lake-stream-chinook.json",
-            "2020": "1037/410/2020-salmon-lake-stream-chinook.json",
-            "2013": "1037/410/2013-salmon-lake-stream-chinook.json",
-            "2001": "1037/410/2001-salmon-lake-stream-chinook.json",
-            "1996": "1037/410/1996-salmon-lake-stream-chinook.json",
-            "2009": "1037/410/2009-salmon-lake-stream-chinook.json",
-            "1995": "1037/410/1995-salmon-lake-stream-chinook.json",
-            "2018": "1037/410/2018-salmon-lake-stream-chinook.json",
-            "2015": "1037/410/2015-salmon-lake-stream-chinook.json",
-            "2007": "1037/410/2007-salmon-lake-stream-chinook.json",
-            "2023": "1037/410/2023-salmon-lake-stream-chinook.json",
-            "2010": "1037/410/2010-salmon-lake-stream-chinook.json",
-            "2002": "1037/410/2002-salmon-lake-stream-chinook.json",
-            "1998": "1037/410/1998-salmon-lake-stream-chinook.json"
-          },
-          "years": [
-            2025,
-            2024,
-            2023,
-            2022,
-            2021,
-            2020,
-            2019,
-            2018,
-            2017,
-            2016,
-            2015,
-            2014,
-            2013,
-            2012,
-            2011,
-            2010,
-            2009,
-            2008,
-            2007,
-            2006,
-            2005,
-            2004,
-            2003,
-            2002,
-            2001,
-            2000,
-            1999,
-            1998,
-            1997,
-            1996,
-            1995
-          ],
-          "file_count": 31
-        },
-        "420": {
-          "name": "Species 420",
-          "slug": "species-420",
-          "files": {
-            "2017": "1037/420/2017-salmon-lake-stream-sockeye.json",
-            "2024": "1037/420/2024-salmon-lake-stream-sockeye.json",
-            "2005": "1037/420/2005-salmon-lake-stream-sockeye.json",
-            "2021": "1037/420/2021-salmon-lake-stream-sockeye.json",
-            "2012": "1037/420/2012-salmon-lake-stream-sockeye.json",
-            "2008": "1037/420/2008-salmon-lake-stream-sockeye.json",
-            "2019": "1037/420/2019-salmon-lake-stream-sockeye.json",
-            "2014": "1037/420/2014-salmon-lake-stream-sockeye.json",
-            "2006": "1037/420/2006-salmon-lake-stream-sockeye.json",
-            "2022": "1037/420/2022-salmon-lake-stream-sockeye.json",
-            "2018": "1037/420/2018-salmon-lake-stream-sockeye.json",
-            "2002": "1037/420/2002-salmon-lake-stream-sockeye.json",
-            "2010": "1037/420/2010-salmon-lake-stream-sockeye.json",
-            "2023": "1037/420/2023-salmon-lake-stream-sockeye.json",
-            "2007": "1037/420/2007-salmon-lake-stream-sockeye.json",
-            "2015": "1037/420/2015-salmon-lake-stream-sockeye.json",
-            "2013": "1037/420/2013-salmon-lake-stream-sockeye.json",
-            "2020": "1037/420/2020-salmon-lake-stream-sockeye.json",
-            "2004": "1037/420/2004-salmon-lake-stream-sockeye.json",
-            "2025": "1037/420/2025-salmon-lake-stream-sockeye.json",
-            "2016": "1037/420/2016-salmon-lake-stream-sockeye.json",
-            "2009": "1037/420/2009-salmon-lake-stream-sockeye.json"
-          },
-          "years": [
-            2025,
-            2024,
-            2023,
-            2022,
-            2021,
-            2020,
-            2019,
-            2018,
-            2017,
-            2016,
-            2015,
-            2014,
-            2013,
-            2012,
-            2010,
-            2009,
-            2008,
-            2007,
-            2006,
-            2005,
-            2004,
-            2002
-          ],
-          "file_count": 22
-        },
-        "450": {
-          "name": "Species 450",
-          "slug": "species-450",
-          "files": {
-            "2023": "1037/450/2023-salmon-lake-stream-chum.json",
-            "2009": "1037/450/2009-salmon-lake-stream-chum.json",
-            "2007": "1037/450/2007-salmon-lake-stream-chum.json",
-            "2012": "1037/450/2012-salmon-lake-stream-chum.json",
-            "1995": "1037/450/1995-salmon-lake-stream-chum.json",
-            "1998": "1037/450/1998-salmon-lake-stream-chum.json",
-            "1996": "1037/450/1996-salmon-lake-stream-chum.json",
-            "2020": "1037/450/2020-salmon-lake-stream-chum.json",
-            "2011": "1037/450/2011-salmon-lake-stream-chum.json",
-            "2004": "1037/450/2004-salmon-lake-stream-chum.json",
-            "2002": "1037/450/2002-salmon-lake-stream-chum.json",
-            "2019": "1037/450/2019-salmon-lake-stream-chum.json",
-            "2017": "1037/450/2017-salmon-lake-stream-chum.json",
-            "2014": "1037/450/2014-salmon-lake-stream-chum.json",
-            "2001": "1037/450/2001-salmon-lake-stream-chum.json",
-            "2025": "1037/450/2025-salmon-lake-stream-chum.json",
-            "2024": "1037/450/2024-salmon-lake-stream-chum.json",
-            "2000": "1037/450/2000-salmon-lake-stream-chum.json",
-            "2015": "1037/450/2015-salmon-lake-stream-chum.json",
-            "2016": "1037/450/2016-salmon-lake-stream-chum.json",
-            "2018": "1037/450/2018-salmon-lake-stream-chum.json",
-            "2003": "1037/450/2003-salmon-lake-stream-chum.json",
-            "1997": "1037/450/1997-salmon-lake-stream-chum.json",
-            "1999": "1037/450/1999-salmon-lake-stream-chum.json",
-            "2005": "1037/450/2005-salmon-lake-stream-chum.json",
-            "2010": "1037/450/2010-salmon-lake-stream-chum.json",
-            "2021": "1037/450/2021-salmon-lake-stream-chum.json",
-            "2013": "1037/450/2013-salmon-lake-stream-chum.json",
-            "2006": "1037/450/2006-salmon-lake-stream-chum.json",
-            "2008": "1037/450/2008-salmon-lake-stream-chum.json",
-            "2022": "1037/450/2022-salmon-lake-stream-chum.json"
-          },
-          "years": [
-            2025,
-            2024,
-            2023,
-            2022,
-            2021,
-            2020,
-            2019,
-            2018,
-            2017,
-            2016,
-            2015,
-            2014,
-            2013,
-            2012,
-            2011,
-            2010,
-            2009,
-            2008,
-            2007,
-            2006,
-            2005,
-            2004,
-            2003,
-            2002,
-            2001,
-            2000,
-            1999,
-            1998,
-            1997,
-            1996,
-            1995
-          ],
-          "file_count": 31
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1001": {
-      "name": "Akalura River Weir",
-      "slug": "akalura-river-weir",
-      "region": "Unknown",
-      "total_files": 159,
-      "species": {
-        "440": {
-          "name": "Species 440",
-          "slug": "species-440",
-          "files": {
-            "1996": "1001/440/1996-akalura-river-pink.json",
-            "1999": "1001/440/1999-akalura-river-pink.json",
-            "2002": "1001/440/2002-akalura-river-pink.json",
-            "2011": "1001/440/2011-akalura-river-pink.json",
-            "2006": "1001/440/2006-akalura-river-pink.json",
-            "2009": "1001/440/2009-akalura-river-pink.json",
-            "2024": "1001/440/2024-akalura-river-pink.json",
-            "2015": "1001/440/2015-akalura-river-pink.json",
-            "2019": "1001/440/2019-akalura-river-pink.json",
-            "2016": "1001/440/2016-akalura-river-pink.json",
-            "2005": "1001/440/2005-akalura-river-pink.json",
-            "2012": "1001/440/2012-akalura-river-pink.json",
-            "1986": "1001/440/1986-akalura-river-pink.json",
-            "2023": "1001/440/2023-akalura-river-pink.json",
-            "1995": "1001/440/1995-akalura-river-pink.json",
-            "2001": "1001/440/2001-akalura-river-pink.json",
-            "2014": "1001/440/2014-akalura-river-pink.json",
-            "2008": "1001/440/2008-akalura-river-pink.json",
-            "2007": "1001/440/2007-akalura-river-pink.json",
-            "2021": "1001/440/2021-akalura-river-pink.json",
-            "2010": "1001/440/2010-akalura-river-pink.json",
-            "2003": "1001/440/2003-akalura-river-pink.json",
-            "1998": "1001/440/1998-akalura-river-pink.json",
-            "1997": "1001/440/1997-akalura-river-pink.json",
-            "2000": "1001/440/2000-akalura-river-pink.json",
-            "1994": "1001/440/1994-akalura-river-pink.json",
-            "1987": "1001/440/1987-akalura-river-pink.json",
-            "1988": "1001/440/1988-akalura-river-pink.json",
-            "2013": "1001/440/2013-akalura-river-pink.json",
-            "2004": "1001/440/2004-akalura-river-pink.json",
-            "2017": "1001/440/2017-akalura-river-pink.json",
-            "2018": "1001/440/2018-akalura-river-pink.json"
-          },
-          "years": [
-            2024,
-            2023,
-            2021,
-            2019,
-            2018,
-            2017,
-            2016,
-            2015,
-            2014,
-            2013,
-            2012,
-            2011,
-            2010,
-            2009,
-            2008,
-            2007,
-            2006,
-            2005,
-            2004,
-            2003,
-            2002,
-            2001,
-            2000,
-            1999,
-            1998,
-            1997,
-            1996,
-            1995,
-            1994,
-            1988,
-            1987,
-            1986
-          ],
-          "file_count": 32
-        },
-        "430": {
-          "name": "Species 430",
-          "slug": "species-430",
-          "files": {
-            "2016": "1001/430/2016-akalura-river-coho.json",
-            "1982": "1001/430/1982-akalura-river-coho.json",
-            "2019": "1001/430/2019-akalura-river-coho.json",
-            "2005": "1001/430/2005-akalura-river-coho.json",
-            "1986": "1001/430/1986-akalura-river-coho.json",
-            "2023": "1001/430/2023-akalura-river-coho.json",
-            "2012": "1001/430/2012-akalura-river-coho.json",
-            "2001": "1001/430/2001-akalura-river-coho.json",
-            "1995": "1001/430/1995-akalura-river-coho.json",
-            "1999": "1001/430/1999-akalura-river-coho.json",
-            "2002": "1001/430/2002-akalura-river-coho.json",
-            "1996": "1001/430/1996-akalura-river-coho.json",
-            "1985": "1001/430/1985-akalura-river-coho.json",
-            "2011": "1001/430/2011-akalura-river-coho.json",
-            "2009": "1001/430/2009-akalura-river-coho.json",
-            "2006": "1001/430/2006-akalura-river-coho.json",
-            "2015": "1001/430/2015-akalura-river-coho.json",
-            "1981": "1001/430/1981-akalura-river-coho.json",
-            "2024": "1001/430/2024-akalura-river-coho.json",
-            "1994": "1001/430/1994-akalura-river-coho.json",
-            "2000": "1001/430/2000-akalura-river-coho.json",
-            "1988": "1001/430/1988-akalura-river-coho.json",
-            "2013": "1001/430/2013-akalura-river-coho.json",
-            "1987": "1001/430/1987-akalura-river-coho.json",
-            "2004": "1001/430/2004-akalura-river-coho.json",
-            "2018": "1001/430/2018-akalura-river-coho.json",
-            "1983": "1001/430/1983-akalura-river-coho.json",
-            "2017": "1001/430/2017-akalura-river-coho.json",
-            "2014": "1001/430/2014-akalura-river-coho.json",
-            "2007": "1001/430/2007-akalura-river-coho.json",
-            "2008": "1001/430/2008-akalura-river-coho.json",
-            "2010": "1001/430/2010-akalura-river-coho.json",
-            "2021": "1001/430/2021-akalura-river-coho.json",
-            "1984": "1001/430/1984-akalura-river-coho.json",
-            "1997": "1001/430/1997-akalura-river-coho.json",
-            "2003": "1001/430/2003-akalura-river-coho.json",
-            "1998": "1001/430/1998-akalura-river-coho.json"
-          },
-          "years": [
-            2024,
-            2023,
-            2021,
-            2019,
-            2018,
-            2017,
-            2016,
-            2015,
-            2014,
-            2013,
-            2012,
-            2011,
-            2010,
-            2009,
-            2008,
-            2007,
-            2006,
-            2005,
-            2004,
-            2003,
-            2002,
-            2001,
-            2000,
-            1999,
-            1998,
-            1997,
-            1996,
-            1995,
-            1994,
-            1988,
-            1987,
-            1986,
-            1985,
-            1984,
-            1983,
-            1982,
-            1981
-          ],
-          "file_count": 37
-        },
-        "410": {
-          "name": "Species 410",
-          "slug": "species-410",
-          "files": {
-            "2003": "1001/410/2003-akalura-river-chinook.json",
-            "2019": "1001/410/2019-akalura-river-chinook.json",
-            "2015": "1001/410/2015-akalura-river-chinook.json",
-            "1986": "1001/410/1986-akalura-river-chinook.json",
-            "1997": "1001/410/1997-akalura-river-chinook.json",
-            "2012": "1001/410/2012-akalura-river-chinook.json",
-            "2008": "1001/410/2008-akalura-river-chinook.json",
-            "2004": "1001/410/2004-akalura-river-chinook.json",
-            "1996": "1001/410/1996-akalura-river-chinook.json",
-            "2013": "1001/410/2013-akalura-river-chinook.json",
-            "2009": "1001/410/2009-akalura-river-chinook.json",
-            "2005": "1001/410/2005-akalura-river-chinook.json",
-            "2002": "1001/410/2002-akalura-river-chinook.json",
-            "2018": "1001/410/2018-akalura-river-chinook.json",
-            "2014": "1001/410/2014-akalura-river-chinook.json",
-            "2021": "1001/410/2021-akalura-river-chinook.json",
-            "1987": "1001/410/1987-akalura-river-chinook.json",
-            "1994": "1001/410/1994-akalura-river-chinook.json",
-            "1998": "1001/410/1998-akalura-river-chinook.json",
-            "2007": "1001/410/2007-akalura-river-chinook.json",
-            "2024": "1001/410/2024-akalura-river-chinook.json",
-            "2011": "1001/410/2011-akalura-river-chinook.json",
-            "2016": "1001/410/2016-akalura-river-chinook.json",
-            "2023": "1001/410/2023-akalura-river-chinook.json",
-            "2000": "1001/410/2000-akalura-river-chinook.json",
-            "2017": "1001/410/2017-akalura-river-chinook.json",
-            "2001": "1001/410/2001-akalura-river-chinook.json",
-            "1988": "1001/410/1988-akalura-river-chinook.json",
-            "1995": "1001/410/1995-akalura-river-chinook.json",
-            "1999": "1001/410/1999-akalura-river-chinook.json",
-            "2006": "1001/410/2006-akalura-river-chinook.json",
-            "2010": "1001/410/2010-akalura-river-chinook.json"
-          },
-          "years": [
-            2024,
-            2023,
-            2021,
-            2019,
-            2018,
-            2017,
-            2016,
-            2015,
-            2014,
-            2013,
-            2012,
-            2011,
-            2010,
-            2009,
-            2008,
-            2007,
-            2006,
-            2005,
-            2004,
-            2003,
-            2002,
-            2001,
-            2000,
-            1999,
-            1998,
-            1997,
-            1996,
-            1995,
-            1994,
-            1988,
-            1987,
-            1986
-          ],
-          "file_count": 32
-        },
-        "420": {
-          "name": "Species 420",
-          "slug": "species-420",
-          "files": {
-            "2005": "1001/420/2005-akalura-river-sockeye.json",
-            "1996": "1001/420/1996-akalura-river-sockeye.json",
-            "2021": "1001/420/2021-akalura-river-sockeye.json",
-            "2018": "1001/420/2018-akalura-river-sockeye.json",
-            "2014": "1001/420/2014-akalura-river-sockeye.json",
-            "2002": "1001/420/2002-akalura-river-sockeye.json",
-            "2019": "1001/420/2019-akalura-river-sockeye.json",
-            "2015": "1001/420/2015-akalura-river-sockeye.json",
-            "2003": "1001/420/2003-akalura-river-sockeye.json",
-            "2004": "1001/420/2004-akalura-river-sockeye.json",
-            "1997": "1001/420/1997-akalura-river-sockeye.json",
-            "2001": "1001/420/2001-akalura-river-sockeye.json",
-            "2017": "1001/420/2017-akalura-river-sockeye.json",
-            "1995": "1001/420/1995-akalura-river-sockeye.json",
-            "1999": "1001/420/1999-akalura-river-sockeye.json",
-            "2024": "1001/420/2024-akalura-river-sockeye.json",
-            "1994": "1001/420/1994-akalura-river-sockeye.json",
-            "1998": "1001/420/1998-akalura-river-sockeye.json",
-            "2000": "1001/420/2000-akalura-river-sockeye.json",
-            "2023": "1001/420/2023-akalura-river-sockeye.json",
-            "2016": "1001/420/2016-akalura-river-sockeye.json"
-          },
-          "years": [
-            2024,
-            2023,
-            2021,
-            2019,
-            2018,
-            2017,
-            2016,
-            2015,
-            2014,
-            2005,
-            2004,
-            2003,
-            2002,
-            2001,
-            2000,
-            1999,
-            1998,
-            1997,
-            1996,
-            1995,
-            1994
-          ],
-          "file_count": 21
-        },
-        "450": {
-          "name": "Species 450",
-          "slug": "species-450",
-          "files": {
-            "2012": "1001/450/2012-akalura-river-chum.json",
-            "1986": "1001/450/1986-akalura-river-chum.json",
-            "2023": "1001/450/2023-akalura-river-chum.json",
-            "1995": "1001/450/1995-akalura-river-chum.json",
-            "2001": "1001/450/2001-akalura-river-chum.json",
-            "1982": "1001/450/1982-akalura-river-chum.json",
-            "2019": "1001/450/2019-akalura-river-chum.json",
-            "2016": "1001/450/2016-akalura-river-chum.json",
-            "2005": "1001/450/2005-akalura-river-chum.json",
-            "2006": "1001/450/2006-akalura-river-chum.json",
-            "2009": "1001/450/2009-akalura-river-chum.json",
-            "1981": "1001/450/1981-akalura-river-chum.json",
-            "2024": "1001/450/2024-akalura-river-chum.json",
-            "2015": "1001/450/2015-akalura-river-chum.json",
-            "1996": "1001/450/1996-akalura-river-chum.json",
-            "1999": "1001/450/1999-akalura-river-chum.json",
-            "2002": "1001/450/2002-akalura-river-chum.json",
-            "2011": "1001/450/2011-akalura-river-chum.json",
-            "1985": "1001/450/1985-akalura-river-chum.json",
-            "2004": "1001/450/2004-akalura-river-chum.json",
-            "2017": "1001/450/2017-akalura-river-chum.json",
-            "2018": "1001/450/2018-akalura-river-chum.json",
-            "1983": "1001/450/1983-akalura-river-chum.json",
-            "2000": "1001/450/2000-akalura-river-chum.json",
-            "1994": "1001/450/1994-akalura-river-chum.json",
-            "1987": "1001/450/1987-akalura-river-chum.json",
-            "1988": "1001/450/1988-akalura-river-chum.json",
-            "2013": "1001/450/2013-akalura-river-chum.json",
-            "2021": "1001/450/2021-akalura-river-chum.json",
-            "1984": "1001/450/1984-akalura-river-chum.json",
-            "2010": "1001/450/2010-akalura-river-chum.json",
-            "2003": "1001/450/2003-akalura-river-chum.json",
-            "1998": "1001/450/1998-akalura-river-chum.json",
-            "1997": "1001/450/1997-akalura-river-chum.json",
-            "2014": "1001/450/2014-akalura-river-chum.json",
-            "2008": "1001/450/2008-akalura-river-chum.json",
-            "2007": "1001/450/2007-akalura-river-chum.json"
-          },
-          "years": [
-            2024,
-            2023,
-            2021,
-            2019,
-            2018,
-            2017,
-            2016,
-            2015,
-            2014,
-            2013,
-            2012,
-            2011,
-            2010,
-            2009,
-            2008,
-            2007,
-            2006,
-            2005,
-            2004,
-            2003,
-            2002,
-            2001,
-            2000,
-            1999,
-            1998,
-            1997,
-            1996,
-            1995,
-            1994,
-            1988,
-            1987,
-            1986,
-            1985,
-            1984,
-            1983,
-            1982,
-            1981
-          ],
-          "file_count": 37
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1039": {
-      "name": "Commercial Location 1039",
-      "slug": "commercial-location-1039",
-      "region": "Unknown",
-      "total_files": 2,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2011": {
-              "filename": "2011-inglutalik-river-chinook.json",
-              "location_name": "Inglutalik River",
-              "species_name": "Chinook",
-              "original_path": "1039/999/2011-karta-river-other.json"
-            },
-            "2020": {
-              "filename": "2020-inglutalik-river-sockeye.json",
-              "location_name": "Inglutalik River",
-              "species_name": "Sockeye",
-              "original_path": "1039/999/2020-karta-river-other.json"
-            }
-          },
-          "years": [
-            2020,
-            2011
-          ],
-          "file_count": 2
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1052": {
-      "name": "Commercial Location 1052",
-      "slug": "commercial-location-1052",
-      "region": "Unknown",
-      "total_files": 8,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "1965": {
-              "filename": "1965-kwiniuk-river-chinook.json",
-              "location_name": "Kwiniuk River",
-              "species_name": "Chinook",
-              "original_path": "1052/999/1965-location-1052-other.json"
-            },
-            "1985": {
-              "filename": "1985-kwiniuk-river-coho.json",
-              "location_name": "Kwiniuk River",
-              "species_name": "Coho",
-              "original_path": "1052/999/1985-location-1052-other.json"
-            },
-            "2005": {
-              "filename": "2005-kwiniuk-river-sockeye.json",
-              "location_name": "Kwiniuk River",
-              "species_name": "Sockeye",
-              "original_path": "1052/999/2005-location-1052-other.json"
-            }
-          },
-          "years": [
-            2005,
-            1985,
-            1965
-          ],
-          "file_count": 3
-        },
-        "440": {
-          "name": "Species 440",
-          "slug": "species-440",
-          "files": {
-            "2011": "1052/440/2011-location-1052-pink.json"
-          },
-          "years": [
-            2011
-          ],
-          "file_count": 1
-        },
-        "430": {
-          "name": "Species 430",
-          "slug": "species-430",
-          "files": {
-            "2011": "1052/430/2011-location-1052-coho.json"
-          },
-          "years": [
-            2011
-          ],
-          "file_count": 1
-        },
-        "410": {
-          "name": "Species 410",
-          "slug": "species-410",
-          "files": {
-            "2011": "1052/410/2011-location-1052-chinook.json"
-          },
-          "years": [
-            2011
-          ],
-          "file_count": 1
-        },
-        "420": {
-          "name": "Species 420",
-          "slug": "species-420",
-          "files": {
-            "2020": "1052/420/2020-location-1052-sockeye.json"
-          },
-          "years": [
-            2020
-          ],
-          "file_count": 1
-        },
-        "450": {
-          "name": "Species 450",
-          "slug": "species-450",
-          "files": {
-            "2011": "1052/450/2011-location-1052-chum.json"
-          },
-          "years": [
-            2011
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1055": {
-      "name": "Commercial Location 1055",
-      "slug": "commercial-location-1055",
-      "region": "Unknown",
-      "total_files": 4,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2019": {
-              "filename": "2019-shaktoolik-river-sockeye.json",
-              "location_name": "Shaktoolik River",
-              "species_name": "Sockeye",
-              "original_path": "1055/999/2019-location-1055-other.json"
-            },
-            "1999": {
-              "filename": "1999-nome-river-sockeye.json",
-              "location_name": "Nome River",
-              "species_name": "Sockeye",
-              "original_path": "1055/999/1999-location-1055-other.json"
-            },
-            "1993": {
-              "filename": "1993-nome-river-chinook.json",
-              "location_name": "Nome River",
-              "species_name": "Chinook",
-              "original_path": "1055/999/1993-location-1055-other.json"
-            },
-            "1996": {
-              "filename": "1996-shaktoolik-river-pink.json",
-              "location_name": "Shaktoolik River",
-              "species_name": "Pink",
-              "original_path": "1055/999/1996-location-1055-other.json"
-            }
-          },
-          "years": [
-            2019,
-            1999,
-            1996,
-            1993
-          ],
-          "file_count": 4
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1063": {
-      "name": "Commercial Location 1063",
-      "slug": "commercial-location-1063",
-      "region": "Unknown",
-      "total_files": 1,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "1992": {
-              "filename": "1992-nunavulnak-river-pink.json",
-              "location_name": "Nunavulnak River",
-              "species_name": "Pink",
-              "original_path": "1063/999/1992-location-1063-other.json"
-            }
-          },
-          "years": [
-            1992
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1038": {
-      "name": "Commercial Location 1038",
-      "slug": "commercial-location-1038",
-      "region": "Unknown",
-      "total_files": 15,
-      "species": {
-        "440": {
-          "name": "Species 440",
-          "slug": "species-440",
-          "files": {
-            "2019": "1038/440/2019-kanektok-river-pink.json",
-            "2018": "1038/440/2018-kanektok-river-pink.json",
-            "2020": "1038/440/2020-kanektok-river-pink.json"
-          },
-          "years": [
-            2020,
-            2019,
-            2018
-          ],
-          "file_count": 3
-        },
-        "430": {
-          "name": "Species 430",
-          "slug": "species-430",
-          "files": {
-            "2018": "1038/430/2018-kanektok-river-coho.json",
-            "2019": "1038/430/2019-kanektok-river-coho.json",
-            "2020": "1038/430/2020-kanektok-river-coho.json"
-          },
-          "years": [
-            2020,
-            2019,
-            2018
-          ],
-          "file_count": 3
-        },
-        "410": {
-          "name": "Species 410",
-          "slug": "species-410",
-          "files": {
-            "2020": "1038/410/2020-kanektok-river-chinook.json",
-            "2019": "1038/410/2019-kanektok-river-chinook.json",
-            "2018": "1038/410/2018-kanektok-river-chinook.json"
-          },
-          "years": [
-            2020,
-            2019,
-            2018
-          ],
-          "file_count": 3
-        },
-        "420": {
-          "name": "Species 420",
-          "slug": "species-420",
-          "files": {
-            "2020": "1038/420/2020-kanektok-river-sockeye.json",
-            "2018": "1038/420/2018-kanektok-river-sockeye.json",
-            "2019": "1038/420/2019-kanektok-river-sockeye.json"
-          },
-          "years": [
-            2020,
-            2019,
-            2018
-          ],
-          "file_count": 3
-        },
-        "450": {
-          "name": "Species 450",
-          "slug": "species-450",
-          "files": {
-            "2018": "1038/450/2018-kanektok-river-chum.json",
-            "2019": "1038/450/2019-kanektok-river-chum.json",
-            "2020": "1038/450/2020-kanektok-river-chum.json"
-          },
-          "years": [
-            2020,
-            2019,
-            2018
-          ],
-          "file_count": 3
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1036": {
-      "name": "Commercial Location 1036",
-      "slug": "commercial-location-1036",
-      "region": "Unknown",
-      "total_files": 4,
-      "species": {
-        "430": {
-          "name": "Species 430",
-          "slug": "species-430",
-          "files": {
-            "2025": "1036/430/2025-salmon-river-aniak-coho.json"
-          },
-          "years": [
-            2025
-          ],
-          "file_count": 1
-        },
-        "410": {
-          "name": "Species 410",
-          "slug": "species-410",
-          "files": {
-            "2025": "1036/410/2025-salmon-river-aniak-chinook.json"
-          },
-          "years": [
-            2025
-          ],
-          "file_count": 1
-        },
-        "420": {
-          "name": "Species 420",
-          "slug": "species-420",
-          "files": {
-            "2025": "1036/420/2025-salmon-river-aniak-sockeye.json"
-          },
-          "years": [
-            2025
-          ],
-          "file_count": 1
-        },
-        "450": {
-          "name": "Species 450",
-          "slug": "species-450",
-          "files": {
-            "2025": "1036/450/2025-salmon-river-aniak-chum.json"
-          },
-          "years": [
-            2025
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1065": {
-      "name": "Commercial Location 1065",
-      "slug": "commercial-location-1065",
-      "region": "Unknown",
-      "total_files": 1,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2018": {
-              "filename": "2018-bonanza-river-coho.json",
-              "location_name": "Bonanza River",
-              "species_name": "Coho",
-              "original_path": "1065/999/2018-location-1065-other.json"
-            }
-          },
-          "years": [
-            2018
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1062": {
-      "name": "Commercial Location 1062",
-      "slug": "commercial-location-1062",
-      "region": "Unknown",
-      "total_files": 2,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2014": {
-              "filename": "2014-fish-river-chinook.json",
-              "location_name": "Fish River",
-              "species_name": "Chinook",
-              "original_path": "1062/999/2014-location-1062-other.json"
-            },
-            "1992": {
-              "filename": "1992-nunavulnak-river-pink.json",
-              "location_name": "Nunavulnak River",
-              "species_name": "Pink",
-              "original_path": "1062/999/1992-location-1062-other.json"
-            }
-          },
-          "years": [
-            2014,
-            1992
-          ],
-          "file_count": 2
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1054": {
-      "name": "Commercial Location 1054",
-      "slug": "commercial-location-1054",
-      "region": "Unknown",
-      "total_files": 2,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "1993": {
-              "filename": "1993-nome-river-chinook.json",
-              "location_name": "Nome River",
-              "species_name": "Chinook",
-              "original_path": "1054/999/1993-location-1054-other.json"
-            },
-            "1999": {
-              "filename": "1999-nome-river-sockeye.json",
-              "location_name": "Nome River",
-              "species_name": "Sockeye",
-              "original_path": "1054/999/1999-location-1054-other.json"
-            }
-          },
-          "years": [
-            1999,
-            1993
-          ],
-          "file_count": 2
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1053": {
-      "name": "Commercial Location 1053",
-      "slug": "commercial-location-1053",
-      "region": "Unknown",
-      "total_files": 2,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2022": {
-              "filename": "2022-pilot-station-sonar-sockeye.json",
-              "location_name": "Pilot Station Sonar",
-              "species_name": "Sockeye",
-              "original_path": "1053/999/2022-location-1053-other.json"
-            },
-            "1995": {
-              "filename": "1995-pilot-station-sonar-chinook.json",
-              "location_name": "Pilot Station Sonar",
-              "species_name": "Chinook",
-              "original_path": "1053/999/1995-location-1053-other.json"
-            }
-          },
-          "years": [
-            2022,
-            1995
-          ],
-          "file_count": 2
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1071": {
-      "name": "Commercial Location 1071",
-      "slug": "commercial-location-1071",
-      "region": "Unknown",
-      "total_files": 3,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "1995": {
-              "filename": "1995-niukluk-river-chinook.json",
-              "location_name": "Niukluk River",
-              "species_name": "Chinook",
-              "original_path": "1071/999/1995-location-1071-other.json"
-            },
-            "2000": {
-              "filename": "2000-takotna-river-weir-chinook.json",
-              "location_name": "Takotna River Weir",
-              "species_name": "Chinook",
-              "original_path": "1071/999/2000-location-1071-other.json"
-            },
-            "1979": {
-              "filename": "1979-niukluk-river-pink.json",
-              "location_name": "Niukluk River",
-              "species_name": "Pink",
-              "original_path": "1071/999/1979-location-1071-other.json"
-            }
-          },
-          "years": [
-            2000,
-            1995,
-            1979
-          ],
-          "file_count": 3
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1049": {
-      "name": "Commercial Location 1049",
-      "slug": "commercial-location-1049",
-      "region": "Unknown",
-      "total_files": 1,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "1992": {
-              "filename": "1992-pikmiktalik-river-chinook.json",
-              "location_name": "Pikmiktalik River",
-              "species_name": "Chinook",
-              "original_path": "1049/999/1992-little-kitoi-other.json"
-            }
-          },
-          "years": [
-            1992
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1040": {
-      "name": "Commercial Location 1040",
-      "slug": "commercial-location-1040",
-      "region": "Unknown",
-      "total_files": 1,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2014": {
-              "filename": "2014-fish-river-chinook.json",
-              "location_name": "Fish River",
-              "species_name": "Chinook",
-              "original_path": "1040/999/2014-uganik-river-other.json"
-            }
-          },
-          "years": [
-            2014
-          ],
-          "file_count": 1
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1047": {
-      "name": "Commercial Location 1047",
-      "slug": "commercial-location-1047",
-      "region": "Unknown",
-      "total_files": 2,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "1995": {
-              "filename": "1995-eldorado-river-pink.json",
-              "location_name": "Eldorado River",
-              "species_name": "Pink",
-              "original_path": "1047/999/1995-lake-eva-other.json"
-            },
-            "2002": {
-              "filename": "2002-eldorado-river-sockeye.json",
-              "location_name": "Eldorado River",
-              "species_name": "Sockeye",
-              "original_path": "1047/999/2002-lake-eva-other.json"
-            }
-          },
-          "years": [
-            2002,
-            1995
-          ],
-          "file_count": 2
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1025": {
-      "name": "Commercial Location 1025",
-      "slug": "commercial-location-1025",
-      "region": "Unknown",
-      "total_files": 30,
-      "species": {
-        "430": {
-          "name": "Species 430",
-          "slug": "species-430",
-          "files": {
-            "2023": "1025/430/2023-situk-lower-coho.json",
-            "2021": "1025/430/2021-situk-lower-coho.json",
-            "2025": "1025/430/2025-situk-lower-coho.json",
-            "2022": "1025/430/2022-situk-lower-coho.json",
-            "2020": "1025/430/2020-situk-lower-coho.json",
-            "2024": "1025/430/2024-situk-lower-coho.json"
-          },
-          "years": [
-            2025,
-            2024,
-            2023,
-            2022,
-            2021,
-            2020
-          ],
-          "file_count": 6
-        },
-        "410": {
-          "name": "Species 410",
-          "slug": "species-410",
-          "files": {
-            "2021": "1025/410/2021-situk-lower-chinook.json",
-            "2025": "1025/410/2025-situk-lower-chinook.json",
-            "2024": "1025/410/2024-situk-lower-chinook.json",
-            "2020": "1025/410/2020-situk-lower-chinook.json",
-            "2022": "1025/410/2022-situk-lower-chinook.json",
-            "2019": "1025/410/2019-situk-lower-chinook.json",
-            "2023": "1025/410/2023-situk-lower-chinook.json",
-            "2018": "1025/410/2018-situk-lower-chinook.json"
-          },
-          "years": [
-            2025,
-            2024,
-            2023,
-            2022,
-            2021,
-            2020,
-            2019,
-            2018
-          ],
-          "file_count": 8
-        },
-        "420": {
-          "name": "Species 420",
-          "slug": "species-420",
-          "files": {
-            "2020": "1025/420/2020-situk-lower-sockeye.json",
-            "2024": "1025/420/2024-situk-lower-sockeye.json",
-            "2025": "1025/420/2025-situk-lower-sockeye.json",
-            "2021": "1025/420/2021-situk-lower-sockeye.json",
-            "2018": "1025/420/2018-situk-lower-sockeye.json",
-            "2023": "1025/420/2023-situk-lower-sockeye.json",
-            "2019": "1025/420/2019-situk-lower-sockeye.json",
-            "2022": "1025/420/2022-situk-lower-sockeye.json"
-          },
-          "years": [
-            2025,
-            2024,
-            2023,
-            2022,
-            2021,
-            2020,
-            2019,
-            2018
-          ],
-          "file_count": 8
-        },
-        "450": {
-          "name": "Species 450",
-          "slug": "species-450",
-          "files": {
-            "2021": "1025/450/2021-situk-lower-chum.json",
-            "2023": "1025/450/2023-situk-lower-chum.json",
-            "2019": "1025/450/2019-situk-lower-chum.json",
-            "2025": "1025/450/2025-situk-lower-chum.json",
-            "2020": "1025/450/2020-situk-lower-chum.json",
-            "2022": "1025/450/2022-situk-lower-chum.json",
-            "2018": "1025/450/2018-situk-lower-chum.json",
-            "2024": "1025/450/2024-situk-lower-chum.json"
-          },
-          "years": [
-            2025,
-            2024,
-            2023,
-            2022,
-            2021,
-            2020,
-            2019,
-            2018
-          ],
-          "file_count": 8
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1046": {
-      "name": "Commercial Location 1046",
-      "slug": "commercial-location-1046",
-      "region": "Unknown",
-      "total_files": 2,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2020": {
-              "filename": "2020-inglutalik-river-sockeye.json",
-              "location_name": "Inglutalik River",
-              "species_name": "Sockeye",
-              "original_path": "1046/999/2020-klag-lake-other.json"
-            },
-            "2011": {
-              "filename": "2011-inglutalik-river-chinook.json",
-              "location_name": "Inglutalik River",
-              "species_name": "Chinook",
-              "original_path": "1046/999/2011-klag-lake-other.json"
-            }
-          },
-          "years": [
-            2020,
-            2011
-          ],
-          "file_count": 2
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
-    },
-    "1041": {
-      "name": "Commercial Location 1041",
-      "slug": "commercial-location-1041",
-      "region": "Unknown",
-      "total_files": 4,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2014": {
-              "filename": "2014-glacial-lake-sockeye.json",
-              "location_name": "Glacial Lake",
-              "species_name": "Sockeye",
-              "original_path": "1041/999/2014-neva-creek-other.json"
-            },
-            "2008": {
-              "filename": "2008-glacial-lake-pink.json",
-              "location_name": "Glacial Lake",
-              "species_name": "Pink",
-              "original_path": "1041/999/2008-neva-creek-other.json"
-            },
-            "2000": {
-              "filename": "2000-glacial-lake-sockeye.json",
-              "location_name": "Glacial Lake",
-              "species_name": "Sockeye",
-              "original_path": "1041/999/2000-neva-creek-other.json"
-            },
-            "2004": {
-              "filename": "2004-glacial-lake-chum.json",
-              "location_name": "Glacial Lake",
-              "species_name": "Chum",
-              "original_path": "1041/999/2004-neva-creek-other.json"
-            }
-          },
-          "years": [
-            2014,
-            2008,
-            2004,
-            2000
-          ],
-          "file_count": 4
-        }
-      },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
+      "450": {
+        "total_files": 1,
+        "year_range": [
+          1981,
+          1981
+        ],
+        "files": [
+          {
+            "file": "1070/450/1981-noatak-river-chum.json",
+            "year": 1981,
+            "total_records": 246,
+            "size_bytes": 31654
+          }
+        ]
+      }
     },
     "1048": {
-      "name": "Commercial Location 1048",
-      "slug": "commercial-location-1048",
-      "region": "Unknown",
-      "total_files": 3,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2016": {
-              "filename": "2016-north-river-sockeye.json",
-              "location_name": "North River",
-              "species_name": "Sockeye",
-              "original_path": "1048/999/2016-little-waterfall-other.json"
-            },
-            "1972": {
-              "filename": "1972-north-river-chum.json",
-              "location_name": "North River",
-              "species_name": "Chum",
-              "original_path": "1048/999/1972-little-waterfall-other.json"
-            },
-            "1985": {
-              "filename": "1985-north-river-coho.json",
-              "location_name": "North River",
-              "species_name": "Coho",
-              "original_path": "1048/999/1985-little-waterfall-other.json"
-            }
-          },
-          "years": [
-            2016,
-            1985,
-            1972
-          ],
-          "file_count": 3
-        }
+      "420": {
+        "total_files": 1,
+        "year_range": [
+          2016,
+          2016
+        ],
+        "files": [
+          {
+            "file": "1048/422/2016-north-river-sockeye.json",
+            "year": 2016,
+            "total_records": 480,
+            "size_bytes": 60986
+          }
+        ]
       },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
+      "430": {
+        "total_files": 1,
+        "year_range": [
+          1985,
+          1985
+        ],
+        "files": [
+          {
+            "file": "1048/430/1985-north-river-coho.json",
+            "year": 1985,
+            "total_records": 2057,
+            "size_bytes": 257093
+          }
+        ]
+      },
+      "450": {
+        "total_files": 1,
+        "year_range": [
+          1972,
+          1972
+        ],
+        "files": [
+          {
+            "file": "1048/450/1972-north-river-chum.json",
+            "year": 1972,
+            "total_records": 2185,
+            "size_bytes": 273492
+          }
+        ]
+      }
     },
-    "1070": {
-      "name": "Commercial Location 1070",
-      "slug": "commercial-location-1070",
-      "region": "Unknown",
-      "total_files": 2,
-      "species": {
-        "999": {
-          "name": "Species 999",
-          "slug": "species-999",
-          "files": {
-            "2000": {
-              "filename": "2000-takotna-river-weir-chinook.json",
-              "location_name": "Takotna River Weir",
-              "species_name": "Chinook",
-              "original_path": "1070/999/2000-location-1070-other.json"
-            },
-            "1981": {
-              "filename": "1981-noatak-river-chum.json",
-              "location_name": "Noatak River",
-              "species_name": "Chum",
-              "original_path": "1070/999/1981-location-1070-other.json"
-            }
-          },
-          "years": [
-            2000,
-            1981
-          ],
-          "file_count": 2
-        }
+    "1041": {
+      "440": {
+        "total_files": 1,
+        "year_range": [
+          2008,
+          2008
+        ],
+        "files": [
+          {
+            "file": "1041/440/2008-glacial-lake-pink.json",
+            "year": 2008,
+            "total_records": 226,
+            "size_bytes": 28264
+          }
+        ]
       },
-      "data_source": "Commercial",
-      "status": "Active",
-      "method": "Commercial"
+      "420": {
+        "total_files": 2,
+        "year_range": [
+          2000,
+          2014
+        ],
+        "files": [
+          {
+            "file": "1041/422/2000-glacial-lake-sockeye.json",
+            "year": 2000,
+            "total_records": 482,
+            "size_bytes": 61927
+          },
+          {
+            "file": "1041/422/2014-glacial-lake-sockeye.json",
+            "year": 2014,
+            "total_records": 345,
+            "size_bytes": 44231
+          }
+        ]
+      },
+      "450": {
+        "total_files": 1,
+        "year_range": [
+          2004,
+          2004
+        ],
+        "files": [
+          {
+            "file": "1041/450/2004-glacial-lake-chum.json",
+            "year": 2004,
+            "total_records": 243,
+            "size_bytes": 30347
+          }
+        ]
+      }
+    },
+    "1046": {
+      "420": {
+        "total_files": 1,
+        "year_range": [
+          2020,
+          2020
+        ],
+        "files": [
+          {
+            "file": "1046/422/2020-inglutalik-river-sockeye.json",
+            "year": 2020,
+            "total_records": 57,
+            "size_bytes": 7672
+          }
+        ]
+      },
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          2011,
+          2011
+        ],
+        "files": [
+          {
+            "file": "1046/410/2011-inglutalik-river-chinook.json",
+            "year": 2011,
+            "total_records": 536,
+            "size_bytes": 70879
+          }
+        ]
+      }
+    },
+    "1025": {
+      "430": {
+        "total_files": 6,
+        "year_range": [
+          2020,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1025/430/2020-situk-lower-coho.json",
+            "year": 2020,
+            "total_records": 84,
+            "size_bytes": 12241
+          },
+          {
+            "file": "1025/430/2021-situk-lower-coho.json",
+            "year": 2021,
+            "total_records": 87,
+            "size_bytes": 12682
+          },
+          {
+            "file": "1025/430/2022-situk-lower-coho.json",
+            "year": 2022,
+            "total_records": 38,
+            "size_bytes": 5705
+          },
+          {
+            "file": "1025/430/2023-situk-lower-coho.json",
+            "year": 2023,
+            "total_records": 50,
+            "size_bytes": 7446
+          },
+          {
+            "file": "1025/430/2024-situk-lower-coho.json",
+            "year": 2024,
+            "total_records": 47,
+            "size_bytes": 6860
+          },
+          {
+            "file": "1025/430/2025-situk-lower-coho.json",
+            "year": 2025,
+            "total_records": 83,
+            "size_bytes": 12133
+          }
+        ]
+      },
+      "410": {
+        "total_files": 8,
+        "year_range": [
+          2018,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1025/410/2018-situk-lower-chinook.json",
+            "year": 2018,
+            "total_records": 56,
+            "size_bytes": 8238
+          },
+          {
+            "file": "1025/410/2019-situk-lower-chinook.json",
+            "year": 2019,
+            "total_records": 57,
+            "size_bytes": 8379
+          },
+          {
+            "file": "1025/410/2020-situk-lower-chinook.json",
+            "year": 2020,
+            "total_records": 84,
+            "size_bytes": 12270
+          },
+          {
+            "file": "1025/410/2021-situk-lower-chinook.json",
+            "year": 2021,
+            "total_records": 87,
+            "size_bytes": 12712
+          },
+          {
+            "file": "1025/410/2022-situk-lower-chinook.json",
+            "year": 2022,
+            "total_records": 86,
+            "size_bytes": 12568
+          },
+          {
+            "file": "1025/410/2023-situk-lower-chinook.json",
+            "year": 2023,
+            "total_records": 79,
+            "size_bytes": 11545
+          },
+          {
+            "file": "1025/410/2024-situk-lower-chinook.json",
+            "year": 2024,
+            "total_records": 53,
+            "size_bytes": 7829
+          },
+          {
+            "file": "1025/410/2025-situk-lower-chinook.json",
+            "year": 2025,
+            "total_records": 83,
+            "size_bytes": 12131
+          }
+        ]
+      },
+      "420": {
+        "total_files": 8,
+        "year_range": [
+          2018,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1025/420/2018-situk-lower-sockeye.json",
+            "year": 2018,
+            "total_records": 56,
+            "size_bytes": 8273
+          },
+          {
+            "file": "1025/420/2019-situk-lower-sockeye.json",
+            "year": 2019,
+            "total_records": 57,
+            "size_bytes": 8429
+          },
+          {
+            "file": "1025/420/2020-situk-lower-sockeye.json",
+            "year": 2020,
+            "total_records": 84,
+            "size_bytes": 12336
+          },
+          {
+            "file": "1025/420/2021-situk-lower-sockeye.json",
+            "year": 2021,
+            "total_records": 98,
+            "size_bytes": 14361
+          },
+          {
+            "file": "1025/420/2022-situk-lower-sockeye.json",
+            "year": 2022,
+            "total_records": 86,
+            "size_bytes": 12622
+          },
+          {
+            "file": "1025/420/2023-situk-lower-sockeye.json",
+            "year": 2023,
+            "total_records": 79,
+            "size_bytes": 11629
+          },
+          {
+            "file": "1025/420/2024-situk-lower-sockeye.json",
+            "year": 2024,
+            "total_records": 53,
+            "size_bytes": 7837
+          },
+          {
+            "file": "1025/420/2025-situk-lower-sockeye.json",
+            "year": 2025,
+            "total_records": 83,
+            "size_bytes": 12220
+          }
+        ]
+      },
+      "450": {
+        "total_files": 8,
+        "year_range": [
+          2018,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1025/450/2018-situk-lower-chum.json",
+            "year": 2018,
+            "total_records": 56,
+            "size_bytes": 8251
+          },
+          {
+            "file": "1025/450/2019-situk-lower-chum.json",
+            "year": 2019,
+            "total_records": 57,
+            "size_bytes": 8381
+          },
+          {
+            "file": "1025/450/2020-situk-lower-chum.json",
+            "year": 2020,
+            "total_records": 84,
+            "size_bytes": 12244
+          },
+          {
+            "file": "1025/450/2021-situk-lower-chum.json",
+            "year": 2021,
+            "total_records": 89,
+            "size_bytes": 12921
+          },
+          {
+            "file": "1025/450/2022-situk-lower-chum.json",
+            "year": 2022,
+            "total_records": 86,
+            "size_bytes": 12544
+          },
+          {
+            "file": "1025/450/2023-situk-lower-chum.json",
+            "year": 2023,
+            "total_records": 79,
+            "size_bytes": 11584
+          },
+          {
+            "file": "1025/450/2024-situk-lower-chum.json",
+            "year": 2024,
+            "total_records": 53,
+            "size_bytes": 7805
+          },
+          {
+            "file": "1025/450/2025-situk-lower-chum.json",
+            "year": 2025,
+            "total_records": 83,
+            "size_bytes": 12128
+          }
+        ]
+      }
+    },
+    "1047": {
+      "440": {
+        "total_files": 1,
+        "year_range": [
+          1995,
+          1995
+        ],
+        "files": [
+          {
+            "file": "1047/440/1995-eldorado-river-pink.json",
+            "year": 1995,
+            "total_records": 1347,
+            "size_bytes": 172262
+          }
+        ]
+      },
+      "420": {
+        "total_files": 1,
+        "year_range": [
+          2002,
+          2002
+        ],
+        "files": [
+          {
+            "file": "1047/422/2002-eldorado-river-sockeye.json",
+            "year": 2002,
+            "total_records": 870,
+            "size_bytes": 112728
+          }
+        ]
+      }
+    },
+    "1040": {
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          2014,
+          2014
+        ],
+        "files": [
+          {
+            "file": "1040/410/2014-fish-river-chinook.json",
+            "year": 2014,
+            "total_records": 345,
+            "size_bytes": 43639
+          }
+        ]
+      }
+    },
+    "1049": {
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          1992,
+          1992
+        ],
+        "files": [
+          {
+            "file": "1049/410/1992-pikmiktalik-river-chinook.json",
+            "year": 1992,
+            "total_records": 179,
+            "size_bytes": 23892
+          }
+        ]
+      }
+    },
+    "1071": {
+      "440": {
+        "total_files": 1,
+        "year_range": [
+          1979,
+          1979
+        ],
+        "files": [
+          {
+            "file": "1071/440/1979-niukluk-river-pink.json",
+            "year": 1979,
+            "total_records": 1326,
+            "size_bytes": 170095
+          }
+        ]
+      },
+      "410": {
+        "total_files": 2,
+        "year_range": [
+          1995,
+          2000
+        ],
+        "files": [
+          {
+            "file": "1071/410/1995-niukluk-river-chinook.json",
+            "year": 1995,
+            "total_records": 1294,
+            "size_bytes": 167594
+          },
+          {
+            "file": "1071/410/2000-takotna-river-weir-chinook.json",
+            "year": 2000,
+            "total_records": 1796,
+            "size_bytes": 242319
+          }
+        ]
+      }
+    },
+    "1053": {
+      "420": {
+        "total_files": 1,
+        "year_range": [
+          2022,
+          2022
+        ],
+        "files": [
+          {
+            "file": "1053/422/2022-pilot-station-sonar-sockeye.json",
+            "year": 2022,
+            "total_records": 399,
+            "size_bytes": 54156
+          }
+        ]
+      },
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          1995,
+          1995
+        ],
+        "files": [
+          {
+            "file": "1053/410/1995-pilot-station-sonar-chinook.json",
+            "year": 1995,
+            "total_records": 2585,
+            "size_bytes": 352591
+          }
+        ]
+      }
+    },
+    "1054": {
+      "420": {
+        "total_files": 1,
+        "year_range": [
+          1999,
+          1999
+        ],
+        "files": [
+          {
+            "file": "1054/422/1999-nome-river-sockeye.json",
+            "year": 1999,
+            "total_records": 1741,
+            "size_bytes": 220627
+          }
+        ]
+      },
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          1993,
+          1993
+        ],
+        "files": [
+          {
+            "file": "1054/410/1993-nome-river-chinook.json",
+            "year": 1993,
+            "total_records": 2040,
+            "size_bytes": 258235
+          }
+        ]
+      }
+    },
+    "1062": {
+      "440": {
+        "total_files": 1,
+        "year_range": [
+          1992,
+          1992
+        ],
+        "files": [
+          {
+            "file": "1062/440/1992-nunavulnak-river-pink.json",
+            "year": 1992,
+            "total_records": 42,
+            "size_bytes": 5641
+          }
+        ]
+      },
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          2014,
+          2014
+        ],
+        "files": [
+          {
+            "file": "1062/410/2014-fish-river-chinook.json",
+            "year": 2014,
+            "total_records": 345,
+            "size_bytes": 43639
+          }
+        ]
+      }
+    },
+    "1065": {
+      "430": {
+        "total_files": 1,
+        "year_range": [
+          2018,
+          2018
+        ],
+        "files": [
+          {
+            "file": "1065/430/2018-bonanza-river-coho.json",
+            "year": 2018,
+            "total_records": 101,
+            "size_bytes": 12851
+          }
+        ]
+      }
+    },
+    "1036": {
+      "430": {
+        "total_files": 1,
+        "year_range": [
+          2025,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1036/430/2025-salmon-river-aniak-coho.json",
+            "year": 2025,
+            "total_records": 1390,
+            "size_bytes": 207938
+          }
+        ]
+      },
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          2025,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1036/410/2025-salmon-river-aniak-chinook.json",
+            "year": 2025,
+            "total_records": 1782,
+            "size_bytes": 270968
+          }
+        ]
+      },
+      "420": {
+        "total_files": 1,
+        "year_range": [
+          2025,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1036/420/2025-salmon-river-aniak-sockeye.json",
+            "year": 2025,
+            "total_records": 1490,
+            "size_bytes": 225729
+          }
+        ]
+      },
+      "450": {
+        "total_files": 1,
+        "year_range": [
+          2025,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1036/450/2025-salmon-river-aniak-chum.json",
+            "year": 2025,
+            "total_records": 1782,
+            "size_bytes": 266954
+          }
+        ]
+      }
+    },
+    "1038": {
+      "440": {
+        "total_files": 3,
+        "year_range": [
+          2018,
+          2020
+        ],
+        "files": [
+          {
+            "file": "1038/440/2018-kanektok-river-pink.json",
+            "year": 2018,
+            "total_records": 43,
+            "size_bytes": 6307
+          },
+          {
+            "file": "1038/440/2019-kanektok-river-pink.json",
+            "year": 2019,
+            "total_records": 25,
+            "size_bytes": 3697
+          },
+          {
+            "file": "1038/440/2020-kanektok-river-pink.json",
+            "year": 2020,
+            "total_records": 33,
+            "size_bytes": 4805
+          }
+        ]
+      },
+      "430": {
+        "total_files": 3,
+        "year_range": [
+          2018,
+          2020
+        ],
+        "files": [
+          {
+            "file": "1038/430/2018-kanektok-river-coho.json",
+            "year": 2018,
+            "total_records": 43,
+            "size_bytes": 6198
+          },
+          {
+            "file": "1038/430/2019-kanektok-river-coho.json",
+            "year": 2019,
+            "total_records": 25,
+            "size_bytes": 3639
+          },
+          {
+            "file": "1038/430/2020-kanektok-river-coho.json",
+            "year": 2020,
+            "total_records": 33,
+            "size_bytes": 4746
+          }
+        ]
+      },
+      "410": {
+        "total_files": 3,
+        "year_range": [
+          2018,
+          2020
+        ],
+        "files": [
+          {
+            "file": "1038/410/2018-kanektok-river-chinook.json",
+            "year": 2018,
+            "total_records": 43,
+            "size_bytes": 6303
+          },
+          {
+            "file": "1038/410/2019-kanektok-river-chinook.json",
+            "year": 2019,
+            "total_records": 25,
+            "size_bytes": 3709
+          },
+          {
+            "file": "1038/410/2020-kanektok-river-chinook.json",
+            "year": 2020,
+            "total_records": 33,
+            "size_bytes": 4845
+          }
+        ]
+      },
+      "420": {
+        "total_files": 3,
+        "year_range": [
+          2018,
+          2020
+        ],
+        "files": [
+          {
+            "file": "1038/420/2018-kanektok-river-sockeye.json",
+            "year": 2018,
+            "total_records": 43,
+            "size_bytes": 6310
+          },
+          {
+            "file": "1038/420/2019-kanektok-river-sockeye.json",
+            "year": 2019,
+            "total_records": 25,
+            "size_bytes": 3709
+          },
+          {
+            "file": "1038/420/2020-kanektok-river-sockeye.json",
+            "year": 2020,
+            "total_records": 33,
+            "size_bytes": 4846
+          }
+        ]
+      },
+      "450": {
+        "total_files": 3,
+        "year_range": [
+          2018,
+          2020
+        ],
+        "files": [
+          {
+            "file": "1038/450/2018-kanektok-river-chum.json",
+            "year": 2018,
+            "total_records": 43,
+            "size_bytes": 6231
+          },
+          {
+            "file": "1038/450/2019-kanektok-river-chum.json",
+            "year": 2019,
+            "total_records": 25,
+            "size_bytes": 3667
+          },
+          {
+            "file": "1038/450/2020-kanektok-river-chum.json",
+            "year": 2020,
+            "total_records": 33,
+            "size_bytes": 4771
+          }
+        ]
+      }
+    },
+    "1063": {
+      "440": {
+        "total_files": 1,
+        "year_range": [
+          1992,
+          1992
+        ],
+        "files": [
+          {
+            "file": "1063/440/1992-nunavulnak-river-pink.json",
+            "year": 1992,
+            "total_records": 42,
+            "size_bytes": 5641
+          }
+        ]
+      }
+    },
+    "1055": {
+      "440": {
+        "total_files": 1,
+        "year_range": [
+          1996,
+          1996
+        ],
+        "files": [
+          {
+            "file": "1055/440/1996-shaktoolik-river-pink.json",
+            "year": 1996,
+            "total_records": 672,
+            "size_bytes": 88299
+          }
+        ]
+      },
+      "420": {
+        "total_files": 2,
+        "year_range": [
+          1999,
+          2019
+        ],
+        "files": [
+          {
+            "file": "1055/422/1999-nome-river-sockeye.json",
+            "year": 1999,
+            "total_records": 1741,
+            "size_bytes": 220627
+          },
+          {
+            "file": "1055/422/2019-shaktoolik-river-sockeye.json",
+            "year": 2019,
+            "total_records": 135,
+            "size_bytes": 17958
+          }
+        ]
+      },
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          1993,
+          1993
+        ],
+        "files": [
+          {
+            "file": "1055/410/1993-nome-river-chinook.json",
+            "year": 1993,
+            "total_records": 2040,
+            "size_bytes": 258235
+          }
+        ]
+      }
+    },
+    "1052": {
+      "440": {
+        "total_files": 1,
+        "year_range": [
+          2011,
+          2011
+        ],
+        "files": [
+          {
+            "file": "1052/440/2011-location-1052-pink.json",
+            "year": 2011,
+            "total_records": 460,
+            "size_bytes": 61771
+          }
+        ]
+      },
+      "420": {
+        "total_files": 2,
+        "year_range": [
+          2005,
+          2020
+        ],
+        "files": [
+          {
+            "file": "1052/422/2005-kwiniuk-river-sockeye.json",
+            "year": 2005,
+            "total_records": 861,
+            "size_bytes": 111438
+          },
+          {
+            "file": "1052/420/2020-location-1052-sockeye.json",
+            "year": 2020,
+            "total_records": 57,
+            "size_bytes": 7672
+          }
+        ]
+      },
+      "430": {
+        "total_files": 2,
+        "year_range": [
+          1985,
+          2011
+        ],
+        "files": [
+          {
+            "file": "1052/430/1985-kwiniuk-river-coho.json",
+            "year": 1985,
+            "total_records": 2461,
+            "size_bytes": 312118
+          },
+          {
+            "file": "1052/430/2011-location-1052-coho.json",
+            "year": 2011,
+            "total_records": 247,
+            "size_bytes": 32972
+          }
+        ]
+      },
+      "410": {
+        "total_files": 2,
+        "year_range": [
+          1965,
+          2011
+        ],
+        "files": [
+          {
+            "file": "1052/410/1965-kwiniuk-river-chinook.json",
+            "year": 1965,
+            "total_records": 2490,
+            "size_bytes": 321484
+          },
+          {
+            "file": "1052/410/2011-location-1052-chinook.json",
+            "year": 2011,
+            "total_records": 312,
+            "size_bytes": 41327
+          }
+        ]
+      },
+      "450": {
+        "total_files": 1,
+        "year_range": [
+          2011,
+          2011
+        ],
+        "files": [
+          {
+            "file": "1052/450/2011-location-1052-chum.json",
+            "year": 2011,
+            "total_records": 503,
+            "size_bytes": 67212
+          }
+        ]
+      }
+    },
+    "1039": {
+      "420": {
+        "total_files": 1,
+        "year_range": [
+          2020,
+          2020
+        ],
+        "files": [
+          {
+            "file": "1039/422/2020-inglutalik-river-sockeye.json",
+            "year": 2020,
+            "total_records": 57,
+            "size_bytes": 7672
+          }
+        ]
+      },
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          2011,
+          2011
+        ],
+        "files": [
+          {
+            "file": "1039/410/2011-inglutalik-river-chinook.json",
+            "year": 2011,
+            "total_records": 536,
+            "size_bytes": 70879
+          }
+        ]
+      }
+    },
+    "1001": {
+      "440": {
+        "total_files": 32,
+        "year_range": [
+          1986,
+          2024
+        ],
+        "files": [
+          {
+            "file": "1001/440/1986-akalura-river-pink.json",
+            "year": 1986,
+            "total_records": 20,
+            "size_bytes": 3808
+          },
+          {
+            "file": "1001/440/1987-akalura-river-pink.json",
+            "year": 1987,
+            "total_records": 31,
+            "size_bytes": 5755
+          },
+          {
+            "file": "1001/440/1988-akalura-river-pink.json",
+            "year": 1988,
+            "total_records": 35,
+            "size_bytes": 6664
+          },
+          {
+            "file": "1001/440/1994-akalura-river-pink.json",
+            "year": 1994,
+            "total_records": 34,
+            "size_bytes": 6387
+          },
+          {
+            "file": "1001/440/1995-akalura-river-pink.json",
+            "year": 1995,
+            "total_records": 89,
+            "size_bytes": 16347
+          },
+          {
+            "file": "1001/440/1996-akalura-river-pink.json",
+            "year": 1996,
+            "total_records": 90,
+            "size_bytes": 16765
+          },
+          {
+            "file": "1001/440/1997-akalura-river-pink.json",
+            "year": 1997,
+            "total_records": 91,
+            "size_bytes": 16824
+          },
+          {
+            "file": "1001/440/1998-akalura-river-pink.json",
+            "year": 1998,
+            "total_records": 83,
+            "size_bytes": 15471
+          },
+          {
+            "file": "1001/440/1999-akalura-river-pink.json",
+            "year": 1999,
+            "total_records": 87,
+            "size_bytes": 15963
+          },
+          {
+            "file": "1001/440/2000-akalura-river-pink.json",
+            "year": 2000,
+            "total_records": 86,
+            "size_bytes": 15905
+          },
+          {
+            "file": "1001/440/2001-akalura-river-pink.json",
+            "year": 2001,
+            "total_records": 63,
+            "size_bytes": 11711
+          },
+          {
+            "file": "1001/440/2002-akalura-river-pink.json",
+            "year": 2002,
+            "total_records": 88,
+            "size_bytes": 16375
+          },
+          {
+            "file": "1001/440/2003-akalura-river-pink.json",
+            "year": 2003,
+            "total_records": 89,
+            "size_bytes": 16510
+          },
+          {
+            "file": "1001/440/2004-akalura-river-pink.json",
+            "year": 2004,
+            "total_records": 89,
+            "size_bytes": 16623
+          },
+          {
+            "file": "1001/440/2005-akalura-river-pink.json",
+            "year": 2005,
+            "total_records": 78,
+            "size_bytes": 14526
+          },
+          {
+            "file": "1001/440/2006-akalura-river-pink.json",
+            "year": 2006,
+            "total_records": 30,
+            "size_bytes": 5648
+          },
+          {
+            "file": "1001/440/2007-akalura-river-pink.json",
+            "year": 2007,
+            "total_records": 42,
+            "size_bytes": 7902
+          },
+          {
+            "file": "1001/440/2008-akalura-river-pink.json",
+            "year": 2008,
+            "total_records": 40,
+            "size_bytes": 7582
+          },
+          {
+            "file": "1001/440/2009-akalura-river-pink.json",
+            "year": 2009,
+            "total_records": 43,
+            "size_bytes": 8062
+          },
+          {
+            "file": "1001/440/2010-akalura-river-pink.json",
+            "year": 2010,
+            "total_records": 42,
+            "size_bytes": 7833
+          },
+          {
+            "file": "1001/440/2011-akalura-river-pink.json",
+            "year": 2011,
+            "total_records": 41,
+            "size_bytes": 7681
+          },
+          {
+            "file": "1001/440/2012-akalura-river-pink.json",
+            "year": 2012,
+            "total_records": 33,
+            "size_bytes": 6187
+          },
+          {
+            "file": "1001/440/2013-akalura-river-pink.json",
+            "year": 2013,
+            "total_records": 29,
+            "size_bytes": 5400
+          },
+          {
+            "file": "1001/440/2014-akalura-river-pink.json",
+            "year": 2014,
+            "total_records": 45,
+            "size_bytes": 8353
+          },
+          {
+            "file": "1001/440/2015-akalura-river-pink.json",
+            "year": 2015,
+            "total_records": 45,
+            "size_bytes": 8410
+          },
+          {
+            "file": "1001/440/2016-akalura-river-pink.json",
+            "year": 2016,
+            "total_records": 35,
+            "size_bytes": 6546
+          },
+          {
+            "file": "1001/440/2017-akalura-river-pink.json",
+            "year": 2017,
+            "total_records": 46,
+            "size_bytes": 8641
+          },
+          {
+            "file": "1001/440/2018-akalura-river-pink.json",
+            "year": 2018,
+            "total_records": 35,
+            "size_bytes": 6538
+          },
+          {
+            "file": "1001/440/2019-akalura-river-pink.json",
+            "year": 2019,
+            "total_records": 33,
+            "size_bytes": 6156
+          },
+          {
+            "file": "1001/440/2021-akalura-river-pink.json",
+            "year": 2021,
+            "total_records": 41,
+            "size_bytes": 7569
+          },
+          {
+            "file": "1001/440/2023-akalura-river-pink.json",
+            "year": 2023,
+            "total_records": 19,
+            "size_bytes": 3637
+          },
+          {
+            "file": "1001/440/2024-akalura-river-pink.json",
+            "year": 2024,
+            "total_records": 33,
+            "size_bytes": 6211
+          }
+        ]
+      },
+      "430": {
+        "total_files": 37,
+        "year_range": [
+          1981,
+          2024
+        ],
+        "files": [
+          {
+            "file": "1001/430/1981-akalura-river-coho.json",
+            "year": 1981,
+            "total_records": 31,
+            "size_bytes": 5835
+          },
+          {
+            "file": "1001/430/1982-akalura-river-coho.json",
+            "year": 1982,
+            "total_records": 26,
+            "size_bytes": 4996
+          },
+          {
+            "file": "1001/430/1983-akalura-river-coho.json",
+            "year": 1983,
+            "total_records": 36,
+            "size_bytes": 6842
+          },
+          {
+            "file": "1001/430/1984-akalura-river-coho.json",
+            "year": 1984,
+            "total_records": 34,
+            "size_bytes": 6466
+          },
+          {
+            "file": "1001/430/1985-akalura-river-coho.json",
+            "year": 1985,
+            "total_records": 30,
+            "size_bytes": 5611
+          },
+          {
+            "file": "1001/430/1986-akalura-river-coho.json",
+            "year": 1986,
+            "total_records": 20,
+            "size_bytes": 3884
+          },
+          {
+            "file": "1001/430/1987-akalura-river-coho.json",
+            "year": 1987,
+            "total_records": 31,
+            "size_bytes": 5808
+          },
+          {
+            "file": "1001/430/1988-akalura-river-coho.json",
+            "year": 1988,
+            "total_records": 34,
+            "size_bytes": 6465
+          },
+          {
+            "file": "1001/430/1994-akalura-river-coho.json",
+            "year": 1994,
+            "total_records": 33,
+            "size_bytes": 6198
+          },
+          {
+            "file": "1001/430/1995-akalura-river-coho.json",
+            "year": 1995,
+            "total_records": 89,
+            "size_bytes": 16347
+          },
+          {
+            "file": "1001/430/1996-akalura-river-coho.json",
+            "year": 1996,
+            "total_records": 90,
+            "size_bytes": 16687
+          },
+          {
+            "file": "1001/430/1997-akalura-river-coho.json",
+            "year": 1997,
+            "total_records": 90,
+            "size_bytes": 16675
+          },
+          {
+            "file": "1001/430/1998-akalura-river-coho.json",
+            "year": 1998,
+            "total_records": 83,
+            "size_bytes": 15395
+          },
+          {
+            "file": "1001/430/1999-akalura-river-coho.json",
+            "year": 1999,
+            "total_records": 87,
+            "size_bytes": 15955
+          },
+          {
+            "file": "1001/430/2000-akalura-river-coho.json",
+            "year": 2000,
+            "total_records": 86,
+            "size_bytes": 15885
+          },
+          {
+            "file": "1001/430/2001-akalura-river-coho.json",
+            "year": 2001,
+            "total_records": 63,
+            "size_bytes": 11745
+          },
+          {
+            "file": "1001/430/2002-akalura-river-coho.json",
+            "year": 2002,
+            "total_records": 88,
+            "size_bytes": 16153
+          },
+          {
+            "file": "1001/430/2003-akalura-river-coho.json",
+            "year": 2003,
+            "total_records": 89,
+            "size_bytes": 16497
+          },
+          {
+            "file": "1001/430/2004-akalura-river-coho.json",
+            "year": 2004,
+            "total_records": 89,
+            "size_bytes": 16518
+          },
+          {
+            "file": "1001/430/2005-akalura-river-coho.json",
+            "year": 2005,
+            "total_records": 78,
+            "size_bytes": 14472
+          },
+          {
+            "file": "1001/430/2006-akalura-river-coho.json",
+            "year": 2006,
+            "total_records": 30,
+            "size_bytes": 5642
+          },
+          {
+            "file": "1001/430/2007-akalura-river-coho.json",
+            "year": 2007,
+            "total_records": 42,
+            "size_bytes": 7815
+          },
+          {
+            "file": "1001/430/2008-akalura-river-coho.json",
+            "year": 2008,
+            "total_records": 41,
+            "size_bytes": 7632
+          },
+          {
+            "file": "1001/430/2009-akalura-river-coho.json",
+            "year": 2009,
+            "total_records": 43,
+            "size_bytes": 8091
+          },
+          {
+            "file": "1001/430/2010-akalura-river-coho.json",
+            "year": 2010,
+            "total_records": 42,
+            "size_bytes": 7936
+          },
+          {
+            "file": "1001/430/2011-akalura-river-coho.json",
+            "year": 2011,
+            "total_records": 41,
+            "size_bytes": 7765
+          },
+          {
+            "file": "1001/430/2012-akalura-river-coho.json",
+            "year": 2012,
+            "total_records": 33,
+            "size_bytes": 6182
+          },
+          {
+            "file": "1001/430/2013-akalura-river-coho.json",
+            "year": 2013,
+            "total_records": 29,
+            "size_bytes": 5451
+          },
+          {
+            "file": "1001/430/2014-akalura-river-coho.json",
+            "year": 2014,
+            "total_records": 45,
+            "size_bytes": 8349
+          },
+          {
+            "file": "1001/430/2015-akalura-river-coho.json",
+            "year": 2015,
+            "total_records": 45,
+            "size_bytes": 8394
+          },
+          {
+            "file": "1001/430/2016-akalura-river-coho.json",
+            "year": 2016,
+            "total_records": 35,
+            "size_bytes": 6547
+          },
+          {
+            "file": "1001/430/2017-akalura-river-coho.json",
+            "year": 2017,
+            "total_records": 46,
+            "size_bytes": 8677
+          },
+          {
+            "file": "1001/430/2018-akalura-river-coho.json",
+            "year": 2018,
+            "total_records": 35,
+            "size_bytes": 6539
+          },
+          {
+            "file": "1001/430/2019-akalura-river-coho.json",
+            "year": 2019,
+            "total_records": 33,
+            "size_bytes": 6180
+          },
+          {
+            "file": "1001/430/2021-akalura-river-coho.json",
+            "year": 2021,
+            "total_records": 41,
+            "size_bytes": 7573
+          },
+          {
+            "file": "1001/430/2023-akalura-river-coho.json",
+            "year": 2023,
+            "total_records": 19,
+            "size_bytes": 3661
+          },
+          {
+            "file": "1001/430/2024-akalura-river-coho.json",
+            "year": 2024,
+            "total_records": 33,
+            "size_bytes": 6203
+          }
+        ]
+      },
+      "410": {
+        "total_files": 32,
+        "year_range": [
+          1986,
+          2024
+        ],
+        "files": [
+          {
+            "file": "1001/410/1986-akalura-river-chinook.json",
+            "year": 1986,
+            "total_records": 20,
+            "size_bytes": 3819
+          },
+          {
+            "file": "1001/410/1987-akalura-river-chinook.json",
+            "year": 1987,
+            "total_records": 31,
+            "size_bytes": 5832
+          },
+          {
+            "file": "1001/410/1988-akalura-river-chinook.json",
+            "year": 1988,
+            "total_records": 35,
+            "size_bytes": 6483
+          },
+          {
+            "file": "1001/410/1994-akalura-river-chinook.json",
+            "year": 1994,
+            "total_records": 34,
+            "size_bytes": 6335
+          },
+          {
+            "file": "1001/410/1995-akalura-river-chinook.json",
+            "year": 1995,
+            "total_records": 47,
+            "size_bytes": 8667
+          },
+          {
+            "file": "1001/410/1996-akalura-river-chinook.json",
+            "year": 1996,
+            "total_records": 44,
+            "size_bytes": 8122
+          },
+          {
+            "file": "1001/410/1997-akalura-river-chinook.json",
+            "year": 1997,
+            "total_records": 48,
+            "size_bytes": 8943
+          },
+          {
+            "file": "1001/410/1998-akalura-river-chinook.json",
+            "year": 1998,
+            "total_records": 40,
+            "size_bytes": 7479
+          },
+          {
+            "file": "1001/410/1999-akalura-river-chinook.json",
+            "year": 1999,
+            "total_records": 46,
+            "size_bytes": 8480
+          },
+          {
+            "file": "1001/410/2000-akalura-river-chinook.json",
+            "year": 2000,
+            "total_records": 33,
+            "size_bytes": 6130
+          },
+          {
+            "file": "1001/410/2001-akalura-river-chinook.json",
+            "year": 2001,
+            "total_records": 18,
+            "size_bytes": 3421
+          },
+          {
+            "file": "1001/410/2002-akalura-river-chinook.json",
+            "year": 2002,
+            "total_records": 44,
+            "size_bytes": 8211
+          },
+          {
+            "file": "1001/410/2003-akalura-river-chinook.json",
+            "year": 2003,
+            "total_records": 44,
+            "size_bytes": 8211
+          },
+          {
+            "file": "1001/410/2004-akalura-river-chinook.json",
+            "year": 2004,
+            "total_records": 40,
+            "size_bytes": 7479
+          },
+          {
+            "file": "1001/410/2005-akalura-river-chinook.json",
+            "year": 2005,
+            "total_records": 37,
+            "size_bytes": 6930
+          },
+          {
+            "file": "1001/410/2006-akalura-river-chinook.json",
+            "year": 2006,
+            "total_records": 30,
+            "size_bytes": 5604
+          },
+          {
+            "file": "1001/410/2007-akalura-river-chinook.json",
+            "year": 2007,
+            "total_records": 42,
+            "size_bytes": 7761
+          },
+          {
+            "file": "1001/410/2008-akalura-river-chinook.json",
+            "year": 2008,
+            "total_records": 40,
+            "size_bytes": 7479
+          },
+          {
+            "file": "1001/410/2009-akalura-river-chinook.json",
+            "year": 2009,
+            "total_records": 41,
+            "size_bytes": 7662
+          },
+          {
+            "file": "1001/410/2010-akalura-river-chinook.json",
+            "year": 2010,
+            "total_records": 42,
+            "size_bytes": 7845
+          },
+          {
+            "file": "1001/410/2011-akalura-river-chinook.json",
+            "year": 2011,
+            "total_records": 41,
+            "size_bytes": 7585
+          },
+          {
+            "file": "1001/410/2012-akalura-river-chinook.json",
+            "year": 2012,
+            "total_records": 33,
+            "size_bytes": 6198
+          },
+          {
+            "file": "1001/410/2013-akalura-river-chinook.json",
+            "year": 2013,
+            "total_records": 29,
+            "size_bytes": 5466
+          },
+          {
+            "file": "1001/410/2014-akalura-river-chinook.json",
+            "year": 2014,
+            "total_records": 45,
+            "size_bytes": 8394
+          },
+          {
+            "file": "1001/410/2015-akalura-river-chinook.json",
+            "year": 2015,
+            "total_records": 45,
+            "size_bytes": 8302
+          },
+          {
+            "file": "1001/410/2016-akalura-river-chinook.json",
+            "year": 2016,
+            "total_records": 35,
+            "size_bytes": 6500
+          },
+          {
+            "file": "1001/410/2017-akalura-river-chinook.json",
+            "year": 2017,
+            "total_records": 46,
+            "size_bytes": 8577
+          },
+          {
+            "file": "1001/410/2018-akalura-river-chinook.json",
+            "year": 2018,
+            "total_records": 35,
+            "size_bytes": 6502
+          },
+          {
+            "file": "1001/410/2019-akalura-river-chinook.json",
+            "year": 2019,
+            "total_records": 33,
+            "size_bytes": 6140
+          },
+          {
+            "file": "1001/410/2021-akalura-river-chinook.json",
+            "year": 2021,
+            "total_records": 41,
+            "size_bytes": 7556
+          },
+          {
+            "file": "1001/410/2023-akalura-river-chinook.json",
+            "year": 2023,
+            "total_records": 19,
+            "size_bytes": 3636
+          },
+          {
+            "file": "1001/410/2024-akalura-river-chinook.json",
+            "year": 2024,
+            "total_records": 33,
+            "size_bytes": 6198
+          }
+        ]
+      },
+      "420": {
+        "total_files": 21,
+        "year_range": [
+          1994,
+          2024
+        ],
+        "files": [
+          {
+            "file": "1001/420/1994-akalura-river-sockeye.json",
+            "year": 1994,
+            "total_records": 34,
+            "size_bytes": 6281
+          },
+          {
+            "file": "1001/420/1995-akalura-river-sockeye.json",
+            "year": 1995,
+            "total_records": 89,
+            "size_bytes": 16447
+          },
+          {
+            "file": "1001/420/1996-akalura-river-sockeye.json",
+            "year": 1996,
+            "total_records": 90,
+            "size_bytes": 16632
+          },
+          {
+            "file": "1001/420/1997-akalura-river-sockeye.json",
+            "year": 1997,
+            "total_records": 91,
+            "size_bytes": 16666
+          },
+          {
+            "file": "1001/420/1998-akalura-river-sockeye.json",
+            "year": 1998,
+            "total_records": 83,
+            "size_bytes": 15230
+          },
+          {
+            "file": "1001/420/1999-akalura-river-sockeye.json",
+            "year": 1999,
+            "total_records": 87,
+            "size_bytes": 16082
+          },
+          {
+            "file": "1001/420/2000-akalura-river-sockeye.json",
+            "year": 2000,
+            "total_records": 86,
+            "size_bytes": 15818
+          },
+          {
+            "file": "1001/420/2001-akalura-river-sockeye.json",
+            "year": 2001,
+            "total_records": 62,
+            "size_bytes": 11451
+          },
+          {
+            "file": "1001/420/2002-akalura-river-sockeye.json",
+            "year": 2002,
+            "total_records": 88,
+            "size_bytes": 16263
+          },
+          {
+            "file": "1001/420/2003-akalura-river-sockeye.json",
+            "year": 2003,
+            "total_records": 90,
+            "size_bytes": 16647
+          },
+          {
+            "file": "1001/420/2004-akalura-river-sockeye.json",
+            "year": 2004,
+            "total_records": 89,
+            "size_bytes": 16461
+          },
+          {
+            "file": "1001/420/2005-akalura-river-sockeye.json",
+            "year": 2005,
+            "total_records": 78,
+            "size_bytes": 14436
+          },
+          {
+            "file": "1001/420/2014-akalura-river-sockeye.json",
+            "year": 2014,
+            "total_records": 45,
+            "size_bytes": 8268
+          },
+          {
+            "file": "1001/420/2015-akalura-river-sockeye.json",
+            "year": 2015,
+            "total_records": 45,
+            "size_bytes": 8403
+          },
+          {
+            "file": "1001/420/2016-akalura-river-sockeye.json",
+            "year": 2016,
+            "total_records": 35,
+            "size_bytes": 6594
+          },
+          {
+            "file": "1001/420/2017-akalura-river-sockeye.json",
+            "year": 2017,
+            "total_records": 46,
+            "size_bytes": 8458
+          },
+          {
+            "file": "1001/420/2018-akalura-river-sockeye.json",
+            "year": 2018,
+            "total_records": 35,
+            "size_bytes": 6597
+          },
+          {
+            "file": "1001/420/2019-akalura-river-sockeye.json",
+            "year": 2019,
+            "total_records": 33,
+            "size_bytes": 6208
+          },
+          {
+            "file": "1001/420/2021-akalura-river-sockeye.json",
+            "year": 2021,
+            "total_records": 41,
+            "size_bytes": 7549
+          },
+          {
+            "file": "1001/420/2023-akalura-river-sockeye.json",
+            "year": 2023,
+            "total_records": 19,
+            "size_bytes": 3636
+          },
+          {
+            "file": "1001/420/2024-akalura-river-sockeye.json",
+            "year": 2024,
+            "total_records": 33,
+            "size_bytes": 6198
+          }
+        ]
+      },
+      "450": {
+        "total_files": 37,
+        "year_range": [
+          1981,
+          2024
+        ],
+        "files": [
+          {
+            "file": "1001/450/1981-akalura-river-chum.json",
+            "year": 1981,
+            "total_records": 31,
+            "size_bytes": 5928
+          },
+          {
+            "file": "1001/450/1982-akalura-river-chum.json",
+            "year": 1982,
+            "total_records": 26,
+            "size_bytes": 4918
+          },
+          {
+            "file": "1001/450/1983-akalura-river-chum.json",
+            "year": 1983,
+            "total_records": 36,
+            "size_bytes": 6734
+          },
+          {
+            "file": "1001/450/1984-akalura-river-chum.json",
+            "year": 1984,
+            "total_records": 34,
+            "size_bytes": 6364
+          },
+          {
+            "file": "1001/450/1985-akalura-river-chum.json",
+            "year": 1985,
+            "total_records": 30,
+            "size_bytes": 5701
+          },
+          {
+            "file": "1001/450/1986-akalura-river-chum.json",
+            "year": 1986,
+            "total_records": 20,
+            "size_bytes": 3824
+          },
+          {
+            "file": "1001/450/1987-akalura-river-chum.json",
+            "year": 1987,
+            "total_records": 31,
+            "size_bytes": 5901
+          },
+          {
+            "file": "1001/450/1988-akalura-river-chum.json",
+            "year": 1988,
+            "total_records": 35,
+            "size_bytes": 6546
+          },
+          {
+            "file": "1001/450/1994-akalura-river-chum.json",
+            "year": 1994,
+            "total_records": 34,
+            "size_bytes": 6384
+          },
+          {
+            "file": "1001/450/1995-akalura-river-chum.json",
+            "year": 1995,
+            "total_records": 89,
+            "size_bytes": 16614
+          },
+          {
+            "file": "1001/450/1996-akalura-river-chum.json",
+            "year": 1996,
+            "total_records": 90,
+            "size_bytes": 16669
+          },
+          {
+            "file": "1001/450/1997-akalura-river-chum.json",
+            "year": 1997,
+            "total_records": 91,
+            "size_bytes": 16816
+          },
+          {
+            "file": "1001/450/1998-akalura-river-chum.json",
+            "year": 1998,
+            "total_records": 83,
+            "size_bytes": 15347
+          },
+          {
+            "file": "1001/450/1999-akalura-river-chum.json",
+            "year": 1999,
+            "total_records": 87,
+            "size_bytes": 16179
+          },
+          {
+            "file": "1001/450/2000-akalura-river-chum.json",
+            "year": 2000,
+            "total_records": 86,
+            "size_bytes": 15984
+          },
+          {
+            "file": "1001/450/2001-akalura-river-chum.json",
+            "year": 2001,
+            "total_records": 63,
+            "size_bytes": 11672
+          },
+          {
+            "file": "1001/450/2002-akalura-river-chum.json",
+            "year": 2002,
+            "total_records": 87,
+            "size_bytes": 16172
+          },
+          {
+            "file": "1001/450/2003-akalura-river-chum.json",
+            "year": 2003,
+            "total_records": 89,
+            "size_bytes": 16429
+          },
+          {
+            "file": "1001/450/2004-akalura-river-chum.json",
+            "year": 2004,
+            "total_records": 89,
+            "size_bytes": 16453
+          },
+          {
+            "file": "1001/450/2005-akalura-river-chum.json",
+            "year": 2005,
+            "total_records": 78,
+            "size_bytes": 14408
+          },
+          {
+            "file": "1001/450/2006-akalura-river-chum.json",
+            "year": 2006,
+            "total_records": 30,
+            "size_bytes": 5732
+          },
+          {
+            "file": "1001/450/2007-akalura-river-chum.json",
+            "year": 2007,
+            "total_records": 42,
+            "size_bytes": 7941
+          },
+          {
+            "file": "1001/450/2008-akalura-river-chum.json",
+            "year": 2008,
+            "total_records": 41,
+            "size_bytes": 7755
+          },
+          {
+            "file": "1001/450/2009-akalura-river-chum.json",
+            "year": 2009,
+            "total_records": 43,
+            "size_bytes": 7968
+          },
+          {
+            "file": "1001/450/2010-akalura-river-chum.json",
+            "year": 2010,
+            "total_records": 42,
+            "size_bytes": 7936
+          },
+          {
+            "file": "1001/450/2011-akalura-river-chum.json",
+            "year": 2011,
+            "total_records": 41,
+            "size_bytes": 7642
+          },
+          {
+            "file": "1001/450/2012-akalura-river-chum.json",
+            "year": 2012,
+            "total_records": 33,
+            "size_bytes": 6279
+          },
+          {
+            "file": "1001/450/2013-akalura-river-chum.json",
+            "year": 2013,
+            "total_records": 29,
+            "size_bytes": 5538
+          },
+          {
+            "file": "1001/450/2014-akalura-river-chum.json",
+            "year": 2014,
+            "total_records": 45,
+            "size_bytes": 8484
+          },
+          {
+            "file": "1001/450/2015-akalura-river-chum.json",
+            "year": 2015,
+            "total_records": 45,
+            "size_bytes": 8482
+          },
+          {
+            "file": "1001/450/2016-akalura-river-chum.json",
+            "year": 2016,
+            "total_records": 35,
+            "size_bytes": 6652
+          },
+          {
+            "file": "1001/450/2017-akalura-river-chum.json",
+            "year": 2017,
+            "total_records": 46,
+            "size_bytes": 8539
+          },
+          {
+            "file": "1001/450/2018-akalura-river-chum.json",
+            "year": 2018,
+            "total_records": 35,
+            "size_bytes": 6644
+          },
+          {
+            "file": "1001/450/2019-akalura-river-chum.json",
+            "year": 2019,
+            "total_records": 33,
+            "size_bytes": 6279
+          },
+          {
+            "file": "1001/450/2021-akalura-river-chum.json",
+            "year": 2021,
+            "total_records": 41,
+            "size_bytes": 7696
+          },
+          {
+            "file": "1001/450/2023-akalura-river-chum.json",
+            "year": 2023,
+            "total_records": 19,
+            "size_bytes": 3604
+          },
+          {
+            "file": "1001/450/2024-akalura-river-chum.json",
+            "year": 2024,
+            "total_records": 33,
+            "size_bytes": 6104
+          }
+        ]
+      }
+    },
+    "1037": {
+      "440": {
+        "total_files": 31,
+        "year_range": [
+          1995,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1037/440/1995-salmon-lake-stream-pink.json",
+            "year": 1995,
+            "total_records": 34,
+            "size_bytes": 5009
+          },
+          {
+            "file": "1037/440/1996-salmon-lake-stream-pink.json",
+            "year": 1996,
+            "total_records": 52,
+            "size_bytes": 7604
+          },
+          {
+            "file": "1037/440/1997-salmon-lake-stream-pink.json",
+            "year": 1997,
+            "total_records": 52,
+            "size_bytes": 7551
+          },
+          {
+            "file": "1037/440/1998-salmon-lake-stream-pink.json",
+            "year": 1998,
+            "total_records": 45,
+            "size_bytes": 6625
+          },
+          {
+            "file": "1037/440/1999-salmon-lake-stream-pink.json",
+            "year": 1999,
+            "total_records": 54,
+            "size_bytes": 7874
+          },
+          {
+            "file": "1037/440/2000-salmon-lake-stream-pink.json",
+            "year": 2000,
+            "total_records": 58,
+            "size_bytes": 8476
+          },
+          {
+            "file": "1037/440/2001-salmon-lake-stream-pink.json",
+            "year": 2001,
+            "total_records": 68,
+            "size_bytes": 9899
+          },
+          {
+            "file": "1037/440/2002-salmon-lake-stream-pink.json",
+            "year": 2002,
+            "total_records": 78,
+            "size_bytes": 11359
+          },
+          {
+            "file": "1037/440/2003-salmon-lake-stream-pink.json",
+            "year": 2003,
+            "total_records": 78,
+            "size_bytes": 11263
+          },
+          {
+            "file": "1037/440/2004-salmon-lake-stream-pink.json",
+            "year": 2004,
+            "total_records": 71,
+            "size_bytes": 10330
+          },
+          {
+            "file": "1037/440/2005-salmon-lake-stream-pink.json",
+            "year": 2005,
+            "total_records": 72,
+            "size_bytes": 10416
+          },
+          {
+            "file": "1037/440/2006-salmon-lake-stream-pink.json",
+            "year": 2006,
+            "total_records": 39,
+            "size_bytes": 5764
+          },
+          {
+            "file": "1037/440/2007-salmon-lake-stream-pink.json",
+            "year": 2007,
+            "total_records": 42,
+            "size_bytes": 6115
+          },
+          {
+            "file": "1037/440/2008-salmon-lake-stream-pink.json",
+            "year": 2008,
+            "total_records": 34,
+            "size_bytes": 5048
+          },
+          {
+            "file": "1037/440/2009-salmon-lake-stream-pink.json",
+            "year": 2009,
+            "total_records": 33,
+            "size_bytes": 4838
+          },
+          {
+            "file": "1037/440/2010-salmon-lake-stream-pink.json",
+            "year": 2010,
+            "total_records": 25,
+            "size_bytes": 3741
+          },
+          {
+            "file": "1037/440/2011-salmon-lake-stream-pink.json",
+            "year": 2011,
+            "total_records": 36,
+            "size_bytes": 5253
+          },
+          {
+            "file": "1037/440/2012-salmon-lake-stream-pink.json",
+            "year": 2012,
+            "total_records": 28,
+            "size_bytes": 4157
+          },
+          {
+            "file": "1037/440/2013-salmon-lake-stream-pink.json",
+            "year": 2013,
+            "total_records": 38,
+            "size_bytes": 5549
+          },
+          {
+            "file": "1037/440/2014-salmon-lake-stream-pink.json",
+            "year": 2014,
+            "total_records": 35,
+            "size_bytes": 5160
+          },
+          {
+            "file": "1037/440/2015-salmon-lake-stream-pink.json",
+            "year": 2015,
+            "total_records": 39,
+            "size_bytes": 5686
+          },
+          {
+            "file": "1037/440/2016-salmon-lake-stream-pink.json",
+            "year": 2016,
+            "total_records": 39,
+            "size_bytes": 5729
+          },
+          {
+            "file": "1037/440/2017-salmon-lake-stream-pink.json",
+            "year": 2017,
+            "total_records": 40,
+            "size_bytes": 5852
+          },
+          {
+            "file": "1037/440/2018-salmon-lake-stream-pink.json",
+            "year": 2018,
+            "total_records": 34,
+            "size_bytes": 5034
+          },
+          {
+            "file": "1037/440/2019-salmon-lake-stream-pink.json",
+            "year": 2019,
+            "total_records": 20,
+            "size_bytes": 3032
+          },
+          {
+            "file": "1037/440/2020-salmon-lake-stream-pink.json",
+            "year": 2020,
+            "total_records": 37,
+            "size_bytes": 5465
+          },
+          {
+            "file": "1037/440/2021-salmon-lake-stream-pink.json",
+            "year": 2021,
+            "total_records": 29,
+            "size_bytes": 4281
+          },
+          {
+            "file": "1037/440/2022-salmon-lake-stream-pink.json",
+            "year": 2022,
+            "total_records": 28,
+            "size_bytes": 4157
+          },
+          {
+            "file": "1037/440/2023-salmon-lake-stream-pink.json",
+            "year": 2023,
+            "total_records": 26,
+            "size_bytes": 3838
+          },
+          {
+            "file": "1037/440/2024-salmon-lake-stream-pink.json",
+            "year": 2024,
+            "total_records": 33,
+            "size_bytes": 4875
+          },
+          {
+            "file": "1037/440/2025-salmon-lake-stream-pink.json",
+            "year": 2025,
+            "total_records": 50,
+            "size_bytes": 7257
+          }
+        ]
+      },
+      "430": {
+        "total_files": 31,
+        "year_range": [
+          1995,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1037/430/1995-salmon-lake-stream-coho.json",
+            "year": 1995,
+            "total_records": 34,
+            "size_bytes": 4971
+          },
+          {
+            "file": "1037/430/1996-salmon-lake-stream-coho.json",
+            "year": 1996,
+            "total_records": 52,
+            "size_bytes": 7546
+          },
+          {
+            "file": "1037/430/1997-salmon-lake-stream-coho.json",
+            "year": 1997,
+            "total_records": 52,
+            "size_bytes": 7538
+          },
+          {
+            "file": "1037/430/1998-salmon-lake-stream-coho.json",
+            "year": 1998,
+            "total_records": 45,
+            "size_bytes": 6530
+          },
+          {
+            "file": "1037/430/1999-salmon-lake-stream-coho.json",
+            "year": 1999,
+            "total_records": 54,
+            "size_bytes": 7854
+          },
+          {
+            "file": "1037/430/2000-salmon-lake-stream-coho.json",
+            "year": 2000,
+            "total_records": 58,
+            "size_bytes": 8395
+          },
+          {
+            "file": "1037/430/2001-salmon-lake-stream-coho.json",
+            "year": 2001,
+            "total_records": 68,
+            "size_bytes": 9909
+          },
+          {
+            "file": "1037/430/2002-salmon-lake-stream-coho.json",
+            "year": 2002,
+            "total_records": 78,
+            "size_bytes": 11277
+          },
+          {
+            "file": "1037/430/2003-salmon-lake-stream-coho.json",
+            "year": 2003,
+            "total_records": 78,
+            "size_bytes": 11264
+          },
+          {
+            "file": "1037/430/2004-salmon-lake-stream-coho.json",
+            "year": 2004,
+            "total_records": 71,
+            "size_bytes": 10279
+          },
+          {
+            "file": "1037/430/2005-salmon-lake-stream-coho.json",
+            "year": 2005,
+            "total_records": 72,
+            "size_bytes": 10399
+          },
+          {
+            "file": "1037/430/2006-salmon-lake-stream-coho.json",
+            "year": 2006,
+            "total_records": 39,
+            "size_bytes": 5665
+          },
+          {
+            "file": "1037/430/2007-salmon-lake-stream-coho.json",
+            "year": 2007,
+            "total_records": 42,
+            "size_bytes": 6093
+          },
+          {
+            "file": "1037/430/2008-salmon-lake-stream-coho.json",
+            "year": 2008,
+            "total_records": 34,
+            "size_bytes": 4954
+          },
+          {
+            "file": "1037/430/2009-salmon-lake-stream-coho.json",
+            "year": 2009,
+            "total_records": 33,
+            "size_bytes": 4818
+          },
+          {
+            "file": "1037/430/2010-salmon-lake-stream-coho.json",
+            "year": 2010,
+            "total_records": 24,
+            "size_bytes": 3543
+          },
+          {
+            "file": "1037/430/2011-salmon-lake-stream-coho.json",
+            "year": 2011,
+            "total_records": 36,
+            "size_bytes": 5241
+          },
+          {
+            "file": "1037/430/2012-salmon-lake-stream-coho.json",
+            "year": 2012,
+            "total_records": 28,
+            "size_bytes": 4107
+          },
+          {
+            "file": "1037/430/2013-salmon-lake-stream-coho.json",
+            "year": 2013,
+            "total_records": 38,
+            "size_bytes": 5527
+          },
+          {
+            "file": "1037/430/2014-salmon-lake-stream-coho.json",
+            "year": 2014,
+            "total_records": 35,
+            "size_bytes": 5094
+          },
+          {
+            "file": "1037/430/2015-salmon-lake-stream-coho.json",
+            "year": 2015,
+            "total_records": 39,
+            "size_bytes": 5658
+          },
+          {
+            "file": "1037/430/2016-salmon-lake-stream-coho.json",
+            "year": 2016,
+            "total_records": 39,
+            "size_bytes": 5663
+          },
+          {
+            "file": "1037/430/2017-salmon-lake-stream-coho.json",
+            "year": 2017,
+            "total_records": 40,
+            "size_bytes": 5799
+          },
+          {
+            "file": "1037/430/2018-salmon-lake-stream-coho.json",
+            "year": 2018,
+            "total_records": 34,
+            "size_bytes": 4954
+          },
+          {
+            "file": "1037/430/2019-salmon-lake-stream-coho.json",
+            "year": 2019,
+            "total_records": 20,
+            "size_bytes": 2979
+          },
+          {
+            "file": "1037/430/2020-salmon-lake-stream-coho.json",
+            "year": 2020,
+            "total_records": 37,
+            "size_bytes": 5378
+          },
+          {
+            "file": "1037/430/2021-salmon-lake-stream-coho.json",
+            "year": 2021,
+            "total_records": 29,
+            "size_bytes": 4248
+          },
+          {
+            "file": "1037/430/2022-salmon-lake-stream-coho.json",
+            "year": 2022,
+            "total_records": 28,
+            "size_bytes": 4107
+          },
+          {
+            "file": "1037/430/2023-salmon-lake-stream-coho.json",
+            "year": 2023,
+            "total_records": 26,
+            "size_bytes": 3825
+          },
+          {
+            "file": "1037/430/2024-salmon-lake-stream-coho.json",
+            "year": 2024,
+            "total_records": 33,
+            "size_bytes": 4812
+          },
+          {
+            "file": "1037/430/2025-salmon-lake-stream-coho.json",
+            "year": 2025,
+            "total_records": 50,
+            "size_bytes": 7233
+          }
+        ]
+      },
+      "410": {
+        "total_files": 31,
+        "year_range": [
+          1995,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1037/410/1995-salmon-lake-stream-chinook.json",
+            "year": 1995,
+            "total_records": 34,
+            "size_bytes": 5074
+          },
+          {
+            "file": "1037/410/1996-salmon-lake-stream-chinook.json",
+            "year": 1996,
+            "total_records": 52,
+            "size_bytes": 7689
+          },
+          {
+            "file": "1037/410/1997-salmon-lake-stream-chinook.json",
+            "year": 1997,
+            "total_records": 52,
+            "size_bytes": 7693
+          },
+          {
+            "file": "1037/410/1998-salmon-lake-stream-chinook.json",
+            "year": 1998,
+            "total_records": 45,
+            "size_bytes": 6673
+          },
+          {
+            "file": "1037/410/1999-salmon-lake-stream-chinook.json",
+            "year": 1999,
+            "total_records": 54,
+            "size_bytes": 8002
+          },
+          {
+            "file": "1037/410/2000-salmon-lake-stream-chinook.json",
+            "year": 2000,
+            "total_records": 58,
+            "size_bytes": 8561
+          },
+          {
+            "file": "1037/410/2001-salmon-lake-stream-chinook.json",
+            "year": 2001,
+            "total_records": 68,
+            "size_bytes": 10079
+          },
+          {
+            "file": "1037/410/2002-salmon-lake-stream-chinook.json",
+            "year": 2002,
+            "total_records": 78,
+            "size_bytes": 11504
+          },
+          {
+            "file": "1037/410/2003-salmon-lake-stream-chinook.json",
+            "year": 2003,
+            "total_records": 78,
+            "size_bytes": 11494
+          },
+          {
+            "file": "1037/410/2004-salmon-lake-stream-chinook.json",
+            "year": 2004,
+            "total_records": 71,
+            "size_bytes": 10472
+          },
+          {
+            "file": "1037/410/2005-salmon-lake-stream-chinook.json",
+            "year": 2005,
+            "total_records": 72,
+            "size_bytes": 10599
+          },
+          {
+            "file": "1037/410/2006-salmon-lake-stream-chinook.json",
+            "year": 2006,
+            "total_records": 39,
+            "size_bytes": 5781
+          },
+          {
+            "file": "1037/410/2007-salmon-lake-stream-chinook.json",
+            "year": 2007,
+            "total_records": 42,
+            "size_bytes": 6219
+          },
+          {
+            "file": "1037/410/2008-salmon-lake-stream-chinook.json",
+            "year": 2008,
+            "total_records": 34,
+            "size_bytes": 5056
+          },
+          {
+            "file": "1037/410/2009-salmon-lake-stream-chinook.json",
+            "year": 2009,
+            "total_records": 33,
+            "size_bytes": 4917
+          },
+          {
+            "file": "1037/410/2010-salmon-lake-stream-chinook.json",
+            "year": 2010,
+            "total_records": 25,
+            "size_bytes": 3759
+          },
+          {
+            "file": "1037/410/2011-salmon-lake-stream-chinook.json",
+            "year": 2011,
+            "total_records": 36,
+            "size_bytes": 5349
+          },
+          {
+            "file": "1037/410/2012-salmon-lake-stream-chinook.json",
+            "year": 2012,
+            "total_records": 28,
+            "size_bytes": 4191
+          },
+          {
+            "file": "1037/410/2013-salmon-lake-stream-chinook.json",
+            "year": 2013,
+            "total_records": 38,
+            "size_bytes": 5641
+          },
+          {
+            "file": "1037/410/2014-salmon-lake-stream-chinook.json",
+            "year": 2014,
+            "total_records": 35,
+            "size_bytes": 5199
+          },
+          {
+            "file": "1037/410/2015-salmon-lake-stream-chinook.json",
+            "year": 2015,
+            "total_records": 39,
+            "size_bytes": 5775
+          },
+          {
+            "file": "1037/410/2016-salmon-lake-stream-chinook.json",
+            "year": 2016,
+            "total_records": 39,
+            "size_bytes": 5779
+          },
+          {
+            "file": "1037/410/2017-salmon-lake-stream-chinook.json",
+            "year": 2017,
+            "total_records": 40,
+            "size_bytes": 5919
+          },
+          {
+            "file": "1037/410/2018-salmon-lake-stream-chinook.json",
+            "year": 2018,
+            "total_records": 34,
+            "size_bytes": 5055
+          },
+          {
+            "file": "1037/410/2019-salmon-lake-stream-chinook.json",
+            "year": 2019,
+            "total_records": 20,
+            "size_bytes": 3039
+          },
+          {
+            "file": "1037/410/2020-salmon-lake-stream-chinook.json",
+            "year": 2020,
+            "total_records": 37,
+            "size_bytes": 5489
+          },
+          {
+            "file": "1037/410/2021-salmon-lake-stream-chinook.json",
+            "year": 2021,
+            "total_records": 29,
+            "size_bytes": 4335
+          },
+          {
+            "file": "1037/410/2022-salmon-lake-stream-chinook.json",
+            "year": 2022,
+            "total_records": 28,
+            "size_bytes": 4191
+          },
+          {
+            "file": "1037/410/2023-salmon-lake-stream-chinook.json",
+            "year": 2023,
+            "total_records": 26,
+            "size_bytes": 3903
+          },
+          {
+            "file": "1037/410/2024-salmon-lake-stream-chinook.json",
+            "year": 2024,
+            "total_records": 33,
+            "size_bytes": 4911
+          },
+          {
+            "file": "1037/410/2025-salmon-lake-stream-chinook.json",
+            "year": 2025,
+            "total_records": 50,
+            "size_bytes": 7383
+          }
+        ]
+      },
+      "420": {
+        "total_files": 22,
+        "year_range": [
+          2002,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1037/420/2002-salmon-lake-stream-sockeye.json",
+            "year": 2002,
+            "total_records": 78,
+            "size_bytes": 11503
+          },
+          {
+            "file": "1037/420/2004-salmon-lake-stream-sockeye.json",
+            "year": 2004,
+            "total_records": 71,
+            "size_bytes": 10472
+          },
+          {
+            "file": "1037/420/2005-salmon-lake-stream-sockeye.json",
+            "year": 2005,
+            "total_records": 72,
+            "size_bytes": 10599
+          },
+          {
+            "file": "1037/420/2006-salmon-lake-stream-sockeye.json",
+            "year": 2006,
+            "total_records": 39,
+            "size_bytes": 5781
+          },
+          {
+            "file": "1037/420/2007-salmon-lake-stream-sockeye.json",
+            "year": 2007,
+            "total_records": 42,
+            "size_bytes": 6219
+          },
+          {
+            "file": "1037/420/2008-salmon-lake-stream-sockeye.json",
+            "year": 2008,
+            "total_records": 34,
+            "size_bytes": 5055
+          },
+          {
+            "file": "1037/420/2009-salmon-lake-stream-sockeye.json",
+            "year": 2009,
+            "total_records": 33,
+            "size_bytes": 4917
+          },
+          {
+            "file": "1037/420/2010-salmon-lake-stream-sockeye.json",
+            "year": 2010,
+            "total_records": 25,
+            "size_bytes": 3759
+          },
+          {
+            "file": "1037/420/2012-salmon-lake-stream-sockeye.json",
+            "year": 2012,
+            "total_records": 28,
+            "size_bytes": 4191
+          },
+          {
+            "file": "1037/420/2013-salmon-lake-stream-sockeye.json",
+            "year": 2013,
+            "total_records": 38,
+            "size_bytes": 5641
+          },
+          {
+            "file": "1037/420/2014-salmon-lake-stream-sockeye.json",
+            "year": 2014,
+            "total_records": 35,
+            "size_bytes": 5199
+          },
+          {
+            "file": "1037/420/2015-salmon-lake-stream-sockeye.json",
+            "year": 2015,
+            "total_records": 39,
+            "size_bytes": 5775
+          },
+          {
+            "file": "1037/420/2016-salmon-lake-stream-sockeye.json",
+            "year": 2016,
+            "total_records": 39,
+            "size_bytes": 5779
+          },
+          {
+            "file": "1037/420/2017-salmon-lake-stream-sockeye.json",
+            "year": 2017,
+            "total_records": 40,
+            "size_bytes": 5919
+          },
+          {
+            "file": "1037/420/2018-salmon-lake-stream-sockeye.json",
+            "year": 2018,
+            "total_records": 34,
+            "size_bytes": 5055
+          },
+          {
+            "file": "1037/420/2019-salmon-lake-stream-sockeye.json",
+            "year": 2019,
+            "total_records": 20,
+            "size_bytes": 3039
+          },
+          {
+            "file": "1037/420/2020-salmon-lake-stream-sockeye.json",
+            "year": 2020,
+            "total_records": 37,
+            "size_bytes": 5490
+          },
+          {
+            "file": "1037/420/2021-salmon-lake-stream-sockeye.json",
+            "year": 2021,
+            "total_records": 29,
+            "size_bytes": 4335
+          },
+          {
+            "file": "1037/420/2022-salmon-lake-stream-sockeye.json",
+            "year": 2022,
+            "total_records": 28,
+            "size_bytes": 4191
+          },
+          {
+            "file": "1037/420/2023-salmon-lake-stream-sockeye.json",
+            "year": 2023,
+            "total_records": 26,
+            "size_bytes": 3903
+          },
+          {
+            "file": "1037/420/2024-salmon-lake-stream-sockeye.json",
+            "year": 2024,
+            "total_records": 33,
+            "size_bytes": 4912
+          },
+          {
+            "file": "1037/420/2025-salmon-lake-stream-sockeye.json",
+            "year": 2025,
+            "total_records": 50,
+            "size_bytes": 7383
+          }
+        ]
+      },
+      "450": {
+        "total_files": 31,
+        "year_range": [
+          1995,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1037/450/1995-salmon-lake-stream-chum.json",
+            "year": 1995,
+            "total_records": 34,
+            "size_bytes": 5047
+          },
+          {
+            "file": "1037/450/1996-salmon-lake-stream-chum.json",
+            "year": 1996,
+            "total_records": 52,
+            "size_bytes": 7579
+          },
+          {
+            "file": "1037/450/1997-salmon-lake-stream-chum.json",
+            "year": 1997,
+            "total_records": 52,
+            "size_bytes": 7609
+          },
+          {
+            "file": "1037/450/1998-salmon-lake-stream-chum.json",
+            "year": 1998,
+            "total_records": 45,
+            "size_bytes": 6582
+          },
+          {
+            "file": "1037/450/1999-salmon-lake-stream-chum.json",
+            "year": 1999,
+            "total_records": 54,
+            "size_bytes": 7895
+          },
+          {
+            "file": "1037/450/2000-salmon-lake-stream-chum.json",
+            "year": 2000,
+            "total_records": 58,
+            "size_bytes": 8450
+          },
+          {
+            "file": "1037/450/2001-salmon-lake-stream-chum.json",
+            "year": 2001,
+            "total_records": 68,
+            "size_bytes": 9937
+          },
+          {
+            "file": "1037/450/2002-salmon-lake-stream-chum.json",
+            "year": 2002,
+            "total_records": 78,
+            "size_bytes": 11334
+          },
+          {
+            "file": "1037/450/2003-salmon-lake-stream-chum.json",
+            "year": 2003,
+            "total_records": 78,
+            "size_bytes": 11313
+          },
+          {
+            "file": "1037/450/2004-salmon-lake-stream-chum.json",
+            "year": 2004,
+            "total_records": 71,
+            "size_bytes": 10300
+          },
+          {
+            "file": "1037/450/2005-salmon-lake-stream-chum.json",
+            "year": 2005,
+            "total_records": 72,
+            "size_bytes": 10456
+          },
+          {
+            "file": "1037/450/2006-salmon-lake-stream-chum.json",
+            "year": 2006,
+            "total_records": 39,
+            "size_bytes": 5741
+          },
+          {
+            "file": "1037/450/2007-salmon-lake-stream-chum.json",
+            "year": 2007,
+            "total_records": 42,
+            "size_bytes": 6172
+          },
+          {
+            "file": "1037/450/2008-salmon-lake-stream-chum.json",
+            "year": 2008,
+            "total_records": 34,
+            "size_bytes": 5003
+          },
+          {
+            "file": "1037/450/2009-salmon-lake-stream-chum.json",
+            "year": 2009,
+            "total_records": 33,
+            "size_bytes": 4864
+          },
+          {
+            "file": "1037/450/2010-salmon-lake-stream-chum.json",
+            "year": 2010,
+            "total_records": 25,
+            "size_bytes": 3734
+          },
+          {
+            "file": "1037/450/2011-salmon-lake-stream-chum.json",
+            "year": 2011,
+            "total_records": 36,
+            "size_bytes": 5306
+          },
+          {
+            "file": "1037/450/2012-salmon-lake-stream-chum.json",
+            "year": 2012,
+            "total_records": 28,
+            "size_bytes": 4144
+          },
+          {
+            "file": "1037/450/2013-salmon-lake-stream-chum.json",
+            "year": 2013,
+            "total_records": 38,
+            "size_bytes": 5605
+          },
+          {
+            "file": "1037/450/2014-salmon-lake-stream-chum.json",
+            "year": 2014,
+            "total_records": 35,
+            "size_bytes": 5168
+          },
+          {
+            "file": "1037/450/2015-salmon-lake-stream-chum.json",
+            "year": 2015,
+            "total_records": 39,
+            "size_bytes": 5726
+          },
+          {
+            "file": "1037/450/2016-salmon-lake-stream-chum.json",
+            "year": 2016,
+            "total_records": 39,
+            "size_bytes": 5736
+          },
+          {
+            "file": "1037/450/2017-salmon-lake-stream-chum.json",
+            "year": 2017,
+            "total_records": 40,
+            "size_bytes": 5893
+          },
+          {
+            "file": "1037/450/2018-salmon-lake-stream-chum.json",
+            "year": 2018,
+            "total_records": 34,
+            "size_bytes": 5035
+          },
+          {
+            "file": "1037/450/2019-salmon-lake-stream-chum.json",
+            "year": 2019,
+            "total_records": 20,
+            "size_bytes": 3027
+          },
+          {
+            "file": "1037/450/2020-salmon-lake-stream-chum.json",
+            "year": 2020,
+            "total_records": 37,
+            "size_bytes": 5437
+          },
+          {
+            "file": "1037/450/2021-salmon-lake-stream-chum.json",
+            "year": 2021,
+            "total_records": 29,
+            "size_bytes": 4290
+          },
+          {
+            "file": "1037/450/2022-salmon-lake-stream-chum.json",
+            "year": 2022,
+            "total_records": 28,
+            "size_bytes": 4143
+          },
+          {
+            "file": "1037/450/2023-salmon-lake-stream-chum.json",
+            "year": 2023,
+            "total_records": 26,
+            "size_bytes": 3866
+          },
+          {
+            "file": "1037/450/2024-salmon-lake-stream-chum.json",
+            "year": 2024,
+            "total_records": 33,
+            "size_bytes": 4855
+          },
+          {
+            "file": "1037/450/2025-salmon-lake-stream-chum.json",
+            "year": 2025,
+            "total_records": 50,
+            "size_bytes": 7280
+          }
+        ]
+      }
+    },
+    "1042": {
+      "450": {
+        "total_files": 1,
+        "year_range": [
+          1981,
+          1981
+        ],
+        "files": [
+          {
+            "file": "1042/450/1981-noatak-river-chum.json",
+            "year": 1981,
+            "total_records": 246,
+            "size_bytes": 31654
+          }
+        ]
+      }
+    },
+    "1043": {
+      "440": {
+        "total_files": 1,
+        "year_range": [
+          2020,
+          2020
+        ],
+        "files": [
+          {
+            "file": "1043/440/2020-ungalik-river-pink.json",
+            "year": 2020,
+            "total_records": 209,
+            "size_bytes": 26909
+          }
+        ]
+      }
+    },
+    "1044": {
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          2015,
+          2015
+        ],
+        "files": [
+          {
+            "file": "1044/410/2015-solomon-river-chinook.json",
+            "year": 2015,
+            "total_records": 291,
+            "size_bytes": 37575
+          }
+        ]
+      },
+      "450": {
+        "total_files": 1,
+        "year_range": [
+          2013,
+          2013
+        ],
+        "files": [
+          {
+            "file": "1044/450/2013-solomon-river-chum.json",
+            "year": 2013,
+            "total_records": 392,
+            "size_bytes": 49699
+          }
+        ]
+      }
+    },
+    "1072": {
+      "440": {
+        "total_files": 1,
+        "year_range": [
+          1979,
+          1979
+        ],
+        "files": [
+          {
+            "file": "1072/440/1979-niukluk-river-pink.json",
+            "year": 1979,
+            "total_records": 1326,
+            "size_bytes": 170095
+          }
+        ]
+      },
+      "420": {
+        "total_files": 1,
+        "year_range": [
+          2022,
+          2022
+        ],
+        "files": [
+          {
+            "file": "1072/422/2022-pilot-station-sonar-sockeye.json",
+            "year": 2022,
+            "total_records": 399,
+            "size_bytes": 54156
+          }
+        ]
+      },
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          1995,
+          1995
+        ],
+        "files": [
+          {
+            "file": "1072/410/1995-pilot-station-sonar-chinook.json",
+            "year": 1995,
+            "total_records": 2585,
+            "size_bytes": 352591
+          }
+        ]
+      }
+    },
+    "1026": {
+      "410": {
+        "total_files": 27,
+        "year_range": [
+          1996,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1026/410/1996-ford-arm-chinook.json",
+            "year": 1996,
+            "total_records": 1243,
+            "size_bytes": 159900
+          },
+          {
+            "file": "1026/410/1997-ford-arm-chinook.json",
+            "year": 1997,
+            "total_records": 104,
+            "size_bytes": 14209
+          },
+          {
+            "file": "1026/410/2000-ford-arm-chinook.json",
+            "year": 2000,
+            "total_records": 98,
+            "size_bytes": 13399
+          },
+          {
+            "file": "1026/410/2001-ford-arm-chinook.json",
+            "year": 2001,
+            "total_records": 100,
+            "size_bytes": 13673
+          },
+          {
+            "file": "1026/410/2002-ford-arm-chinook.json",
+            "year": 2002,
+            "total_records": 98,
+            "size_bytes": 13396
+          },
+          {
+            "file": "1026/410/2004-ford-arm-chinook.json",
+            "year": 2004,
+            "total_records": 102,
+            "size_bytes": 13966
+          },
+          {
+            "file": "1026/410/2005-ford-arm-chinook.json",
+            "year": 2005,
+            "total_records": 98,
+            "size_bytes": 13411
+          },
+          {
+            "file": "1026/410/2006-ford-arm-chinook.json",
+            "year": 2006,
+            "total_records": 98,
+            "size_bytes": 13404
+          },
+          {
+            "file": "1026/410/2007-ford-arm-chinook.json",
+            "year": 2007,
+            "total_records": 99,
+            "size_bytes": 13539
+          },
+          {
+            "file": "1026/410/2008-ford-arm-chinook.json",
+            "year": 2008,
+            "total_records": 100,
+            "size_bytes": 13681
+          },
+          {
+            "file": "1026/410/2009-ford-arm-chinook.json",
+            "year": 2009,
+            "total_records": 103,
+            "size_bytes": 14087
+          },
+          {
+            "file": "1026/410/2010-ford-arm-chinook.json",
+            "year": 2010,
+            "total_records": 98,
+            "size_bytes": 13388
+          },
+          {
+            "file": "1026/410/2011-ford-arm-chinook.json",
+            "year": 2011,
+            "total_records": 98,
+            "size_bytes": 13386
+          },
+          {
+            "file": "1026/410/2012-ford-arm-chinook.json",
+            "year": 2012,
+            "total_records": 98,
+            "size_bytes": 13396
+          },
+          {
+            "file": "1026/410/2013-ford-arm-chinook.json",
+            "year": 2013,
+            "total_records": 98,
+            "size_bytes": 13383
+          },
+          {
+            "file": "1026/410/2014-ford-arm-chinook.json",
+            "year": 2014,
+            "total_records": 98,
+            "size_bytes": 13392
+          },
+          {
+            "file": "1026/410/2015-ford-arm-chinook.json",
+            "year": 2015,
+            "total_records": 98,
+            "size_bytes": 13401
+          },
+          {
+            "file": "1026/410/2016-ford-arm-chinook.json",
+            "year": 2016,
+            "total_records": 98,
+            "size_bytes": 13408
+          },
+          {
+            "file": "1026/410/2017-ford-arm-chinook.json",
+            "year": 2017,
+            "total_records": 99,
+            "size_bytes": 13539
+          },
+          {
+            "file": "1026/410/2018-ford-arm-chinook.json",
+            "year": 2018,
+            "total_records": 98,
+            "size_bytes": 13402
+          },
+          {
+            "file": "1026/410/2019-ford-arm-chinook.json",
+            "year": 2019,
+            "total_records": 98,
+            "size_bytes": 13413
+          },
+          {
+            "file": "1026/410/2020-ford-arm-chinook.json",
+            "year": 2020,
+            "total_records": 96,
+            "size_bytes": 13121
+          },
+          {
+            "file": "1026/410/2021-ford-arm-chinook.json",
+            "year": 2021,
+            "total_records": 98,
+            "size_bytes": 13395
+          },
+          {
+            "file": "1026/410/2022-ford-arm-chinook.json",
+            "year": 2022,
+            "total_records": 88,
+            "size_bytes": 12029
+          },
+          {
+            "file": "1026/410/2023-ford-arm-chinook.json",
+            "year": 2023,
+            "total_records": 85,
+            "size_bytes": 11610
+          },
+          {
+            "file": "1026/410/2024-ford-arm-chinook.json",
+            "year": 2024,
+            "total_records": 89,
+            "size_bytes": 12155
+          },
+          {
+            "file": "1026/410/2025-ford-arm-chinook.json",
+            "year": 2025,
+            "total_records": 73,
+            "size_bytes": 9958
+          }
+        ]
+      }
+    },
+    "1501": {
+      "440": {
+        "total_files": 1,
+        "year_range": [
+          1995,
+          1995
+        ],
+        "files": [
+          {
+            "file": "1501/440/1995-location-1501-pink.json",
+            "year": 1995,
+            "total_records": 1055,
+            "size_bytes": 138348
+          }
+        ]
+      },
+      "430": {
+        "total_files": 1,
+        "year_range": [
+          1995,
+          1995
+        ],
+        "files": [
+          {
+            "file": "1501/430/1995-location-1501-coho.json",
+            "year": 1995,
+            "total_records": 333,
+            "size_bytes": 43836
+          }
+        ]
+      },
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          1995,
+          1995
+        ],
+        "files": [
+          {
+            "file": "1501/410/1995-location-1501-chinook.json",
+            "year": 1995,
+            "total_records": 262,
+            "size_bytes": 34202
+          }
+        ]
+      },
+      "420": {
+        "total_files": 1,
+        "year_range": [
+          2002,
+          2002
+        ],
+        "files": [
+          {
+            "file": "1501/420/2002-location-1501-sockeye.json",
+            "year": 2002,
+            "total_records": 193,
+            "size_bytes": 25242
+          }
+        ]
+      },
+      "450": {
+        "total_files": 1,
+        "year_range": [
+          1995,
+          1995
+        ],
+        "files": [
+          {
+            "file": "1501/450/1995-location-1501-chum.json",
+            "year": 1995,
+            "total_records": 1211,
+            "size_bytes": 158843
+          }
+        ]
+      }
+    },
+    "1101": {
+      "420": {
+        "total_files": 1,
+        "year_range": [
+          2023,
+          2023
+        ],
+        "files": [
+          {
+            "file": "1101/420/2023-location-1101-sockeye.json",
+            "year": 2023,
+            "total_records": 881,
+            "size_bytes": 117892
+          }
+        ]
+      }
+    },
+    "1035": {
+      "440": {
+        "total_files": 1,
+        "year_range": [
+          2025,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1035/440/2025-tahltan-lake-pink.json",
+            "year": 2025,
+            "total_records": 161,
+            "size_bytes": 23101
+          }
+        ]
+      },
+      "430": {
+        "total_files": 1,
+        "year_range": [
+          2025,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1035/430/2025-tahltan-lake-coho.json",
+            "year": 2025,
+            "total_records": 1457,
+            "size_bytes": 209052
+          }
+        ]
+      },
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          2025,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1035/410/2025-tahltan-lake-chinook.json",
+            "year": 2025,
+            "total_records": 2031,
+            "size_bytes": 296397
+          }
+        ]
+      },
+      "420": {
+        "total_files": 1,
+        "year_range": [
+          2025,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1035/420/2025-tahltan-lake-sockeye.json",
+            "year": 2025,
+            "total_records": 1954,
+            "size_bytes": 285015
+          }
+        ]
+      },
+      "450": {
+        "total_files": 1,
+        "year_range": [
+          2025,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1035/450/2025-tahltan-lake-chum.json",
+            "year": 2025,
+            "total_records": 2031,
+            "size_bytes": 291728
+          }
+        ]
+      }
+    },
+    "1057": {
+      "430": {
+        "total_files": 1,
+        "year_range": [
+          2023,
+          2023
+        ],
+        "files": [
+          {
+            "file": "1057/430/2023-telaquana-river-coho.json",
+            "year": 2023,
+            "total_records": 90,
+            "size_bytes": 11663
+          }
+        ]
+      },
+      "450": {
+        "total_files": 1,
+        "year_range": [
+          2010,
+          2010
+        ],
+        "files": [
+          {
+            "file": "1057/450/2010-unalakleet-river-chum.json",
+            "year": 2010,
+            "total_records": 680,
+            "size_bytes": 88985
+          }
+        ]
+      }
+    },
+    "1068": {
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          1999,
+          1999
+        ],
+        "files": [
+          {
+            "file": "1068/410/1999-tatlawiksuk-river-chinook.json",
+            "year": 1999,
+            "total_records": 1782,
+            "size_bytes": 238892
+          }
+        ]
+      }
+    },
+    "1050": {
+      "440": {
+        "total_files": 1,
+        "year_range": [
+          1995,
+          1995
+        ],
+        "files": [
+          {
+            "file": "1050/440/1995-snake-river-pink.json",
+            "year": 1995,
+            "total_records": 1770,
+            "size_bytes": 222552
+          }
+        ]
+      },
+      "420": {
+        "total_files": 1,
+        "year_range": [
+          2002,
+          2002
+        ],
+        "files": [
+          {
+            "file": "1050/422/2002-snake-river-sockeye.json",
+            "year": 2002,
+            "total_records": 1417,
+            "size_bytes": 181004
+          }
+        ]
+      },
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          1996,
+          1996
+        ],
+        "files": [
+          {
+            "file": "1050/410/1996-snake-river-chinook.json",
+            "year": 1996,
+            "total_records": 1710,
+            "size_bytes": 218022
+          }
+        ]
+      }
+    },
+    "1066": {
+      "430": {
+        "total_files": 1,
+        "year_range": [
+          2018,
+          2018
+        ],
+        "files": [
+          {
+            "file": "1066/430/2018-bonanza-river-coho.json",
+            "year": 2018,
+            "total_records": 101,
+            "size_bytes": 12851
+          }
+        ]
+      }
+    },
+    "1059": {
+      "440": {
+        "total_files": 1,
+        "year_range": [
+          2008,
+          2008
+        ],
+        "files": [
+          {
+            "file": "1059/440/2008-tuluksak-river-pink.json",
+            "year": 2008,
+            "total_records": 161,
+            "size_bytes": 20686
+          }
+        ]
+      },
+      "420": {
+        "total_files": 2,
+        "year_range": [
+          2000,
+          2014
+        ],
+        "files": [
+          {
+            "file": "1059/422/2000-glacial-lake-sockeye.json",
+            "year": 2000,
+            "total_records": 482,
+            "size_bytes": 61927
+          },
+          {
+            "file": "1059/422/2014-glacial-lake-sockeye.json",
+            "year": 2014,
+            "total_records": 345,
+            "size_bytes": 44231
+          }
+        ]
+      },
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          1991,
+          1991
+        ],
+        "files": [
+          {
+            "file": "1059/410/1991-tuluksak-river-chinook.json",
+            "year": 1991,
+            "total_records": 2031,
+            "size_bytes": 265932
+          }
+        ]
+      },
+      "450": {
+        "total_files": 1,
+        "year_range": [
+          2004,
+          2004
+        ],
+        "files": [
+          {
+            "file": "1059/450/2004-glacial-lake-chum.json",
+            "year": 2004,
+            "total_records": 243,
+            "size_bytes": 30347
+          }
+        ]
+      }
+    },
+    "1061": {
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          2014,
+          2014
+        ],
+        "files": [
+          {
+            "file": "1061/410/2014-fish-river-chinook.json",
+            "year": 2014,
+            "total_records": 345,
+            "size_bytes": 43639
+          }
+        ]
+      }
+    },
+    "1033": {
+      "430": {
+        "total_files": 1,
+        "year_range": [
+          2025,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1033/430/2025-speel-lake-coho.json",
+            "year": 2025,
+            "total_records": 1363,
+            "size_bytes": 206328
+          }
+        ]
+      },
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          2025,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1033/410/2025-speel-lake-chinook.json",
+            "year": 2025,
+            "total_records": 1796,
+            "size_bytes": 276443
+          }
+        ]
+      },
+      "420": {
+        "total_files": 1,
+        "year_range": [
+          2025,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1033/420/2025-speel-lake-sockeye.json",
+            "year": 2025,
+            "total_records": 1275,
+            "size_bytes": 196051
+          }
+        ]
+      },
+      "450": {
+        "total_files": 1,
+        "year_range": [
+          2025,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1033/450/2025-speel-lake-chum.json",
+            "year": 2025,
+            "total_records": 1638,
+            "size_bytes": 248222
+          }
+        ]
+      }
+    },
+    "1201": {
+      "440": {
+        "total_files": 1,
+        "year_range": [
+          1997,
+          1997
+        ],
+        "files": [
+          {
+            "file": "1201/440/1997-location-1201-pink.json",
+            "year": 1997,
+            "total_records": 1150,
+            "size_bytes": 149942
+          }
+        ]
+      },
+      "430": {
+        "total_files": 2,
+        "year_range": [
+          1997,
+          2000
+        ],
+        "files": [
+          {
+            "file": "1201/430/1997-location-1201-coho.json",
+            "year": 1997,
+            "total_records": 501,
+            "size_bytes": 65558
+          },
+          {
+            "file": "1201/430/2000-location-1201-coho.json",
+            "year": 2000,
+            "total_records": 1338,
+            "size_bytes": 175159
+          }
+        ]
+      },
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          1997,
+          1997
+        ],
+        "files": [
+          {
+            "file": "1201/410/1997-location-1201-chinook.json",
+            "year": 1997,
+            "total_records": 458,
+            "size_bytes": 59277
+          }
+        ]
+      },
+      "420": {
+        "total_files": 1,
+        "year_range": [
+          2000,
+          2000
+        ],
+        "files": [
+          {
+            "file": "1201/420/2000-location-1201-sockeye.json",
+            "year": 2000,
+            "total_records": 1288,
+            "size_bytes": 168269
+          }
+        ]
+      },
+      "450": {
+        "total_files": 1,
+        "year_range": [
+          2000,
+          2000
+        ],
+        "files": [
+          {
+            "file": "1201/450/2000-location-1201-chum.json",
+            "year": 2000,
+            "total_records": 1338,
+            "size_bytes": 175159
+          }
+        ]
+      }
+    },
+    "1034": {
+      "430": {
+        "total_files": 1,
+        "year_range": [
+          2025,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1034/430/2025-sashin-creek-coho.json",
+            "year": 2025,
+            "total_records": 90,
+            "size_bytes": 13103
+          }
+        ]
+      },
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          2025,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1034/410/2025-sashin-creek-chinook.json",
+            "year": 2025,
+            "total_records": 466,
+            "size_bytes": 68606
+          }
+        ]
+      },
+      "420": {
+        "total_files": 1,
+        "year_range": [
+          2025,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1034/420/2025-sashin-creek-sockeye.json",
+            "year": 2025,
+            "total_records": 883,
+            "size_bytes": 131576
+          }
+        ]
+      },
+      "450": {
+        "total_files": 1,
+        "year_range": [
+          2025,
+          2025
+        ],
+        "files": [
+          {
+            "file": "1034/450/2025-sashin-creek-chum.json",
+            "year": 2025,
+            "total_records": 466,
+            "size_bytes": 67210
+          }
+        ]
+      }
+    },
+    "1060": {
+      "440": {
+        "total_files": 1,
+        "year_range": [
+          2008,
+          2008
+        ],
+        "files": [
+          {
+            "file": "1060/440/2008-tuluksak-river-pink.json",
+            "year": 2008,
+            "total_records": 161,
+            "size_bytes": 20686
+          }
+        ]
+      },
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          1991,
+          1991
+        ],
+        "files": [
+          {
+            "file": "1060/410/1991-tuluksak-river-chinook.json",
+            "year": 1991,
+            "total_records": 2031,
+            "size_bytes": 265932
+          }
+        ]
+      }
+    },
+    "1058": {
+      "440": {
+        "total_files": 1,
+        "year_range": [
+          2008,
+          2008
+        ],
+        "files": [
+          {
+            "file": "1058/440/2008-glacial-lake-pink.json",
+            "year": 2008,
+            "total_records": 226,
+            "size_bytes": 28264
+          }
+        ]
+      },
+      "420": {
+        "total_files": 2,
+        "year_range": [
+          2000,
+          2014
+        ],
+        "files": [
+          {
+            "file": "1058/422/2000-glacial-lake-sockeye.json",
+            "year": 2000,
+            "total_records": 482,
+            "size_bytes": 61927
+          },
+          {
+            "file": "1058/422/2014-glacial-lake-sockeye.json",
+            "year": 2014,
+            "total_records": 345,
+            "size_bytes": 44231
+          }
+        ]
+      },
+      "450": {
+        "total_files": 2,
+        "year_range": [
+          2004,
+          2010
+        ],
+        "files": [
+          {
+            "file": "1058/450/2004-glacial-lake-chum.json",
+            "year": 2004,
+            "total_records": 243,
+            "size_bytes": 30347
+          },
+          {
+            "file": "1058/450/2010-unalakleet-river-chum.json",
+            "year": 2010,
+            "total_records": 680,
+            "size_bytes": 88985
+          }
+        ]
+      }
+    },
+    "1051": {
+      "440": {
+        "total_files": 2,
+        "year_range": [
+          1996,
+          1997
+        ],
+        "files": [
+          {
+            "file": "1051/440/1996-location-1051-pink.json",
+            "year": 1996,
+            "total_records": 614,
+            "size_bytes": 82702
+          },
+          {
+            "file": "1051/440/1997-pilgrim-river-pink.json",
+            "year": 1997,
+            "total_records": 1518,
+            "size_bytes": 192983
+          }
+        ]
+      },
+      "430": {
+        "total_files": 1,
+        "year_range": [
+          1996,
+          1996
+        ],
+        "files": [
+          {
+            "file": "1051/430/1996-location-1051-coho.json",
+            "year": 1996,
+            "total_records": 325,
+            "size_bytes": 43536
+          }
+        ]
+      },
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          1996,
+          1996
+        ],
+        "files": [
+          {
+            "file": "1051/410/1996-location-1051-chinook.json",
+            "year": 1996,
+            "total_records": 481,
+            "size_bytes": 63718
+          }
+        ]
+      },
+      "420": {
+        "total_files": 1,
+        "year_range": [
+          2019,
+          2019
+        ],
+        "files": [
+          {
+            "file": "1051/420/2019-location-1051-sockeye.json",
+            "year": 2019,
+            "total_records": 109,
+            "size_bytes": 14552
+          }
+        ]
+      },
+      "450": {
+        "total_files": 2,
+        "year_range": [
+          1996,
+          2000
+        ],
+        "files": [
+          {
+            "file": "1051/450/1996-location-1051-chum.json",
+            "year": 1996,
+            "total_records": 646,
+            "size_bytes": 86242
+          },
+          {
+            "file": "1051/450/2000-pilgrim-river-chum.json",
+            "year": 2000,
+            "total_records": 1477,
+            "size_bytes": 188545
+          }
+        ]
+      }
+    },
+    "1056": {
+      "440": {
+        "total_files": 1,
+        "year_range": [
+          1996,
+          1996
+        ],
+        "files": [
+          {
+            "file": "1056/440/1996-shaktoolik-river-pink.json",
+            "year": 1996,
+            "total_records": 672,
+            "size_bytes": 88299
+          }
+        ]
+      },
+      "420": {
+        "total_files": 2,
+        "year_range": [
+          2010,
+          2019
+        ],
+        "files": [
+          {
+            "file": "1056/422/2010-telaquana-river-sockeye.json",
+            "year": 2010,
+            "total_records": 883,
+            "size_bytes": 117448
+          },
+          {
+            "file": "1056/422/2019-shaktoolik-river-sockeye.json",
+            "year": 2019,
+            "total_records": 135,
+            "size_bytes": 17958
+          }
+        ]
+      },
+      "430": {
+        "total_files": 1,
+        "year_range": [
+          2023,
+          2023
+        ],
+        "files": [
+          {
+            "file": "1056/430/2023-telaquana-river-coho.json",
+            "year": 2023,
+            "total_records": 90,
+            "size_bytes": 11663
+          }
+        ]
+      }
+    },
+    "1069": {
+      "410": {
+        "total_files": 1,
+        "year_range": [
+          1999,
+          1999
+        ],
+        "files": [
+          {
+            "file": "1069/410/1999-tatlawiksuk-river-chinook.json",
+            "year": 1999,
+            "total_records": 1782,
+            "size_bytes": 238892
+          }
+        ]
+      },
+      "450": {
+        "total_files": 1,
+        "year_range": [
+          1981,
+          1981
+        ],
+        "files": [
+          {
+            "file": "1069/450/1981-noatak-river-chum.json",
+            "year": 1981,
+            "total_records": 246,
+            "size_bytes": 31654
+          }
+        ]
+      }
     }
   },
-  "index": {
-    "locations": {
-      "1001": "andreafsky-river-east-fork-escapement",
-      "1026": "george",
-      "1051": "shaktoolik",
-      "1052": "inglutalik",
-      "1101": "egegik",
-      "1201": "pilgrim",
-      "1501": "eldorado"
-    },
-    "species": {
-      "410": "chinook",
-      "420": "sockeye",
-      "430": "coho",
-      "440": "pink",
-      "450": "chum",
-      "999": "other"
-    },
-    "years": [
-      1965,
-      1972,
-      1979,
-      1981,
-      1982,
-      1983,
-      1984,
-      1985,
-      1986,
-      1987,
-      1988,
-      1991,
-      1992,
-      1993,
-      1994,
-      1995,
-      1996,
-      1997,
-      1998,
-      1999,
-      2000,
-      2001,
-      2002,
-      2003,
-      2004,
-      2005,
-      2006,
-      2007,
-      2008,
-      2009,
-      2010,
-      2011,
-      2012,
-      2013,
-      2014,
-      2015,
-      2016,
-      2017,
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025
-    ],
-    "data_size_mb": 0
+  "location_names": {
+    "1070": "Commercial Location 1070",
+    "1048": "Commercial Location 1048",
+    "1041": "Commercial Location 1041",
+    "1046": "Commercial Location 1046",
+    "1025": "Commercial Location 1025",
+    "1047": "Commercial Location 1047",
+    "1040": "Commercial Location 1040",
+    "1049": "Commercial Location 1049",
+    "1071": "Commercial Location 1071",
+    "1053": "Commercial Location 1053",
+    "1054": "Commercial Location 1054",
+    "1062": "Commercial Location 1062",
+    "1065": "Commercial Location 1065",
+    "1036": "Commercial Location 1036",
+    "1038": "Commercial Location 1038",
+    "1063": "Commercial Location 1063",
+    "1055": "Commercial Location 1055",
+    "1052": "Commercial Location 1052",
+    "1039": "Commercial Location 1039",
+    "1001": "Akalura River Weir",
+    "1037": "Commercial Location 1037",
+    "1042": "Commercial Location 1042",
+    "1043": "Commercial Location 1043",
+    "1044": "Commercial Location 1044",
+    "1072": "Commercial Location 1072",
+    "1026": "Commercial Location 1026",
+    "1501": "Commercial Location 1501",
+    "1101": "Commercial Location 1101",
+    "1035": "Commercial Location 1035",
+    "1057": "Commercial Location 1057",
+    "1068": "Commercial Location 1068",
+    "1050": "Commercial Location 1050",
+    "1066": "Commercial Location 1066",
+    "1059": "Commercial Location 1059",
+    "1061": "Commercial Location 1061",
+    "1033": "Commercial Location 1033",
+    "1201": "Commercial Location 1201",
+    "1034": "Commercial Location 1034",
+    "1060": "Commercial Location 1060",
+    "1058": "Commercial Location 1058",
+    "1051": "Commercial Location 1051",
+    "1056": "Commercial Location 1056",
+    "1069": "Commercial Location 1069"
   }
 }
