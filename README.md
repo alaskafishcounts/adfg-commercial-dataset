@@ -73,7 +73,7 @@ Each JSON file follows the AFCA standard format:
 | 1044 | [Solomon River](./1044/) | Chum | Unknown |
 | 1046 | [Inglutalik River](./1046/) | Sockeye | Unknown |
 | 1047 | [Eldorado River](./1047/) | Pink | Unknown |
-| 1048 | [North River](./1048/) | Sockeye | Unknown |
+| 1048 | [North River](./1048/) | Sockeye, Coho | Unknown |
 | 1049 | [Pikmiktalik River](./1049/) | Chinook | Unknown |
 | 1050 | [Snake River](./1050/) | Sockeye | Unknown |
 | 1051 | [Pilgrim River](./1051/) | Pink | Unknown |
