@@ -1,0 +1,565 @@
+{
+  "metadata": {
+    "source_file": "data-to-convert/Henshaw Creek Historical/Yukon Escapement Daily Chart.xlsx",
+    "conversion_date": "2025-09-30T16:56:01.392540",
+    "location": "Henshaw Creek Escapement",
+    "location_id": "5017-henshaw-creek-escapement",
+    "species": "Chinook Salmon",
+    "species_id": "410",
+    "method": "weir",
+    "region": "Yukon",
+    "total_records": 34,
+    "date_range": {
+      "start": "2019-06-01",
+      "end": "2019-09-30"
+    },
+    "adfg_species_code": "K",
+    "confidence_interval": "95%"
+  },
+  "DATA": [
+    {
+      "date": "2019-06/30",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/01",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/02",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/03",
+      "count": 2,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/04",
+      "count": 5,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/05",
+      "count": 8,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/06",
+      "count": 7,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/07",
+      "count": 2,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/08",
+      "count": 1,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/09",
+      "count": 6,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/10",
+      "count": 8,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/11",
+      "count": 12,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/12",
+      "count": 17,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/13",
+      "count": 8,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/14",
+      "count": 22,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/15",
+      "count": 34,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/16",
+      "count": 31,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/17",
+      "count": 34,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/18",
+      "count": 10,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/19",
+      "count": 11,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/20",
+      "count": 15,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/21",
+      "count": 12,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/22",
+      "count": 36,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/23",
+      "count": 51,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/24",
+      "count": 20,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/25",
+      "count": 8,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/26",
+      "count": 9,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/27",
+      "count": 12,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/28",
+      "count": 20,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/29",
+      "count": 14,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/30",
+      "count": 11,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-07/31",
+      "count": 5,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-08/01",
+      "count": 6,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2019-08/02",
+      "count": 1,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    }
+  ]
+}

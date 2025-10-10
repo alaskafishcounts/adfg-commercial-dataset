@@ -1,0 +1,501 @@
+{
+  "metadata": {
+    "source_file": "data-to-convert/Anvik River/Yukon Escapement Daily Chart (1).xlsx",
+    "conversion_date": "2025-09-30T16:56:02.036322",
+    "location": "Anvik River Escapement",
+    "location_id": "5014-anvik-river-escapement",
+    "species": "Chum Salmon",
+    "species_id": "430",
+    "method": "weir",
+    "region": "Yukon",
+    "total_records": 30,
+    "date_range": {
+      "start": "1996-06-01",
+      "end": "1996-09-30"
+    },
+    "adfg_species_code": "C",
+    "confidence_interval": "95%"
+  },
+  "DATA": [
+    {
+      "date": "1996-06/18",
+      "count": 10213,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-06/19",
+      "count": 4615,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-06/20",
+      "count": 16836,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-06/21",
+      "count": 43565,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-06/22",
+      "count": 34257,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-06/23",
+      "count": 50000,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-06/24",
+      "count": 63193,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-06/25",
+      "count": 28156,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-06/26",
+      "count": 35303,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-06/27",
+      "count": 46390,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-06/28",
+      "count": 34348,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-06/29",
+      "count": 33115,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-06/30",
+      "count": 45936,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-07/01",
+      "count": 58459,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-07/02",
+      "count": 55211,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-07/03",
+      "count": 39335,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-07/04",
+      "count": 44112,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-07/05",
+      "count": 61740,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-07/06",
+      "count": 38482,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-07/07",
+      "count": 49067,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-07/08",
+      "count": 34221,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-07/09",
+      "count": 23194,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-07/10",
+      "count": 18093,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-07/11",
+      "count": 10579,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-07/12",
+      "count": 13038,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-07/13",
+      "count": 12871,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-07/14",
+      "count": 10077,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-07/15",
+      "count": 7411,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-07/16",
+      "count": 7173,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "1996-07/17",
+      "count": 4250,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    }
+  ]
+}

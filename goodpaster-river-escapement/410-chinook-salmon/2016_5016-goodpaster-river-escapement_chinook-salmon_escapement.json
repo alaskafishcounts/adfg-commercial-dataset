@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "source_file": "data-to-convert/Goodpaster River Historical/Yukon Escapement Daily Chart.xlsx",
+    "conversion_date": "2025-09-30T16:56:01.776014",
+    "location": "Goodpaster River Escapement",
+    "location_id": "5016-goodpaster-river-escapement",
+    "species": "Chinook Salmon",
+    "species_id": "410",
+    "method": "weir",
+    "region": "Yukon",
+    "total_records": 3,
+    "date_range": {
+      "start": "2016-06-01",
+      "end": "2016-09-30"
+    },
+    "adfg_species_code": "K",
+    "confidence_interval": "95%"
+  },
+  "DATA": [
+    {
+      "date": "2016-07/16",
+      "count": 144,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Goodpaster River Escapement",
+      "location_id": "5016-goodpaster-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2016-07/17",
+      "count": 150,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Goodpaster River Escapement",
+      "location_id": "5016-goodpaster-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2016-07/18",
+      "count": 246,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Goodpaster River Escapement",
+      "location_id": "5016-goodpaster-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "metadata": {
+    "source_file": "data-to-convert/Henshaw Creek Historical/Yukon Escapement Daily Chart (1).xlsx",
+    "conversion_date": "2025-09-30T16:56:01.462177",
+    "location": "Henshaw Creek Escapement",
+    "location_id": "5017-henshaw-creek-escapement",
+    "species": "Chum Salmon",
+    "species_id": "430",
+    "method": "weir",
+    "region": "Yukon",
+    "total_records": 34,
+    "date_range": {
+      "start": "2009-06-01",
+      "end": "2009-09-30"
+    },
+    "adfg_species_code": "C",
+    "confidence_interval": "95%"
+  },
+  "DATA": [
+    {
+      "date": "2009-07/05",
+      "count": 1349,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/06",
+      "count": 2402,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/07",
+      "count": 3062,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/08",
+      "count": 2209,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/09",
+      "count": 2547,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/10",
+      "count": 3157,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/11",
+      "count": 3032,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/12",
+      "count": 2666,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/13",
+      "count": 3792,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/14",
+      "count": 3345,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/15",
+      "count": 3554,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/16",
+      "count": 4587,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/17",
+      "count": 6455,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/18",
+      "count": 9763,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/19",
+      "count": 13102,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/20",
+      "count": 12953,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/21",
+      "count": 11464,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/22",
+      "count": 9495,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/23",
+      "count": 9035,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/24",
+      "count": 8186,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/25",
+      "count": 6857,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/26",
+      "count": 5493,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/27",
+      "count": 3678,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/28",
+      "count": 4179,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/29",
+      "count": 4585,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/30",
+      "count": 3752,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-07/31",
+      "count": 2691,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-08/01",
+      "count": 1910,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-08/02",
+      "count": 1596,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-08/03",
+      "count": 1612,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-08/04",
+      "count": 1625,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-08/05",
+      "count": 1485,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-08/06",
+      "count": 1043,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    },
+    {
+      "date": "2009-08/07",
+      "count": 272,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Henshaw Creek Escapement",
+      "location_id": "5017-henshaw-creek-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (1).xlsx"
+    }
+  ]
+}

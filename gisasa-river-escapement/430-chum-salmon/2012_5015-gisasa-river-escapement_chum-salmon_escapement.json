@@ -1,0 +1,677 @@
+{
+  "metadata": {
+    "source_file": "data-to-convert/Gisasa River Historical /Yukon Escapement Daily Chart.xlsx",
+    "conversion_date": "2025-09-30T16:56:01.569722",
+    "location": "Gisasa River Escapement",
+    "location_id": "5015-gisasa-river-escapement",
+    "species": "Chum Salmon",
+    "species_id": "430",
+    "method": "weir",
+    "region": "Yukon",
+    "total_records": 41,
+    "date_range": {
+      "start": "2012-06-01",
+      "end": "2012-09-30"
+    },
+    "adfg_species_code": "C",
+    "confidence_interval": "95%"
+  },
+  "DATA": [
+    {
+      "date": "2012-06/20",
+      "count": 0,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-06/21",
+      "count": 0,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-06/22",
+      "count": 0,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-06/23",
+      "count": 0,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-06/24",
+      "count": 0,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-06/25",
+      "count": 0,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-06/26",
+      "count": 0,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-06/27",
+      "count": 0,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-06/28",
+      "count": 1,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-06/29",
+      "count": 7,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-06/30",
+      "count": 74,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/01",
+      "count": 1426,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/02",
+      "count": 1563,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/03",
+      "count": 2094,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/04",
+      "count": 2830,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/05",
+      "count": 3027,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/06",
+      "count": 4073,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/07",
+      "count": 4023,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/08",
+      "count": 3008,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/09",
+      "count": 2408,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/10",
+      "count": 4898,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/11",
+      "count": 4548,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/12",
+      "count": 5000,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/13",
+      "count": 4451,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/14",
+      "count": 3398,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/15",
+      "count": 4150,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/16",
+      "count": 3415,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/17",
+      "count": 2823,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/18",
+      "count": 2279,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/19",
+      "count": 2905,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/20",
+      "count": 3599,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/21",
+      "count": 3740,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/22",
+      "count": 2505,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/23",
+      "count": 2687,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/24",
+      "count": 1883,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/25",
+      "count": 1311,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/26",
+      "count": 1328,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/27",
+      "count": 1163,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/28",
+      "count": 1484,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/29",
+      "count": 800,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    },
+    {
+      "date": "2012-07/30",
+      "count": 522,
+      "species": "Chum Salmon",
+      "species_id": "430",
+      "adfg_species_code": "C",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart.xlsx"
+    }
+  ]
+}

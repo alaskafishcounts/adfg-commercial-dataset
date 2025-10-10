@@ -1,0 +1,19 @@
+{
+  "version": "1.0.1",
+  "source": "ADFG Commercial Fisheries - Alaska Peninsula Weir Data",
+  "location": "Sandy River Weir",
+  "location_id": "6006",
+  "region": "Alaska Peninsula",
+  "gps": [
+    56.1167,
+    -159.9167
+  ],
+  "method": "weir",
+  "first_operation": 1994,
+  "status": "placeholder",
+  "notes": "Weir location identified. Historical data available from 1994 to present. Specific escapement data needs to be extracted from ADFG reports.",
+  "DATA": [],
+  "species_id": "420",
+  "species": "Sockeye Salmon",
+  "adfg_species_code": "S"
+}

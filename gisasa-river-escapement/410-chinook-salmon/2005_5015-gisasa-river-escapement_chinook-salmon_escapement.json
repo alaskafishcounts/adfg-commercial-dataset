@@ -1,0 +1,549 @@
+{
+  "metadata": {
+    "source_file": "data-to-convert/Gisasa River Historical /Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx",
+    "conversion_date": "2025-09-30T16:56:01.672198",
+    "location": "Gisasa River Escapement",
+    "location_id": "5015-gisasa-river-escapement",
+    "species": "Chinook Salmon",
+    "species_id": "410",
+    "method": "weir",
+    "region": "Yukon",
+    "total_records": 33,
+    "date_range": {
+      "start": "2005-06-01",
+      "end": "2005-09-30"
+    },
+    "adfg_species_code": "K",
+    "confidence_interval": "95%"
+  },
+  "DATA": [
+    {
+      "date": "2005-06/29",
+      "count": 37,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-06/30",
+      "count": 21,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/01",
+      "count": 25,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/02",
+      "count": 45,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/03",
+      "count": 29,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/04",
+      "count": 39,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/05",
+      "count": 42,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/06",
+      "count": 229,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/07",
+      "count": 256,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/08",
+      "count": 145,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/09",
+      "count": 158,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/10",
+      "count": 93,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/11",
+      "count": 93,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/12",
+      "count": 329,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/13",
+      "count": 255,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/14",
+      "count": 197,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/15",
+      "count": 125,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/16",
+      "count": 208,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/17",
+      "count": 86,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/18",
+      "count": 179,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/19",
+      "count": 58,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/20",
+      "count": 47,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/21",
+      "count": 130,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/22",
+      "count": 80,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/23",
+      "count": 58,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/24",
+      "count": 21,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/25",
+      "count": 24,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/26",
+      "count": 30,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/27",
+      "count": 16,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/28",
+      "count": 23,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/29",
+      "count": 8,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/30",
+      "count": 12,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    },
+    {
+      "date": "2005-07/31",
+      "count": 13,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "adfg_species_code": "K",
+      "location": "Gisasa River Escapement",
+      "location_id": "5015-gisasa-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Title_Totals Page with Confidence Intervals.xlsx"
+    }
+  ]
+}

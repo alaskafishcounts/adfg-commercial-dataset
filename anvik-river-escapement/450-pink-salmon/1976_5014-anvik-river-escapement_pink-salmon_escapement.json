@@ -1,0 +1,485 @@
+{
+  "metadata": {
+    "source_file": "data-to-convert/Anvik River/Yukon Escapement Daily Chart (2).xlsx",
+    "conversion_date": "2025-09-30T16:56:01.853793",
+    "location": "Anvik River Escapement",
+    "location_id": "5014-anvik-river-escapement",
+    "species": "Pink Salmon",
+    "species_id": "450",
+    "method": "weir",
+    "region": "Yukon",
+    "total_records": 29,
+    "date_range": {
+      "start": "1976-06-01",
+      "end": "1976-09-30"
+    },
+    "adfg_species_code": "H",
+    "confidence_interval": "95%"
+  },
+  "DATA": [
+    {
+      "date": "1976-06/30",
+      "count": 0,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/01",
+      "count": 0,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/02",
+      "count": 0,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/03",
+      "count": 0,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/04",
+      "count": 0,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/05",
+      "count": 5,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/06",
+      "count": 5,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/07",
+      "count": 22,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/08",
+      "count": 13,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/09",
+      "count": 18,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/10",
+      "count": 33,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/11",
+      "count": 35,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/12",
+      "count": 23,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/13",
+      "count": 100,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/14",
+      "count": 39,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/15",
+      "count": 22,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/16",
+      "count": 28,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/17",
+      "count": 44,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/18",
+      "count": 18,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/19",
+      "count": 16,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/20",
+      "count": 33,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/21",
+      "count": 12,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/22",
+      "count": 23,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/23",
+      "count": 11,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/24",
+      "count": 3,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/25",
+      "count": 4,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/26",
+      "count": 9,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/27",
+      "count": 3,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    },
+    {
+      "date": "1976-07/28",
+      "count": 0,
+      "species": "Pink Salmon",
+      "species_id": "450",
+      "adfg_species_code": "H",
+      "location": "Anvik River Escapement",
+      "location_id": "5014-anvik-river-escapement",
+      "method": "weir",
+      "region": "Yukon",
+      "gps": [
+        64.5,
+        -165.0
+      ],
+      "notes": "Commercial data from Yukon Escapement Daily Chart (2).xlsx"
+    }
+  ]
+}

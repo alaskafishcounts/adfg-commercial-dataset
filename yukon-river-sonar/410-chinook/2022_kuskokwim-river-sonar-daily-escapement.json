@@ -1,0 +1,1413 @@
+{
+  "DATA": [
+    {
+      "date": "2022-06-01",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-02",
+      "count": 197,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 197.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-03",
+      "count": 249,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 249.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-04",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-05",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-06",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-07",
+      "count": 1132,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 1132.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-08",
+      "count": 1690,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 1690.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-09",
+      "count": 1721,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 1721.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-10",
+      "count": 2364,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 2364.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-11",
+      "count": 3031,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 3031.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-12",
+      "count": 3215,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 3215.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-13",
+      "count": 1625,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 1625.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-14",
+      "count": 1660,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 1660.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-15",
+      "count": 3450,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 3450.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-16",
+      "count": 2290,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 2290.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-17",
+      "count": 971,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 971.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-18",
+      "count": 2294,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 2294.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-19",
+      "count": 1920,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 1920.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-20",
+      "count": 2382,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 2382.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-21",
+      "count": 5165,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 5165.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-22",
+      "count": 23176,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 23176.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-23",
+      "count": 7103,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 7103.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-24",
+      "count": 5803,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 5803.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-25",
+      "count": 4753,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 4753.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-26",
+      "count": 6248,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 6248.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-27",
+      "count": 5751,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 5751.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-28",
+      "count": 5789,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 5789.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-29",
+      "count": 8644,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 8644.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-06-30",
+      "count": 885,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 885.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-01",
+      "count": 3395,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 3395.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-02",
+      "count": 2217,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 2217.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-03",
+      "count": 4815,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 4815.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-04",
+      "count": 1234,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 1234.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-05",
+      "count": 1676,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 1676.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-06",
+      "count": 2140,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 2140.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-07",
+      "count": 1782,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 1782.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-08",
+      "count": 958,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 958.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-09",
+      "count": 572,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 572.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-10",
+      "count": 672,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 672.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-11",
+      "count": 1100,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 1100.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-12",
+      "count": 4027,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 4027.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-13",
+      "count": 642,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 642.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-14",
+      "count": 1736,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 1736.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-15",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-16",
+      "count": 6872,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 6872.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-17",
+      "count": 626,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 626.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-18",
+      "count": 723,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 723.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-19",
+      "count": 159,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 159.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-20",
+      "count": 106,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 106.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-21",
+      "count": 1237,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 1237.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-22",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-23",
+      "count": 1532,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 1532.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-24",
+      "count": 160,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 160.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-25",
+      "count": 154,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 154.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-26",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-27",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-28",
+      "count": 2214,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 2214.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-29",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-30",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-07-31",
+      "count": 402,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 402.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-01",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-02",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-03",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-04",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-05",
+      "count": 397,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 397.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-06",
+      "count": 451,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 451.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-07",
+      "count": 389,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 389.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-08",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-09",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-10",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-11",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-12",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-13",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-14",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-15",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-16",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-17",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-18",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-19",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-20",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-21",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-22",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-23",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-24",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-25",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    },
+    {
+      "date": "2022-08-26",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": "410",
+      "location": "Yukon River Sonar",
+      "location_id": "5010",
+      "method": "sonar",
+      "region": "Kuskokwim",
+      "gps": [
+        60.7922,
+        -161.8758
+      ],
+      "notes": "Project: Kuskokwim River Sonar; Observation Year: 2022; Location: Kuskokwim River Sonar; Species: Chinook; Fish Count.1: 0.0;  CASE  WHEN Count Type = 'Counted Live' THEN 'Counted' ELSE Count Type END: Calculated; Method: Sonar",
+      "adfg_species_code": "K"
+    }
+  ],
+  "metadata": {
+    "source_file": "kuskokwim-river-sonar_chinook-salmon_fish-count_2018.csv",
+    "conversion_date": "2025-09-30T15:18:12.378752",
+    "location": "Yukon River Sonar",
+    "location_id": "5010",
+    "species": "Chinook Salmon",
+    "species_id": "410",
+    "method": "sonar",
+    "region": "Kuskokwim",
+    "total_records": 87,
+    "date_range": {
+      "start": "2022-06-01",
+      "end": "2022-08-26"
+    },
+    "adfg_species_code": "K",
+    "last_updated": "2025-09-30T15:18:12.378755"
+  }
+}

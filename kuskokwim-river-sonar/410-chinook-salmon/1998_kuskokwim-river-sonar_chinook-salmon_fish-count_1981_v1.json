@@ -1,0 +1,47 @@
+{
+  "DATA": [
+    {
+      "date": "1998-08-03",
+      "count": 3396,
+      "species": "Chinook Salmon",
+      "species_id": 410,
+      "adfg_species_code": "K",
+      "location": "Kuskokwim River Sonar",
+      "location_id": "5001",
+      "method": "sonar",
+      "region": "Arctic-Yukon-Kuskokwim",
+      "notes": "Converted from kuskokwim-river-sonar_chinook-salmon_fish-count_1981_v1.xlsx"
+    },
+    {
+      "date": "1998-08-03",
+      "count": 0,
+      "species": "Chinook Salmon",
+      "species_id": 410,
+      "adfg_species_code": "K",
+      "location": "Kuskokwim River Sonar",
+      "location_id": "5001",
+      "method": "sonar",
+      "region": "Arctic-Yukon-Kuskokwim",
+      "notes": "Converted from kuskokwim-river-sonar_chinook-salmon_fish-count_1981_v1.xlsx"
+    }
+  ],
+  "metadata": {
+    "source": "ADFG Commercial Fisheries",
+    "location": "Kuskokwim River Sonar",
+    "location_id": "5001",
+    "species": "Chinook Salmon",
+    "species_id": 410,
+    "adfg_species_code": "K",
+    "method": "sonar",
+    "region": "Arctic-Yukon-Kuskokwim",
+    "year": 1998,
+    "total_records": 2,
+    "date_range": {
+      "start": "1998-08-03",
+      "end": "1998-08-03"
+    },
+    "source_file": "kuskokwim-river-sonar_chinook-salmon_fish-count_1981_v1.xlsx",
+    "conversion_date": "2025-09-30T15:43:21.008900",
+    "last_updated": "2025-09-30T15:43:21.008901"
+  }
+}

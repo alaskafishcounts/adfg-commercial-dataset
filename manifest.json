@@ -3,9 +3,9 @@
   "dataset": "adfg-commercial-dataset",
   "description": "ADF&G Commercial Fisheries Dataset - Reorganized by Actual Location Names",
   "last_updated": "2025-01-09",
-  "total_files": 486,
-  "total_locations": 31,
-  "total_records": 118020,
+  "total_files": 1681,
+  "total_locations": 51,
+  "total_records": 186882,
   "year_range": [
     1965,
     2025
@@ -342,6 +342,203 @@
       ],
       "file_count": 3,
       "total_records": 4722
+    },
+    "norton-river-escapement": {
+      "name": "Norton River Escapement",
+      "slug": "norton-river-escapement",
+      "species": [
+        "410-chinook-salmon",
+        "410-chinook"
+      ],
+      "file_count": 152,
+      "total_records": 6597
+    },
+    "andreafsky-river-east-fork": {
+      "name": "Andreafsky River East Fork",
+      "slug": "andreafsky-river-east-fork",
+      "species": [
+        "430-chum-salmon",
+        "440-coho-salmon",
+        "410-chinook-salmon",
+        "420-sockeye-salmon",
+        "450-pink-salmon"
+      ],
+      "file_count": 135,
+      "total_records": 7027
+    },
+    "sandy-river-weir": {
+      "name": "Sandy River Weir",
+      "slug": "sandy-river-weir",
+      "species": [
+        "420-sockeye"
+      ],
+      "file_count": 1,
+      "total_records": 0
+    },
+    "north-river-weir": {
+      "name": "North River Weir",
+      "slug": "north-river-weir",
+      "species": [
+        "410-chinook"
+      ],
+      "file_count": 72,
+      "total_records": 4362
+    },
+    "bristol-bay-mariner": {
+      "name": "Bristol Bay Mariner",
+      "slug": "bristol-bay-mariner",
+      "species": [
+        "420-sockeye-salmon"
+      ],
+      "file_count": 6,
+      "total_records": 1764
+    },
+    "henshaw-creek-escapement": {
+      "name": "Henshaw Creek Escapement",
+      "slug": "henshaw-creek-escapement",
+      "species": [
+        "430-chum-salmon",
+        "410-chinook-salmon"
+      ],
+      "file_count": 40,
+      "total_records": 1437
+    },
+    "barton-creek-escapement": {
+      "name": "Barton Creek Escapement",
+      "slug": "barton-creek-escapement",
+      "species": [
+        "450-chum-salmon",
+        "430-coho-salmon"
+      ],
+      "file_count": 2,
+      "total_records": 96
+    },
+    "nelson-river-weir": {
+      "name": "Nelson River Weir",
+      "slug": "nelson-river-weir",
+      "species": [
+        "420-sockeye"
+      ],
+      "file_count": 1,
+      "total_records": 0
+    },
+    "gisasa-river-escapement": {
+      "name": "Gisasa River Escapement",
+      "slug": "gisasa-river-escapement",
+      "species": [
+        "430-chum-salmon",
+        "410-chinook-salmon",
+        "420-sockeye-salmon",
+        "450-pink-salmon"
+      ],
+      "file_count": 65,
+      "total_records": 2367
+    },
+    "nunakogak-river-weir": {
+      "name": "Nunakogak River Weir",
+      "slug": "nunakogak-river-weir",
+      "species": [
+        "410-chinook"
+      ],
+      "file_count": 2,
+      "total_records": 84
+    },
+    "kuskokwim-river-sonar": {
+      "name": "Kuskokwim River Sonar",
+      "slug": "kuskokwim-river-sonar",
+      "species": [
+        "410-chinook-salmon",
+        "410-chinook"
+      ],
+      "file_count": 128,
+      "total_records": 9665
+    },
+    "orzinski-lake-weir": {
+      "name": "Orzinski Lake Weir",
+      "slug": "orzinski-lake-weir",
+      "species": [
+        "420-sockeye"
+      ],
+      "file_count": 1,
+      "total_records": 0
+    },
+    "ilnik-river-weir": {
+      "name": "Ilnik River Weir",
+      "slug": "ilnik-river-weir",
+      "species": [
+        "420-sockeye"
+      ],
+      "file_count": 1,
+      "total_records": 0
+    },
+    "bear-river-weir": {
+      "name": "Bear River Weir",
+      "slug": "bear-river-weir",
+      "species": [
+        "420-sockeye"
+      ],
+      "file_count": 1,
+      "total_records": 0
+    },
+    "yukon-river-sonar": {
+      "name": "Yukon River Sonar",
+      "slug": "yukon-river-sonar",
+      "species": [
+        "410-chinook"
+      ],
+      "file_count": 294,
+      "total_records": 18200
+    },
+    "anvik-river-escapement": {
+      "name": "Anvik River Escapement",
+      "slug": "anvik-river-escapement",
+      "species": [
+        "430-chum-salmon",
+        "410-chinook-salmon",
+        "450-pink-salmon"
+      ],
+      "file_count": 77,
+      "total_records": 2707
+    },
+    "george-river-weir": {
+      "name": "George River Weir",
+      "slug": "george-river-weir",
+      "species": [
+        "410-chinook-salmon",
+        "410-chinook"
+      ],
+      "file_count": 93,
+      "total_records": 6680
+    },
+    "mclees-lake-weir": {
+      "name": "Mclees Lake Weir",
+      "slug": "mclees-lake-weir",
+      "species": [
+        "420-sockeye"
+      ],
+      "file_count": 15,
+      "total_records": 82
+    },
+    "goodpaster-river-escapement": {
+      "name": "Goodpaster River Escapement",
+      "slug": "goodpaster-river-escapement",
+      "species": [
+        "410-chinook-salmon"
+      ],
+      "file_count": 15,
+      "total_records": 375
+    },
+    "pilot-station-escapement": {
+      "name": "Pilot Station Escapement",
+      "slug": "pilot-station-escapement",
+      "species": [
+        "440-coho-salmon",
+        "410-chinook-salmon",
+        "420-sockeye-salmon",
+        "450-pink-salmon"
+      ],
+      "file_count": 94,
+      "total_records": 7419
     }
   }
 }

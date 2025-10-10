@@ -1,0 +1,19 @@
+{
+  "version": "1.0.1",
+  "source": "ADFG Commercial Fisheries - Alaska Peninsula Weir Data",
+  "location": "Nelson River Weir",
+  "location_id": "6004",
+  "region": "Alaska Peninsula",
+  "gps": [
+    55.6833,
+    -161.0167
+  ],
+  "method": "weir",
+  "first_operation": 1962,
+  "status": "placeholder",
+  "notes": "Weir location identified. Historical data available from 1962 to present. Specific escapement data needs to be extracted from ADFG reports.",
+  "DATA": [],
+  "species_id": "420",
+  "species": "Sockeye Salmon",
+  "adfg_species_code": "S"
+}

@@ -1,0 +1,82 @@
+{
+  "version": "1.0.1",
+  "source": "ADFG Commercial Fisheries - Alaska Peninsula Weir Data",
+  "location": "McLees Lake Weir",
+  "location_id": "6003",
+  "region": "Aleutian Islands",
+  "gps": [
+    53.8833,
+    -166.5333
+  ],
+  "method": "weir",
+  "year": "2007",
+  "DATA": [
+    {
+      "date": "2007-07-15",
+      "count": 21428,
+      "species": "Sockeye Salmon",
+      "species_id": "420",
+      "location": "McLees Lake Weir",
+      "location_id": "6003",
+      "method": "weir",
+      "region": "Aleutian Islands",
+      "gps": [
+        53.8833,
+        -166.5333
+      ],
+      "notes": "Annual weir count for 2007",
+      "adfg_species_code": "S"
+    },
+    {
+      "date": "2007-07-15",
+      "count": 1,
+      "species": "Sockeye Salmon",
+      "species_id": "420",
+      "location": "McLees Lake Weir",
+      "location_id": "6003",
+      "method": "weir",
+      "region": "Aleutian Islands",
+      "gps": [
+        53.8833,
+        -166.5333
+      ],
+      "notes": "Annual weir count for 2007",
+      "adfg_species_code": "S"
+    },
+    {
+      "date": "2007-07-15",
+      "count": 2,
+      "species": "Sockeye Salmon",
+      "species_id": "420",
+      "location": "McLees Lake Weir",
+      "location_id": "6003",
+      "method": "weir",
+      "region": "Aleutian Islands",
+      "gps": [
+        53.8833,
+        -166.5333
+      ],
+      "notes": "Annual weir count for 2007",
+      "adfg_species_code": "S"
+    },
+    {
+      "date": "2007-07-15",
+      "count": 2,
+      "species": "Sockeye Salmon",
+      "species_id": "420",
+      "location": "McLees Lake Weir",
+      "location_id": "6003",
+      "method": "weir",
+      "region": "Aleutian Islands",
+      "gps": [
+        53.8833,
+        -166.5333
+      ],
+      "notes": "Annual weir count for 2007",
+      "adfg_species_code": "S"
+    }
+  ],
+  "species_id": "420",
+  "species": "Sockeye Salmon",
+  "adfg_species_code": "S"
+}

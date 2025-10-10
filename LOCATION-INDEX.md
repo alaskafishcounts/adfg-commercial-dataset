@@ -441,6 +441,263 @@ Each location has its own folder with the following structure:
 
 - **Pink**: `ungalik-river/pink/`
 
+### Norton River Escapement
+
+- **Folder**: `norton-river-escapement/`
+- **Species**: 410-chinook-salmon, 410-chinook
+- **Files**: 152
+- **Records**: 6,597
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/norton-river-escapement/`
+
+#### Species Data
+
+- **410-chinook-salmon**: `norton-river-escapement/410-chinook-salmon/`
+- **410-chinook**: `norton-river-escapement/410-chinook/`
+
+### Andreafsky River East Fork
+
+- **Folder**: `andreafsky-river-east-fork/`
+- **Species**: 430-chum-salmon, 440-coho-salmon, 410-chinook-salmon, 420-sockeye-salmon, 450-pink-salmon
+- **Files**: 135
+- **Records**: 7,027
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/andreafsky-river-east-fork/`
+
+#### Species Data
+
+- **430-chum-salmon**: `andreafsky-river-east-fork/430-chum-salmon/`
+- **440-coho-salmon**: `andreafsky-river-east-fork/440-coho-salmon/`
+- **410-chinook-salmon**: `andreafsky-river-east-fork/410-chinook-salmon/`
+- **420-sockeye-salmon**: `andreafsky-river-east-fork/420-sockeye-salmon/`
+- **450-pink-salmon**: `andreafsky-river-east-fork/450-pink-salmon/`
+
+### Sandy River Weir
+
+- **Folder**: `sandy-river-weir/`
+- **Species**: 420-sockeye
+- **Files**: 1
+- **Records**: 0
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/sandy-river-weir/`
+
+#### Species Data
+
+- **420-sockeye**: `sandy-river-weir/420-sockeye/`
+
+### North River Weir
+
+- **Folder**: `north-river-weir/`
+- **Species**: 410-chinook
+- **Files**: 72
+- **Records**: 4,362
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/north-river-weir/`
+
+#### Species Data
+
+- **410-chinook**: `north-river-weir/410-chinook/`
+
+### Bristol Bay Mariner
+
+- **Folder**: `bristol-bay-mariner/`
+- **Species**: 420-sockeye-salmon
+- **Files**: 6
+- **Records**: 1,764
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/bristol-bay-mariner/`
+
+#### Species Data
+
+- **420-sockeye-salmon**: `bristol-bay-mariner/420-sockeye-salmon/`
+
+### Henshaw Creek Escapement
+
+- **Folder**: `henshaw-creek-escapement/`
+- **Species**: 430-chum-salmon, 410-chinook-salmon
+- **Files**: 40
+- **Records**: 1,437
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/henshaw-creek-escapement/`
+
+#### Species Data
+
+- **430-chum-salmon**: `henshaw-creek-escapement/430-chum-salmon/`
+- **410-chinook-salmon**: `henshaw-creek-escapement/410-chinook-salmon/`
+
+### Barton Creek Escapement
+
+- **Folder**: `barton-creek-escapement/`
+- **Species**: 450-chum-salmon, 430-coho-salmon
+- **Files**: 2
+- **Records**: 96
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/barton-creek-escapement/`
+
+#### Species Data
+
+- **450-chum-salmon**: `barton-creek-escapement/450-chum-salmon/`
+- **430-coho-salmon**: `barton-creek-escapement/430-coho-salmon/`
+
+### Nelson River Weir
+
+- **Folder**: `nelson-river-weir/`
+- **Species**: 420-sockeye
+- **Files**: 1
+- **Records**: 0
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/nelson-river-weir/`
+
+#### Species Data
+
+- **420-sockeye**: `nelson-river-weir/420-sockeye/`
+
+### Gisasa River Escapement
+
+- **Folder**: `gisasa-river-escapement/`
+- **Species**: 430-chum-salmon, 410-chinook-salmon, 420-sockeye-salmon, 450-pink-salmon
+- **Files**: 65
+- **Records**: 2,367
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/gisasa-river-escapement/`
+
+#### Species Data
+
+- **430-chum-salmon**: `gisasa-river-escapement/430-chum-salmon/`
+- **410-chinook-salmon**: `gisasa-river-escapement/410-chinook-salmon/`
+- **420-sockeye-salmon**: `gisasa-river-escapement/420-sockeye-salmon/`
+- **450-pink-salmon**: `gisasa-river-escapement/450-pink-salmon/`
+
+### Nunakogak River Weir
+
+- **Folder**: `nunakogak-river-weir/`
+- **Species**: 410-chinook
+- **Files**: 2
+- **Records**: 84
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/nunakogak-river-weir/`
+
+#### Species Data
+
+- **410-chinook**: `nunakogak-river-weir/410-chinook/`
+
+### Kuskokwim River Sonar
+
+- **Folder**: `kuskokwim-river-sonar/`
+- **Species**: 410-chinook-salmon, 410-chinook
+- **Files**: 128
+- **Records**: 9,665
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/kuskokwim-river-sonar/`
+
+#### Species Data
+
+- **410-chinook-salmon**: `kuskokwim-river-sonar/410-chinook-salmon/`
+- **410-chinook**: `kuskokwim-river-sonar/410-chinook/`
+
+### Orzinski Lake Weir
+
+- **Folder**: `orzinski-lake-weir/`
+- **Species**: 420-sockeye
+- **Files**: 1
+- **Records**: 0
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/orzinski-lake-weir/`
+
+#### Species Data
+
+- **420-sockeye**: `orzinski-lake-weir/420-sockeye/`
+
+### Ilnik River Weir
+
+- **Folder**: `ilnik-river-weir/`
+- **Species**: 420-sockeye
+- **Files**: 1
+- **Records**: 0
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/ilnik-river-weir/`
+
+#### Species Data
+
+- **420-sockeye**: `ilnik-river-weir/420-sockeye/`
+
+### Bear River Weir
+
+- **Folder**: `bear-river-weir/`
+- **Species**: 420-sockeye
+- **Files**: 1
+- **Records**: 0
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/bear-river-weir/`
+
+#### Species Data
+
+- **420-sockeye**: `bear-river-weir/420-sockeye/`
+
+### Yukon River Sonar
+
+- **Folder**: `yukon-river-sonar/`
+- **Species**: 410-chinook
+- **Files**: 294
+- **Records**: 18,200
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/yukon-river-sonar/`
+
+#### Species Data
+
+- **410-chinook**: `yukon-river-sonar/410-chinook/`
+
+### Anvik River Escapement
+
+- **Folder**: `anvik-river-escapement/`
+- **Species**: 430-chum-salmon, 410-chinook-salmon, 450-pink-salmon
+- **Files**: 77
+- **Records**: 2,707
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/anvik-river-escapement/`
+
+#### Species Data
+
+- **430-chum-salmon**: `anvik-river-escapement/430-chum-salmon/`
+- **410-chinook-salmon**: `anvik-river-escapement/410-chinook-salmon/`
+- **450-pink-salmon**: `anvik-river-escapement/450-pink-salmon/`
+
+### George River Weir
+
+- **Folder**: `george-river-weir/`
+- **Species**: 410-chinook-salmon, 410-chinook
+- **Files**: 93
+- **Records**: 6,680
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/george-river-weir/`
+
+#### Species Data
+
+- **410-chinook-salmon**: `george-river-weir/410-chinook-salmon/`
+- **410-chinook**: `george-river-weir/410-chinook/`
+
+### Mclees Lake Weir
+
+- **Folder**: `mclees-lake-weir/`
+- **Species**: 420-sockeye
+- **Files**: 15
+- **Records**: 82
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/mclees-lake-weir/`
+
+#### Species Data
+
+- **420-sockeye**: `mclees-lake-weir/420-sockeye/`
+
+### Goodpaster River Escapement
+
+- **Folder**: `goodpaster-river-escapement/`
+- **Species**: 410-chinook-salmon
+- **Files**: 15
+- **Records**: 375
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/goodpaster-river-escapement/`
+
+#### Species Data
+
+- **410-chinook-salmon**: `goodpaster-river-escapement/410-chinook-salmon/`
+
+### Pilot Station Escapement
+
+- **Folder**: `pilot-station-escapement/`
+- **Species**: 440-coho-salmon, 410-chinook-salmon, 420-sockeye-salmon, 450-pink-salmon
+- **Files**: 94
+- **Records**: 7,419
+- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/pilot-station-escapement/`
+
+#### Species Data
+
+- **440-coho-salmon**: `pilot-station-escapement/440-coho-salmon/`
+- **410-chinook-salmon**: `pilot-station-escapement/410-chinook-salmon/`
+- **420-sockeye-salmon**: `pilot-station-escapement/420-sockeye-salmon/`
+- **450-pink-salmon**: `pilot-station-escapement/450-pink-salmon/`
+
 ## Data Access
 
 All data files are available via GitHub CDN:

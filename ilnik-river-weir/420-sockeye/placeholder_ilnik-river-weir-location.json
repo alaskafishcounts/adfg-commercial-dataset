@@ -1,0 +1,19 @@
+{
+  "version": "1.0.1",
+  "source": "ADFG Commercial Fisheries - Alaska Peninsula Weir Data",
+  "location": "Ilnik River Weir",
+  "location_id": "6002",
+  "region": "Alaska Peninsula",
+  "gps": [
+    56.5667,
+    -159.6833
+  ],
+  "method": "weir",
+  "first_operation": 1991,
+  "status": "placeholder",
+  "notes": "Weir location identified. Historical data available from 1991 to present. Specific escapement data needs to be extracted from ADFG reports.",
+  "DATA": [],
+  "species_id": "420",
+  "species": "Sockeye Salmon",
+  "adfg_species_code": "S"
+}

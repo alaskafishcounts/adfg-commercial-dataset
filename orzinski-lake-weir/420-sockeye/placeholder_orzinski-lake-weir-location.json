@@ -1,0 +1,19 @@
+{
+  "version": "1.0.1",
+  "source": "ADFG Commercial Fisheries - Alaska Peninsula Weir Data",
+  "location": "Orzinski Lake Weir",
+  "location_id": "6005",
+  "region": "Alaska Peninsula",
+  "gps": [
+    55.7333,
+    -160.0833
+  ],
+  "method": "weir",
+  "first_operation": 1929,
+  "status": "placeholder",
+  "notes": "Weir location identified. Historical data available from 1929 to present. Specific escapement data needs to be extracted from ADFG reports.",
+  "DATA": [],
+  "species_id": "420",
+  "species": "Sockeye Salmon",
+  "adfg_species_code": "S"
+}
