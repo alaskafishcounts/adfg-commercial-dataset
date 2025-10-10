@@ -470,15 +470,7 @@ Each location has its own folder with the following structure:
 - **420-sockeye-salmon**: `andreafsky-river-east-fork/420-sockeye-salmon/`
 - **450-pink-salmon**: `andreafsky-river-east-fork/450-pink-salmon/`
 
-### Sandy River Weir
-
-- **Folder**: `sandy-river-weir/`
-- **Species**: 420-sockeye
-- **Files**: 1
-- **Records**: 0
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/sandy-river-weir/`
-
-#### Species Data
+### Species Data
 
 - **420-sockeye**: `sandy-river-weir/420-sockeye/`
 
@@ -532,15 +524,7 @@ Each location has its own folder with the following structure:
 - **450-chum-salmon**: `barton-creek-escapement/450-chum-salmon/`
 - **430-coho-salmon**: `barton-creek-escapement/430-coho-salmon/`
 
-### Nelson River Weir
-
-- **Folder**: `nelson-river-weir/`
-- **Species**: 420-sockeye
-- **Files**: 1
-- **Records**: 0
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/nelson-river-weir/`
-
-#### Species Data
+### Species Data
 
 - **420-sockeye**: `nelson-river-weir/420-sockeye/`
 
@@ -584,27 +568,11 @@ Each location has its own folder with the following structure:
 - **410-chinook-salmon**: `kuskokwim-river-sonar/410-chinook-salmon/`
 - **410-chinook**: `kuskokwim-river-sonar/410-chinook/`
 
-### Orzinski Lake Weir
-
-- **Folder**: `orzinski-lake-weir/`
-- **Species**: 420-sockeye
-- **Files**: 1
-- **Records**: 0
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/orzinski-lake-weir/`
-
-#### Species Data
+### Species Data
 
 - **420-sockeye**: `orzinski-lake-weir/420-sockeye/`
 
-### Ilnik River Weir
-
-- **Folder**: `ilnik-river-weir/`
-- **Species**: 420-sockeye
-- **Files**: 1
-- **Records**: 0
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/ilnik-river-weir/`
-
-#### Species Data
+### Species Data
 
 - **420-sockeye**: `ilnik-river-weir/420-sockeye/`
 

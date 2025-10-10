@@ -3,9 +3,9 @@
   "dataset": "adfg-commercial-dataset",
   "description": "ADF&G Commercial Fisheries Dataset - Reorganized by Actual Location Names",
   "last_updated": "2025-01-09",
-  "total_files": 1668,
-  "total_locations": 51,
-  "total_records": 178516,
+  "total_files": 1629,
+  "total_locations": 42,
+  "total_records": 170248,
   "year_range": [
     1965,
     2025
@@ -311,15 +311,6 @@
       "file_count": 135,
       "total_records": 7027
     },
-    "sandy-river-weir": {
-      "name": "Sandy River Weir",
-      "slug": "sandy-river-weir",
-      "species": [
-        "420-sockeye"
-      ],
-      "file_count": 1,
-      "total_records": 0
-    },
     "north-river-weir": {
       "name": "North River Weir",
       "slug": "north-river-weir",
@@ -358,15 +349,6 @@
       "file_count": 2,
       "total_records": 96
     },
-    "nelson-river-weir": {
-      "name": "Nelson River Weir",
-      "slug": "nelson-river-weir",
-      "species": [
-        "420-sockeye"
-      ],
-      "file_count": 1,
-      "total_records": 0
-    },
     "gisasa-river-escapement": {
       "name": "Gisasa River Escapement",
       "slug": "gisasa-river-escapement",
@@ -397,24 +379,6 @@
       ],
       "file_count": 128,
       "total_records": 9665
-    },
-    "orzinski-lake-weir": {
-      "name": "Orzinski Lake Weir",
-      "slug": "orzinski-lake-weir",
-      "species": [
-        "420-sockeye"
-      ],
-      "file_count": 1,
-      "total_records": 0
-    },
-    "ilnik-river-weir": {
-      "name": "Ilnik River Weir",
-      "slug": "ilnik-river-weir",
-      "species": [
-        "420-sockeye"
-      ],
-      "file_count": 1,
-      "total_records": 0
     },
     "bear-river-weir": {
       "name": "Bear River Weir",
@@ -485,15 +449,6 @@
       "file_count": 94,
       "total_records": 7419
     },
-    "inglutalik": {
-      "name": "Inglutalik",
-      "slug": "inglutalik",
-      "species": [
-        "inglutalik"
-      ],
-      "file_count": 2,
-      "total_records": 560
-    },
     "egegik": {
       "name": "Egegik",
       "slug": "egegik",
@@ -502,43 +457,6 @@
       ],
       "file_count": 1,
       "total_records": 881
-    },
-    "eldorado": {
-      "name": "Eldorado",
-      "slug": "eldorado",
-      "species": [
-        "eldorado"
-      ],
-      "file_count": 2,
-      "total_records": 1404
-    },
-    "george-river": {
-      "name": "George River",
-      "slug": "george-river",
-      "species": [
-        "george",
-        "george-river"
-      ],
-      "file_count": 27,
-      "total_records": 3753
-    },
-    "shaktoolik": {
-      "name": "Shaktoolik",
-      "slug": "shaktoolik",
-      "species": [
-        "shaktoolik"
-      ],
-      "file_count": 2,
-      "total_records": 755
-    },
-    "pilgrim": {
-      "name": "Pilgrim",
-      "slug": "pilgrim",
-      "species": [
-        "pilgrim"
-      ],
-      "file_count": 2,
-      "total_records": 1796
     }
   }
 }
