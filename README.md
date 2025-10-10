@@ -49,57 +49,56 @@ Each JSON file follows the AFCA standard format:
 ## Location Coverage
 
 ### Geographic Areas
-- **Yukon River Basin**: Eagle Sonar, Pilot Station Sonar
-- **Western Alaska**: Noatak River, Shaktoolik River, Nome River, Fish River, Glacial Lake, Inglutalik River, Kwiniuk River, Unalakleet River, Tuluksak River, Bonanza River, Tatlawiksuk River, Takotna River Weir, Niukluk River, Pilgrim River, Snake River, Solomon River, Ungalik River, Eldorado River, North River, Pikmiktalik River, Nunavulnak River, Speel Lake
-- **Reserved Stations**: Station 1025, 1026, 1034-1038, 1101, 1201, 1501 (placeholder locations for future data)
+- **Active Commercial Stations**: Inglutalik River, Fish River, Glacial Lake, Noatak River, Ungalik River, Solomon River, North River, Pikmiktalik River, Snake River, Pilgrim River, Kwiniuk River, Pilot Station Sonar, Nome River, Shaktoolik River, Unalakleet River, Tuluksak River, Bonanza River, Tatlawiksuk River, Takotna River Weir, Niukluk River, Akalura River Weir
+- **Reserved Stations**: Commercial Location 1025, 1026, 1033-1038, 1101, 1201, 1501 (placeholder locations for future data)
 
 ### Complete Commercial Locations List (43 Stations)
 
 | ID | Location Name | Species Available | Region |
 |----|---------------|------------------|--------|
-| 1001 | Eagle Sonar (Yukon:Canadian Border) | Chinook, Sockeye, Coho, Pink, Chum | Yukon River |
-| 1025 | Station 1025 | - | Western Alaska |
-| 1026 | Station 1026 | - | Western Alaska |
-| 1033 | Speel Lake | Coho, Chinook | Western Alaska |
-| 1034 | Station 1034 | - | Western Alaska |
-| 1035 | Station 1035 | - | Western Alaska |
-| 1036 | Station 1036 | - | Western Alaska |
-| 1037 | Station 1037 | - | Western Alaska |
-| 1038 | Station 1038 | - | Western Alaska |
-| 1039 | Inglutalik River | Chinook, Sockeye | Western Alaska |
-| 1040 | Fish River | Chinook | Western Alaska |
-| 1041 | Glacial Lake | Sockeye, Pink, Chum | Western Alaska |
-| 1042 | Noatak River | Chum | Western Alaska |
-| 1043 | Ungalik River | Pink | Western Alaska |
-| 1044 | Solomon River | Chum, Chinook | Western Alaska |
-| 1046 | Inglutalik River | Sockeye, Chinook | Western Alaska |
-| 1047 | Eldorado River | Pink, Sockeye | Western Alaska |
-| 1048 | North River | Sockeye, Chum, Coho | Western Alaska |
-| 1049 | Pikmiktalik River | Chinook | Western Alaska |
-| 1050 | Snake River | Sockeye, Pink, Chinook | Western Alaska |
-| 1051 | Pilgrim River | Pink, Chum | Western Alaska |
-| 1052 | Kwiniuk River | Chinook, Coho, Sockeye | Western Alaska |
-| 1053 | Pilot Station Sonar | Sockeye, Chinook | Yukon River |
-| 1054 | Nome River | Chinook, Sockeye | Western Alaska |
-| 1055 | Shaktoolik River | Sockeye, Chinook, Pink | Western Alaska |
-| 1056 | Shaktoolik River | Pink, Sockeye, Coho | Western Alaska |
-| 1057 | Unalakleet River | Chum, Coho | Western Alaska |
-| 1058 | Glacial Lake | Sockeye, Chum, Pink | Western Alaska |
-| 1059 | Tuluksak River | Pink, Sockeye, Chum, Chinook | Western Alaska |
-| 1060 | Tuluksak River | Chinook, Pink | Western Alaska |
-| 1061 | Fish River | Chinook | Western Alaska |
-| 1062 | Fish River | Chinook, Pink | Western Alaska |
-| 1063 | Nunavulnak River | Pink | Western Alaska |
-| 1065 | Bonanza River | Coho | Western Alaska |
-| 1066 | Bonanza River | Coho | Western Alaska |
-| 1068 | Tatlawiksuk River | Chinook | Western Alaska |
-| 1069 | Noatak River | Chum, Chinook | Western Alaska |
-| 1070 | Takotna River Weir | Chinook, Chum | Western Alaska |
-| 1071 | Niukluk River | Chinook, Pink | Western Alaska |
-| 1072 | Niukluk River | Pink, Sockeye, Chinook | Western Alaska |
-| 1101 | Station 1101 | - | Western Alaska |
-| 1201 | Station 1201 | - | Western Alaska |
-| 1501 | Station 1501 | - | Western Alaska |
+| 1001 | Akalura River Weir | - | Unknown |
+| 1025 | Commercial Location 1025 | - | Unknown |
+| 1026 | Commercial Location 1026 | - | Unknown |
+| 1033 | Commercial Location 1033 | - | Unknown |
+| 1034 | Commercial Location 1034 | - | Unknown |
+| 1035 | Commercial Location 1035 | - | Unknown |
+| 1036 | Commercial Location 1036 | - | Unknown |
+| 1037 | Commercial Location 1037 | - | Unknown |
+| 1038 | Commercial Location 1038 | - | Unknown |
+| 1039 | Inglutalik River | Chinook | Unknown |
+| 1040 | Fish River | Chinook | Unknown |
+| 1041 | Glacial Lake | Sockeye | Unknown |
+| 1042 | Noatak River | Chum | Unknown |
+| 1043 | Ungalik River | Pink | Unknown |
+| 1044 | Solomon River | Chum | Unknown |
+| 1046 | Inglutalik River | Sockeye | Unknown |
+| 1047 | Eldorado River | Pink | Unknown |
+| 1048 | North River | Sockeye | Unknown |
+| 1049 | Pikmiktalik River | Chinook | Unknown |
+| 1050 | Snake River | Sockeye | Unknown |
+| 1051 | Pilgrim River | Pink | Unknown |
+| 1052 | Kwiniuk River | Chinook | Unknown |
+| 1053 | Pilot Station Sonar | Sockeye | Unknown |
+| 1054 | Nome River | Chinook | Unknown |
+| 1055 | Shaktoolik River | Sockeye | Unknown |
+| 1056 | Shaktoolik River | Pink | Unknown |
+| 1057 | Unalakleet River | Chum | Unknown |
+| 1058 | Glacial Lake | Sockeye | Unknown |
+| 1059 | Tuluksak River | Pink | Unknown |
+| 1060 | Tuluksak River | Chinook | Unknown |
+| 1061 | Fish River | Chinook | Unknown |
+| 1062 | Fish River | Chinook | Unknown |
+| 1063 | Nunavulnak River | Pink | Unknown |
+| 1065 | Bonanza River | Coho | Unknown |
+| 1066 | Bonanza River | Coho | Unknown |
+| 1068 | Tatlawiksuk River | Chinook | Unknown |
+| 1069 | Noatak River | Chum | Unknown |
+| 1070 | Takotna River Weir | Chinook | Unknown |
+| 1071 | Niukluk River | Chinook | Unknown |
+| 1072 | Niukluk River | Pink | Unknown |
+| 1101 | Commercial Location 1101 | - | Unknown |
+| 1201 | Commercial Location 1201 | - | Unknown |
+| 1501 | Commercial Location 1501 | - | Unknown |
 
 ## Data Sources
 
