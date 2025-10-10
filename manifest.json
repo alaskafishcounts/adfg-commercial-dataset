@@ -3,9 +3,9 @@
   "dataset": "adfg-commercial-dataset",
   "description": "ADF&G Commercial Fisheries Dataset - Reorganized by Actual Location Names",
   "last_updated": "2025-01-09",
-  "total_files": 1681,
+  "total_files": 1668,
   "total_locations": 51,
-  "total_records": 186882,
+  "total_records": 178516,
   "year_range": [
     1965,
     2025
@@ -64,15 +64,6 @@
       "file_count": 7,
       "total_records": 2968
     },
-    "location-1051": {
-      "name": "Location 1051",
-      "slug": "location-1051",
-      "species": [
-        "Shaktoolik"
-      ],
-      "file_count": 5,
-      "total_records": 2175
-    },
     "pilgrim-river": {
       "name": "Pilgrim River",
       "slug": "pilgrim-river",
@@ -117,15 +108,6 @@
       ],
       "file_count": 9,
       "total_records": 12018
-    },
-    "location-1201": {
-      "name": "Location 1201",
-      "slug": "location-1201",
-      "species": [
-        "Pilgrim"
-      ],
-      "file_count": 6,
-      "total_records": 6073
     },
     "takotna-river-weir": {
       "name": "Takotna River Weir",
@@ -173,34 +155,6 @@
       ],
       "file_count": 3,
       "total_records": 4897
-    },
-    "location-1101": {
-      "name": "Location 1101",
-      "slug": "location-1101",
-      "species": [
-        "Egegik"
-      ],
-      "file_count": 1,
-      "total_records": 881
-    },
-    "location-1501": {
-      "name": "Location 1501",
-      "slug": "location-1501",
-      "species": [
-        "Eldorado"
-      ],
-      "file_count": 5,
-      "total_records": 3054
-    },
-    "location-1026": {
-      "name": "Location 1026",
-      "slug": "location-1026",
-      "species": [
-        "George River",
-        "George"
-      ],
-      "file_count": 27,
-      "total_records": 3753
     },
     "niukluk-river": {
       "name": "Niukluk River",
@@ -274,15 +228,6 @@
       ],
       "file_count": 4,
       "total_records": 1186
-    },
-    "location-1052": {
-      "name": "Location 1052",
-      "slug": "location-1052",
-      "species": [
-        "Inglutalik"
-      ],
-      "file_count": 5,
-      "total_records": 1579
     },
     "kwiniuk-river": {
       "name": "Kwiniuk River",
@@ -539,6 +484,61 @@
       ],
       "file_count": 94,
       "total_records": 7419
+    },
+    "inglutalik": {
+      "name": "Inglutalik",
+      "slug": "inglutalik",
+      "species": [
+        "inglutalik"
+      ],
+      "file_count": 2,
+      "total_records": 560
+    },
+    "egegik": {
+      "name": "Egegik",
+      "slug": "egegik",
+      "species": [
+        "egegik"
+      ],
+      "file_count": 1,
+      "total_records": 881
+    },
+    "eldorado": {
+      "name": "Eldorado",
+      "slug": "eldorado",
+      "species": [
+        "eldorado"
+      ],
+      "file_count": 2,
+      "total_records": 1404
+    },
+    "george-river": {
+      "name": "George River",
+      "slug": "george-river",
+      "species": [
+        "george",
+        "george-river"
+      ],
+      "file_count": 27,
+      "total_records": 3753
+    },
+    "shaktoolik": {
+      "name": "Shaktoolik",
+      "slug": "shaktoolik",
+      "species": [
+        "shaktoolik"
+      ],
+      "file_count": 2,
+      "total_records": 755
+    },
+    "pilgrim": {
+      "name": "Pilgrim",
+      "slug": "pilgrim",
+      "species": [
+        "pilgrim"
+      ],
+      "file_count": 2,
+      "total_records": 1796
     }
   }
 }
