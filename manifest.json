@@ -14,12 +14,18 @@
       "date": "2025-10-06T15:00:00Z",
       "description": "Fixed species ID mismatches and location name inconsistencies",
       "fixes_applied": "Corrected species ID 999 to 450 for Chum salmon, fixed location name mismatches"
+    },
+    "last_updated": "2025-10-10T08:17:16.803415Z",
+    "location_name_fixes": {
+      "date": "2025-10-10T08:17:16.803422Z",
+      "fixes_applied": 43,
+      "description": "Fixed generic Station XXXX names to proper location names"
     }
   },
   "organized": {
     "1069": {
-      "name": "Station 1069",
-      "slug": "station-1069",
+      "name": "Commercial Location 1069",
+      "slug": "commercial-location-1069",
       "region": "Unknown",
       "total_files": 2,
       "species": {
@@ -52,8 +58,8 @@
       "method": "Commercial"
     },
     "1056": {
-      "name": "Station 1056",
-      "slug": "station-1056",
+      "name": "Commercial Location 1056",
+      "slug": "commercial-location-1056",
       "region": "Unknown",
       "total_files": 4,
       "species": {
@@ -100,8 +106,8 @@
       "method": "Commercial"
     },
     "1051": {
-      "name": "Station 1051",
-      "slug": "station-1051",
+      "name": "Commercial Location 1051",
+      "slug": "commercial-location-1051",
       "region": "Unknown",
       "total_files": 7,
       "species": {
@@ -189,8 +195,8 @@
       "method": "Commercial"
     },
     "1058": {
-      "name": "Station 1058",
-      "slug": "station-1058",
+      "name": "Commercial Location 1058",
+      "slug": "commercial-location-1058",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -244,8 +250,8 @@
       "method": "Commercial"
     },
     "1060": {
-      "name": "Station 1060",
-      "slug": "station-1060",
+      "name": "Commercial Location 1060",
+      "slug": "commercial-location-1060",
       "region": "Unknown",
       "total_files": 2,
       "species": {
@@ -278,8 +284,8 @@
       "method": "Commercial"
     },
     "1034": {
-      "name": "Station 1034",
-      "slug": "station-1034",
+      "name": "Commercial Location 1034",
+      "slug": "commercial-location-1034",
       "region": "Unknown",
       "total_files": 4,
       "species": {
@@ -333,8 +339,8 @@
       "method": "Commercial"
     },
     "1201": {
-      "name": "Station 1201",
-      "slug": "station-1201",
+      "name": "Commercial Location 1201",
+      "slug": "commercial-location-1201",
       "region": "Unknown",
       "total_files": 6,
       "species": {
@@ -401,8 +407,8 @@
       "method": "Commercial"
     },
     "1033": {
-      "name": "Station 1033",
-      "slug": "station-1033",
+      "name": "Commercial Location 1033",
+      "slug": "commercial-location-1033",
       "region": "Unknown",
       "total_files": 4,
       "species": {
@@ -456,8 +462,8 @@
       "method": "Commercial"
     },
     "1061": {
-      "name": "Station 1061",
-      "slug": "station-1061",
+      "name": "Commercial Location 1061",
+      "slug": "commercial-location-1061",
       "region": "Unknown",
       "total_files": 1,
       "species": {
@@ -483,8 +489,8 @@
       "method": "Commercial"
     },
     "1059": {
-      "name": "Station 1059",
-      "slug": "station-1059",
+      "name": "Commercial Location 1059",
+      "slug": "commercial-location-1059",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -538,8 +544,8 @@
       "method": "Commercial"
     },
     "1066": {
-      "name": "Station 1066",
-      "slug": "station-1066",
+      "name": "Commercial Location 1066",
+      "slug": "commercial-location-1066",
       "region": "Unknown",
       "total_files": 1,
       "species": {
@@ -565,8 +571,8 @@
       "method": "Commercial"
     },
     "1050": {
-      "name": "Station 1050",
-      "slug": "station-1050",
+      "name": "Commercial Location 1050",
+      "slug": "commercial-location-1050",
       "region": "Unknown",
       "total_files": 3,
       "species": {
@@ -606,8 +612,8 @@
       "method": "Commercial"
     },
     "1068": {
-      "name": "Station 1068",
-      "slug": "station-1068",
+      "name": "Commercial Location 1068",
+      "slug": "commercial-location-1068",
       "region": "Unknown",
       "total_files": 1,
       "species": {
@@ -633,8 +639,8 @@
       "method": "Commercial"
     },
     "1057": {
-      "name": "Station 1057",
-      "slug": "station-1057",
+      "name": "Commercial Location 1057",
+      "slug": "commercial-location-1057",
       "region": "Unknown",
       "total_files": 2,
       "species": {
@@ -667,8 +673,8 @@
       "method": "Commercial"
     },
     "1035": {
-      "name": "Station 1035",
-      "slug": "station-1035",
+      "name": "Commercial Location 1035",
+      "slug": "commercial-location-1035",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -733,8 +739,8 @@
       "method": "Commercial"
     },
     "1101": {
-      "name": "Station 1101",
-      "slug": "station-1101",
+      "name": "Commercial Location 1101",
+      "slug": "commercial-location-1101",
       "region": "Unknown",
       "total_files": 1,
       "species": {
@@ -755,8 +761,8 @@
       "method": "Commercial"
     },
     "1501": {
-      "name": "Station 1501",
-      "slug": "station-1501",
+      "name": "Commercial Location 1501",
+      "slug": "commercial-location-1501",
       "region": "Unknown",
       "total_files": 5,
       "species": {
@@ -821,8 +827,8 @@
       "method": "Commercial"
     },
     "1026": {
-      "name": "Station 1026",
-      "slug": "station-1026",
+      "name": "Commercial Location 1026",
+      "slug": "commercial-location-1026",
       "region": "Unknown",
       "total_files": 27,
       "species": {
@@ -895,8 +901,8 @@
       "method": "Commercial"
     },
     "1072": {
-      "name": "Station 1072",
-      "slug": "station-1072",
+      "name": "Commercial Location 1072",
+      "slug": "commercial-location-1072",
       "region": "Unknown",
       "total_files": 3,
       "species": {
@@ -936,8 +942,8 @@
       "method": "Commercial"
     },
     "1044": {
-      "name": "Station 1044",
-      "slug": "station-1044",
+      "name": "Commercial Location 1044",
+      "slug": "commercial-location-1044",
       "region": "Unknown",
       "total_files": 2,
       "species": {
@@ -970,8 +976,8 @@
       "method": "Commercial"
     },
     "1043": {
-      "name": "Station 1043",
-      "slug": "station-1043",
+      "name": "Commercial Location 1043",
+      "slug": "commercial-location-1043",
       "region": "Unknown",
       "total_files": 1,
       "species": {
@@ -997,8 +1003,8 @@
       "method": "Commercial"
     },
     "1042": {
-      "name": "Station 1042",
-      "slug": "station-1042",
+      "name": "Commercial Location 1042",
+      "slug": "commercial-location-1042",
       "region": "Unknown",
       "total_files": 1,
       "species": {
@@ -1024,8 +1030,8 @@
       "method": "Commercial"
     },
     "1037": {
-      "name": "Station 1037",
-      "slug": "station-1037",
+      "name": "Commercial Location 1037",
+      "slug": "commercial-location-1037",
       "region": "Unknown",
       "total_files": 146,
       "species": {
@@ -1372,8 +1378,8 @@
       "method": "Commercial"
     },
     "1001": {
-      "name": "Station 1001",
-      "slug": "station-1001",
+      "name": "Akalura River Weir",
+      "slug": "akalura-river-weir",
       "region": "Unknown",
       "total_files": 159,
       "species": {
@@ -1746,8 +1752,8 @@
       "method": "Commercial"
     },
     "1039": {
-      "name": "Station 1039",
-      "slug": "station-1039",
+      "name": "Commercial Location 1039",
+      "slug": "commercial-location-1039",
       "region": "Unknown",
       "total_files": 2,
       "species": {
@@ -1780,8 +1786,8 @@
       "method": "Commercial"
     },
     "1052": {
-      "name": "Station 1052",
-      "slug": "station-1052",
+      "name": "Commercial Location 1052",
+      "slug": "commercial-location-1052",
       "region": "Unknown",
       "total_files": 8,
       "species": {
@@ -1876,8 +1882,8 @@
       "method": "Commercial"
     },
     "1055": {
-      "name": "Station 1055",
-      "slug": "station-1055",
+      "name": "Commercial Location 1055",
+      "slug": "commercial-location-1055",
       "region": "Unknown",
       "total_files": 4,
       "species": {
@@ -1924,8 +1930,8 @@
       "method": "Commercial"
     },
     "1063": {
-      "name": "Station 1063",
-      "slug": "station-1063",
+      "name": "Commercial Location 1063",
+      "slug": "commercial-location-1063",
       "region": "Unknown",
       "total_files": 1,
       "species": {
@@ -1951,8 +1957,8 @@
       "method": "Commercial"
     },
     "1038": {
-      "name": "Station 1038",
-      "slug": "station-1038",
+      "name": "Commercial Location 1038",
+      "slug": "commercial-location-1038",
       "region": "Unknown",
       "total_files": 15,
       "species": {
@@ -2037,8 +2043,8 @@
       "method": "Commercial"
     },
     "1036": {
-      "name": "Station 1036",
-      "slug": "station-1036",
+      "name": "Commercial Location 1036",
+      "slug": "commercial-location-1036",
       "region": "Unknown",
       "total_files": 4,
       "species": {
@@ -2092,8 +2098,8 @@
       "method": "Commercial"
     },
     "1065": {
-      "name": "Station 1065",
-      "slug": "station-1065",
+      "name": "Commercial Location 1065",
+      "slug": "commercial-location-1065",
       "region": "Unknown",
       "total_files": 1,
       "species": {
@@ -2119,8 +2125,8 @@
       "method": "Commercial"
     },
     "1062": {
-      "name": "Station 1062",
-      "slug": "station-1062",
+      "name": "Commercial Location 1062",
+      "slug": "commercial-location-1062",
       "region": "Unknown",
       "total_files": 2,
       "species": {
@@ -2153,8 +2159,8 @@
       "method": "Commercial"
     },
     "1054": {
-      "name": "Station 1054",
-      "slug": "station-1054",
+      "name": "Commercial Location 1054",
+      "slug": "commercial-location-1054",
       "region": "Unknown",
       "total_files": 2,
       "species": {
@@ -2187,8 +2193,8 @@
       "method": "Commercial"
     },
     "1053": {
-      "name": "Station 1053",
-      "slug": "station-1053",
+      "name": "Commercial Location 1053",
+      "slug": "commercial-location-1053",
       "region": "Unknown",
       "total_files": 2,
       "species": {
@@ -2221,8 +2227,8 @@
       "method": "Commercial"
     },
     "1071": {
-      "name": "Station 1071",
-      "slug": "station-1071",
+      "name": "Commercial Location 1071",
+      "slug": "commercial-location-1071",
       "region": "Unknown",
       "total_files": 3,
       "species": {
@@ -2262,8 +2268,8 @@
       "method": "Commercial"
     },
     "1049": {
-      "name": "Station 1049",
-      "slug": "station-1049",
+      "name": "Commercial Location 1049",
+      "slug": "commercial-location-1049",
       "region": "Unknown",
       "total_files": 1,
       "species": {
@@ -2289,8 +2295,8 @@
       "method": "Commercial"
     },
     "1040": {
-      "name": "Station 1040",
-      "slug": "station-1040",
+      "name": "Commercial Location 1040",
+      "slug": "commercial-location-1040",
       "region": "Unknown",
       "total_files": 1,
       "species": {
@@ -2316,8 +2322,8 @@
       "method": "Commercial"
     },
     "1047": {
-      "name": "Station 1047",
-      "slug": "station-1047",
+      "name": "Commercial Location 1047",
+      "slug": "commercial-location-1047",
       "region": "Unknown",
       "total_files": 2,
       "species": {
@@ -2350,8 +2356,8 @@
       "method": "Commercial"
     },
     "1025": {
-      "name": "Station 1025",
-      "slug": "station-1025",
+      "name": "Commercial Location 1025",
+      "slug": "commercial-location-1025",
       "region": "Unknown",
       "total_files": 30,
       "species": {
@@ -2457,8 +2463,8 @@
       "method": "Commercial"
     },
     "1046": {
-      "name": "Station 1046",
-      "slug": "station-1046",
+      "name": "Commercial Location 1046",
+      "slug": "commercial-location-1046",
       "region": "Unknown",
       "total_files": 2,
       "species": {
@@ -2491,8 +2497,8 @@
       "method": "Commercial"
     },
     "1041": {
-      "name": "Station 1041",
-      "slug": "station-1041",
+      "name": "Commercial Location 1041",
+      "slug": "commercial-location-1041",
       "region": "Unknown",
       "total_files": 4,
       "species": {
@@ -2539,8 +2545,8 @@
       "method": "Commercial"
     },
     "1048": {
-      "name": "Station 1048",
-      "slug": "station-1048",
+      "name": "Commercial Location 1048",
+      "slug": "commercial-location-1048",
       "region": "Unknown",
       "total_files": 3,
       "species": {
@@ -2580,8 +2586,8 @@
       "method": "Commercial"
     },
     "1070": {
-      "name": "Station 1070",
-      "slug": "station-1070",
+      "name": "Commercial Location 1070",
+      "slug": "commercial-location-1070",
       "region": "Unknown",
       "total_files": 2,
       "species": {
