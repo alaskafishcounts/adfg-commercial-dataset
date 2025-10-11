@@ -1,24 +1,22 @@
 {
   "COLUMNS": [
     "YEAR",
-    "MONTH",
-    "DAY",
+    "COUNTDATE",
+    "FISHCOUNT",
     "SPECIESID",
     "COUNTLOCATIONID",
     "COUNTLOCATION",
-    "SPECIES",
-    "COUNT"
+    "SPECIES"
   ],
   "DATA": [
     [
       2024,
-      7,
-      1,
+      "July, 7 2024 00:00:00",
+      0,
       420,
       9999,
       "Big Salmon River Escapement",
-      "Sockeye",
-      0
+      "Sockeye"
     ]
   ]
 }
