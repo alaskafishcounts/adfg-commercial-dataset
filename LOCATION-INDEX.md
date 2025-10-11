@@ -1,694 +1,616 @@
-# Commercial Dataset Location Index
+# Commercial Fishing Locations Index
 
-This document provides a comprehensive index of all commercial fishing locations in the ADF&G Commercial Dataset, organized by actual location names found in the source data.
+## Complete Location Directory
 
-## Dataset Overview
+This index provides a comprehensive list of all commercial fishing locations in the dataset.
 
-- **Total Locations**: 31
-- **Total Files**: 486
-- **Total Records**: 118,020
-- **Data Range**: 1965-2025
-- **Species Covered**: Chinook, Chum, Coho, Pink, Sockeye
+### Dataset Overview
 
-## Location Directory Structure
+- **Total Locations**: 49
+- **Total Files**: 1464
+- **Total Records**: 142,949
+- **Year Range**: 1965-2025
 
-Each location has its own folder with the following structure:
-```
-[location-slug]/
-├── [species-slug]/
-│   ├── YYYY-[location-slug]-[species-slug].json
-│   └── ...
-└── ...
-```
+### Location Details
 
-## Location Index
-
-### Bonanza River
-
-- **Folder**: `bonanza-river/`
-- **Species**: Coho, Bonanza River Pink, Bonanza River Coho, Bonanza River Chinook, Bonanza River Sockeye, Bonanza River Chum
-- **Files**: 17
-- **Records**: 707
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/bonanza-river/`
-
-#### Species Data
-
-- **Coho**: `bonanza-river/coho/`
-- **Bonanza River Pink**: `bonanza-river/bonanza-river-pink/`
-- **Bonanza River Coho**: `bonanza-river/bonanza-river-coho/`
-- **Bonanza River Chinook**: `bonanza-river/bonanza-river-chinook/`
-- **Bonanza River Sockeye**: `bonanza-river/bonanza-river-sockeye/`
-- **Bonanza River Chum**: `bonanza-river/bonanza-river-chum/`
-
-### Eagle Sonar (Yukon:Canadian Border)
-
-- **Folder**: `eagle-sonar-yukoncanadian-border/`
-- **Species**: Andreafsky River East Fork Escapement
-- **Files**: 159
-- **Records**: 7,857
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/eagle-sonar-yukoncanadian-border/`
-
-#### Species Data
-
-- **Andreafsky River East Fork Escapement**: `eagle-sonar-yukoncanadian-border/andreafsky-river-east-fork-escapement/`
-
-### Eldorado River
-
-- **Folder**: `eldorado-river/`
-- **Species**: Eldorado River Pink, Eldorado River Coho, Eldorado River Chinook, Eldorado River Sockeye, Eldorado River Chum, Pink, Sockeye
-- **Files**: 148
-- **Records**: 8,474
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/eldorado-river/`
-
-#### Species Data
-
-- **Eldorado River Pink**: `eldorado-river/eldorado-river-pink/`
-- **Eldorado River Coho**: `eldorado-river/eldorado-river-coho/`
-- **Eldorado River Chinook**: `eldorado-river/eldorado-river-chinook/`
-- **Eldorado River Sockeye**: `eldorado-river/eldorado-river-sockeye/`
-- **Eldorado River Chum**: `eldorado-river/eldorado-river-chum/`
-- **Pink**: `eldorado-river/pink/`
-- **Sockeye**: `eldorado-river/sockeye/`
-
-### Fish River
-
-- **Folder**: `fish-river/`
-- **Species**: Chinook
-- **Files**: 3
-- **Records**: 1,035
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/fish-river/`
-
-#### Species Data
-
-- **Chinook**: `fish-river/chinook/`
-
-### Glacial Lake
-
-- **Folder**: `glacial-lake/`
-- **Species**: Pink, Sockeye, Chum
-- **Files**: 11
-- **Records**: 3,662
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/glacial-lake/`
-
-#### Species Data
-
-- **Pink**: `glacial-lake/pink/`
-- **Sockeye**: `glacial-lake/sockeye/`
-- **Chum**: `glacial-lake/chum/`
-
-### Inglutalik River
-
-- **Folder**: `inglutalik-river/`
-- **Species**: Sockeye, Chinook
-- **Files**: 4
-- **Records**: 1,186
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/inglutalik-river/`
-
-#### Species Data
-
-- **Sockeye**: `inglutalik-river/sockeye/`
-- **Chinook**: `inglutalik-river/chinook/`
-
-### Kwiniuk River
-
-- **Folder**: `kwiniuk-river/`
-- **Species**: Sockeye, Coho, Chinook
-- **Files**: 3
-- **Records**: 5,812
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/kwiniuk-river/`
-
-#### Species Data
-
-- **Sockeye**: `kwiniuk-river/sockeye/`
-- **Coho**: `kwiniuk-river/coho/`
-- **Chinook**: `kwiniuk-river/chinook/`
-
-### Location 1025
-
-- **Folder**: `location-1025/`
-- **Species**: Kuskokwim River Sonar
-- **Files**: 30
-- **Records**: 2,157
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/location-1025/`
-
-#### Species Data
-
-- **Kuskokwim River Sonar**: `location-1025/kuskokwim-river-sonar/`
-
-### Location 1026
-
-- **Folder**: `location-1026/`
-- **Species**: George River, George
-- **Files**: 27
-- **Records**: 3,753
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/location-1026/`
-
-#### Species Data
-
-- **George River**: `location-1026/george-river/`
-- **George**: `location-1026/george/`
-
-### Location 1051
-
-- **Folder**: `location-1051/`
-- **Species**: Shaktoolik
-- **Files**: 5
-- **Records**: 2,175
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/location-1051/`
-
-#### Species Data
-
-- **Shaktoolik**: `location-1051/shaktoolik/`
-
-### Location 1052
-
-- **Folder**: `location-1052/`
-- **Species**: Inglutalik
-- **Files**: 5
-- **Records**: 1,579
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/location-1052/`
-
-#### Species Data
-
-- **Inglutalik**: `location-1052/inglutalik/`
-
-### Location 1101
-
-- **Folder**: `location-1101/`
-- **Species**: Egegik
-- **Files**: 1
-- **Records**: 881
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/location-1101/`
-
-#### Species Data
-
-- **Egegik**: `location-1101/egegik/`
-
-### Location 1201
-
-- **Folder**: `location-1201/`
-- **Species**: Pilgrim
-- **Files**: 6
-- **Records**: 6,073
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/location-1201/`
-
-#### Species Data
-
-- **Pilgrim**: `location-1201/pilgrim/`
-
-### Location 1501
-
-- **Folder**: `location-1501/`
-- **Species**: Eldorado
-- **Files**: 5
-- **Records**: 3,054
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/location-1501/`
-
-#### Species Data
-
-- **Eldorado**: `location-1501/eldorado/`
-
-### Niukluk River
-
-- **Folder**: `niukluk-river/`
-- **Species**: Pink, Chinook
-- **Files**: 3
-- **Records**: 3,946
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/niukluk-river/`
-
-#### Species Data
-
-- **Pink**: `niukluk-river/pink/`
-- **Chinook**: `niukluk-river/chinook/`
-
-### Noatak River
-
-- **Folder**: `noatak-river/`
-- **Species**: Chum
-- **Files**: 3
-- **Records**: 738
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/noatak-river/`
-
-#### Species Data
-
-- **Chum**: `noatak-river/chum/`
-
-### Nome River
-
-- **Folder**: `nome-river/`
-- **Species**: Sockeye, Chinook
-- **Files**: 4
-- **Records**: 7,562
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/nome-river/`
-
-#### Species Data
-
-- **Sockeye**: `nome-river/sockeye/`
-- **Chinook**: `nome-river/chinook/`
-
-### North River
-
-- **Folder**: `north-river/`
-- **Species**: Sockeye, Coho, Chum
-- **Files**: 3
-- **Records**: 4,722
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/north-river/`
-
-#### Species Data
-
-- **Sockeye**: `north-river/sockeye/`
-- **Coho**: `north-river/coho/`
-- **Chum**: `north-river/chum/`
-
-### Nunavulnak River
-
-- **Folder**: `nunavulnak-river/`
-- **Species**: Pink
-- **Files**: 2
-- **Records**: 84
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/nunavulnak-river/`
-
-#### Species Data
-
-- **Pink**: `nunavulnak-river/pink/`
-
-### Pikmiktalik River
-
-- **Folder**: `pikmiktalik-river/`
-- **Species**: Chinook
-- **Files**: 1
-- **Records**: 179
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/pikmiktalik-river/`
-
-#### Species Data
-
-- **Chinook**: `pikmiktalik-river/chinook/`
-
-### Pilgrim River
-
-- **Folder**: `pilgrim-river/`
-- **Species**: Pink, Chum
-- **Files**: 2
-- **Records**: 2,995
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/pilgrim-river/`
-
-#### Species Data
-
-- **Pink**: `pilgrim-river/pink/`
-- **Chum**: `pilgrim-river/chum/`
-
-### Pilot Station Sonar
-
-- **Folder**: `pilot-station-sonar/`
-- **Species**: Sockeye, Chinook
-- **Files**: 4
-- **Records**: 5,968
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/pilot-station-sonar/`
-
-#### Species Data
-
-- **Sockeye**: `pilot-station-sonar/sockeye/`
-- **Chinook**: `pilot-station-sonar/chinook/`
-
-### Shaktoolik River
-
-- **Folder**: `shaktoolik-river/`
-- **Species**: Pink, Sockeye
-- **Files**: 4
-- **Records**: 1,614
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/shaktoolik-river/`
-
-#### Species Data
-
-- **Pink**: `shaktoolik-river/pink/`
-- **Sockeye**: `shaktoolik-river/sockeye/`
-
-### Snake River
-
-- **Folder**: `snake-river/`
-- **Species**: Pink, Sockeye, Chinook
-- **Files**: 3
-- **Records**: 4,897
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/snake-river/`
-
-#### Species Data
-
-- **Pink**: `snake-river/pink/`
-- **Sockeye**: `snake-river/sockeye/`
-- **Chinook**: `snake-river/chinook/`
-
-### Solomon River
-
-- **Folder**: `solomon-river/`
-- **Species**: Chinook, Chum
-- **Files**: 2
-- **Records**: 683
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/solomon-river/`
-
-#### Species Data
-
-- **Chinook**: `solomon-river/chinook/`
-- **Chum**: `solomon-river/chum/`
-
-### Takotna River Weir
-
-- **Folder**: `takotna-river-weir/`
-- **Species**: Takotna River Weir Coho, Takotna River Weir Chinook, Takotna River Weir Sockeye, Takotna River Weir Chum, Chinook
-- **Files**: 6
-- **Records**: 9,664
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/takotna-river-weir/`
-
-#### Species Data
-
-- **Takotna River Weir Coho**: `takotna-river-weir/takotna-river-weir-coho/`
-- **Takotna River Weir Chinook**: `takotna-river-weir/takotna-river-weir-chinook/`
-- **Takotna River Weir Sockeye**: `takotna-river-weir/takotna-river-weir-sockeye/`
-- **Takotna River Weir Chum**: `takotna-river-weir/takotna-river-weir-chum/`
-- **Chinook**: `takotna-river-weir/chinook/`
-
-### Tatlawiksuk River
-
-- **Folder**: `tatlawiksuk-river/`
-- **Species**: Chinook, Tatlawiksuk River Coho, Tatlawiksuk River Chinook, Tatlawiksuk River Sockeye, Tatlawiksuk River Chum
-- **Files**: 6
-- **Records**: 10,008
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/tatlawiksuk-river/`
-
-#### Species Data
-
-- **Chinook**: `tatlawiksuk-river/chinook/`
-- **Tatlawiksuk River Coho**: `tatlawiksuk-river/tatlawiksuk-river-coho/`
-- **Tatlawiksuk River Chinook**: `tatlawiksuk-river/tatlawiksuk-river-chinook/`
-- **Tatlawiksuk River Sockeye**: `tatlawiksuk-river/tatlawiksuk-river-sockeye/`
-- **Tatlawiksuk River Chum**: `tatlawiksuk-river/tatlawiksuk-river-chum/`
-
-### Telaquana River
-
-- **Folder**: `telaquana-river/`
-- **Species**: Sockeye, Coho, Telaquana River Coho, Telaquana River Chinook, Telaquana River Sockeye, Telaquana River Chum
-- **Files**: 7
-- **Records**: 2,968
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/telaquana-river/`
-
-#### Species Data
-
-- **Sockeye**: `telaquana-river/sockeye/`
-- **Coho**: `telaquana-river/coho/`
-- **Telaquana River Coho**: `telaquana-river/telaquana-river-coho/`
-- **Telaquana River Chinook**: `telaquana-river/telaquana-river-chinook/`
-- **Telaquana River Sockeye**: `telaquana-river/telaquana-river-sockeye/`
-- **Telaquana River Chum**: `telaquana-river/telaquana-river-chum/`
-
-### Tuluksak River
-
-- **Folder**: `tuluksak-river/`
-- **Species**: Pink, Chinook, Tuluksak River Pink, Tuluksak River Coho, Tuluksak River Chinook, Tuluksak River Sockeye, Tuluksak River Chum
-- **Files**: 9
-- **Records**: 12,018
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/tuluksak-river/`
-
-#### Species Data
-
-- **Pink**: `tuluksak-river/pink/`
-- **Chinook**: `tuluksak-river/chinook/`
-- **Tuluksak River Pink**: `tuluksak-river/tuluksak-river-pink/`
-- **Tuluksak River Coho**: `tuluksak-river/tuluksak-river-coho/`
-- **Tuluksak River Chinook**: `tuluksak-river/tuluksak-river-chinook/`
-- **Tuluksak River Sockeye**: `tuluksak-river/tuluksak-river-sockeye/`
-- **Tuluksak River Chum**: `tuluksak-river/tuluksak-river-chum/`
-
-### Unalakleet River
-
-- **Folder**: `unalakleet-river/`
-- **Species**: Chum
-- **Files**: 2
-- **Records**: 1,360
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/unalakleet-river/`
-
-#### Species Data
-
-- **Chum**: `unalakleet-river/chum/`
-
-### Ungalik River
-
-- **Folder**: `ungalik-river/`
-- **Species**: Pink
-- **Files**: 1
-- **Records**: 209
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/ungalik-river/`
-
-#### Species Data
-
-- **Pink**: `ungalik-river/pink/`
-
-### Norton River Escapement
-
-- **Folder**: `norton-river-escapement/`
-- **Species**: 410-chinook-salmon, 410-chinook
-- **Files**: 152
-- **Records**: 6,597
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/norton-river-escapement/`
-
-#### Species Data
-
-- **410-chinook-salmon**: `norton-river-escapement/410-chinook-salmon/`
-- **410-chinook**: `norton-river-escapement/410-chinook/`
 
 ### Andreafsky River East Fork
 
 - **Folder**: `andreafsky-river-east-fork/`
-- **Species**: 430-chum-salmon, 440-coho-salmon, 410-chinook-salmon, 420-sockeye-salmon, 450-pink-salmon
+- **Species**: 5
 - **Files**: 135
 - **Records**: 7,027
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/andreafsky-river-east-fork/`
+- **Years**: 1981-2024 if location_data['years'] else "N/A"
 
-#### Species Data
-
-- **430-chum-salmon**: `andreafsky-river-east-fork/430-chum-salmon/`
-- **440-coho-salmon**: `andreafsky-river-east-fork/440-coho-salmon/`
-- **410-chinook-salmon**: `andreafsky-river-east-fork/410-chinook-salmon/`
-- **420-sockeye-salmon**: `andreafsky-river-east-fork/420-sockeye-salmon/`
-- **450-pink-salmon**: `andreafsky-river-east-fork/450-pink-salmon/`
-
-### Species Data
-
-- **420-sockeye**: `sandy-river-weir/420-sockeye/`
-
-### North River Weir
-
-- **Folder**: `north-river-weir/`
-- **Species**: 410-chinook
-- **Files**: 72
-- **Records**: 4,362
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/north-river-weir/`
-
-#### Species Data
-
-- **410-chinook**: `north-river-weir/410-chinook/`
-
-### Bristol Bay Mariner
-
-- **Folder**: `bristol-bay-mariner/`
-- **Species**: 420-sockeye-salmon
-- **Files**: 6
-- **Records**: 1,764
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/bristol-bay-mariner/`
-
-#### Species Data
-
-- **420-sockeye-salmon**: `bristol-bay-mariner/420-sockeye-salmon/`
-
-### Henshaw Creek Escapement
-
-- **Folder**: `henshaw-creek-escapement/`
-- **Species**: 430-chum-salmon, 410-chinook-salmon
-- **Files**: 40
-- **Records**: 1,437
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/henshaw-creek-escapement/`
-
-#### Species Data
-
-- **430-chum-salmon**: `henshaw-creek-escapement/430-chum-salmon/`
-- **410-chinook-salmon**: `henshaw-creek-escapement/410-chinook-salmon/`
-
-### Barton Creek Escapement
-
-- **Folder**: `barton-creek-escapement/`
-- **Species**: 450-chum-salmon, 430-coho-salmon
-- **Files**: 2
-- **Records**: 96
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/barton-creek-escapement/`
-
-#### Species Data
-
-- **450-chum-salmon**: `barton-creek-escapement/450-chum-salmon/`
-- **430-coho-salmon**: `barton-creek-escapement/430-coho-salmon/`
-
-### Species Data
-
-- **420-sockeye**: `nelson-river-weir/420-sockeye/`
-
-### Gisasa River Escapement
-
-- **Folder**: `gisasa-river-escapement/`
-- **Species**: 430-chum-salmon, 410-chinook-salmon, 420-sockeye-salmon, 450-pink-salmon
-- **Files**: 65
-- **Records**: 2,367
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/gisasa-river-escapement/`
-
-#### Species Data
-
-- **430-chum-salmon**: `gisasa-river-escapement/430-chum-salmon/`
-- **410-chinook-salmon**: `gisasa-river-escapement/410-chinook-salmon/`
-- **420-sockeye-salmon**: `gisasa-river-escapement/420-sockeye-salmon/`
-- **450-pink-salmon**: `gisasa-river-escapement/450-pink-salmon/`
-
-### Nunakogak River Weir
-
-- **Folder**: `nunakogak-river-weir/`
-- **Species**: 410-chinook
-- **Files**: 2
-- **Records**: 84
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/nunakogak-river-weir/`
-
-#### Species Data
-
-- **410-chinook**: `nunakogak-river-weir/410-chinook/`
-
-### Kuskokwim River Sonar
-
-- **Folder**: `kuskokwim-river-sonar/`
-- **Species**: 410-chinook-salmon, 410-chinook
-- **Files**: 128
-- **Records**: 9,665
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/kuskokwim-river-sonar/`
-
-#### Species Data
-
-- **410-chinook-salmon**: `kuskokwim-river-sonar/410-chinook-salmon/`
-- **410-chinook**: `kuskokwim-river-sonar/410-chinook/`
-
-### Species Data
-
-- **420-sockeye**: `orzinski-lake-weir/420-sockeye/`
-
-### Species Data
-
-- **420-sockeye**: `ilnik-river-weir/420-sockeye/`
-
-### Bear River Weir
-
-- **Folder**: `bear-river-weir/`
-- **Species**: 420-sockeye
-- **Files**: 1
-- **Records**: 0
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/bear-river-weir/`
-
-#### Species Data
-
-- **420-sockeye**: `bear-river-weir/420-sockeye/`
-
-### Yukon River Sonar
-
-- **Folder**: `yukon-river-sonar/`
-- **Species**: 410-chinook
-- **Files**: 294
-- **Records**: 18,200
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/yukon-river-sonar/`
-
-#### Species Data
-
-- **410-chinook**: `yukon-river-sonar/410-chinook/`
+**Available Species:**
+- 430 Chum Salmon (430-chum-salmon): 37 files, 1842 records
+- 440 Coho Salmon (440-coho-salmon): 13 files, 1010 records
+- 410 Chinook Salmon (410-chinook-salmon): 32 files, 1191 records
+- 420 Sockeye Salmon (420-sockeye-salmon): 21 files, 1299 records
+- 450 Pink Salmon (450-pink-salmon): 32 files, 1685 records
 
 ### Anvik River Escapement
 
 - **Folder**: `anvik-river-escapement/`
-- **Species**: 430-chum-salmon, 410-chinook-salmon, 450-pink-salmon
+- **Species**: 3
 - **Files**: 77
 - **Records**: 2,707
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/anvik-river-escapement/`
+- **Years**: 1972-2025 if location_data['years'] else "N/A"
 
-#### Species Data
+**Available Species:**
+- 430 Chum Salmon (430-chum-salmon): 51 files, 1807 records
+- 410 Chinook Salmon (410-chinook-salmon): 5 files, 135 records
+- 450 Pink Salmon (450-pink-salmon): 21 files, 765 records
 
-- **430-chum-salmon**: `anvik-river-escapement/430-chum-salmon/`
-- **410-chinook-salmon**: `anvik-river-escapement/410-chinook-salmon/`
-- **450-pink-salmon**: `anvik-river-escapement/450-pink-salmon/`
+### Barton Creek Escapement
+
+- **Folder**: `barton-creek-escapement/`
+- **Species**: 2
+- **Files**: 2
+- **Records**: 96
+- **Years**: 1994-1994 if location_data['years'] else "N/A"
+
+**Available Species:**
+- 450 Chum Salmon (450-chum-salmon): 1 files, 48 records
+- 430 Coho Salmon (430-coho-salmon): 1 files, 48 records
+
+### Big Salmon River Escapement
+
+- **Folder**: `big-salmon-river-escapement/`
+- **Species**: 1
+- **Files**: 1
+- **Records**: 1
+- **Years**: 2024-2024 if location_data['years'] else "N/A"
+
+**Available Species:**
+- 420 Sockeye (420-sockeye): 1 files, 1 records
+
+### Blind Creek Escapement
+
+- **Folder**: `blind-creek-escapement/`
+- **Species**: 1
+- **Files**: 1
+- **Records**: 1
+- **Years**: 2024-2024 if location_data['years'] else "N/A"
+
+**Available Species:**
+- 420 Sockeye (420-sockeye): 1 files, 1 records
+
+### Bonanza River
+
+- **Folder**: `bonanza-river/`
+- **Species**: 6
+- **Files**: 16
+- **Records**: 606
+- **Years**: 2018-2020 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Coho (coho): 1 files, 101 records
+- Bonanza River Pink (bonanza-river-pink): 3 files, 101 records
+- Bonanza River Coho (bonanza-river-coho): 3 files, 101 records
+- Bonanza River Chinook (bonanza-river-chinook): 3 files, 101 records
+- Bonanza River Sockeye (bonanza-river-sockeye): 3 files, 101 records
+- Bonanza River Chum (bonanza-river-chum): 3 files, 101 records
+
+### Bristol Bay Mariner
+
+- **Folder**: `bristol-bay-mariner/`
+- **Species**: 1
+- **Files**: 6
+- **Records**: 1,764
+- **Years**: 2023-2025 if location_data['years'] else "N/A"
+
+**Available Species:**
+- 420 Sockeye Salmon (420-sockeye-salmon): 6 files, 1764 records
+
+### Eagle Sonar Yukoncanadian Border
+
+- **Folder**: `eagle-sonar-yukoncanadian-border/`
+- **Species**: 1
+- **Files**: 37
+- **Records**: 1,842
+- **Years**: 1981-2024 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Andreafsky River East Fork Escapement (andreafsky-river-east-fork-escapement): 37 files, 1842 records
+
+### Egegik
+
+- **Folder**: `egegik/`
+- **Species**: 1
+- **Files**: 1
+- **Records**: 881
+- **Years**: 2023-2023 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Egegik (egegik): 1 files, 881 records
+
+### Eldorado River
+
+- **Folder**: `eldorado-river/`
+- **Species**: 7
+- **Files**: 148
+- **Records**: 8,474
+- **Years**: 1995-2025 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Eldorado River Pink (eldorado-river-pink): 31 files, 1347 records
+- Pink (pink): 1 files, 1347 records
+- Eldorado River Coho (eldorado-river-coho): 31 files, 1346 records
+- Eldorado River Sockeye (eldorado-river-sockeye): 22 files, 870 records
+- Eldorado River Chinook (eldorado-river-chinook): 31 files, 1347 records
+- Sockeye (sockeye): 1 files, 870 records
+- Eldorado River Chum (eldorado-river-chum): 31 files, 1347 records
+
+### Fish River
+
+- **Folder**: `fish-river/`
+- **Species**: 1
+- **Files**: 1
+- **Records**: 345
+- **Years**: 2014-2014 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Chinook (chinook): 1 files, 345 records
+
+### Fishing Branch River Escapement
+
+- **Folder**: `fishing-branch-river-escapement/`
+- **Species**: 1
+- **Files**: 1
+- **Records**: 1
+- **Years**: 2024-2024 if location_data['years'] else "N/A"
+
+**Available Species:**
+- 420 Sockeye (420-sockeye): 1 files, 1 records
 
 ### George River Weir
 
 - **Folder**: `george-river-weir/`
-- **Species**: 410-chinook-salmon, 410-chinook
+- **Species**: 2
 - **Files**: 93
 - **Records**: 6,680
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/george-river-weir/`
+- **Years**: 1993-2025 if location_data['years'] else "N/A"
 
-#### Species Data
+**Available Species:**
+- 410 Chinook Salmon (410-chinook-salmon): 27 files, 2608 records
+- 410 Chinook (410-chinook): 66 files, 4072 records
 
-- **410-chinook-salmon**: `george-river-weir/410-chinook-salmon/`
-- **410-chinook**: `george-river-weir/410-chinook/`
+### Gisasa River Escapement
 
-### Mclees Lake Weir
+- **Folder**: `gisasa-river-escapement/`
+- **Species**: 4
+- **Files**: 65
+- **Records**: 2,367
+- **Years**: 1994-2023 if location_data['years'] else "N/A"
 
-- **Folder**: `mclees-lake-weir/`
-- **Species**: 420-sockeye
-- **Files**: 15
-- **Records**: 82
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/mclees-lake-weir/`
+**Available Species:**
+- 430 Chum Salmon (430-chum-salmon): 27 files, 1009 records
+- 410 Chinook Salmon (410-chinook-salmon): 28 files, 998 records
+- 420 Sockeye Salmon (420-sockeye-salmon): 7 files, 247 records
+- 450 Pink Salmon (450-pink-salmon): 3 files, 113 records
 
-#### Species Data
+### Glacial Lake
 
-- **420-sockeye**: `mclees-lake-weir/420-sockeye/`
+- **Folder**: `glacial-lake/`
+- **Species**: 3
+- **Files**: 4
+- **Records**: 1,296
+- **Years**: 2000-2014 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Chum (chum): 1 files, 243 records
+- Pink (pink): 1 files, 226 records
+- Sockeye (sockeye): 2 files, 827 records
+
+### Goodnews River Middle Fork Escapement
+
+- **Folder**: `goodnews-river-middle-fork-escapement/`
+- **Species**: 1
+- **Files**: 1
+- **Records**: 1
+- **Years**: 2024-2024 if location_data['years'] else "N/A"
+
+**Available Species:**
+- 420 Sockeye (420-sockeye): 1 files, 1 records
 
 ### Goodpaster River Escapement
 
 - **Folder**: `goodpaster-river-escapement/`
-- **Species**: 410-chinook-salmon
+- **Species**: 1
 - **Files**: 15
 - **Records**: 375
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/goodpaster-river-escapement/`
+- **Years**: 2004-2018 if location_data['years'] else "N/A"
 
-#### Species Data
+**Available Species:**
+- 410 Chinook Salmon (410-chinook-salmon): 15 files, 375 records
 
-- **410-chinook-salmon**: `goodpaster-river-escapement/410-chinook-salmon/`
+### Henshaw Creek Escapement
+
+- **Folder**: `henshaw-creek-escapement/`
+- **Species**: 2
+- **Files**: 40
+- **Records**: 1,437
+- **Years**: 1999-2021 if location_data['years'] else "N/A"
+
+**Available Species:**
+- 430 Chum Salmon (430-chum-salmon): 20 files, 728 records
+- 410 Chinook Salmon (410-chinook-salmon): 20 files, 709 records
+
+### Inglutalik River
+
+- **Folder**: `inglutalik-river/`
+- **Species**: 2
+- **Files**: 2
+- **Records**: 593
+- **Years**: 2011-2020 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Chinook (chinook): 1 files, 536 records
+- Sockeye (sockeye): 1 files, 57 records
+
+### Klondike River Escapement
+
+- **Folder**: `klondike-river-escapement/`
+- **Species**: 1
+- **Files**: 1
+- **Records**: 1
+- **Years**: 2024-2024 if location_data['years'] else "N/A"
+
+**Available Species:**
+- 420 Sockeye (420-sockeye): 1 files, 1 records
+
+### Kuskokwim River Sonar
+
+- **Folder**: `kuskokwim-river-sonar/`
+- **Species**: 2
+- **Files**: 128
+- **Records**: 9,665
+- **Years**: 1981-2025 if location_data['years'] else "N/A"
+
+**Available Species:**
+- 410 Chinook Salmon (410-chinook-salmon): 101 files, 7008 records
+- 410 Chinook (410-chinook): 27 files, 2657 records
+
+### Kwiniuk River
+
+- **Folder**: `kwiniuk-river/`
+- **Species**: 3
+- **Files**: 3
+- **Records**: 5,812
+- **Years**: 1965-2005 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Coho (coho): 1 files, 2461 records
+- Chinook (chinook): 1 files, 2490 records
+- Sockeye (sockeye): 1 files, 861 records
+
+### Location 1025
+
+- **Folder**: `location-1025/`
+- **Species**: 1
+- **Files**: 8
+- **Records**: 587
+- **Years**: 2018-2025 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Kuskokwim River Sonar (kuskokwim-river-sonar): 8 files, 587 records
+
+### Mclees Lake Weir
+
+- **Folder**: `mclees-lake-weir/`
+- **Species**: 1
+- **Files**: 15
+- **Records**: 82
+- **Years**: 2001-2014 if location_data['years'] else "N/A"
+
+**Available Species:**
+- 420 Sockeye (420-sockeye): 15 files, 82 records
+
+### Niukluk River
+
+- **Folder**: `niukluk-river/`
+- **Species**: 2
+- **Files**: 2
+- **Records**: 2,620
+- **Years**: 1979-1995 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Chinook (chinook): 1 files, 1294 records
+- Pink (pink): 1 files, 1326 records
+
+### Noatak River
+
+- **Folder**: `noatak-river/`
+- **Species**: 1
+- **Files**: 1
+- **Records**: 246
+- **Years**: 1981-1981 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Chum (chum): 1 files, 246 records
+
+### Nome River
+
+- **Folder**: `nome-river/`
+- **Species**: 2
+- **Files**: 2
+- **Records**: 3,781
+- **Years**: 1993-1999 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Chinook (chinook): 1 files, 2040 records
+- Sockeye (sockeye): 1 files, 1741 records
+
+### North River
+
+- **Folder**: `north-river/`
+- **Species**: 3
+- **Files**: 3
+- **Records**: 4,722
+- **Years**: 1972-2016 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Chum (chum): 1 files, 2185 records
+- Coho (coho): 1 files, 2057 records
+- Sockeye (sockeye): 1 files, 480 records
+
+### North River Weir
+
+- **Folder**: `north-river-weir/`
+- **Species**: 1
+- **Files**: 72
+- **Records**: 4,362
+- **Years**: 1972-2025 if location_data['years'] else "N/A"
+
+**Available Species:**
+- 410 Chinook (410-chinook): 72 files, 4362 records
+
+### Norton River Escapement
+
+- **Folder**: `norton-river-escapement/`
+- **Species**: 2
+- **Files**: 152
+- **Records**: 6,597
+- **Years**: 1965-2025 if location_data['years'] else "N/A"
+
+**Available Species:**
+- 410 Chinook Salmon (410-chinook-salmon): 118 files, 5149 records
+- 410 Chinook (410-chinook): 34 files, 1448 records
+
+### Nunakogak River Weir
+
+- **Folder**: `nunakogak-river-weir/`
+- **Species**: 1
+- **Files**: 2
+- **Records**: 84
+- **Years**: 1992-1992 if location_data['years'] else "N/A"
+
+**Available Species:**
+- 410 Chinook (410-chinook): 2 files, 84 records
+
+### Nunavulnak River
+
+- **Folder**: `nunavulnak-river/`
+- **Species**: 1
+- **Files**: 1
+- **Records**: 42
+- **Years**: 1992-1992 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Pink (pink): 1 files, 42 records
+
+### Pikmiktalik River
+
+- **Folder**: `pikmiktalik-river/`
+- **Species**: 1
+- **Files**: 1
+- **Records**: 179
+- **Years**: 1992-1992 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Chinook (chinook): 1 files, 179 records
+
+### Pilgrim River
+
+- **Folder**: `pilgrim-river/`
+- **Species**: 2
+- **Files**: 2
+- **Records**: 2,995
+- **Years**: 1997-2000 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Chum (chum): 1 files, 1477 records
+- Pink (pink): 1 files, 1518 records
 
 ### Pilot Station Escapement
 
 - **Folder**: `pilot-station-escapement/`
-- **Species**: 440-coho-salmon, 410-chinook-salmon, 420-sockeye-salmon, 450-pink-salmon
+- **Species**: 4
 - **Files**: 94
 - **Records**: 7,419
-- **URL**: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/pilot-station-escapement/`
+- **Years**: 1995-2025 if location_data['years'] else "N/A"
 
-#### Species Data
+**Available Species:**
+- 440 Coho Salmon (440-coho-salmon): 30 files, 2147 records
+- 410 Chinook Salmon (410-chinook-salmon): 30 files, 2585 records
+- 420 Sockeye Salmon (420-sockeye-salmon): 4 files, 383 records
+- 450 Pink Salmon (450-pink-salmon): 30 files, 2304 records
 
-- **440-coho-salmon**: `pilot-station-escapement/440-coho-salmon/`
-- **410-chinook-salmon**: `pilot-station-escapement/410-chinook-salmon/`
-- **420-sockeye-salmon**: `pilot-station-escapement/420-sockeye-salmon/`
-- **450-pink-salmon**: `pilot-station-escapement/450-pink-salmon/`
+### Pilot Station Sonar
 
-## Data Access
+- **Folder**: `pilot-station-sonar/`
+- **Species**: 2
+- **Files**: 2
+- **Records**: 2,984
+- **Years**: 1995-2022 if location_data['years'] else "N/A"
 
-All data files are available via GitHub CDN:
-- Base URL: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/`
-- Example: `https://raw.githubusercontent.com/alaskafishcounts/adfg-commercial-dataset/master/eagle-sonar-yukon-canadian-border/chinook/2024-eagle-sonar-yukon-canadian-border-chinook.json`
+**Available Species:**
+- Chinook (chinook): 1 files, 2585 records
+- Sockeye (sockeye): 1 files, 399 records
 
-## File Naming Convention
+### Salmon River Aniak Escapement
 
-Files follow the pattern: `YYYY-[location-slug]-[species-slug].json`
+- **Folder**: `salmon-river-aniak-escapement/`
+- **Species**: 1
+- **Files**: 1
+- **Records**: 1
+- **Years**: 2024-2024 if location_data['years'] else "N/A"
 
-Where:
-- `YYYY` = Year (e.g., 2024)
-- `location-slug` = URL-friendly location name (e.g., `eagle-sonar-yukon-canadian-border`)
-- `species-slug` = URL-friendly species name (e.g., `chinook`)
+**Available Species:**
+- 420 Sockeye (420-sockeye): 1 files, 1 records
 
-## Data Format
+### Salmon River Pitka Fork Escapement
 
-Each JSON file contains:
-- `COLUMNS`: Array of column names
-- `DATA`: Array of data rows with fish count information
-- Standard columns: YEAR, COUNTDATE, FISHCOUNT, SPECIESID, COUNTLOCATIONID, COUNTLOCATION, SPECIES
+- **Folder**: `salmon-river-pitka-fork-escapement/`
+- **Species**: 1
+- **Files**: 1
+- **Records**: 1
+- **Years**: 2024-2024 if location_data['years'] else "N/A"
 
-## Last Updated
+**Available Species:**
+- 420 Sockeye (420-sockeye): 1 files, 1 records
 
-Generated on: /Users/kb/App Builds/ALPINE BUILD/afca-master-build
-Source: ADF&G Commercial Fisheries Dataset
+### Shaktoolik River
+
+- **Folder**: `shaktoolik-river/`
+- **Species**: 2
+- **Files**: 2
+- **Records**: 807
+- **Years**: 1996-2019 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Pink (pink): 1 files, 672 records
+- Sockeye (sockeye): 1 files, 135 records
+
+### Snake River
+
+- **Folder**: `snake-river/`
+- **Species**: 3
+- **Files**: 3
+- **Records**: 4,897
+- **Years**: 1995-2002 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Chinook (chinook): 1 files, 1710 records
+- Pink (pink): 1 files, 1770 records
+- Sockeye (sockeye): 1 files, 1417 records
+
+### Solomon River
+
+- **Folder**: `solomon-river/`
+- **Species**: 2
+- **Files**: 2
+- **Records**: 683
+- **Years**: 2013-2015 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Chum (chum): 1 files, 392 records
+- Chinook (chinook): 1 files, 291 records
+
+### Takotna River Weir
+
+- **Folder**: `takotna-river-weir/`
+- **Species**: 5
+- **Files**: 5
+- **Records**: 7,868
+- **Years**: 2000-2025 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Chinook (chinook): 1 files, 1796 records
+- Takotna River Weir Coho (takotna-river-weir-coho): 1 files, 1363 records
+- Takotna River Weir Chinook (takotna-river-weir-chinook): 1 files, 1796 records
+- Takotna River Weir Chum (takotna-river-weir-chum): 1 files, 1638 records
+- Takotna River Weir Sockeye (takotna-river-weir-sockeye): 1 files, 1275 records
+
+### Tatlawiksuk River
+
+- **Folder**: `tatlawiksuk-river/`
+- **Species**: 5
+- **Files**: 5
+- **Records**: 8,226
+- **Years**: 1999-2025 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Tatlawiksuk River Coho (tatlawiksuk-river-coho): 1 files, 1390 records
+- Tatlawiksuk River Chum (tatlawiksuk-river-chum): 1 files, 1782 records
+- Chinook (chinook): 1 files, 1782 records
+- Tatlawiksuk River Chinook (tatlawiksuk-river-chinook): 1 files, 1782 records
+- Tatlawiksuk River Sockeye (tatlawiksuk-river-sockeye): 1 files, 1490 records
+
+### Telaquana River
+
+- **Folder**: `telaquana-river/`
+- **Species**: 6
+- **Files**: 6
+- **Records**: 2,878
+- **Years**: 2010-2025 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Coho (coho): 1 files, 90 records
+- Telaquana River Chum (telaquana-river-chum): 1 files, 466 records
+- Telaquana River Sockeye (telaquana-river-sockeye): 1 files, 883 records
+- Sockeye (sockeye): 1 files, 883 records
+- Telaquana River Coho (telaquana-river-coho): 1 files, 90 records
+- Telaquana River Chinook (telaquana-river-chinook): 1 files, 466 records
+
+### Tuluksak River
+
+- **Folder**: `tuluksak-river/`
+- **Species**: 7
+- **Files**: 7
+- **Records**: 9,826
+- **Years**: 1991-2025 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Tuluksak River Chinook (tuluksak-river-chinook): 1 files, 2031 records
+- Tuluksak River Coho (tuluksak-river-coho): 1 files, 1457 records
+- Tuluksak River Chum (tuluksak-river-chum): 1 files, 2031 records
+- Tuluksak River Sockeye (tuluksak-river-sockeye): 1 files, 1954 records
+- Chinook (chinook): 1 files, 2031 records
+- Pink (pink): 1 files, 161 records
+- Tuluksak River Pink (tuluksak-river-pink): 1 files, 161 records
+
+### Unalakleet River
+
+- **Folder**: `unalakleet-river/`
+- **Species**: 1
+- **Files**: 1
+- **Records**: 680
+- **Years**: 2010-2010 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Chum (chum): 1 files, 680 records
+
+### Ungalik River
+
+- **Folder**: `ungalik-river/`
+- **Species**: 1
+- **Files**: 1
+- **Records**: 209
+- **Years**: 2020-2020 if location_data['years'] else "N/A"
+
+**Available Species:**
+- Pink (pink): 1 files, 209 records
+
+### Whitehorse Dam Fishway Escapement
+
+- **Folder**: `whitehorse-dam-fishway-escapement/`
+- **Species**: 1
+- **Files**: 1
+- **Records**: 1
+- **Years**: 2024-2024 if location_data['years'] else "N/A"
+
+**Available Species:**
+- 420 Sockeye (420-sockeye): 1 files, 1 records
+
+### Yukon River Sonar
+
+- **Folder**: `yukon-river-sonar/`
+- **Species**: 1
+- **Files**: 294
+- **Records**: 18,200
+- **Years**: 1972-2025 if location_data['years'] else "N/A"
+
+**Available Species:**
+- 410 Chinook (410-chinook): 294 files, 18200 records

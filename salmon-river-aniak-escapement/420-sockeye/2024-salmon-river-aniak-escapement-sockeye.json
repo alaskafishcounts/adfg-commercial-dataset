@@ -1,0 +1,24 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "MONTH",
+    "DAY",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES",
+    "COUNT"
+  ],
+  "DATA": [
+    [
+      2024,
+      7,
+      1,
+      420,
+      9999,
+      "Salmon River (Aniak) Escapement",
+      "Sockeye",
+      0
+    ]
+  ]
+}

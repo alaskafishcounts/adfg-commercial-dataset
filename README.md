@@ -2,183 +2,115 @@
 
 ## Overview
 
-This dataset contains commercial fish count data from Alaska Department of Fish and Game (ADF&G) monitoring stations across Alaska. The data spans multiple years and includes various salmon species counts from commercial fishing operations.
+This dataset contains commercial fish count data from ADF&G monitoring stations across Alaska. The dataset has been completely reorganized and deduplicated to include all available commercial fishing locations.
 
-## Geographic Areas
+## Dataset Statistics
 
-- **Active Commercial Stations:** 43 monitoring stations across Alaska
-- **Species Coverage:** Chinook, Sockeye, Coho, Pink, and Chum salmon
-- **Temporal Coverage:** Historical data from commercial fishing operations
+- **Total Locations**: 49
+- **Total Files**: 1464
+- **Total Records**: 142,949
+- **Year Range**: 1965-2025
+- **Last Updated**: 2025-10-10
 
-## Complete Commercial Locations List (43 Stations)
+## Location Directory Structure
 
-| Location ID | Location Name | Species Available |
-|-------------|---------------|-------------------|
-| 1001 | [Akalura River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1001) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1001/410), [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1001/450), [coho](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1001/430), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1001/440), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1001/420) |
-| 1025 | [Situk Lower](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1025) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1025/410), [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1025/450), [coho](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1025/430), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1025/420) |
-| 1026 | [Ford Arm](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1026) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1026/410) |
-| 1033 | [Speel Lake](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1033) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1033/410), [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1033/450), [coho](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1033/430), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1033/420) |
-| 1034 | [Sashin Creek](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1034) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1034/410), [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1034/450), [coho](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1034/430), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1034/420) |
-| 1035 | [Tahltan Lake](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1035) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1035/410), [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1035/450), [coho](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1035/430), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1035/440), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1035/420) |
-| 1036 | [Salmon River Aniak](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1036) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1036/410), [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1036/450), [coho](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1036/430), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1036/420) |
-| 1037 | [Salmon Lake Stream](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1037) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1037/410), [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1037/450), [coho](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1037/430), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1037/440), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1037/420) |
-| 1038 | [Kanektok River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1038) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1038/410), [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1038/450), [coho](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1038/430), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1038/440), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1038/420) |
-| 1039 | [Inglutalik River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1039) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1039/410), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1039/420) |
-| 1040 | [Fish River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1040) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1040/410) |
-| 1041 | [Glacial Lake](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1041) | [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1041/450), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1041/440), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1041/420) |
-| 1042 | [Noatak River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1042) | [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1042/450) |
-| 1043 | [Ungalik River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1043) | [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1043/440) |
-| 1044 | [Solomon River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1044) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1044/410), [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1044/450) |
-| 1046 | [Inglutalik River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1046) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1046/410), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1046/420) |
-| 1047 | [Eldorado River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1047) | [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1047/440), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1047/420) |
-| 1048 | [North River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1048) | [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1048/450), [coho](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1048/430), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1048/420) |
-| 1049 | [Pikmiktalik River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1049) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1049/410) |
-| 1050 | [Snake River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1050) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1050/410), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1050/440), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1050/420) |
-| 1051 | [Pilgrim River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1051) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1051/410), [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1051/450), [coho](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1051/430), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1051/440), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1051/420) |
-| 1052 | [Location 1052](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1052) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1052/410), [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1052/450), [coho](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1052/430), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1052/440), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1052/420) |
-| 1053 | [Pilot Station Sonar](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1053) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1053/410), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1053/420) |
-| 1054 | [Nome River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1054) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1054/410), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1054/420) |
-| 1055 | [Nome River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1055) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1055/410), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1055/440), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1055/420) |
-| 1056 | [Telaquana River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1056) | [coho](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1056/430), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1056/440), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1056/420) |
-| 1057 | [Unalakleet River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1057) | [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1057/450), [coho](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1057/430) |
-| 1058 | [Glacial Lake](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1058) | [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1058/450), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1058/440), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1058/420) |
-| 1059 | [Glacial Lake](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1059) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1059/410), [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1059/450), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1059/440), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1059/420) |
-| 1060 | [Tuluksak River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1060) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1060/410), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1060/440) |
-| 1061 | [Fish River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1061) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1061/410) |
-| 1062 | [Fish River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1062) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1062/410), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1062/440) |
-| 1063 | [Nunavulnak River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1063) | [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1063/440) |
-| 1065 | [Bonanza River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1065) | [coho](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1065/430) |
-| 1066 | [Bonanza River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1066) | [coho](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1066/430) |
-| 1068 | [Tatlawiksuk River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1068) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1068/410) |
-| 1069 | [Noatak River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1069) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1069/410), [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1069/450) |
-| 1070 | [Noatak River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1070) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1070/410), [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1070/450) |
-| 1071 | [Niukluk River](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1071) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1071/410), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1071/440) |
-| 1072 | [Pilot Station Sonar](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1072) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1072/410), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1072/440), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1072/420) |
-| 1101 | [Location 1101](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1101) | [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1101/420) |
-| 1201 | [Location 1201](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1201) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1201/410), [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1201/450), [coho](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1201/430), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1201/440), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1201/420) |
-| 1501 | [Location 1501](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1501) | [chinook](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1501/410), [chum](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1501/450), [coho](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1501/430), [pink](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1501/440), [sockeye](https://github.com/alaskafishcounts/adfg-commercial-dataset/tree/master/1501/420) |
+```
+adfg-commercial-dataset/
+├── [location-name]/
+│   ├── [species-id]/
+│   │   ├── [year]-[location]-[species].json
+│   │   └── ...
+│   └── ...
+└── ...
+```
 
-_This table shows all 43 locations in the commercial dataset following AFCA Location Codes Framework (1000-2999 range). Each location folder contains species-specific subdirectories with current commercial fishing data._
+## Commercial Fishing Locations
 
-## 📊 Data Format
+| Location | Species | Years | Files | Available Species |
+|----------|---------|-------|-------|-------------------|
+| Andreafsky River East Fork | 5 | 1981-2024 | 135 | 430 Chum Salmon, 440 Coho Salmon, 410 Chinook Salmon, 420 Sockeye Salmon, 450 Pink Salmon |
+| Anvik River Escapement | 3 | 1972-2025 | 77 | 430 Chum Salmon, 410 Chinook Salmon, 450 Pink Salmon |
+| Barton Creek Escapement | 2 | 1994-1994 | 2 | 450 Chum Salmon, 430 Coho Salmon |
+| Big Salmon River Escapement | 1 | 2024-2024 | 1 | 420 Sockeye |
+| Blind Creek Escapement | 1 | 2024-2024 | 1 | 420 Sockeye |
+| Bonanza River | 6 | 2018-2020 | 16 | Coho, Bonanza River Pink, Bonanza River Coho, Bonanza River Chinook, Bonanza River Sockeye, Bonanza River Chum |
+| Bristol Bay Mariner | 1 | 2023-2025 | 6 | 420 Sockeye Salmon |
+| Eagle Sonar Yukoncanadian Border | 1 | 1981-2024 | 37 | Andreafsky River East Fork Escapement |
+| Egegik | 1 | 2023-2023 | 1 | Egegik |
+| Eldorado River | 7 | 1995-2025 | 148 | Eldorado River Pink, Pink, Eldorado River Coho, Eldorado River Sockeye, Eldorado River Chinook, Sockeye, Eldorado River Chum |
+| Fish River | 1 | 2014-2014 | 1 | Chinook |
+| Fishing Branch River Escapement | 1 | 2024-2024 | 1 | 420 Sockeye |
+| George River Weir | 2 | 1993-2025 | 93 | 410 Chinook Salmon, 410 Chinook |
+| Gisasa River Escapement | 4 | 1994-2023 | 65 | 430 Chum Salmon, 410 Chinook Salmon, 420 Sockeye Salmon, 450 Pink Salmon |
+| Glacial Lake | 3 | 2000-2014 | 4 | Chum, Pink, Sockeye |
+| Goodnews River Middle Fork Escapement | 1 | 2024-2024 | 1 | 420 Sockeye |
+| Goodpaster River Escapement | 1 | 2004-2018 | 15 | 410 Chinook Salmon |
+| Henshaw Creek Escapement | 2 | 1999-2021 | 40 | 430 Chum Salmon, 410 Chinook Salmon |
+| Inglutalik River | 2 | 2011-2020 | 2 | Chinook, Sockeye |
+| Klondike River Escapement | 1 | 2024-2024 | 1 | 420 Sockeye |
+| Kuskokwim River Sonar | 2 | 1981-2025 | 128 | 410 Chinook Salmon, 410 Chinook |
+| Kwiniuk River | 3 | 1965-2005 | 3 | Coho, Chinook, Sockeye |
+| Location 1025 | 1 | 2018-2025 | 8 | Kuskokwim River Sonar |
+| Mclees Lake Weir | 1 | 2001-2014 | 15 | 420 Sockeye |
+| Niukluk River | 2 | 1979-1995 | 2 | Chinook, Pink |
+| Noatak River | 1 | 1981-1981 | 1 | Chum |
+| Nome River | 2 | 1993-1999 | 2 | Chinook, Sockeye |
+| North River | 3 | 1972-2016 | 3 | Chum, Coho, Sockeye |
+| North River Weir | 1 | 1972-2025 | 72 | 410 Chinook |
+| Norton River Escapement | 2 | 1965-2025 | 152 | 410 Chinook Salmon, 410 Chinook |
+| Nunakogak River Weir | 1 | 1992-1992 | 2 | 410 Chinook |
+| Nunavulnak River | 1 | 1992-1992 | 1 | Pink |
+| Pikmiktalik River | 1 | 1992-1992 | 1 | Chinook |
+| Pilgrim River | 2 | 1997-2000 | 2 | Chum, Pink |
+| Pilot Station Escapement | 4 | 1995-2025 | 94 | 440 Coho Salmon, 410 Chinook Salmon, 420 Sockeye Salmon, 450 Pink Salmon |
+| Pilot Station Sonar | 2 | 1995-2022 | 2 | Chinook, Sockeye |
+| Salmon River Aniak Escapement | 1 | 2024-2024 | 1 | 420 Sockeye |
+| Salmon River Pitka Fork Escapement | 1 | 2024-2024 | 1 | 420 Sockeye |
+| Shaktoolik River | 2 | 1996-2019 | 2 | Pink, Sockeye |
+| Snake River | 3 | 1995-2002 | 3 | Chinook, Pink, Sockeye |
+| Solomon River | 2 | 2013-2015 | 2 | Chum, Chinook |
+| Takotna River Weir | 5 | 2000-2025 | 5 | Chinook, Takotna River Weir Coho, Takotna River Weir Chinook, Takotna River Weir Chum, Takotna River Weir Sockeye |
+| Tatlawiksuk River | 5 | 1999-2025 | 5 | Tatlawiksuk River Coho, Tatlawiksuk River Chum, Chinook, Tatlawiksuk River Chinook, Tatlawiksuk River Sockeye |
+| Telaquana River | 6 | 2010-2025 | 6 | Coho, Telaquana River Chum, Telaquana River Sockeye, Sockeye, Telaquana River Coho, Telaquana River Chinook |
+| Tuluksak River | 7 | 1991-2025 | 7 | Tuluksak River Chinook, Tuluksak River Coho, Tuluksak River Chum, Tuluksak River Sockeye, Chinook, Pink, Tuluksak River Pink |
+| Unalakleet River | 1 | 2010-2010 | 1 | Chum |
+| Ungalik River | 1 | 2020-2020 | 1 | Pink |
+| Whitehorse Dam Fishway Escapement | 1 | 2024-2024 | 1 | 420 Sockeye |
+| Yukon River Sonar | 1 | 1972-2025 | 294 | 410 Chinook |
 
-All files follow the ADFG standard format with consistent column structure:
+## Data Format
+
+Each JSON file contains fish count data in the following format:
 
 ```json
 {
-  "COLUMNS": [
-     "YEAR",
-    "COUNTDATE",
-    "FISHCOUNT",
-    "SPECIESID",
-    "COUNTLOCATIONID",
-    "COUNTLOCATION",
-    "SPECIES"
-  ],
+  "COLUMNS": ["YEAR", "MONTH", "DAY", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES", "COUNT"],
   "DATA": [
-    [
-      2002,
-      "May, 26 2002 00:00:00",
-      3,
-      410,
-      1001,
-      "Akalura River",
-      "Chinook"
-    ]
-  ],
-  "metadata": {
-    "location_id": 1001,
-    "location_name": "Akalura River",
-    "species_id": 410,
-    "species_name": "Chinook Salmon",
-    "year": 2002,
-    "last_updated": "October 10, 2025T10:00:00Z",
-    "data_source": "ADF&G Commercial"
-  }
+    [2024, 7, 1, 420, 1001, "Location Name", "Sockeye", 150]
+  ]
 }
 ```
 
-## 🏔️ Regional Organization
+## Species Codes
 
-All COMMERCIAL locations use AFCA IDs 1000–2999\. Regional grouping is not encoded in the ID range.
+- **410**: Chinook Salmon
+- **420**: Sockeye Salmon  
+- **430**: Coho Salmon
+- **440**: Pink Salmon
+- **450**: Chum Salmon
+- **460**: Steelhead Trout
 
-## 🔄 Related Datasets
+## Usage
 
-* **Sport Dataset**: Current sport fishing data (0-100 range)
-* **SASAP Dataset**: Historical escapement data (2000-2999 range)
-* **Commercial Dataset**: Commercial fishing data (1000-1999 range) - _This dataset_
+This dataset is designed for use with the Alaska Fish Count App (AFCA) and provides comprehensive commercial fishing data for analysis and visualization.
 
-## 📄 License & Attribution
+## Data Sources
 
-This data is in the **Public Domain** and available for unrestricted use.
+- ADF&G Commercial Fisheries Division
+- Historical Escapement Monitoring
+- Sonar and Weir Counts
+- Daily and Cumulative Passage Data
 
-When using this data, please attribute:
+## License
 
-* **Data Source**: Alaska Department of Fish & Game (ADF&G)
-* **Repository**: alaskafishcounts/adfg-commercial-dataset
-* **Application**: Alaska Fish Count App
-* **Framework**: AFCA Location Codes Framework
-
-## 📞 Contact Support
-
-* **GitHub Issues**: Report problems via repository Issues
-* **Data Source**: Alaska Department of Fish & Game
-* **Repository**: alaskafishcounts/adfg-commercial-dataset
-
----
-
-**Last Updated**: October 10, 2025  
-**Version**: AFCA v1.0.1  
-**Data Source**: Alaska Department of Fish & Game (ADF&G)  
-**Framework**: AFCA Location Codes Framework  
-**Repository**: alaskafishcounts/adfg-commercial-dataset
-
-## About
-
-ADFG Commercial Fish Count Dataset - 46 years of commercial fishing data (1965-2025) across 43 locations and 5 species
-
-### Resources
-
-Readme 
-
-Activity 
-
-### Stars
-
-**1** star 
-
-### Watchers
-
-**0** watching 
-
-### Forks
-
-**0** forks 
-
-Report repository 
-
-## Releases
-
-No releases published
-
-## Packages0
-
-No packages published   
-
-## Contributors3
-
-## Footer
-
-© 2025 GitHub, Inc. 
-
-### Footer navigation
-
-* Terms
-* Privacy
-* Security
-* Status
-* Community
-* Docs
-* Contact
-* Manage cookies
-* Do not share my personal information
+This dataset is provided for research and educational purposes. Please cite ADF&G as the original data source.
