@@ -1,0 +1,814 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "June, 16 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 17 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 18 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 19 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 20 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 21 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 22 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 23 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 24 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 25 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 26 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 27 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 28 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 29 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 30 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 1 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 2 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 3 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 4 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 5 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 6 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 7 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 8 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 9 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 10 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 11 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 12 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 13 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 14 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 15 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 16 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 17 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 18 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 19 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 20 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 21 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 22 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 23 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 24 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 25 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 26 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 27 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 28 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 29 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 30 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 31 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 1 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 2 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 3 1995 00:00:00",
+      1,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 4 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 5 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 6 1995 00:00:00",
+      0,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 7 1995 00:00:00",
+      1,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 8 1995 00:00:00",
+      1,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 9 1995 00:00:00",
+      3,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 10 1995 00:00:00",
+      8,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 11 1995 00:00:00",
+      12,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 12 1995 00:00:00",
+      5,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 13 1995 00:00:00",
+      3,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 14 1995 00:00:00",
+      3,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 15 1995 00:00:00",
+      9,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 16 1995 00:00:00",
+      5,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 17 1995 00:00:00",
+      11,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 18 1995 00:00:00",
+      24,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 19 1995 00:00:00",
+      41,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 20 1995 00:00:00",
+      24,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 21 1995 00:00:00",
+      95,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 22 1995 00:00:00",
+      246,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 23 1995 00:00:00",
+      305,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 24 1995 00:00:00",
+      414,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 25 1995 00:00:00",
+      245,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 26 1995 00:00:00",
+      692,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 27 1995 00:00:00",
+      1436,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 28 1995 00:00:00",
+      368,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 29 1995 00:00:00",
+      938,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 30 1995 00:00:00",
+      335,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 31 1995 00:00:00",
+      265,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 1 1995 00:00:00",
+      444,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 2 1995 00:00:00",
+      863,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 3 1995 00:00:00",
+      14,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 4 1995 00:00:00",
+      29,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 5 1995 00:00:00",
+      6,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 6 1995 00:00:00",
+      21,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 7 1995 00:00:00",
+      164,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 8 1995 00:00:00",
+      2403,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 9 1995 00:00:00",
+      854,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 10 1995 00:00:00",
+      391,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 11 1995 00:00:00",
+      127,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 12 1995 00:00:00",
+      95,
+      430,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ]
+  ]
+}

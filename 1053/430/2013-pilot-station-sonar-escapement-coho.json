@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      0,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      0,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      0,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      86,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      89,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      0,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      115,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      271,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      154,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      0,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      0,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      163,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 1 2013 00:00:00",
+      1181,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 2 2013 00:00:00",
+      657,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 3 2013 00:00:00",
+      1160,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 4 2013 00:00:00",
+      1109,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 5 2013 00:00:00",
+      210,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 6 2013 00:00:00",
+      92,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 7 2013 00:00:00",
+      179,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 8 2013 00:00:00",
+      1659,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 9 2013 00:00:00",
+      1555,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 10 2013 00:00:00",
+      949,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 11 2013 00:00:00",
+      5460,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 12 2013 00:00:00",
+      3400,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 13 2013 00:00:00",
+      2656,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 14 2013 00:00:00",
+      1139,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 15 2013 00:00:00",
+      11435,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 16 2013 00:00:00",
+      6458,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 17 2013 00:00:00",
+      4932,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 18 2013 00:00:00",
+      1075,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 19 2013 00:00:00",
+      1328,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 20 2013 00:00:00",
+      2044,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 21 2013 00:00:00",
+      3808,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 22 2013 00:00:00",
+      4537,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 23 2013 00:00:00",
+      4832,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 24 2013 00:00:00",
+      2072,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 25 2013 00:00:00",
+      5238,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 26 2013 00:00:00",
+      5800,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 27 2013 00:00:00",
+      11278,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 28 2013 00:00:00",
+      5669,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 29 2013 00:00:00",
+      2981,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 30 2013 00:00:00",
+      2481,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 31 2013 00:00:00",
+      1892,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 1 2013 00:00:00",
+      1967,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 2 2013 00:00:00",
+      2423,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 3 2013 00:00:00",
+      2391,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 4 2013 00:00:00",
+      624,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 5 2013 00:00:00",
+      1540,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 6 2013 00:00:00",
+      864,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 7 2013 00:00:00",
+      562,
+      430,
+      1053,
+      "Pilot Station Sonar",
+      "Coho"
+    ]
+  ]
+}

@@ -1,0 +1,877 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "May, 28 2004 00:00:00",
+      430,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "May, 29 2004 00:00:00",
+      2976,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "May, 30 2004 00:00:00",
+      3696,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "May, 31 2004 00:00:00",
+      2037,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 1 2004 00:00:00",
+      2738,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 2 2004 00:00:00",
+      2861,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 3 2004 00:00:00",
+      2719,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 4 2004 00:00:00",
+      1953,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 5 2004 00:00:00",
+      2092,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 6 2004 00:00:00",
+      3710,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 7 2004 00:00:00",
+      1868,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 8 2004 00:00:00",
+      1506,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 9 2004 00:00:00",
+      3497,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 10 2004 00:00:00",
+      3005,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 11 2004 00:00:00",
+      12487,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 12 2004 00:00:00",
+      19388,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 13 2004 00:00:00",
+      7586,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 14 2004 00:00:00",
+      7605,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 15 2004 00:00:00",
+      18214,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 16 2004 00:00:00",
+      55153,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 17 2004 00:00:00",
+      53297,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 18 2004 00:00:00",
+      31760,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 19 2004 00:00:00",
+      15599,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 20 2004 00:00:00",
+      13617,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 21 2004 00:00:00",
+      11356,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 22 2004 00:00:00",
+      55267,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 23 2004 00:00:00",
+      80944,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 24 2004 00:00:00",
+      48186,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 25 2004 00:00:00",
+      69313,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 26 2004 00:00:00",
+      84267,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 27 2004 00:00:00",
+      80290,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 28 2004 00:00:00",
+      75344,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 29 2004 00:00:00",
+      55005,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "June, 30 2004 00:00:00",
+      32939,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 1 2004 00:00:00",
+      36944,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 2 2004 00:00:00",
+      39853,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 3 2004 00:00:00",
+      49528,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 4 2004 00:00:00",
+      23765,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 5 2004 00:00:00",
+      20545,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 6 2004 00:00:00",
+      26388,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 7 2004 00:00:00",
+      42918,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 8 2004 00:00:00",
+      44987,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 9 2004 00:00:00",
+      53156,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 10 2004 00:00:00",
+      45813,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 11 2004 00:00:00",
+      20415,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 12 2004 00:00:00",
+      12408,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 13 2004 00:00:00",
+      7039,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 14 2004 00:00:00",
+      20603,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 15 2004 00:00:00",
+      12455,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 16 2004 00:00:00",
+      10261,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 17 2004 00:00:00",
+      10132,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 18 2004 00:00:00",
+      4298,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 19 2004 00:00:00",
+      1138,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 20 2004 00:00:00",
+      1937,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 21 2004 00:00:00",
+      11269,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 22 2004 00:00:00",
+      29613,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 23 2004 00:00:00",
+      17733,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 24 2004 00:00:00",
+      7494,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 25 2004 00:00:00",
+      3391,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 26 2004 00:00:00",
+      2775,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 27 2004 00:00:00",
+      3794,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 28 2004 00:00:00",
+      2870,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 29 2004 00:00:00",
+      4484,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 30 2004 00:00:00",
+      1649,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "July, 31 2004 00:00:00",
+      2290,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 1 2004 00:00:00",
+      2141,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 2 2004 00:00:00",
+      5514,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 3 2004 00:00:00",
+      36211,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 4 2004 00:00:00",
+      69053,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 5 2004 00:00:00",
+      21667,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 6 2004 00:00:00",
+      9553,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 7 2004 00:00:00",
+      5148,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 8 2004 00:00:00",
+      4568,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 9 2004 00:00:00",
+      3304,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 10 2004 00:00:00",
+      43012,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 11 2004 00:00:00",
+      51814,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 12 2004 00:00:00",
+      21431,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 13 2004 00:00:00",
+      6512,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 14 2004 00:00:00",
+      2707,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 15 2004 00:00:00",
+      2942,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 16 2004 00:00:00",
+      10134,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 17 2004 00:00:00",
+      12850,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 18 2004 00:00:00",
+      8475,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 19 2004 00:00:00",
+      2504,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 20 2004 00:00:00",
+      1913,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 21 2004 00:00:00",
+      151,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 22 2004 00:00:00",
+      30513,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 23 2004 00:00:00",
+      31369,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 24 2004 00:00:00",
+      6458,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 25 2004 00:00:00",
+      6979,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 26 2004 00:00:00",
+      6330,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 27 2004 00:00:00",
+      12040,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 28 2004 00:00:00",
+      23246,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 29 2004 00:00:00",
+      67799,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 30 2004 00:00:00",
+      34279,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2004,
+      "August, 31 2004 00:00:00",
+      2314,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ]
+  ]
+}

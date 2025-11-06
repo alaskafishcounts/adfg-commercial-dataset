@@ -1,0 +1,22 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "June, 30 2006 00:00:00",
+      0,
+      410,
+      1012,
+      "Henshaw Creek",
+      "Chinook"
+    ]
+  ]
+}

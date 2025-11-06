@@ -1,0 +1,499 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "June, 23 2016 00:00:00",
+      40,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 24 2016 00:00:00",
+      48,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 25 2016 00:00:00",
+      78,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 26 2016 00:00:00",
+      82,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 27 2016 00:00:00",
+      38,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 28 2016 00:00:00",
+      60,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 29 2016 00:00:00",
+      46,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 30 2016 00:00:00",
+      34,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 1 2016 00:00:00",
+      85,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 2 2016 00:00:00",
+      78,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 3 2016 00:00:00",
+      78,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 4 2016 00:00:00",
+      103,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 5 2016 00:00:00",
+      81,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 6 2016 00:00:00",
+      91,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 7 2016 00:00:00",
+      99,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 8 2016 00:00:00",
+      89,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 9 2016 00:00:00",
+      129,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 10 2016 00:00:00",
+      109,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 11 2016 00:00:00",
+      118,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 12 2016 00:00:00",
+      116,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 13 2016 00:00:00",
+      138,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 14 2016 00:00:00",
+      148,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 15 2016 00:00:00",
+      113,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 16 2016 00:00:00",
+      120,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 17 2016 00:00:00",
+      169,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 18 2016 00:00:00",
+      192,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 19 2016 00:00:00",
+      170,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 20 2016 00:00:00",
+      160,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 21 2016 00:00:00",
+      165,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 22 2016 00:00:00",
+      204,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 23 2016 00:00:00",
+      250,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 24 2016 00:00:00",
+      268,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 25 2016 00:00:00",
+      201,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 26 2016 00:00:00",
+      253,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 27 2016 00:00:00",
+      257,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 28 2016 00:00:00",
+      186,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 29 2016 00:00:00",
+      176,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 30 2016 00:00:00",
+      126,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 31 2016 00:00:00",
+      126,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 1 2016 00:00:00",
+      91,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 2 2016 00:00:00",
+      88,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 3 2016 00:00:00",
+      104,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 4 2016 00:00:00",
+      79,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 5 2016 00:00:00",
+      96,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 6 2016 00:00:00",
+      109,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 7 2016 00:00:00",
+      119,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 8 2016 00:00:00",
+      130,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 9 2016 00:00:00",
+      116,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 10 2016 00:00:00",
+      117,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 11 2016 00:00:00",
+      162,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 12 2016 00:00:00",
+      102,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 13 2016 00:00:00",
+      0,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 14 2016 00:00:00",
+      0,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 15 2016 00:00:00",
+      0,
+      410,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chinook"
+    ]
+  ]
+}

@@ -1,0 +1,823 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "June, 19 1996 00:00:00",
+      62,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "June, 20 1996 00:00:00",
+      424,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "June, 21 1996 00:00:00",
+      3315,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "June, 22 1996 00:00:00",
+      1036,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "June, 23 1996 00:00:00",
+      11195,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "June, 24 1996 00:00:00",
+      798,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "June, 25 1996 00:00:00",
+      303,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "June, 26 1996 00:00:00",
+      7306,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "June, 27 1996 00:00:00",
+      3435,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "June, 28 1996 00:00:00",
+      1463,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "June, 29 1996 00:00:00",
+      2335,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "June, 30 1996 00:00:00",
+      314,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 1 1996 00:00:00",
+      9164,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 2 1996 00:00:00",
+      3326,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 3 1996 00:00:00",
+      8973,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 4 1996 00:00:00",
+      10018,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 5 1996 00:00:00",
+      7355,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 6 1996 00:00:00",
+      3351,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 7 1996 00:00:00",
+      3124,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 8 1996 00:00:00",
+      4771,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 9 1996 00:00:00",
+      3500,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 10 1996 00:00:00",
+      2303,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 11 1996 00:00:00",
+      1275,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 12 1996 00:00:00",
+      1497,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 13 1996 00:00:00",
+      1680,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 14 1996 00:00:00",
+      1038,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 15 1996 00:00:00",
+      935,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 16 1996 00:00:00",
+      1280,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 17 1996 00:00:00",
+      774,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 18 1996 00:00:00",
+      852,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 19 1996 00:00:00",
+      1848,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 20 1996 00:00:00",
+      1721,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 21 1996 00:00:00",
+      1116,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 22 1996 00:00:00",
+      605,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 23 1996 00:00:00",
+      246,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 24 1996 00:00:00",
+      291,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 25 1996 00:00:00",
+      196,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 26 1996 00:00:00",
+      365,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 27 1996 00:00:00",
+      278,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 28 1996 00:00:00",
+      738,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 29 1996 00:00:00",
+      334,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 30 1996 00:00:00",
+      272,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "July, 31 1996 00:00:00",
+      260,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 1 1996 00:00:00",
+      93,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 2 1996 00:00:00",
+      158,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 3 1996 00:00:00",
+      91,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 4 1996 00:00:00",
+      192,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 5 1996 00:00:00",
+      132,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 6 1996 00:00:00",
+      215,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 7 1996 00:00:00",
+      163,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 8 1996 00:00:00",
+      54,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 9 1996 00:00:00",
+      110,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 10 1996 00:00:00",
+      137,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 11 1996 00:00:00",
+      63,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 12 1996 00:00:00",
+      65,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 13 1996 00:00:00",
+      26,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 14 1996 00:00:00",
+      35,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 15 1996 00:00:00",
+      59,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 16 1996 00:00:00",
+      80,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 17 1996 00:00:00",
+      35,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 18 1996 00:00:00",
+      33,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 19 1996 00:00:00",
+      110,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 20 1996 00:00:00",
+      33,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 21 1996 00:00:00",
+      64,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 22 1996 00:00:00",
+      27,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 23 1996 00:00:00",
+      37,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 24 1996 00:00:00",
+      26,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 25 1996 00:00:00",
+      103,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 26 1996 00:00:00",
+      35,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 27 1996 00:00:00",
+      26,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 28 1996 00:00:00",
+      39,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 29 1996 00:00:00",
+      78,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 30 1996 00:00:00",
+      66,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 31 1996 00:00:00",
+      31,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 1 1996 00:00:00",
+      38,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 2 1996 00:00:00",
+      40,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 3 1996 00:00:00",
+      49,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 4 1996 00:00:00",
+      48,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 5 1996 00:00:00",
+      37,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 6 1996 00:00:00",
+      29,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 7 1996 00:00:00",
+      50,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 8 1996 00:00:00",
+      39,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 9 1996 00:00:00",
+      32,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 10 1996 00:00:00",
+      32,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 11 1996 00:00:00",
+      24,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 12 1996 00:00:00",
+      16,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 13 1996 00:00:00",
+      18,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 14 1996 00:00:00",
+      39,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 15 1996 00:00:00",
+      33,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 16 1996 00:00:00",
+      38,
+      450,
+      1003,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ]
+  ]
+}

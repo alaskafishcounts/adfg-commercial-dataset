@@ -1,0 +1,571 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "August, 25 2022 00:00:00",
+      0,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      0,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 27 2022 00:00:00",
+      0,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 28 2022 00:00:00",
+      2,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 29 2022 00:00:00",
+      4,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 30 2022 00:00:00",
+      7,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 31 2022 00:00:00",
+      10,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 1 2022 00:00:00",
+      15,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 2 2022 00:00:00",
+      20,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 3 2022 00:00:00",
+      26,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 4 2022 00:00:00",
+      33,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 5 2022 00:00:00",
+      41,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 6 2022 00:00:00",
+      49,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 7 2022 00:00:00",
+      59,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 8 2022 00:00:00",
+      69,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 9 2022 00:00:00",
+      70,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 10 2022 00:00:00",
+      80,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 11 2022 00:00:00",
+      64,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 12 2022 00:00:00",
+      73,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 13 2022 00:00:00",
+      76,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 14 2022 00:00:00",
+      96,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 15 2022 00:00:00",
+      70,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 16 2022 00:00:00",
+      65,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 17 2022 00:00:00",
+      51,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 18 2022 00:00:00",
+      50,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 19 2022 00:00:00",
+      51,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 20 2022 00:00:00",
+      55,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 21 2022 00:00:00",
+      75,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 22 2022 00:00:00",
+      75,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 23 2022 00:00:00",
+      68,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 24 2022 00:00:00",
+      106,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 25 2022 00:00:00",
+      127,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 26 2022 00:00:00",
+      95,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 27 2022 00:00:00",
+      82,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 28 2022 00:00:00",
+      86,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 29 2022 00:00:00",
+      104,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 30 2022 00:00:00",
+      66,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 1 2022 00:00:00",
+      72,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 2 2022 00:00:00",
+      76,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 3 2022 00:00:00",
+      68,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 4 2022 00:00:00",
+      81,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 5 2022 00:00:00",
+      75,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 6 2022 00:00:00",
+      49,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 7 2022 00:00:00",
+      74,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 8 2022 00:00:00",
+      68,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 9 2022 00:00:00",
+      60,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 10 2022 00:00:00",
+      60,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 11 2022 00:00:00",
+      48,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 12 2022 00:00:00",
+      43,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 13 2022 00:00:00",
+      42,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 14 2022 00:00:00",
+      20,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 15 2022 00:00:00",
+      13,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 16 2022 00:00:00",
+      19,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 17 2022 00:00:00",
+      13,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 18 2022 00:00:00",
+      7,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 19 2022 00:00:00",
+      5,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 20 2022 00:00:00",
+      8,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 21 2022 00:00:00",
+      7,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 22 2022 00:00:00",
+      4,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 23 2022 00:00:00",
+      2,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 24 2022 00:00:00",
+      0,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 25 2022 00:00:00",
+      0,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ]
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "August, 11 2023 00:00:00",
+      0,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 12 2023 00:00:00",
+      0,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 13 2023 00:00:00",
+      0,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 14 2023 00:00:00",
+      1,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 15 2023 00:00:00",
+      1,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 16 2023 00:00:00",
+      3,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 17 2023 00:00:00",
+      6,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 18 2023 00:00:00",
+      7,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 19 2023 00:00:00",
+      10,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 20 2023 00:00:00",
+      13,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 21 2023 00:00:00",
+      17,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 22 2023 00:00:00",
+      22,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 23 2023 00:00:00",
+      39,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 24 2023 00:00:00",
+      38,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 25 2023 00:00:00",
+      40,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      80,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 27 2023 00:00:00",
+      80,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 28 2023 00:00:00",
+      72,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 29 2023 00:00:00",
+      56,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 30 2023 00:00:00",
+      75,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 31 2023 00:00:00",
+      58,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 1 2023 00:00:00",
+      66,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 2 2023 00:00:00",
+      50,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 3 2023 00:00:00",
+      97,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 4 2023 00:00:00",
+      249,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 5 2023 00:00:00",
+      234,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 6 2023 00:00:00",
+      278,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 7 2023 00:00:00",
+      338,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 8 2023 00:00:00",
+      241,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 9 2023 00:00:00",
+      414,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 10 2023 00:00:00",
+      544,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 11 2023 00:00:00",
+      502,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 12 2023 00:00:00",
+      658,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 13 2023 00:00:00",
+      578,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 14 2023 00:00:00",
+      770,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 15 2023 00:00:00",
+      857,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 16 2023 00:00:00",
+      662,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 17 2023 00:00:00",
+      1006,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 18 2023 00:00:00",
+      786,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 19 2023 00:00:00",
+      902,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 20 2023 00:00:00",
+      540,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 21 2023 00:00:00",
+      634,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 22 2023 00:00:00",
+      424,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 23 2023 00:00:00",
+      430,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 24 2023 00:00:00",
+      302,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 25 2023 00:00:00",
+      356,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 26 2023 00:00:00",
+      288,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 27 2023 00:00:00",
+      304,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 28 2023 00:00:00",
+      268,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 29 2023 00:00:00",
+      363,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "September, 30 2023 00:00:00",
+      353,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "October, 1 2023 00:00:00",
+      200,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "October, 2 2023 00:00:00",
+      244,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "October, 3 2023 00:00:00",
+      246,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "October, 4 2023 00:00:00",
+      206,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "October, 5 2023 00:00:00",
+      169,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "October, 6 2023 00:00:00",
+      137,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "October, 7 2023 00:00:00",
+      108,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "October, 8 2023 00:00:00",
+      83,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "October, 9 2023 00:00:00",
+      60,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "October, 10 2023 00:00:00",
+      41,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "October, 11 2023 00:00:00",
+      27,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "October, 12 2023 00:00:00",
+      14,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "October, 13 2023 00:00:00",
+      6,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "October, 14 2023 00:00:00",
+      1,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2023,
+      "October, 15 2023 00:00:00",
+      0,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ]
+  ]
+}

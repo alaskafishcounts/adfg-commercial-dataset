@@ -1,0 +1,400 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "June, 26 1997 00:00:00",
+      18,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "June, 27 1997 00:00:00",
+      0,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "June, 28 1997 00:00:00",
+      63,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "June, 29 1997 00:00:00",
+      27,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "June, 30 1997 00:00:00",
+      0,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 1 1997 00:00:00",
+      27,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 2 1997 00:00:00",
+      324,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 3 1997 00:00:00",
+      90,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 4 1997 00:00:00",
+      45,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 5 1997 00:00:00",
+      63,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 6 1997 00:00:00",
+      180,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 7 1997 00:00:00",
+      520,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 8 1997 00:00:00",
+      612,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 9 1997 00:00:00",
+      1782,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 10 1997 00:00:00",
+      726,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 11 1997 00:00:00",
+      1032,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 12 1997 00:00:00",
+      954,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 13 1997 00:00:00",
+      1085,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 14 1997 00:00:00",
+      846,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 15 1997 00:00:00",
+      1566,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 16 1997 00:00:00",
+      1328,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 17 1997 00:00:00",
+      1090,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 18 1997 00:00:00",
+      858,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 19 1997 00:00:00",
+      1104,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 20 1997 00:00:00",
+      487,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 21 1997 00:00:00",
+      690,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 22 1997 00:00:00",
+      619,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 23 1997 00:00:00",
+      481,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 24 1997 00:00:00",
+      310,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 25 1997 00:00:00",
+      194,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 26 1997 00:00:00",
+      126,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 27 1997 00:00:00",
+      180,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 28 1997 00:00:00",
+      216,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 29 1997 00:00:00",
+      180,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 30 1997 00:00:00",
+      168,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "July, 31 1997 00:00:00",
+      174,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "August, 1 1997 00:00:00",
+      36,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "August, 2 1997 00:00:00",
+      18,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "August, 3 1997 00:00:00",
+      75,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "August, 4 1997 00:00:00",
+      6,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "August, 5 1997 00:00:00",
+      38,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "August, 6 1997 00:00:00",
+      38,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      1997,
+      "August, 7 1997 00:00:00",
+      20,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ]
+  ]
+}

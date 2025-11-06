@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "August, 8 2016 00:00:00",
+      443,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 9 2016 00:00:00",
+      471,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 10 2016 00:00:00",
+      538,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 11 2016 00:00:00",
+      602,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 12 2016 00:00:00",
+      481,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 13 2016 00:00:00",
+      427,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 14 2016 00:00:00",
+      649,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 15 2016 00:00:00",
+      609,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 16 2016 00:00:00",
+      832,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 17 2016 00:00:00",
+      1443,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 18 2016 00:00:00",
+      1776,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 19 2016 00:00:00",
+      2282,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 20 2016 00:00:00",
+      3147,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 21 2016 00:00:00",
+      4033,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 22 2016 00:00:00",
+      4608,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 23 2016 00:00:00",
+      4856,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 24 2016 00:00:00",
+      5839,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 25 2016 00:00:00",
+      5544,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 26 2016 00:00:00",
+      4752,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 27 2016 00:00:00",
+      5424,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 28 2016 00:00:00",
+      5293,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 29 2016 00:00:00",
+      5066,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 30 2016 00:00:00",
+      4824,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 31 2016 00:00:00",
+      4906,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 1 2016 00:00:00",
+      4973,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 2 2016 00:00:00",
+      5063,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 3 2016 00:00:00",
+      4526,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 4 2016 00:00:00",
+      4545,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 5 2016 00:00:00",
+      4740,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 6 2016 00:00:00",
+      4403,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 7 2016 00:00:00",
+      3258,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 8 2016 00:00:00",
+      2929,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 9 2016 00:00:00",
+      3045,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 10 2016 00:00:00",
+      3082,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 11 2016 00:00:00",
+      3167,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 12 2016 00:00:00",
+      3622,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 13 2016 00:00:00",
+      3247,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 14 2016 00:00:00",
+      3387,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 15 2016 00:00:00",
+      4198,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 16 2016 00:00:00",
+      5750,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 17 2016 00:00:00",
+      8299,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 18 2016 00:00:00",
+      11136,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 19 2016 00:00:00",
+      11528,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 20 2016 00:00:00",
+      12737,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 21 2016 00:00:00",
+      13311,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 22 2016 00:00:00",
+      14449,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 23 2016 00:00:00",
+      14106,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 24 2016 00:00:00",
+      12033,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 25 2016 00:00:00",
+      11413,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 26 2016 00:00:00",
+      12603,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 27 2016 00:00:00",
+      10739,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 28 2016 00:00:00",
+      9023,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 29 2016 00:00:00",
+      7458,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 30 2016 00:00:00",
+      6041,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 1 2016 00:00:00",
+      4772,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 2 2016 00:00:00",
+      3654,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 3 2016 00:00:00",
+      2685,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 4 2016 00:00:00",
+      1864,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 5 2016 00:00:00",
+      1193,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 6 2016 00:00:00",
+      672,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 7 2016 00:00:00",
+      298,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 8 2016 00:00:00",
+      75,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 9 2016 00:00:00",
+      0,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ]
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "September, 6 2009 00:00:00",
+      18,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 7 2009 00:00:00",
+      85,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 8 2009 00:00:00",
+      99,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 9 2009 00:00:00",
+      134,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 10 2009 00:00:00",
+      84,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 11 2009 00:00:00",
+      111,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 12 2009 00:00:00",
+      243,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 13 2009 00:00:00",
+      305,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 14 2009 00:00:00",
+      585,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 15 2009 00:00:00",
+      321,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 16 2009 00:00:00",
+      665,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 17 2009 00:00:00",
+      1200,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 18 2009 00:00:00",
+      928,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 19 2009 00:00:00",
+      953,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 20 2009 00:00:00",
+      851,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 21 2009 00:00:00",
+      767,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 22 2009 00:00:00",
+      877,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 23 2009 00:00:00",
+      861,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 24 2009 00:00:00",
+      1027,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 25 2009 00:00:00",
+      1019,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 26 2009 00:00:00",
+      1038,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 27 2009 00:00:00",
+      1815,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 28 2009 00:00:00",
+      1042,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 29 2009 00:00:00",
+      910,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "September, 30 2009 00:00:00",
+      1158,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 1 2009 00:00:00",
+      762,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 2 2009 00:00:00",
+      966,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 3 2009 00:00:00",
+      822,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 4 2009 00:00:00",
+      800,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 5 2009 00:00:00",
+      777,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 6 2009 00:00:00",
+      875,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 7 2009 00:00:00",
+      726,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 8 2009 00:00:00",
+      443,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 9 2009 00:00:00",
+      511,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 10 2009 00:00:00",
+      303,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 11 2009 00:00:00",
+      288,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 12 2009 00:00:00",
+      301,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 13 2009 00:00:00",
+      256,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 14 2009 00:00:00",
+      216,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 15 2009 00:00:00",
+      178,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 16 2009 00:00:00",
+      144,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 17 2009 00:00:00",
+      114,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 18 2009 00:00:00",
+      87,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 19 2009 00:00:00",
+      64,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 20 2009 00:00:00",
+      45,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 21 2009 00:00:00",
+      28,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 22 2009 00:00:00",
+      16,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 23 2009 00:00:00",
+      7,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 24 2009 00:00:00",
+      2,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2009,
+      "October, 25 2009 00:00:00",
+      0,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ]
+  ]
+}

@@ -1,0 +1,769 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "June, 6 1997 00:00:00",
+      2258,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 7 1997 00:00:00",
+      2876,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 8 1997 00:00:00",
+      1404,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 9 1997 00:00:00",
+      1098,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 10 1997 00:00:00",
+      4006,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 11 1997 00:00:00",
+      36536,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 12 1997 00:00:00",
+      51778,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 13 1997 00:00:00",
+      36940,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 14 1997 00:00:00",
+      33608,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 15 1997 00:00:00",
+      16976,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 16 1997 00:00:00",
+      23617,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 17 1997 00:00:00",
+      24224,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 18 1997 00:00:00",
+      17650,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 19 1997 00:00:00",
+      50245,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 20 1997 00:00:00",
+      178820,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 21 1997 00:00:00",
+      111026,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 22 1997 00:00:00",
+      54877,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 23 1997 00:00:00",
+      59014,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 24 1997 00:00:00",
+      128927,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 25 1997 00:00:00",
+      50032,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 26 1997 00:00:00",
+      23568,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "June, 27 1997 00:00:00",
+      45663,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 1 1997 00:00:00",
+      19052,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 2 1997 00:00:00",
+      14551,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 3 1997 00:00:00",
+      9094,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 4 1997 00:00:00",
+      10839,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 5 1997 00:00:00",
+      17838,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 6 1997 00:00:00",
+      25898,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 7 1997 00:00:00",
+      41316,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 8 1997 00:00:00",
+      42935,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 9 1997 00:00:00",
+      51006,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 10 1997 00:00:00",
+      32279,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 11 1997 00:00:00",
+      22726,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 12 1997 00:00:00",
+      21385,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 13 1997 00:00:00",
+      28098,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 14 1997 00:00:00",
+      23045,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 15 1997 00:00:00",
+      16338,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 16 1997 00:00:00",
+      11581,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 17 1997 00:00:00",
+      8422,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 18 1997 00:00:00",
+      7571,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 19 1997 00:00:00",
+      8619,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 20 1997 00:00:00",
+      8846,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 21 1997 00:00:00",
+      5175,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 22 1997 00:00:00",
+      4554,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 23 1997 00:00:00",
+      7708,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 24 1997 00:00:00",
+      3555,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 25 1997 00:00:00",
+      7149,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 26 1997 00:00:00",
+      13573,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 27 1997 00:00:00",
+      55438,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 28 1997 00:00:00",
+      27040,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 29 1997 00:00:00",
+      25452,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 30 1997 00:00:00",
+      19097,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "July, 31 1997 00:00:00",
+      6958,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 1 1997 00:00:00",
+      5531,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 2 1997 00:00:00",
+      1980,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 3 1997 00:00:00",
+      3178,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 4 1997 00:00:00",
+      4299,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 5 1997 00:00:00",
+      26955,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 6 1997 00:00:00",
+      63640,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 7 1997 00:00:00",
+      40114,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 8 1997 00:00:00",
+      7327,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 9 1997 00:00:00",
+      3410,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 10 1997 00:00:00",
+      3620,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 11 1997 00:00:00",
+      1794,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 12 1997 00:00:00",
+      5528,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 13 1997 00:00:00",
+      7821,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 14 1997 00:00:00",
+      24285,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 15 1997 00:00:00",
+      18039,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 16 1997 00:00:00",
+      24156,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 17 1997 00:00:00",
+      18842,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 18 1997 00:00:00",
+      12889,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 19 1997 00:00:00",
+      27965,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 20 1997 00:00:00",
+      19010,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 21 1997 00:00:00",
+      8895,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 22 1997 00:00:00",
+      3532,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 23 1997 00:00:00",
+      3898,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 24 1997 00:00:00",
+      2805,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 25 1997 00:00:00",
+      2139,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 26 1997 00:00:00",
+      5689,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 27 1997 00:00:00",
+      9023,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 28 1997 00:00:00",
+      5758,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 29 1997 00:00:00",
+      13523,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 30 1997 00:00:00",
+      8384,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      1997,
+      "August, 31 1997 00:00:00",
+      2574,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ]
+  ]
+}

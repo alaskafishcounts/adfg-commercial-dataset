@@ -1,0 +1,553 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "August, 13 2016 00:00:00",
+      3,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 14 2016 00:00:00",
+      14,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 15 2016 00:00:00",
+      33,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 16 2016 00:00:00",
+      59,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 17 2016 00:00:00",
+      91,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 18 2016 00:00:00",
+      132,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 19 2016 00:00:00",
+      180,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 20 2016 00:00:00",
+      235,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 21 2016 00:00:00",
+      297,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 22 2016 00:00:00",
+      360,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 23 2016 00:00:00",
+      503,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 24 2016 00:00:00",
+      447,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 25 2016 00:00:00",
+      938,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 26 2016 00:00:00",
+      1416,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 27 2016 00:00:00",
+      1676,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 28 2016 00:00:00",
+      1826,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 29 2016 00:00:00",
+      1787,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 30 2016 00:00:00",
+      1744,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "August, 31 2016 00:00:00",
+      1799,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 1 2016 00:00:00",
+      1759,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 2 2016 00:00:00",
+      1551,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 3 2016 00:00:00",
+      1480,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 4 2016 00:00:00",
+      1153,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 5 2016 00:00:00",
+      1175,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 6 2016 00:00:00",
+      840,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 7 2016 00:00:00",
+      1006,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 8 2016 00:00:00",
+      1174,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 9 2016 00:00:00",
+      1018,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 10 2016 00:00:00",
+      1186,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 11 2016 00:00:00",
+      1291,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 12 2016 00:00:00",
+      955,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 13 2016 00:00:00",
+      994,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 14 2016 00:00:00",
+      876,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 15 2016 00:00:00",
+      802,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 16 2016 00:00:00",
+      752,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 17 2016 00:00:00",
+      624,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 18 2016 00:00:00",
+      501,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 19 2016 00:00:00",
+      632,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 20 2016 00:00:00",
+      593,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 21 2016 00:00:00",
+      620,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 22 2016 00:00:00",
+      727,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 23 2016 00:00:00",
+      1030,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 24 2016 00:00:00",
+      1037,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 25 2016 00:00:00",
+      1273,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 26 2016 00:00:00",
+      1483,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 27 2016 00:00:00",
+      1505,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 28 2016 00:00:00",
+      1366,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 29 2016 00:00:00",
+      1699,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "September, 30 2016 00:00:00",
+      1521,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 1 2016 00:00:00",
+      1498,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 2 2016 00:00:00",
+      1408,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 3 2016 00:00:00",
+      1181,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 4 2016 00:00:00",
+      1041,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 5 2016 00:00:00",
+      862,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 6 2016 00:00:00",
+      739,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 7 2016 00:00:00",
+      665,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 8 2016 00:00:00",
+      445,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 9 2016 00:00:00",
+      250,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 10 2016 00:00:00",
+      111,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2016,
+      "October, 11 2016 00:00:00",
+      28,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ]
+  ]
+}
