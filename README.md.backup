@@ -11,8 +11,6 @@
 - **Year Range**: 1965-2025 (61 years)
 - **Species**: 6 species (Chinook, Sockeye, Coho, Pink, Chum, Run)
 - **Framework**: AFCA Location Codes Framework
-- **Time Format**: Consistent "Month, DD YYYY 00:00:00" format across all files
-- **Manifest Structure**: Flat organized[locationId][speciesId][year] for history page compatibility
 
 ## 🎯 About This Repository
 
@@ -174,24 +172,6 @@ All COMMERCIAL locations use AFCA IDs 1000–1999. Regional grouping:
 - **SASAP Dataset**: Historical escapement data (2000-2999 range)
 - **Commercial Dataset**: Commercial escapement data (1000-1999 range) - *This dataset*
 
-## 🆕 Recent Updates (January 2025)
-
-### ✅ Time Format Consistency
-- **Fixed**: All datasets now use consistent "Month, DD YYYY 00:00:00" time format
-- **Impact**: Ensures proper chart visualization and date parsing across all datasets
-- **Files Updated**: All 2,605 JSON files maintain consistent time formatting
-
-### ✅ Manifest Structure Optimization
-- **Fixed**: Converted manifest from nested to flat structure for history page compatibility
-- **Structure**: Changed from `organized[locationId].species[speciesId].files[year]` to `organized[locationId][speciesId][year]`
-- **Impact**: History page now loads COMM data correctly with improved performance
-- **Files Updated**: Manifest.json restructured with 2,605 file mappings
-
-### ✅ Repository Status
-- **Status**: All changes successfully pushed to GitHub public repository
-- **Compatibility**: Full compatibility with Alaska Fish Count App history page
-- **Data Integrity**: All location names verified against master-locations.json
-
 ## 📄 License & Attribution
 
 This data is in the **Public Domain** and available for unrestricted use.
@@ -210,7 +190,7 @@ When using this data, please attribute:
 
 ---
 
-**Last Updated**: January 15, 2025  
+**Last Updated**: October 10, 2025  
 **Version**: AFCA v1.0.1  
 **Data Source**: Alaska Department of Fish & Game (ADF&G)  
 **Framework**: AFCA Location Codes Framework  
