@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "June, 17 2015 00:00:00",
+      0,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      2015,
+      "June, 18 2015 00:00:00",
+      1,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      2015,
+      "June, 19 2015 00:00:00",
+      3,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "430",
+    "year": "2015",
+    "totalRecords": 3,
+    "totalCount": 4,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2015-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "June, 26 2021 00:00:00",
+      0,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "June, 27 2021 00:00:00",
+      5,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "June, 28 2021 00:00:00",
+      8,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "June, 29 2021 00:00:00",
+      1,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "June, 30 2021 00:00:00",
+      6,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 1 2021 00:00:00",
+      2,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 2 2021 00:00:00",
+      4,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 3 2021 00:00:00",
+      25,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 4 2021 00:00:00",
+      9,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 5 2021 00:00:00",
+      20,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 6 2021 00:00:00",
+      10,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 7 2021 00:00:00",
+      53,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 8 2021 00:00:00",
+      40,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 9 2021 00:00:00",
+      35,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 10 2021 00:00:00",
+      29,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 11 2021 00:00:00",
+      21,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 12 2021 00:00:00",
+      3,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 13 2021 00:00:00",
+      117,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 14 2021 00:00:00",
+      56,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 15 2021 00:00:00",
+      120,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 16 2021 00:00:00",
+      291,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 17 2021 00:00:00",
+      505,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 18 2021 00:00:00",
+      156,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 19 2021 00:00:00",
+      7,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 20 2021 00:00:00",
+      189,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 21 2021 00:00:00",
+      235,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 22 2021 00:00:00",
+      66,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 23 2021 00:00:00",
+      121,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 24 2021 00:00:00",
+      543,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 25 2021 00:00:00",
+      2503,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 26 2021 00:00:00",
+      1531,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 27 2021 00:00:00",
+      671,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 28 2021 00:00:00",
+      131,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 29 2021 00:00:00",
+      177,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 30 2021 00:00:00",
+      2119,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 31 2021 00:00:00",
+      739,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "August, 1 2021 00:00:00",
+      926,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "August, 2 2021 00:00:00",
+      658,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "August, 3 2021 00:00:00",
+      492,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "August, 4 2021 00:00:00",
+      446,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "August, 5 2021 00:00:00",
+      451,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "August, 6 2021 00:00:00",
+      119,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "August, 7 2021 00:00:00",
+      93,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "August, 8 2021 00:00:00",
+      105,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "August, 9 2021 00:00:00",
+      90,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "August, 10 2021 00:00:00",
+      69,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "August, 11 2021 00:00:00",
+      103,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "August, 12 2021 00:00:00",
+      63,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "August, 13 2021 00:00:00",
+      26,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "August, 14 2021 00:00:00",
+      11,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "430",
+    "year": "2021",
+    "totalRecords": 50,
+    "totalCount": 14200,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

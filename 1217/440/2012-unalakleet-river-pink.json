@@ -1,0 +1,490 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "June, 24 2012 00:00:00",
+      0,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 25 2012 00:00:00",
+      2,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 26 2012 00:00:00",
+      75,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 27 2012 00:00:00",
+      94,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 28 2012 00:00:00",
+      52,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 29 2012 00:00:00",
+      162,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 30 2012 00:00:00",
+      404,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 1 2012 00:00:00",
+      346,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 2 2012 00:00:00",
+      404,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 3 2012 00:00:00",
+      1285,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 4 2012 00:00:00",
+      832,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 5 2012 00:00:00",
+      1564,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 6 2012 00:00:00",
+      2466,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 7 2012 00:00:00",
+      8507,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 8 2012 00:00:00",
+      27635,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 9 2012 00:00:00",
+      18538,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 10 2012 00:00:00",
+      22618,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 11 2012 00:00:00",
+      24828,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 12 2012 00:00:00",
+      54021,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 13 2012 00:00:00",
+      31034,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 14 2012 00:00:00",
+      34985,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 15 2012 00:00:00",
+      51282,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 16 2012 00:00:00",
+      52140,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 17 2012 00:00:00",
+      40897,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 18 2012 00:00:00",
+      41681,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 19 2012 00:00:00",
+      42330,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 20 2012 00:00:00",
+      41757,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 21 2012 00:00:00",
+      38255,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 22 2012 00:00:00",
+      29203,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 23 2012 00:00:00",
+      21469,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 24 2012 00:00:00",
+      21921,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 25 2012 00:00:00",
+      11602,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 26 2012 00:00:00",
+      10368,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 27 2012 00:00:00",
+      7488,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 28 2012 00:00:00",
+      5765,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 29 2012 00:00:00",
+      3849,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 30 2012 00:00:00",
+      3595,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 31 2012 00:00:00",
+      2940,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 1 2012 00:00:00",
+      3067,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 2 2012 00:00:00",
+      2346,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 3 2012 00:00:00",
+      2807,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 4 2012 00:00:00",
+      2082,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 5 2012 00:00:00",
+      1528,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 6 2012 00:00:00",
+      1625,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 7 2012 00:00:00",
+      697,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 8 2012 00:00:00",
+      721,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 9 2012 00:00:00",
+      589,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 10 2012 00:00:00",
+      514,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 11 2012 00:00:00",
+      456,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 12 2012 00:00:00",
+      429,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 13 2012 00:00:00",
+      376,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 14 2012 00:00:00",
+      321,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 15 2012 00:00:00",
+      298,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ]
+  ]
+}

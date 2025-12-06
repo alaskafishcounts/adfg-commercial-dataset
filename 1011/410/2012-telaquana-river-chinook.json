@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "June, 15 2012 00:00:00",
+      0,
+      410,
+      1011,
+      "Telaquana River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "June, 16 2012 00:00:00",
+      1,
+      410,
+      1011,
+      "Telaquana River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1011,
+    "species_id": "410",
+    "year": "2012",
+    "totalRecords": 2,
+    "totalCount": 1,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2012-12-31T00:00:00"
+  }
+}

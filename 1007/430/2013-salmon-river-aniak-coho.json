@@ -1,0 +1,346 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "June, 26 2013 00:00:00",
+      0,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "June, 27 2013 00:00:00",
+      2,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "June, 28 2013 00:00:00",
+      6,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "June, 29 2013 00:00:00",
+      5,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "June, 30 2013 00:00:00",
+      10,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 1 2013 00:00:00",
+      3,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 2 2013 00:00:00",
+      13,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 3 2013 00:00:00",
+      4,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 4 2013 00:00:00",
+      18,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 5 2013 00:00:00",
+      15,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 6 2013 00:00:00",
+      35,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 7 2013 00:00:00",
+      74,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 8 2013 00:00:00",
+      42,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 9 2013 00:00:00",
+      21,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      61,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      64,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      62,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      59,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      51,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      104,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      95,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      68,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      235,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      75,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      73,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      271,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      340,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      84,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      60,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      90,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      158,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      167,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      56,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      25,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      14,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      8,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1007,
+    "species_id": "430",
+    "year": "2013",
+    "totalRecords": 36,
+    "totalCount": 2468,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2013-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,787 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "June, 25 1998 00:00:00",
+      3,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 26 1998 00:00:00",
+      1,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 27 1998 00:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 28 1998 00:00:00",
+      11,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 29 1998 00:00:00",
+      66,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 30 1998 00:00:00",
+      179,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 1 1998 00:00:00",
+      400,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 2 1998 00:00:00",
+      699,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 3 1998 00:00:00",
+      1049,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 4 1998 00:00:00",
+      1401,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 5 1998 00:00:00",
+      1831,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 6 1998 00:00:00",
+      2248,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 7 1998 00:00:00",
+      2311,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 8 1998 00:00:00",
+      1678,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 9 1998 00:00:00",
+      2487,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 10 1998 00:00:00",
+      2484,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 11 1998 00:00:00",
+      1592,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 12 1998 00:00:00",
+      2695,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 13 1998 00:00:00",
+      1801,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 14 1998 00:00:00",
+      1371,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 15 1998 00:00:00",
+      1647,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 16 1998 00:00:00",
+      1629,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 17 1998 00:00:00",
+      1020,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 18 1998 00:00:00",
+      873,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 19 1998 00:00:00",
+      1109,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 20 1998 00:00:00",
+      714,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 21 1998 00:00:00",
+      836,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 22 1998 00:00:00",
+      832,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 23 1998 00:00:00",
+      516,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 24 1998 00:00:00",
+      280,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 25 1998 00:00:00",
+      222,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 26 1998 00:00:00",
+      228,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 27 1998 00:00:00",
+      222,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 28 1998 00:00:00",
+      121,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 29 1998 00:00:00",
+      152,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 30 1998 00:00:00",
+      238,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 31 1998 00:00:00",
+      276,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 1 1998 00:00:00",
+      178,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 2 1998 00:00:00",
+      150,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 3 1998 00:00:00",
+      164,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 4 1998 00:00:00",
+      106,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 5 1998 00:00:00",
+      78,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 6 1998 00:00:00",
+      70,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 7 1998 00:00:00",
+      53,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 8 1998 00:00:00",
+      41,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 9 1998 00:00:00",
+      63,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 10 1998 00:00:00",
+      27,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 11 1998 00:00:00",
+      15,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 12 1998 00:00:00",
+      11,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 13 1998 00:00:00",
+      13,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 14 1998 00:00:00",
+      29,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 15 1998 00:00:00",
+      31,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 16 1998 00:00:00",
+      80,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 17 1998 00:00:00",
+      20,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 18 1998 00:00:00",
+      42,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 19 1998 00:00:00",
+      38,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 20 1998 00:00:00",
+      9,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 21 1998 00:00:00",
+      15,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 22 1998 00:00:00",
+      11,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 23 1998 00:00:00",
+      28,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 24 1998 00:00:00",
+      11,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 25 1998 00:00:00",
+      13,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 26 1998 00:00:00",
+      7,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 27 1998 00:00:00",
+      15,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 28 1998 00:00:00",
+      8,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 29 1998 00:00:00",
+      7,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 30 1998 00:00:00",
+      8,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 31 1998 00:00:00",
+      3,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 1 1998 00:00:00",
+      4,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 2 1998 00:00:00",
+      2,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 3 1998 00:00:00",
+      1,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 4 1998 00:00:00",
+      5,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 5 1998 00:00:00",
+      3,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 6 1998 00:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 7 1998 00:00:00",
+      5,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 8 1998 00:00:00",
+      1,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 9 1998 00:00:00",
+      1,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 10 1998 00:00:00",
+      1,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 11 1998 00:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 12 1998 00:00:00",
+      3,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 13 1998 00:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 14 1998 00:00:00",
+      1,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 15 1998 00:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 16 1998 00:00:00",
+      3,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 17 1998 00:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 18 1998 00:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ]
+  ]
+}

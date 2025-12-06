@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "June, 19 1996 00:00:00",
+      0,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 20 1996 00:00:00",
+      6,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 21 1996 00:00:00",
+      9,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 22 1996 00:00:00",
+      16,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 23 1996 00:00:00",
+      1,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 24 1996 00:00:00",
+      7,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 25 1996 00:00:00",
+      10,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 26 1996 00:00:00",
+      8,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 27 1996 00:00:00",
+      4,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 28 1996 00:00:00",
+      5,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 29 1996 00:00:00",
+      3,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 30 1996 00:00:00",
+      2,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "420",
+    "year": "1996",
+    "totalRecords": 12,
+    "totalCount": 71,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1996-12-31T00:00:00"
+  }
+}

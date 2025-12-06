@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "June, 22 2017 00:00:00",
+      0,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 23 2017 00:00:00",
+      1,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 24 2017 00:00:00",
+      4,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 25 2017 00:00:00",
+      5,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 26 2017 00:00:00",
+      9,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 27 2017 00:00:00",
+      6,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 28 2017 00:00:00",
+      7,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 29 2017 00:00:00",
+      11,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 30 2017 00:00:00",
+      15,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 1 2017 00:00:00",
+      8,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 2 2017 00:00:00",
+      2,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 3 2017 00:00:00",
+      3,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1011,
+    "species_id": "450",
+    "year": "2017",
+    "totalRecords": 12,
+    "totalCount": 71,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2017-12-31T00:00:00"
+  }
+}

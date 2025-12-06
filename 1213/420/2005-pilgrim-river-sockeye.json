@@ -1,0 +1,670 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "June, 25 2005 00:00:00",
+      0,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 26 2005 00:00:00",
+      0,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 27 2005 00:00:00",
+      0,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 28 2005 00:00:00",
+      139,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 29 2005 00:00:00",
+      2228,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "June, 30 2005 00:00:00",
+      1611,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 1 2005 00:00:00",
+      585,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 2 2005 00:00:00",
+      1282,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 3 2005 00:00:00",
+      1022,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 4 2005 00:00:00",
+      5393,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 5 2005 00:00:00",
+      2003,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 6 2005 00:00:00",
+      2736,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 7 2005 00:00:00",
+      2821,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 8 2005 00:00:00",
+      784,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 9 2005 00:00:00",
+      1736,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 10 2005 00:00:00",
+      2112,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 11 2005 00:00:00",
+      196,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 12 2005 00:00:00",
+      446,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 13 2005 00:00:00",
+      2795,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 14 2005 00:00:00",
+      3368,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 15 2005 00:00:00",
+      4318,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 16 2005 00:00:00",
+      2014,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 17 2005 00:00:00",
+      2514,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 18 2005 00:00:00",
+      1563,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 19 2005 00:00:00",
+      668,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 20 2005 00:00:00",
+      468,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 21 2005 00:00:00",
+      175,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 22 2005 00:00:00",
+      280,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 23 2005 00:00:00",
+      51,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 24 2005 00:00:00",
+      24,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 25 2005 00:00:00",
+      925,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 26 2005 00:00:00",
+      1324,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 27 2005 00:00:00",
+      1763,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 28 2005 00:00:00",
+      1090,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 29 2005 00:00:00",
+      779,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 30 2005 00:00:00",
+      1418,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 31 2005 00:00:00",
+      858,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 1 2005 00:00:00",
+      498,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 2 2005 00:00:00",
+      424,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 3 2005 00:00:00",
+      341,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 4 2005 00:00:00",
+      354,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 5 2005 00:00:00",
+      104,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 6 2005 00:00:00",
+      140,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 7 2005 00:00:00",
+      436,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 8 2005 00:00:00",
+      262,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 9 2005 00:00:00",
+      279,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 10 2005 00:00:00",
+      156,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 11 2005 00:00:00",
+      146,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 12 2005 00:00:00",
+      134,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 13 2005 00:00:00",
+      116,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 14 2005 00:00:00",
+      134,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 15 2005 00:00:00",
+      37,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 16 2005 00:00:00",
+      59,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 17 2005 00:00:00",
+      33,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 18 2005 00:00:00",
+      59,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 19 2005 00:00:00",
+      57,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 20 2005 00:00:00",
+      82,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 21 2005 00:00:00",
+      94,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 22 2005 00:00:00",
+      69,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 23 2005 00:00:00",
+      54,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 24 2005 00:00:00",
+      20,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 25 2005 00:00:00",
+      46,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 26 2005 00:00:00",
+      142,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 27 2005 00:00:00",
+      29,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 28 2005 00:00:00",
+      71,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 29 2005 00:00:00",
+      18,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 30 2005 00:00:00",
+      5,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "August, 31 2005 00:00:00",
+      10,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 1 2005 00:00:00",
+      23,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 2 2005 00:00:00",
+      18,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 3 2005 00:00:00",
+      3,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 4 2005 00:00:00",
+      5,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "September, 5 2005 00:00:00",
+      4,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ]
+  ]
+}

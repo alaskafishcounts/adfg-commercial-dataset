@@ -1,0 +1,544 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "June, 17 1999 00:00:00",
+      0,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "June, 23 1999 00:00:00",
+      1,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "June, 26 1999 00:00:00",
+      7,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "June, 27 1999 00:00:00",
+      8,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "June, 29 1999 00:00:00",
+      331,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "June, 30 1999 00:00:00",
+      4459,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 1 1999 00:00:00",
+      765,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 2 1999 00:00:00",
+      459,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 3 1999 00:00:00",
+      24,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 4 1999 00:00:00",
+      3000,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 5 1999 00:00:00",
+      4605,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 6 1999 00:00:00",
+      1185,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 7 1999 00:00:00",
+      1619,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 8 1999 00:00:00",
+      1569,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 9 1999 00:00:00",
+      1754,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 10 1999 00:00:00",
+      2135,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 11 1999 00:00:00",
+      1897,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 12 1999 00:00:00",
+      501,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 13 1999 00:00:00",
+      710,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 14 1999 00:00:00",
+      1223,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 15 1999 00:00:00",
+      412,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 16 1999 00:00:00",
+      507,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 17 1999 00:00:00",
+      547,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 18 1999 00:00:00",
+      494,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 19 1999 00:00:00",
+      666,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 20 1999 00:00:00",
+      816,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 21 1999 00:00:00",
+      242,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 22 1999 00:00:00",
+      240,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 23 1999 00:00:00",
+      201,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 24 1999 00:00:00",
+      173,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 25 1999 00:00:00",
+      131,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 26 1999 00:00:00",
+      73,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 27 1999 00:00:00",
+      132,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 28 1999 00:00:00",
+      92,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 29 1999 00:00:00",
+      245,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 31 1999 00:00:00",
+      200,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 1 1999 00:00:00",
+      158,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 2 1999 00:00:00",
+      118,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 3 1999 00:00:00",
+      124,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 4 1999 00:00:00",
+      117,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 5 1999 00:00:00",
+      45,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 6 1999 00:00:00",
+      17,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 7 1999 00:00:00",
+      11,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 8 1999 00:00:00",
+      16,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 9 1999 00:00:00",
+      10,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 10 1999 00:00:00",
+      32,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 11 1999 00:00:00",
+      14,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 12 1999 00:00:00",
+      29,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 14 1999 00:00:00",
+      6,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 16 1999 00:00:00",
+      13,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 19 1999 00:00:00",
+      3,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 21 1999 00:00:00",
+      19,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 22 1999 00:00:00",
+      2,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 24 1999 00:00:00",
+      5,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 27 1999 00:00:00",
+      9,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "September, 1 1999 00:00:00",
+      18,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "September, 3 1999 00:00:00",
+      15,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1999,
+      "September, 5 1999 00:00:00",
+      4,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "450",
+    "year": "1999",
+    "totalRecords": 58,
+    "totalCount": 32208,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1999-12-31T00:00:00"
+  }
+}

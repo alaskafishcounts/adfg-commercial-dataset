@@ -1,0 +1,652 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "June, 25 2014 00:00:00",
+      0,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "June, 26 2014 00:00:00",
+      5,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "June, 27 2014 00:00:00",
+      8,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "June, 28 2014 00:00:00",
+      19,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "June, 29 2014 00:00:00",
+      28,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "June, 30 2014 00:00:00",
+      9,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 1 2014 00:00:00",
+      34,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 2 2014 00:00:00",
+      47,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 3 2014 00:00:00",
+      58,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 4 2014 00:00:00",
+      66,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 5 2014 00:00:00",
+      111,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 6 2014 00:00:00",
+      131,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 7 2014 00:00:00",
+      233,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 8 2014 00:00:00",
+      173,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 9 2014 00:00:00",
+      144,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 10 2014 00:00:00",
+      309,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 11 2014 00:00:00",
+      314,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 12 2014 00:00:00",
+      349,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 13 2014 00:00:00",
+      695,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 14 2014 00:00:00",
+      680,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 15 2014 00:00:00",
+      929,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 16 2014 00:00:00",
+      1137,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 17 2014 00:00:00",
+      944,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 18 2014 00:00:00",
+      719,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 19 2014 00:00:00",
+      1279,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 20 2014 00:00:00",
+      994,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 21 2014 00:00:00",
+      1469,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 22 2014 00:00:00",
+      1437,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 23 2014 00:00:00",
+      1143,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 24 2014 00:00:00",
+      1400,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 25 2014 00:00:00",
+      1049,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 26 2014 00:00:00",
+      1203,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 27 2014 00:00:00",
+      1354,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 28 2014 00:00:00",
+      1769,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 29 2014 00:00:00",
+      1000,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 30 2014 00:00:00",
+      1075,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 31 2014 00:00:00",
+      1072,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 1 2014 00:00:00",
+      897,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 2 2014 00:00:00",
+      718,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 3 2014 00:00:00",
+      332,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 4 2014 00:00:00",
+      564,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 5 2014 00:00:00",
+      430,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 6 2014 00:00:00",
+      689,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 7 2014 00:00:00",
+      389,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 8 2014 00:00:00",
+      423,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 9 2014 00:00:00",
+      440,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 10 2014 00:00:00",
+      250,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 11 2014 00:00:00",
+      186,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 12 2014 00:00:00",
+      206,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 13 2014 00:00:00",
+      179,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 14 2014 00:00:00",
+      215,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 15 2014 00:00:00",
+      145,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 16 2014 00:00:00",
+      120,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 17 2014 00:00:00",
+      154,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 18 2014 00:00:00",
+      208,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 19 2014 00:00:00",
+      68,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 20 2014 00:00:00",
+      73,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 21 2014 00:00:00",
+      88,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 22 2014 00:00:00",
+      79,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 23 2014 00:00:00",
+      69,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 24 2014 00:00:00",
+      60,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 25 2014 00:00:00",
+      55,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 26 2014 00:00:00",
+      45,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 27 2014 00:00:00",
+      40,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 28 2014 00:00:00",
+      33,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 29 2014 00:00:00",
+      30,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 30 2014 00:00:00",
+      3,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 31 2014 00:00:00",
+      1,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "September, 1 2014 00:00:00",
+      7,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2014,
+      "September, 2 2014 00:00:00",
+      2,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "450",
+    "year": "2014",
+    "totalRecords": 70,
+    "totalCount": 30584,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2014-12-31T00:00:00"
+  }
+}

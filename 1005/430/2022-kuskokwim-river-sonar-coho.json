@@ -1,0 +1,616 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "July, 20 2022 00:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 21 2022 00:00:00",
+      521,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 22 2022 00:00:00",
+      1996,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 23 2022 00:00:00",
+      1174,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 24 2022 00:00:00",
+      722,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 25 2022 00:00:00",
+      231,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 26 2022 00:00:00",
+      798,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 27 2022 00:00:00",
+      1754,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 28 2022 00:00:00",
+      2804,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 29 2022 00:00:00",
+      7936,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 30 2022 00:00:00",
+      10227,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 31 2022 00:00:00",
+      10161,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 1 2022 00:00:00",
+      8389,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 2 2022 00:00:00",
+      9190,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 3 2022 00:00:00",
+      3560,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 4 2022 00:00:00",
+      8495,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 5 2022 00:00:00",
+      10654,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 6 2022 00:00:00",
+      7788,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 7 2022 00:00:00",
+      3763,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 8 2022 00:00:00",
+      3450,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 9 2022 00:00:00",
+      5834,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 10 2022 00:00:00",
+      3099,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 11 2022 00:00:00",
+      6899,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 12 2022 00:00:00",
+      7571,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 13 2022 00:00:00",
+      8020,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 14 2022 00:00:00",
+      2361,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 15 2022 00:00:00",
+      5749,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 16 2022 00:00:00",
+      2384,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 17 2022 00:00:00",
+      4969,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 18 2022 00:00:00",
+      5402,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 19 2022 00:00:00",
+      6117,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 20 2022 00:00:00",
+      2512,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 21 2022 00:00:00",
+      2296,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 22 2022 00:00:00",
+      4643,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 23 2022 00:00:00",
+      2517,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 24 2022 00:00:00",
+      3691,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 25 2022 00:00:00",
+      4413,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      4644,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      5442,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      7196,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      10000,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      17936,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      28163,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      38324,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      46713,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      55903,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      59463,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      67958,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      78612,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      86400,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      90163,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      93613,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      99447,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      102546,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      109445,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      117016,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      125036,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      127397,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      133146,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      135530,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      140499,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      145901,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      152018,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      154530,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      156826,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      161469,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1005,
+    "species_id": "430",
+    "year": "2022",
+    "totalRecords": 66,
+    "totalCount": 2723426,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2022-12-31T00:00:00"
+  }
+}

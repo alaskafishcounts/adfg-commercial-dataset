@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "June, 22 2016 00:00:00",
+      0,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 23 2016 00:00:00",
+      1,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 24 2016 00:00:00",
+      3,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 25 2016 00:00:00",
+      8,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 26 2016 00:00:00",
+      149,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 27 2016 00:00:00",
+      320,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 28 2016 00:00:00",
+      1197,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 29 2016 00:00:00",
+      1649,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "June, 30 2016 00:00:00",
+      3529,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 1 2016 00:00:00",
+      2367,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 2 2016 00:00:00",
+      1379,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 3 2016 00:00:00",
+      4078,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 4 2016 00:00:00",
+      6406,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 5 2016 00:00:00",
+      4530,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 6 2016 00:00:00",
+      2735,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 7 2016 00:00:00",
+      5353,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 8 2016 00:00:00",
+      6269,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 9 2016 00:00:00",
+      8652,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 10 2016 00:00:00",
+      6503,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 11 2016 00:00:00",
+      4529,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 12 2016 00:00:00",
+      3200,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 13 2016 00:00:00",
+      2926,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 14 2016 00:00:00",
+      2541,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 15 2016 00:00:00",
+      2437,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 16 2016 00:00:00",
+      2233,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 17 2016 00:00:00",
+      1340,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 18 2016 00:00:00",
+      1189,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 19 2016 00:00:00",
+      1312,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 20 2016 00:00:00",
+      801,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 21 2016 00:00:00",
+      826,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 22 2016 00:00:00",
+      632,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 23 2016 00:00:00",
+      740,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 24 2016 00:00:00",
+      483,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 25 2016 00:00:00",
+      490,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 26 2016 00:00:00",
+      410,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 27 2016 00:00:00",
+      380,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 28 2016 00:00:00",
+      295,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 29 2016 00:00:00",
+      284,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 30 2016 00:00:00",
+      240,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 31 2016 00:00:00",
+      74,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 1 2016 00:00:00",
+      59,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 2 2016 00:00:00",
+      41,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 3 2016 00:00:00",
+      33,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 4 2016 00:00:00",
+      25,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 5 2016 00:00:00",
+      18,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 6 2016 00:00:00",
+      15,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 7 2016 00:00:00",
+      12,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 8 2016 00:00:00",
+      9,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 9 2016 00:00:00",
+      7,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1011,
+    "species_id": "420",
+    "year": "2016",
+    "totalRecords": 49,
+    "totalCount": 82709,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2016-12-31T00:00:00"
+  }
+}

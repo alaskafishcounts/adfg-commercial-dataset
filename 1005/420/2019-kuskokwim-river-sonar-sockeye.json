@@ -1,0 +1,940 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "May, 31 2019 00:00:00",
+      225,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 1 2019 00:00:00",
+      404,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 2 2019 00:00:00",
+      885,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 3 2019 00:00:00",
+      1073,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 4 2019 00:00:00",
+      1847,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 5 2019 00:00:00",
+      2658,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 6 2019 00:00:00",
+      3247,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 7 2019 00:00:00",
+      5031,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 8 2019 00:00:00",
+      7788,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 9 2019 00:00:00",
+      10373,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 10 2019 00:00:00",
+      11780,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 11 2019 00:00:00",
+      14072,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 12 2019 00:00:00",
+      18100,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 13 2019 00:00:00",
+      20397,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 14 2019 00:00:00",
+      26946,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 15 2019 00:00:00",
+      37854,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 16 2019 00:00:00",
+      46660,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 17 2019 00:00:00",
+      60855,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 18 2019 00:00:00",
+      74974,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 19 2019 00:00:00",
+      83895,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 20 2019 00:00:00",
+      119593,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 21 2019 00:00:00",
+      140783,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 22 2019 00:00:00",
+      204393,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 23 2019 00:00:00",
+      294095,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 24 2019 00:00:00",
+      341019,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 25 2019 00:00:00",
+      373578,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 26 2019 00:00:00",
+      392250,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 27 2019 00:00:00",
+      425076,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 28 2019 00:00:00",
+      478969,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 29 2019 00:00:00",
+      517266,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 30 2019 00:00:00",
+      556897,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 1 2019 00:00:00",
+      594978,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 2 2019 00:00:00",
+      619414,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 3 2019 00:00:00",
+      636794,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 4 2019 00:00:00",
+      648335,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 5 2019 00:00:00",
+      665443,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 6 2019 00:00:00",
+      686910,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 7 2019 00:00:00",
+      704429,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 8 2019 00:00:00",
+      725410,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 9 2019 00:00:00",
+      749561,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 10 2019 00:00:00",
+      769612,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 11 2019 00:00:00",
+      787188,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 12 2019 00:00:00",
+      801533,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 13 2019 00:00:00",
+      820288,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 14 2019 00:00:00",
+      829049,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 15 2019 00:00:00",
+      846087,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 16 2019 00:00:00",
+      873324,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 17 2019 00:00:00",
+      900371,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 18 2019 00:00:00",
+      911803,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 19 2019 00:00:00",
+      918629,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 20 2019 00:00:00",
+      924579,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 21 2019 00:00:00",
+      179,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 22 2019 00:00:00",
+      0,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 23 2019 00:00:00",
+      481,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 24 2019 00:00:00",
+      188,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 25 2019 00:00:00",
+      774,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      811,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      589,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      1784,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      2757,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      2585,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      1407,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      2292,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      4028,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      2297,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      6549,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      10908,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      8806,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      14195,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      14119,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      8921,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      35698,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      21190,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      63610,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      89702,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      46924,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      32559,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      18672,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      32826,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      53893,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      38297,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      39631,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      38081,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      24436,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      17380,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      11541,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      17108,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      21467,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      17519,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      20981,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      24151,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      20051,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      17576,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      14345,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      18755,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      8761,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      17038,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      27237,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      27047,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      11432,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      6826,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      5950,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1005,
+    "species_id": "420",
+    "year": "2019",
+    "totalRecords": 102,
+    "totalCount": 20611074,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

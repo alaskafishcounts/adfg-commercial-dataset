@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "June, 24 2011 00:00:00",
+      0,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 25 2011 00:00:00",
+      1,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 26 2011 00:00:00",
+      4,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 27 2011 00:00:00",
+      3,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 28 2011 00:00:00",
+      2,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 29 2011 00:00:00",
+      14,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 30 2011 00:00:00",
+      8,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 1 2011 00:00:00",
+      9,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 2 2011 00:00:00",
+      19,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 3 2011 00:00:00",
+      21,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 4 2011 00:00:00",
+      5,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1012,
+    "species_id": "420",
+    "year": "2011",
+    "totalRecords": 11,
+    "totalCount": 86,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

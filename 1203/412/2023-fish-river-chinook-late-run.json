@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "July, 1 2023 0:00:00",
+      15,
+      412,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 2 2023 0:00:00",
+      23,
+      412,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 3 2023 0:00:00",
+      18,
+      412,
+      1203,
+      "Fish River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1203,
+    "species_id": "412",
+    "year": "2023",
+    "totalRecords": 3,
+    "totalCount": 56,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

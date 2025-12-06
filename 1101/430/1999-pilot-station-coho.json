@@ -1,0 +1,283 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "June, 12 1999 00:00:00",
+      0,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 13 1999 00:00:00",
+      85,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 14 1999 00:00:00",
+      65,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 15 1999 00:00:00",
+      322,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 16 1999 00:00:00",
+      193,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 17 1999 00:00:00",
+      793,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 18 1999 00:00:00",
+      927,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 19 1999 00:00:00",
+      790,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 20 1999 00:00:00",
+      634,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 21 1999 00:00:00",
+      649,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 22 1999 00:00:00",
+      1267,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 23 1999 00:00:00",
+      681,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 24 1999 00:00:00",
+      931,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 25 1999 00:00:00",
+      5013,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 26 1999 00:00:00",
+      5095,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 27 1999 00:00:00",
+      3157,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 28 1999 00:00:00",
+      1374,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 29 1999 00:00:00",
+      1707,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 30 1999 00:00:00",
+      1767,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "July, 1 1999 00:00:00",
+      1651,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "July, 2 1999 00:00:00",
+      5239,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "July, 3 1999 00:00:00",
+      7843,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "July, 4 1999 00:00:00",
+      7206,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "July, 5 1999 00:00:00",
+      3244,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "July, 6 1999 00:00:00",
+      5601,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "July, 7 1999 00:00:00",
+      5203,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "July, 8 1999 00:00:00",
+      6575,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "July, 9 1999 00:00:00",
+      4279,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      1999,
+      "July, 10 1999 00:00:00",
+      3883,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "430",
+    "year": "1999",
+    "totalRecords": 29,
+    "totalCount": 76174,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1999-12-31T00:00:00"
+  }
+}

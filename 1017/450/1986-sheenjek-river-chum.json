@@ -1,0 +1,508 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1986,
+      "August, 16 1986 00:00:00",
+      1010,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 17 1986 00:00:00",
+      68,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 18 1986 00:00:00",
+      345,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 19 1986 00:00:00",
+      769,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 20 1986 00:00:00",
+      1576,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 21 1986 00:00:00",
+      1178,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 22 1986 00:00:00",
+      3023,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 23 1986 00:00:00",
+      1177,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 24 1986 00:00:00",
+      1733,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 25 1986 00:00:00",
+      5374,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 26 1986 00:00:00",
+      4875,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 27 1986 00:00:00",
+      3712,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 28 1986 00:00:00",
+      4633,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 29 1986 00:00:00",
+      5150,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 30 1986 00:00:00",
+      4336,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "August, 31 1986 00:00:00",
+      3889,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 1 1986 00:00:00",
+      2101,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 2 1986 00:00:00",
+      2230,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 3 1986 00:00:00",
+      1819,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 4 1986 00:00:00",
+      2406,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 5 1986 00:00:00",
+      1645,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 6 1986 00:00:00",
+      2265,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 7 1986 00:00:00",
+      2849,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 8 1986 00:00:00",
+      2760,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 9 1986 00:00:00",
+      2469,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 10 1986 00:00:00",
+      1131,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 11 1986 00:00:00",
+      1461,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 12 1986 00:00:00",
+      2500,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 13 1986 00:00:00",
+      1751,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 14 1986 00:00:00",
+      2866,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 15 1986 00:00:00",
+      2290,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 16 1986 00:00:00",
+      1099,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 17 1986 00:00:00",
+      1488,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 18 1986 00:00:00",
+      1481,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 19 1986 00:00:00",
+      1548,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 20 1986 00:00:00",
+      679,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 21 1986 00:00:00",
+      704,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 22 1986 00:00:00",
+      577,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 23 1986 00:00:00",
+      587,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 24 1986 00:00:00",
+      653,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 25 1986 00:00:00",
+      569,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 26 1986 00:00:00",
+      490,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 27 1986 00:00:00",
+      418,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 28 1986 00:00:00",
+      351,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 29 1986 00:00:00",
+      290,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "September, 30 1986 00:00:00",
+      235,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "October, 1 1986 00:00:00",
+      186,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "October, 2 1986 00:00:00",
+      142,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "October, 3 1986 00:00:00",
+      104,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "October, 4 1986 00:00:00",
+      73,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "October, 5 1986 00:00:00",
+      46,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "October, 6 1986 00:00:00",
+      26,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "October, 7 1986 00:00:00",
+      12,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "October, 8 1986 00:00:00",
+      3,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1986,
+      "October, 9 1986 00:00:00",
+      0,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ]
+  ]
+}

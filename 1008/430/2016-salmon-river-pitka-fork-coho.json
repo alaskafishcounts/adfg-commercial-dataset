@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "June, 21 2016 00:00:00",
+      0,
+      430,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Coho"
+    ],
+    [
+      2016,
+      "June, 22 2016 00:00:00",
+      1,
+      430,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1008,
+    "species_id": "430",
+    "year": "2016",
+    "totalRecords": 2,
+    "totalCount": 1,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2016-12-31T00:00:00"
+  }
+}

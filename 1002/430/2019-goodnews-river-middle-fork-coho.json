@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "June, 22 2019 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2019,
+      "June, 23 2019 00:00:00",
+      1,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1002,
+    "species_id": "430",
+    "year": "2019",
+    "totalRecords": 2,
+    "totalCount": 1,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

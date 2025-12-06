@@ -1,0 +1,787 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "June, 25 2002 00:00:00",
+      82,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 26 2002 00:00:00",
+      609,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 27 2002 00:00:00",
+      431,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 28 2002 00:00:00",
+      681,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 29 2002 00:00:00",
+      745,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 30 2002 00:00:00",
+      1020,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 1 2002 00:00:00",
+      960,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 2 2002 00:00:00",
+      693,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 3 2002 00:00:00",
+      1397,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 4 2002 00:00:00",
+      1305,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 5 2002 00:00:00",
+      669,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 6 2002 00:00:00",
+      1579,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 7 2002 00:00:00",
+      1202,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 8 2002 00:00:00",
+      802,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 9 2002 00:00:00",
+      1103,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 10 2002 00:00:00",
+      919,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 11 2002 00:00:00",
+      575,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 12 2002 00:00:00",
+      358,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 13 2002 00:00:00",
+      440,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 14 2002 00:00:00",
+      891,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 15 2002 00:00:00",
+      511,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 16 2002 00:00:00",
+      496,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 17 2002 00:00:00",
+      462,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 18 2002 00:00:00",
+      352,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 19 2002 00:00:00",
+      139,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 20 2002 00:00:00",
+      334,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 21 2002 00:00:00",
+      392,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 22 2002 00:00:00",
+      274,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 23 2002 00:00:00",
+      240,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 24 2002 00:00:00",
+      179,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 25 2002 00:00:00",
+      208,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 26 2002 00:00:00",
+      187,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 27 2002 00:00:00",
+      55,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 28 2002 00:00:00",
+      137,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 29 2002 00:00:00",
+      83,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 30 2002 00:00:00",
+      133,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 31 2002 00:00:00",
+      93,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 1 2002 00:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 2 2002 00:00:00",
+      62,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 3 2002 00:00:00",
+      28,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 4 2002 00:00:00",
+      20,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 5 2002 00:00:00",
+      32,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 6 2002 00:00:00",
+      12,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 7 2002 00:00:00",
+      44,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 8 2002 00:00:00",
+      23,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 9 2002 00:00:00",
+      11,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 10 2002 00:00:00",
+      2,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 11 2002 00:00:00",
+      7,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 12 2002 00:00:00",
+      7,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 13 2002 00:00:00",
+      14,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 14 2002 00:00:00",
+      3,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 15 2002 00:00:00",
+      15,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 16 2002 00:00:00",
+      8,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 17 2002 00:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 18 2002 00:00:00",
+      3,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 19 2002 00:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 20 2002 00:00:00",
+      6,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 21 2002 00:00:00",
+      9,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 22 2002 00:00:00",
+      5,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 23 2002 00:00:00",
+      1,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 24 2002 00:00:00",
+      3,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 25 2002 00:00:00",
+      2,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 26 2002 00:00:00",
+      2,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 27 2002 00:00:00",
+      3,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 28 2002 00:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 29 2002 00:00:00",
+      2,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 30 2002 00:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 31 2002 00:00:00",
+      3,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 1 2002 00:00:00",
+      3,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 2 2002 00:00:00",
+      4,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 3 2002 00:00:00",
+      3,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 4 2002 00:00:00",
+      2,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 5 2002 00:00:00",
+      6,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 6 2002 00:00:00",
+      4,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 7 2002 00:00:00",
+      8,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 8 2002 00:00:00",
+      7,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 9 2002 00:00:00",
+      2,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 10 2002 00:00:00",
+      2,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 11 2002 00:00:00",
+      5,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 12 2002 00:00:00",
+      7,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 13 2002 00:00:00",
+      7,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 14 2002 00:00:00",
+      2,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 15 2002 00:00:00",
+      2,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 16 2002 00:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 17 2002 00:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 18 2002 00:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ]
+  ]
+}

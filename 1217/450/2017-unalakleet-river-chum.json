@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "June, 9 2017 00:00:00",
+      0,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 10 2017 00:00:00",
+      5,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 11 2017 00:00:00",
+      5,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 12 2017 00:00:00",
+      2,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 13 2017 00:00:00",
+      7,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 14 2017 00:00:00",
+      11,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 15 2017 00:00:00",
+      7,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 16 2017 00:00:00",
+      4,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 17 2017 00:00:00",
+      22,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 18 2017 00:00:00",
+      14,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 19 2017 00:00:00",
+      4,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 20 2017 00:00:00",
+      5,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 21 2017 00:00:00",
+      6,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 22 2017 00:00:00",
+      47,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 23 2017 00:00:00",
+      124,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 24 2017 00:00:00",
+      345,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 25 2017 00:00:00",
+      791,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 26 2017 00:00:00",
+      2281,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 27 2017 00:00:00",
+      328,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 28 2017 00:00:00",
+      342,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 29 2017 00:00:00",
+      525,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 30 2017 00:00:00",
+      1826,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 1 2017 00:00:00",
+      1767,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 2 2017 00:00:00",
+      3097,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 3 2017 00:00:00",
+      6437,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 4 2017 00:00:00",
+      5393,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 5 2017 00:00:00",
+      2516,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 6 2017 00:00:00",
+      9557,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 7 2017 00:00:00",
+      8494,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 8 2017 00:00:00",
+      9521,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 9 2017 00:00:00",
+      5265,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 10 2017 00:00:00",
+      563,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 11 2017 00:00:00",
+      2162,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 12 2017 00:00:00",
+      11139,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 13 2017 00:00:00",
+      7050,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 14 2017 00:00:00",
+      4860,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 15 2017 00:00:00",
+      6170,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 16 2017 00:00:00",
+      2088,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 17 2017 00:00:00",
+      431,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 18 2017 00:00:00",
+      1332,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 19 2017 00:00:00",
+      3132,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 20 2017 00:00:00",
+      9667,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 21 2017 00:00:00",
+      5461,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 22 2017 00:00:00",
+      3049,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 23 2017 00:00:00",
+      2693,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 24 2017 00:00:00",
+      45,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 25 2017 00:00:00",
+      555,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 26 2017 00:00:00",
+      4982,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 27 2017 00:00:00",
+      4192,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 28 2017 00:00:00",
+      2809,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 29 2017 00:00:00",
+      1010,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 30 2017 00:00:00",
+      1946,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 31 2017 00:00:00",
+      2551,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 1 2017 00:00:00",
+      1109,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 2 2017 00:00:00",
+      2342,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 3 2017 00:00:00",
+      62,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 4 2017 00:00:00",
+      1611,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 5 2017 00:00:00",
+      1413,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 6 2017 00:00:00",
+      702,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 7 2017 00:00:00",
+      1381,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 8 2017 00:00:00",
+      516,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 9 2017 00:00:00",
+      649,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 10 2017 00:00:00",
+      29,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ]
+  ]
+}

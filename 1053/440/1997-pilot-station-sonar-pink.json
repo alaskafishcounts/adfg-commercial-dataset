@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "July, 9 1997 00:00:00",
+      219,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 19 1997 00:00:00",
+      123,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 20 1997 00:00:00",
+      137,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 24 1997 00:00:00",
+      78,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 26 1997 00:00:00",
+      83,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "July, 30 1997 00:00:00",
+      688,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 13 1997 00:00:00",
+      1048,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 18 1997 00:00:00",
+      1024,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 28 1997 00:00:00",
+      318,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      1997,
+      "August, 31 1997 00:00:00",
+      154,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ]
+  ]
+}

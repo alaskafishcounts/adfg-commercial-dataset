@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "June, 21 2024 00:00:00",
+      0,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 25 2024 00:00:00",
+      1,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 30 2024 00:00:00",
+      5,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 1 2024 00:00:00",
+      2,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 3 2024 00:00:00",
+      4,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 10 2024 00:00:00",
+      63,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 11 2024 00:00:00",
+      26,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 12 2024 00:00:00",
+      13,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 13 2024 00:00:00",
+      27,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 14 2024 00:00:00",
+      17,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 15 2024 00:00:00",
+      9,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 20 2024 00:00:00",
+      3,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "450",
+    "year": "2024",
+    "totalRecords": 12,
+    "totalCount": 170,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2024-12-31T00:00:00"
+  }
+}

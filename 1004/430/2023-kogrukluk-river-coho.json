@@ -1,0 +1,526 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "July, 3 2023 00:00:00",
+      0,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 4 2023 00:00:00",
+      2,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 5 2023 00:00:00",
+      1,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 6 2023 00:00:00",
+      13,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 7 2023 00:00:00",
+      4,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 8 2023 00:00:00",
+      3,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 9 2023 00:00:00",
+      32,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 10 2023 00:00:00",
+      6,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 13 2023 00:00:00",
+      14,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 14 2023 00:00:00",
+      57,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 15 2023 00:00:00",
+      109,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 24 2023 00:00:00",
+      143,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 25 2023 00:00:00",
+      108,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 26 2023 00:00:00",
+      76,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 27 2023 00:00:00",
+      170,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 28 2023 00:00:00",
+      352,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 29 2023 00:00:00",
+      375,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 30 2023 00:00:00",
+      266,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 31 2023 00:00:00",
+      360,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 1 2023 00:00:00",
+      435,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 2 2023 00:00:00",
+      743,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 3 2023 00:00:00",
+      695,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 4 2023 00:00:00",
+      739,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 5 2023 00:00:00",
+      1462,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 6 2023 00:00:00",
+      1706,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 7 2023 00:00:00",
+      1590,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 8 2023 00:00:00",
+      1193,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 9 2023 00:00:00",
+      1121,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 10 2023 00:00:00",
+      1290,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 11 2023 00:00:00",
+      1281,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 12 2023 00:00:00",
+      1252,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 13 2023 00:00:00",
+      1216,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 14 2023 00:00:00",
+      1153,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 15 2023 00:00:00",
+      1093,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 16 2023 00:00:00",
+      1018,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 17 2023 00:00:00",
+      941,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 18 2023 00:00:00",
+      861,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 19 2023 00:00:00",
+      520,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 20 2023 00:00:00",
+      232,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 21 2023 00:00:00",
+      620,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 22 2023 00:00:00",
+      487,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 23 2023 00:00:00",
+      475,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 24 2023 00:00:00",
+      517,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 25 2023 00:00:00",
+      339,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      245,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 27 2023 00:00:00",
+      292,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 28 2023 00:00:00",
+      332,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 29 2023 00:00:00",
+      345,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 30 2023 00:00:00",
+      293,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 31 2023 00:00:00",
+      296,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "September, 1 2023 00:00:00",
+      289,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "September, 2 2023 00:00:00",
+      325,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "September, 3 2023 00:00:00",
+      212,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "September, 4 2023 00:00:00",
+      203,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "September, 5 2023 00:00:00",
+      217,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "September, 6 2023 00:00:00",
+      160,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "430",
+    "year": "2023",
+    "totalRecords": 56,
+    "totalCount": 28279,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "August, 28 2017 00:00:00",
+      2,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 29 2017 00:00:00",
+      8,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 30 2017 00:00:00",
+      17,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 31 2017 00:00:00",
+      30,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 1 2017 00:00:00",
+      47,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 2 2017 00:00:00",
+      68,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 3 2017 00:00:00",
+      175,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 4 2017 00:00:00",
+      331,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 5 2017 00:00:00",
+      576,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 6 2017 00:00:00",
+      795,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 7 2017 00:00:00",
+      952,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 8 2017 00:00:00",
+      988,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 9 2017 00:00:00",
+      861,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 10 2017 00:00:00",
+      1430,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 11 2017 00:00:00",
+      1508,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 12 2017 00:00:00",
+      1986,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 13 2017 00:00:00",
+      1926,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 14 2017 00:00:00",
+      1458,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 15 2017 00:00:00",
+      1627,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 16 2017 00:00:00",
+      999,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 17 2017 00:00:00",
+      1207,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 18 2017 00:00:00",
+      1115,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 19 2017 00:00:00",
+      961,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 20 2017 00:00:00",
+      863,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 21 2017 00:00:00",
+      960,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 22 2017 00:00:00",
+      682,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 23 2017 00:00:00",
+      1158,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 24 2017 00:00:00",
+      1584,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 25 2017 00:00:00",
+      2314,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 26 2017 00:00:00",
+      2171,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 27 2017 00:00:00",
+      2046,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 28 2017 00:00:00",
+      1881,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 29 2017 00:00:00",
+      2300,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 30 2017 00:00:00",
+      1804,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 1 2017 00:00:00",
+      1806,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 2 2017 00:00:00",
+      1494,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 3 2017 00:00:00",
+      1374,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 4 2017 00:00:00",
+      1015,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 5 2017 00:00:00",
+      1114,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 6 2017 00:00:00",
+      902,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 7 2017 00:00:00",
+      903,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 8 2017 00:00:00",
+      826,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 9 2017 00:00:00",
+      500,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 10 2017 00:00:00",
+      393,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 11 2017 00:00:00",
+      340,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 12 2017 00:00:00",
+      208,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 13 2017 00:00:00",
+      202,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 14 2017 00:00:00",
+      150,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 15 2017 00:00:00",
+      125,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 16 2017 00:00:00",
+      107,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 17 2017 00:00:00",
+      100,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 18 2017 00:00:00",
+      64,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 19 2017 00:00:00",
+      31,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 20 2017 00:00:00",
+      18,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 21 2017 00:00:00",
+      12,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 22 2017 00:00:00",
+      6,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 23 2017 00:00:00",
+      3,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 24 2017 00:00:00",
+      1,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      2017,
+      "October, 25 2017 00:00:00",
+      0,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ]
+  ]
+}

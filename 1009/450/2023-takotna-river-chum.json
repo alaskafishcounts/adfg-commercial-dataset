@@ -1,0 +1,283 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "July, 3 2023 00:00:00",
+      8,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 4 2023 00:00:00",
+      18,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 5 2023 00:00:00",
+      24,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 6 2023 00:00:00",
+      21,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 7 2023 00:00:00",
+      27,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 8 2023 00:00:00",
+      44,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 9 2023 00:00:00",
+      14,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 10 2023 00:00:00",
+      68,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 11 2023 00:00:00",
+      62,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 14 2023 00:00:00",
+      52,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 15 2023 00:00:00",
+      70,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 24 2023 00:00:00",
+      150,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 25 2023 00:00:00",
+      116,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 26 2023 00:00:00",
+      88,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 27 2023 00:00:00",
+      163,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 28 2023 00:00:00",
+      166,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 29 2023 00:00:00",
+      132,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 30 2023 00:00:00",
+      167,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 31 2023 00:00:00",
+      95,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 1 2023 00:00:00",
+      119,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 2 2023 00:00:00",
+      112,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 3 2023 00:00:00",
+      100,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 4 2023 00:00:00",
+      111,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 5 2023 00:00:00",
+      84,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 6 2023 00:00:00",
+      77,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 7 2023 00:00:00",
+      86,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 8 2023 00:00:00",
+      54,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 9 2023 00:00:00",
+      66,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 10 2023 00:00:00",
+      20,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1009,
+    "species_id": "450",
+    "year": "2023",
+    "totalRecords": 29,
+    "totalCount": 2314,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

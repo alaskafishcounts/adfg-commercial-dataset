@@ -1,0 +1,850 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "June, 7 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 8 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 9 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 10 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 11 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 12 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 13 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 14 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 15 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 16 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 17 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 18 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 19 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 20 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 21 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 22 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 23 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 24 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 25 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 26 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 27 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 28 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 29 2023 00:00:00",
+      254,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 30 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 1 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 2 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 3 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 4 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 5 2023 00:00:00",
+      1128,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 6 2023 00:00:00",
+      895,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 7 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 8 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 9 2023 00:00:00",
+      172,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 10 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 11 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 12 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 13 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 14 2023 00:00:00",
+      225,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 15 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 16 2023 00:00:00",
+      286,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 17 2023 00:00:00",
+      427,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 18 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 19 2023 00:00:00",
+      177,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 20 2023 00:00:00",
+      362,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 21 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 22 2023 00:00:00",
+      358,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 23 2023 00:00:00",
+      99,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 24 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 25 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 26 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 27 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 28 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 29 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 30 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 31 2023 00:00:00",
+      111,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 1 2023 00:00:00",
+      394,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 2 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 3 2023 00:00:00",
+      85,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 4 2023 00:00:00",
+      93,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 5 2023 00:00:00",
+      104,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 6 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 7 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 8 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 9 2023 00:00:00",
+      374,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 10 2023 00:00:00",
+      97,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 11 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 12 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 13 2023 00:00:00",
+      135,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 14 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 15 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 16 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 17 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 18 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 19 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 20 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 21 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 22 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 23 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 24 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 25 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 27 2023 00:00:00",
+      81,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 28 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 29 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 30 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 31 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "September, 1 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "September, 2 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "September, 3 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "September, 4 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "September, 5 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "September, 6 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "September, 7 2023 00:00:00",
+      0,
+      420,
+      1053,
+      "Pilot Station Sonar",
+      "Sockeye"
+    ]
+  ]
+}

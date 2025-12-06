@@ -1,0 +1,184 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "June, 19 1994 00:00:00",
+      0,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1994,
+      "June, 27 1994 00:00:00",
+      497,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1994,
+      "June, 21 1994 00:00:00",
+      588,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1994,
+      "June, 22 1994 00:00:00",
+      368,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1994,
+      "June, 23 1994 00:00:00",
+      442,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1994,
+      "June, 24 1994 00:00:00",
+      864,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1994,
+      "June, 25 1994 00:00:00",
+      1547,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1994,
+      "June, 26 1994 00:00:00",
+      5693,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1994,
+      "June, 28 1994 00:00:00",
+      7308,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1994,
+      "June, 29 1994 00:00:00",
+      7129,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1994,
+      "June, 30 1994 00:00:00",
+      10068,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1994,
+      "July, 1 1994 00:00:00",
+      22105,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1994,
+      "July, 2 1994 00:00:00",
+      31561,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1994,
+      "July, 3 1994 00:00:00",
+      35438,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1994,
+      "July, 4 1994 00:00:00",
+      31311,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1994,
+      "July, 5 1994 00:00:00",
+      16590,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1994,
+      "July, 6 1994 00:00:00",
+      37246,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      44244,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1103,
+    "species_id": "440",
+    "year": "1994",
+    "totalRecords": 18,
+    "totalCount": 252999,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1994-12-31T00:00:00"
+  }
+}

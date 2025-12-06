@@ -1,0 +1,400 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "June, 20 2020 00:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 21 2020 00:00:00",
+      1,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 22 2020 00:00:00",
+      6,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 23 2020 00:00:00",
+      5,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 24 2020 00:00:00",
+      8,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 25 2020 00:00:00",
+      15,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 26 2020 00:00:00",
+      12,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 27 2020 00:00:00",
+      17,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 28 2020 00:00:00",
+      10,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 29 2020 00:00:00",
+      52,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 30 2020 00:00:00",
+      48,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 1 2020 00:00:00",
+      70,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 2 2020 00:00:00",
+      72,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 3 2020 00:00:00",
+      67,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 4 2020 00:00:00",
+      71,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 5 2020 00:00:00",
+      69,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 6 2020 00:00:00",
+      55,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 7 2020 00:00:00",
+      39,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 8 2020 00:00:00",
+      83,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 9 2020 00:00:00",
+      85,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 10 2020 00:00:00",
+      74,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 11 2020 00:00:00",
+      88,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 12 2020 00:00:00",
+      105,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 13 2020 00:00:00",
+      93,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 14 2020 00:00:00",
+      65,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 15 2020 00:00:00",
+      64,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 16 2020 00:00:00",
+      68,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 17 2020 00:00:00",
+      54,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 18 2020 00:00:00",
+      57,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 19 2020 00:00:00",
+      46,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 20 2020 00:00:00",
+      53,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 21 2020 00:00:00",
+      30,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 22 2020 00:00:00",
+      20,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 23 2020 00:00:00",
+      41,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 24 2020 00:00:00",
+      44,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 25 2020 00:00:00",
+      27,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 26 2020 00:00:00",
+      25,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 27 2020 00:00:00",
+      13,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 28 2020 00:00:00",
+      14,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 29 2020 00:00:00",
+      16,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 30 2020 00:00:00",
+      3,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 31 2020 00:00:00",
+      2,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1007,
+    "species_id": "450",
+    "year": "2020",
+    "totalRecords": 42,
+    "totalCount": 1787,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2020-12-31T00:00:00"
+  }
+}

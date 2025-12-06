@@ -1,0 +1,589 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "June, 21 2012 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 22 2012 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 23 2012 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 24 2012 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 25 2012 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 26 2012 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 27 2012 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 28 2012 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 29 2012 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 30 2012 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 1 2012 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 2 2012 00:00:00",
+      69,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 3 2012 00:00:00",
+      405,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 4 2012 00:00:00",
+      99,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 5 2012 00:00:00",
+      441,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 6 2012 00:00:00",
+      831,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 7 2012 00:00:00",
+      2337,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 8 2012 00:00:00",
+      3474,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 9 2012 00:00:00",
+      7308,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 10 2012 00:00:00",
+      3509,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 11 2012 00:00:00",
+      5529,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 12 2012 00:00:00",
+      11415,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 13 2012 00:00:00",
+      4992,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 14 2012 00:00:00",
+      2154,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 15 2012 00:00:00",
+      876,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 16 2012 00:00:00",
+      2094,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 17 2012 00:00:00",
+      630,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 18 2012 00:00:00",
+      1329,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 19 2012 00:00:00",
+      2046,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 20 2012 00:00:00",
+      4710,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 21 2012 00:00:00",
+      5317,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 22 2012 00:00:00",
+      8538,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 23 2012 00:00:00",
+      4857,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 24 2012 00:00:00",
+      1914,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 25 2012 00:00:00",
+      2322,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 26 2012 00:00:00",
+      2250,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 27 2012 00:00:00",
+      1932,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 28 2012 00:00:00",
+      1974,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 29 2012 00:00:00",
+      1059,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 30 2012 00:00:00",
+      1785,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 31 2012 00:00:00",
+      1326,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 1 2012 00:00:00",
+      762,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 2 2012 00:00:00",
+      618,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 3 2012 00:00:00",
+      162,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 4 2012 00:00:00",
+      255,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 5 2012 00:00:00",
+      216,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 6 2012 00:00:00",
+      159,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 7 2012 00:00:00",
+      216,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 8 2012 00:00:00",
+      183,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 9 2012 00:00:00",
+      168,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 10 2012 00:00:00",
+      78,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 11 2012 00:00:00",
+      138,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 12 2012 00:00:00",
+      54,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 13 2012 00:00:00",
+      87,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 14 2012 00:00:00",
+      63,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 15 2012 00:00:00",
+      45,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 16 2012 00:00:00",
+      18,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 17 2012 00:00:00",
+      15,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 18 2012 00:00:00",
+      39,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 19 2012 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 20 2012 00:00:00",
+      18,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 21 2012 00:00:00",
+      6,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 22 2012 00:00:00",
+      3,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 23 2012 00:00:00",
+      6,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ]
+  ]
+}

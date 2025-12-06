@@ -1,0 +1,805 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "June, 9 2023 00:00:00",
+      280,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 10 2023 00:00:00",
+      257,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 11 2023 00:00:00",
+      2143,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 12 2023 00:00:00",
+      1648,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 13 2023 00:00:00",
+      2017,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 14 2023 00:00:00",
+      2279,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 15 2023 00:00:00",
+      2666,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 16 2023 00:00:00",
+      3093,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 17 2023 00:00:00",
+      2034,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 18 2023 00:00:00",
+      1526,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 19 2023 00:00:00",
+      2572,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 20 2023 00:00:00",
+      1578,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 21 2023 00:00:00",
+      1344,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 22 2023 00:00:00",
+      1791,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 23 2023 00:00:00",
+      1666,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 24 2023 00:00:00",
+      2821,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 25 2023 00:00:00",
+      1464,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 26 2023 00:00:00",
+      956,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 27 2023 00:00:00",
+      2206,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 28 2023 00:00:00",
+      6676,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 29 2023 00:00:00",
+      3530,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 30 2023 00:00:00",
+      3097,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 1 2023 00:00:00",
+      2751,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 2 2023 00:00:00",
+      233,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 3 2023 00:00:00",
+      1841,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 4 2023 00:00:00",
+      946,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 5 2023 00:00:00",
+      1632,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 6 2023 00:00:00",
+      1257,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 7 2023 00:00:00",
+      3508,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 8 2023 00:00:00",
+      1004,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 9 2023 00:00:00",
+      6493,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 10 2023 00:00:00",
+      941,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 11 2023 00:00:00",
+      1717,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 12 2023 00:00:00",
+      250,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 13 2023 00:00:00",
+      773,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 14 2023 00:00:00",
+      669,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 15 2023 00:00:00",
+      0,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 16 2023 00:00:00",
+      347,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 17 2023 00:00:00",
+      488,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 18 2023 00:00:00",
+      2388,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 19 2023 00:00:00",
+      894,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 20 2023 00:00:00",
+      974,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 21 2023 00:00:00",
+      795,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 22 2023 00:00:00",
+      665,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 23 2023 00:00:00",
+      537,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 24 2023 00:00:00",
+      2680,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 25 2023 00:00:00",
+      4328,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 26 2023 00:00:00",
+      6345,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 27 2023 00:00:00",
+      8624,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 28 2023 00:00:00",
+      11290,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 29 2023 00:00:00",
+      14383,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 30 2023 00:00:00",
+      16417,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "July, 31 2023 00:00:00",
+      17943,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 1 2023 00:00:00",
+      20515,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 2 2023 00:00:00",
+      22093,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 3 2023 00:00:00",
+      23437,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 4 2023 00:00:00",
+      25228,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 5 2023 00:00:00",
+      26894,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 6 2023 00:00:00",
+      29715,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 7 2023 00:00:00",
+      31179,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 8 2023 00:00:00",
+      32135,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 9 2023 00:00:00",
+      34341,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 10 2023 00:00:00",
+      41017,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 11 2023 00:00:00",
+      44547,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 12 2023 00:00:00",
+      47644,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 13 2023 00:00:00",
+      50395,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 14 2023 00:00:00",
+      50628,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 15 2023 00:00:00",
+      52469,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 16 2023 00:00:00",
+      53415,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 17 2023 00:00:00",
+      55047,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 18 2023 00:00:00",
+      56304,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 19 2023 00:00:00",
+      59812,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 20 2023 00:00:00",
+      60816,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 21 2023 00:00:00",
+      67309,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 22 2023 00:00:00",
+      68250,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 23 2023 00:00:00",
+      69206,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 24 2023 00:00:00",
+      70923,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 25 2023 00:00:00",
+      71173,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      71946,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      72615,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      72962,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      73450,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      75838,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      76732,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      77706,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      78501,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      79166,
+      410,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1005,
+    "species_id": "410",
+    "year": "2023",
+    "totalRecords": 87,
+    "totalCount": 2004165,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

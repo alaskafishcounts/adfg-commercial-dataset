@@ -1,0 +1,895 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      11005,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      4557,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      1235,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      769,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      1182,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      6017,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      9763,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      9126,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      4203,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      5596,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      6990,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      3852,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      1133,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 1 2025 00:00:00",
+      10723,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 2 2025 00:00:00",
+      10243,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 3 2025 00:00:00",
+      8715,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 4 2025 00:00:00",
+      5706,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 5 2025 00:00:00",
+      1392,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 6 2025 00:00:00",
+      311,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 7 2025 00:00:00",
+      490,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 8 2025 00:00:00",
+      270,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 9 2025 00:00:00",
+      534,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 10 2025 00:00:00",
+      704,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      10149,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      40564,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 13 2025 00:00:00",
+      35654,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 14 2025 00:00:00",
+      14174,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 15 2025 00:00:00",
+      15787,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 16 2025 00:00:00",
+      14201,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 17 2025 00:00:00",
+      5598,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 18 2025 00:00:00",
+      6453,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 19 2025 00:00:00",
+      4314,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 20 2025 00:00:00",
+      2204,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 21 2025 00:00:00",
+      1202,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 22 2025 00:00:00",
+      6779,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 23 2025 00:00:00",
+      6510,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 24 2025 00:00:00",
+      20292,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 25 2025 00:00:00",
+      14294,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 26 2025 00:00:00",
+      6636,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 27 2025 00:00:00",
+      4171,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 28 2025 00:00:00",
+      3433,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 29 2025 00:00:00",
+      4149,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 30 2025 00:00:00",
+      7277,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 31 2025 00:00:00",
+      2989,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "September, 1 2025 00:00:00",
+      3455,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "September, 2 2025 00:00:00",
+      2224,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "September, 3 2025 00:00:00",
+      1519,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "September, 4 2025 00:00:00",
+      1708,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "September, 5 2025 00:00:00",
+      1072,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "September, 6 2025 00:00:00",
+      1130,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "September, 7 2025 00:00:00",
+      972,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      0,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      25,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      6,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      2,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      3,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      514,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      386,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1199,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1064,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1776,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1801,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      2213,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      6533,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      5330,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      7531,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      11041,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      11829,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      6328,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      4500,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      3912,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      4260,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      4253,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      3770,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      4762,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      3654,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      10063,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      8877,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      41575,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      52249,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      26274,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      12099,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      12311,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      7934,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      4425,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      4069,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      5152,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      6046,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      5874,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      12344,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      13087,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      8341,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      9053,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      5635,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1390,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1783,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      12256,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "450",
+    "year": "2025",
+    "totalRecords": 97,
+    "totalCount": 690955,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2025-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "June, 26 2020 00:00:00",
+      1,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 27 2020 00:00:00",
+      0,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 28 2020 00:00:00",
+      26,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 29 2020 00:00:00",
+      15,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 30 2020 00:00:00",
+      2,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 1 2020 00:00:00",
+      1,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 2 2020 00:00:00",
+      100,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 3 2020 00:00:00",
+      140,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 4 2020 00:00:00",
+      9,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 5 2020 00:00:00",
+      33,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 6 2020 00:00:00",
+      169,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 7 2020 00:00:00",
+      91,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 8 2020 00:00:00",
+      115,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 9 2020 00:00:00",
+      609,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 10 2020 00:00:00",
+      976,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 11 2020 00:00:00",
+      450,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 12 2020 00:00:00",
+      146,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 13 2020 00:00:00",
+      1082,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 14 2020 00:00:00",
+      105,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 15 2020 00:00:00",
+      49,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 16 2020 00:00:00",
+      997,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 17 2020 00:00:00",
+      545,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 18 2020 00:00:00",
+      1280,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 19 2020 00:00:00",
+      488,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 20 2020 00:00:00",
+      209,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 21 2020 00:00:00",
+      380,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 22 2020 00:00:00",
+      639,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 23 2020 00:00:00",
+      411,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 24 2020 00:00:00",
+      787,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 25 2020 00:00:00",
+      204,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 26 2020 00:00:00",
+      347,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 27 2020 00:00:00",
+      149,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 28 2020 00:00:00",
+      124,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 29 2020 00:00:00",
+      93,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 30 2020 00:00:00",
+      305,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 31 2020 00:00:00",
+      130,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 1 2020 00:00:00",
+      45,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ]
+  ]
+}

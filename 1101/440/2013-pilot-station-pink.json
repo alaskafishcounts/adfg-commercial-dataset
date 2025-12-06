@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "June, 28 2013 00:00:00",
+      0,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2013,
+      "June, 29 2013 00:00:00",
+      945,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 2 2013 00:00:00",
+      966,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 1 2013 00:00:00",
+      638,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 3 2013 00:00:00",
+      203,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 4 2013 00:00:00",
+      137,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 5 2013 00:00:00",
+      300,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 6 2013 00:00:00",
+      119,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 7 2013 00:00:00",
+      100,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 8 2013 00:00:00",
+      145,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 9 2013 00:00:00",
+      1554,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      618,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      401,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "440",
+    "year": "2013",
+    "totalRecords": 13,
+    "totalCount": 6126,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2013-12-31T00:00:00"
+  }
+}

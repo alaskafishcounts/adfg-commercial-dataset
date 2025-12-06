@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "July, 20 1994 00:00:00",
+      0,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 21 1994 00:00:00",
+      0,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 22 1994 00:00:00",
+      0,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 23 1994 00:00:00",
+      0,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 24 1994 00:00:00",
+      0,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 25 1994 00:00:00",
+      0,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 26 1994 00:00:00",
+      0,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 27 1994 00:00:00",
+      0,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 28 1994 00:00:00",
+      0,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 29 1994 00:00:00",
+      1,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 30 1994 00:00:00",
+      0,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "July, 31 1994 00:00:00",
+      3,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 1 1994 00:00:00",
+      1,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 2 1994 00:00:00",
+      3,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 3 1994 00:00:00",
+      5,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 4 1994 00:00:00",
+      10,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 5 1994 00:00:00",
+      21,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 6 1994 00:00:00",
+      29,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 7 1994 00:00:00",
+      40,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 8 1994 00:00:00",
+      72,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 9 1994 00:00:00",
+      70,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 10 1994 00:00:00",
+      69,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 11 1994 00:00:00",
+      78,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 12 1994 00:00:00",
+      87,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 13 1994 00:00:00",
+      80,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 14 1994 00:00:00",
+      112,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 15 1994 00:00:00",
+      122,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 16 1994 00:00:00",
+      109,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 17 1994 00:00:00",
+      90,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 18 1994 00:00:00",
+      71,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 19 1994 00:00:00",
+      101,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 20 1994 00:00:00",
+      58,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 21 1994 00:00:00",
+      43,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 22 1994 00:00:00",
+      33,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 23 1994 00:00:00",
+      48,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 24 1994 00:00:00",
+      37,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 25 1994 00:00:00",
+      18,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 26 1994 00:00:00",
+      30,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 27 1994 00:00:00",
+      21,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 28 1994 00:00:00",
+      29,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 29 1994 00:00:00",
+      22,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 30 1994 00:00:00",
+      27,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "August, 31 1994 00:00:00",
+      11,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 1 1994 00:00:00",
+      15,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 2 1994 00:00:00",
+      6,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 3 1994 00:00:00",
+      5,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 4 1994 00:00:00",
+      0,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 5 1994 00:00:00",
+      0,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 6 1994 00:00:00",
+      0,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ],
+    [
+      1994,
+      "September, 7 1994 00:00:00",
+      0,
+      410,
+      1002,
+      "Whitehorse Fishway",
+      "Chinook"
+    ]
+  ]
+}

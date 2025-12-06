@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "June, 25 2009 00:00:00",
+      0,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "June, 26 2009 00:00:00",
+      5,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "June, 27 2009 00:00:00",
+      3,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "June, 28 2009 00:00:00",
+      6,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "June, 29 2009 00:00:00",
+      10,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "June, 30 2009 00:00:00",
+      14,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 1 2009 00:00:00",
+      20,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 2 2009 00:00:00",
+      41,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 3 2009 00:00:00",
+      104,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 4 2009 00:00:00",
+      58,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 5 2009 00:00:00",
+      127,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 6 2009 00:00:00",
+      134,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 7 2009 00:00:00",
+      150,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 8 2009 00:00:00",
+      222,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 9 2009 00:00:00",
+      145,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 10 2009 00:00:00",
+      184,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 11 2009 00:00:00",
+      18,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 12 2009 00:00:00",
+      255,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 13 2009 00:00:00",
+      680,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 14 2009 00:00:00",
+      410,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 15 2009 00:00:00",
+      458,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 16 2009 00:00:00",
+      509,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 17 2009 00:00:00",
+      610,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 18 2009 00:00:00",
+      514,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 19 2009 00:00:00",
+      338,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 20 2009 00:00:00",
+      256,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 21 2009 00:00:00",
+      456,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 22 2009 00:00:00",
+      442,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 23 2009 00:00:00",
+      1025,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 24 2009 00:00:00",
+      780,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 25 2009 00:00:00",
+      1177,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 26 2009 00:00:00",
+      1195,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 27 2009 00:00:00",
+      778,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 28 2009 00:00:00",
+      1477,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 29 2009 00:00:00",
+      133,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 30 2009 00:00:00",
+      53,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 31 2009 00:00:00",
+      345,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 1 2009 00:00:00",
+      1556,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 2 2009 00:00:00",
+      1367,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 3 2009 00:00:00",
+      1339,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 4 2009 00:00:00",
+      216,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 5 2009 00:00:00",
+      321,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 6 2009 00:00:00",
+      313,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 7 2009 00:00:00",
+      194,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 8 2009 00:00:00",
+      119,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 9 2009 00:00:00",
+      112,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 10 2009 00:00:00",
+      277,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 11 2009 00:00:00",
+      426,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 12 2009 00:00:00",
+      193,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 13 2009 00:00:00",
+      571,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 14 2009 00:00:00",
+      350,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 15 2009 00:00:00",
+      183,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 16 2009 00:00:00",
+      668,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 17 2009 00:00:00",
+      375,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 18 2009 00:00:00",
+      135,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 19 2009 00:00:00",
+      365,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 20 2009 00:00:00",
+      131,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 21 2009 00:00:00",
+      129,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 22 2009 00:00:00",
+      33,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 23 2009 00:00:00",
+      39,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 24 2009 00:00:00",
+      11,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 25 2009 00:00:00",
+      56,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "430",
+    "year": "2009",
+    "totalRecords": 62,
+    "totalCount": 22611,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2009-12-31T00:00:00"
+  }
+}

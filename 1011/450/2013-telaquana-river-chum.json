@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "June, 24 2013 00:00:00",
+      0,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2013,
+      "June, 25 2013 00:00:00",
+      1,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2013,
+      "June, 26 2013 00:00:00",
+      2,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2013,
+      "June, 27 2013 00:00:00",
+      4,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2013,
+      "June, 28 2013 00:00:00",
+      10,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2013,
+      "June, 29 2013 00:00:00",
+      8,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2013,
+      "June, 30 2013 00:00:00",
+      3,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2013,
+      "July, 1 2013 00:00:00",
+      5,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2013,
+      "July, 2 2013 00:00:00",
+      6,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ],
+    [
+      2013,
+      "July, 3 2013 00:00:00",
+      7,
+      450,
+      1011,
+      "Telaquana River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1011,
+    "species_id": "450",
+    "year": "2013",
+    "totalRecords": 10,
+    "totalCount": 46,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2013-12-31T00:00:00"
+  }
+}

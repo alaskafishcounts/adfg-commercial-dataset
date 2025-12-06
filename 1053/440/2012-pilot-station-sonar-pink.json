@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "June, 20 2012 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 21 2012 00:00:00",
+      378,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 22 2012 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 23 2012 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 24 2012 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 25 2012 00:00:00",
+      2057,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 26 2012 00:00:00",
+      1257,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 27 2012 00:00:00",
+      2476,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 28 2012 00:00:00",
+      4436,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 29 2012 00:00:00",
+      4911,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "June, 30 2012 00:00:00",
+      3701,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 1 2012 00:00:00",
+      4783,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 2 2012 00:00:00",
+      6411,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 3 2012 00:00:00",
+      28466,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 4 2012 00:00:00",
+      9881,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 5 2012 00:00:00",
+      28972,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 6 2012 00:00:00",
+      13187,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 7 2012 00:00:00",
+      35182,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 8 2012 00:00:00",
+      16563,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 9 2012 00:00:00",
+      7167,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 10 2012 00:00:00",
+      10696,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 11 2012 00:00:00",
+      21572,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 12 2012 00:00:00",
+      9727,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 13 2012 00:00:00",
+      12380,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 14 2012 00:00:00",
+      12519,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 15 2012 00:00:00",
+      10110,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 16 2012 00:00:00",
+      12007,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 17 2012 00:00:00",
+      10916,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 18 2012 00:00:00",
+      8582,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 19 2012 00:00:00",
+      6225,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 20 2012 00:00:00",
+      15332,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 21 2012 00:00:00",
+      12094,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 22 2012 00:00:00",
+      8554,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 23 2012 00:00:00",
+      11630,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 24 2012 00:00:00",
+      6625,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 25 2012 00:00:00",
+      5143,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 26 2012 00:00:00",
+      6626,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 27 2012 00:00:00",
+      6661,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 28 2012 00:00:00",
+      10905,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 29 2012 00:00:00",
+      14279,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 30 2012 00:00:00",
+      7898,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 31 2012 00:00:00",
+      6611,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 1 2012 00:00:00",
+      5156,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 2 2012 00:00:00",
+      6162,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 3 2012 00:00:00",
+      2264,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 4 2012 00:00:00",
+      3024,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 5 2012 00:00:00",
+      2076,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 6 2012 00:00:00",
+      847,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 7 2012 00:00:00",
+      1118,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 8 2012 00:00:00",
+      349,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 9 2012 00:00:00",
+      849,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 10 2012 00:00:00",
+      836,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 11 2012 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 12 2012 00:00:00",
+      563,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 13 2012 00:00:00",
+      69,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 14 2012 00:00:00",
+      111,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 15 2012 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 16 2012 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ]
+  ]
+}

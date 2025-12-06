@@ -1,0 +1,877 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "June, 8 2017 00:00:00",
+      0,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 9 2017 00:00:00",
+      0,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 10 2017 00:00:00",
+      3,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 11 2017 00:00:00",
+      0,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 12 2017 00:00:00",
+      9,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 13 2017 00:00:00",
+      21,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 14 2017 00:00:00",
+      9,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 15 2017 00:00:00",
+      9,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 16 2017 00:00:00",
+      45,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 17 2017 00:00:00",
+      42,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 18 2017 00:00:00",
+      45,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 19 2017 00:00:00",
+      108,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 20 2017 00:00:00",
+      72,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 21 2017 00:00:00",
+      -59,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 22 2017 00:00:00",
+      -6,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 23 2017 00:00:00",
+      528,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 24 2017 00:00:00",
+      135,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 25 2017 00:00:00",
+      24,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 26 2017 00:00:00",
+      1692,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 27 2017 00:00:00",
+      207,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 28 2017 00:00:00",
+      45,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 29 2017 00:00:00",
+      154,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 30 2017 00:00:00",
+      3870,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 1 2017 00:00:00",
+      1206,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 2 2017 00:00:00",
+      351,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 3 2017 00:00:00",
+      3127,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 4 2017 00:00:00",
+      2826,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 5 2017 00:00:00",
+      8726,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 6 2017 00:00:00",
+      1791,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 7 2017 00:00:00",
+      16011,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 8 2017 00:00:00",
+      10803,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 9 2017 00:00:00",
+      12888,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 10 2017 00:00:00",
+      454,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 11 2017 00:00:00",
+      8379,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 12 2017 00:00:00",
+      4869,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 13 2017 00:00:00",
+      5004,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 14 2017 00:00:00",
+      2172,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 15 2017 00:00:00",
+      7173,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 16 2017 00:00:00",
+      3240,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 17 2017 00:00:00",
+      1383,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 18 2017 00:00:00",
+      1023,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 19 2017 00:00:00",
+      5450,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 20 2017 00:00:00",
+      5991,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 21 2017 00:00:00",
+      2768,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 22 2017 00:00:00",
+      1068,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 23 2017 00:00:00",
+      135,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 24 2017 00:00:00",
+      246,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 25 2017 00:00:00",
+      126,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 26 2017 00:00:00",
+      198,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 27 2017 00:00:00",
+      135,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 28 2017 00:00:00",
+      18,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 29 2017 00:00:00",
+      195,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 30 2017 00:00:00",
+      564,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 31 2017 00:00:00",
+      393,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 1 2017 00:00:00",
+      108,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 2 2017 00:00:00",
+      361,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 3 2017 00:00:00",
+      583,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 4 2017 00:00:00",
+      826,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 5 2017 00:00:00",
+      815,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 6 2017 00:00:00",
+      1103,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 7 2017 00:00:00",
+      1803,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 8 2017 00:00:00",
+      1123,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 9 2017 00:00:00",
+      572,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 10 2017 00:00:00",
+      0,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 11 2017 00:00:00",
+      3,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 12 2017 00:00:00",
+      5,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 13 2017 00:00:00",
+      23,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 14 2017 00:00:00",
+      15,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 15 2017 00:00:00",
+      -3,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 16 2017 00:00:00",
+      77,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 17 2017 00:00:00",
+      8,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 18 2017 00:00:00",
+      14,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 19 2017 00:00:00",
+      17,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 20 2017 00:00:00",
+      19,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 21 2017 00:00:00",
+      18,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 22 2017 00:00:00",
+      21,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 23 2017 00:00:00",
+      3,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 24 2017 00:00:00",
+      21,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 25 2017 00:00:00",
+      45,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 26 2017 00:00:00",
+      27,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 27 2017 00:00:00",
+      21,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 28 2017 00:00:00",
+      16,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 29 2017 00:00:00",
+      40,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 30 2017 00:00:00",
+      15,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 31 2017 00:00:00",
+      33,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 1 2017 00:00:00",
+      27,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 2 2017 00:00:00",
+      21,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 3 2017 00:00:00",
+      15,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 4 2017 00:00:00",
+      18,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 5 2017 00:00:00",
+      6,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 6 2017 00:00:00",
+      15,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 7 2017 00:00:00",
+      15,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 8 2017 00:00:00",
+      12,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 9 2017 00:00:00",
+      3,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 10 2017 00:00:00",
+      0,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 11 2017 00:00:00",
+      0,
+      450,
+      1214,
+      "Shaktoolik River",
+      "Chum"
+    ]
+  ]
+}

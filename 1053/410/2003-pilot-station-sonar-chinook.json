@@ -1,0 +1,805 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "June, 5 2003 00:00:00",
+      697,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 6 2003 00:00:00",
+      8170,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 7 2003 00:00:00",
+      7008,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 8 2003 00:00:00",
+      10702,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 9 2003 00:00:00",
+      3660,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 10 2003 00:00:00",
+      8466,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 11 2003 00:00:00",
+      6583,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 12 2003 00:00:00",
+      5321,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 13 2003 00:00:00",
+      16496,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 14 2003 00:00:00",
+      42266,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 15 2003 00:00:00",
+      23596,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 16 2003 00:00:00",
+      9938,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 17 2003 00:00:00",
+      14269,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 18 2003 00:00:00",
+      14115,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 19 2003 00:00:00",
+      6037,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 20 2003 00:00:00",
+      6943,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 21 2003 00:00:00",
+      6476,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 22 2003 00:00:00",
+      7657,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 23 2003 00:00:00",
+      13040,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 24 2003 00:00:00",
+      6294,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 25 2003 00:00:00",
+      5507,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 26 2003 00:00:00",
+      8938,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 27 2003 00:00:00",
+      5909,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 28 2003 00:00:00",
+      5294,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 29 2003 00:00:00",
+      5160,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 30 2003 00:00:00",
+      3391,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 1 2003 00:00:00",
+      12735,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 2 2003 00:00:00",
+      7243,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 3 2003 00:00:00",
+      13817,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 4 2003 00:00:00",
+      10008,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 5 2003 00:00:00",
+      3676,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 6 2003 00:00:00",
+      2913,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 7 2003 00:00:00",
+      2706,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 8 2003 00:00:00",
+      2316,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 9 2003 00:00:00",
+      2043,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 10 2003 00:00:00",
+      735,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 11 2003 00:00:00",
+      858,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 12 2003 00:00:00",
+      566,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 13 2003 00:00:00",
+      182,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 14 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 15 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 16 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 17 2003 00:00:00",
+      278,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 18 2003 00:00:00",
+      759,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 19 2003 00:00:00",
+      110,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 20 2003 00:00:00",
+      262,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 21 2003 00:00:00",
+      540,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 22 2003 00:00:00",
+      1233,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 23 2003 00:00:00",
+      1201,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 24 2003 00:00:00",
+      391,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 25 2003 00:00:00",
+      400,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 26 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 27 2003 00:00:00",
+      288,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 28 2003 00:00:00",
+      234,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 29 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 30 2003 00:00:00",
+      212,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 31 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 1 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 2 2003 00:00:00",
+      152,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 3 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 4 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 5 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 6 2003 00:00:00",
+      297,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 7 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 8 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 9 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 10 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 11 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 12 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 13 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 14 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 15 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 16 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 17 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 18 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 19 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 20 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 21 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 22 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 23 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 24 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 25 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 26 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 27 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 28 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 29 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 30 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 31 2003 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ]
+  ]
+}

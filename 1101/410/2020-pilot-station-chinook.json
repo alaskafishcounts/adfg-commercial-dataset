@@ -1,0 +1,553 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "June, 7 2020 00:00:00",
+      1562,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 8 2020 00:00:00",
+      677,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 9 2020 00:00:00",
+      1862,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 10 2020 00:00:00",
+      3075,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 11 2020 00:00:00",
+      2674,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 12 2020 00:00:00",
+      2031,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 13 2020 00:00:00",
+      1959,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 14 2020 00:00:00",
+      2113,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 15 2020 00:00:00",
+      2493,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 16 2020 00:00:00",
+      2006,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 17 2020 00:00:00",
+      2848,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 18 2020 00:00:00",
+      2688,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 19 2020 00:00:00",
+      1450,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 20 2020 00:00:00",
+      1826,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 21 2020 00:00:00",
+      2676,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 22 2020 00:00:00",
+      2611,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 23 2020 00:00:00",
+      9799,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 24 2020 00:00:00",
+      11169,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 25 2020 00:00:00",
+      7121,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 26 2020 00:00:00",
+      9879,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 27 2020 00:00:00",
+      9959,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 28 2020 00:00:00",
+      10345,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 29 2020 00:00:00",
+      6026,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "June, 30 2020 00:00:00",
+      7630,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 1 2020 00:00:00",
+      7088,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 2 2020 00:00:00",
+      4412,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 3 2020 00:00:00",
+      4312,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 4 2020 00:00:00",
+      3190,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 5 2020 00:00:00",
+      4354,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 6 2020 00:00:00",
+      4061,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 7 2020 00:00:00",
+      4201,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 8 2020 00:00:00",
+      3332,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 9 2020 00:00:00",
+      4496,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 10 2020 00:00:00",
+      2798,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 11 2020 00:00:00",
+      1430,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 12 2020 00:00:00",
+      795,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 13 2020 00:00:00",
+      0,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 14 2020 00:00:00",
+      1234,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 15 2020 00:00:00",
+      975,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 16 2020 00:00:00",
+      875,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 17 2020 00:00:00",
+      1420,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 18 2020 00:00:00",
+      689,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 19 2020 00:00:00",
+      623,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 20 2020 00:00:00",
+      927,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 21 2020 00:00:00",
+      452,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 22 2020 00:00:00",
+      838,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 23 2020 00:00:00",
+      499,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 26 2020 00:00:00",
+      507,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 27 2020 00:00:00",
+      329,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 29 2020 00:00:00",
+      287,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 30 2020 00:00:00",
+      292,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "July, 31 2020 00:00:00",
+      413,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "August, 2 2020 00:00:00",
+      52,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "August, 4 2020 00:00:00",
+      291,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "August, 5 2020 00:00:00",
+      28,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "August, 8 2020 00:00:00",
+      54,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "August, 9 2020 00:00:00",
+      101,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "August, 13 2020 00:00:00",
+      42,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2020,
+      "August, 17 2020 00:00:00",
+      84,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "410",
+    "year": "2020",
+    "totalRecords": 59,
+    "totalCount": 161960,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2020-12-31T00:00:00"
+  }
+}

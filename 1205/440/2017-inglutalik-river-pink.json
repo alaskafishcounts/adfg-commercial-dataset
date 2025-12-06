@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "June, 12 2017 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 13 2017 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 14 2017 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 15 2017 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 16 2017 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 17 2017 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 18 2017 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 19 2017 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 20 2017 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 21 2017 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 22 2017 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 23 2017 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 24 2017 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 25 2017 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 26 2017 00:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 27 2017 00:00:00",
+      36,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 28 2017 00:00:00",
+      132,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 29 2017 00:00:00",
+      117,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 30 2017 00:00:00",
+      1062,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 1 2017 00:00:00",
+      1623,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 2 2017 00:00:00",
+      4371,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 3 2017 00:00:00",
+      4380,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 4 2017 00:00:00",
+      11730,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 5 2017 00:00:00",
+      9159,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 6 2017 00:00:00",
+      24222,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 7 2017 00:00:00",
+      18522,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 8 2017 00:00:00",
+      42567,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 9 2017 00:00:00",
+      33921,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 10 2017 00:00:00",
+      66081,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 11 2017 00:00:00",
+      29976,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 12 2017 00:00:00",
+      29442,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 13 2017 00:00:00",
+      68997,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 14 2017 00:00:00",
+      90273,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 15 2017 00:00:00",
+      93474,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 16 2017 00:00:00",
+      131532,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 17 2017 00:00:00",
+      124620,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 18 2017 00:00:00",
+      101682,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 19 2017 00:00:00",
+      86598,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 20 2017 00:00:00",
+      28539,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 21 2017 00:00:00",
+      91887,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 22 2017 00:00:00",
+      30924,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 23 2017 00:00:00",
+      31539,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 24 2017 00:00:00",
+      37815,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 25 2017 00:00:00",
+      53331,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 26 2017 00:00:00",
+      84891,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 27 2017 00:00:00",
+      106638,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 28 2017 00:00:00",
+      27780,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 29 2017 00:00:00",
+      44577,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 30 2017 00:00:00",
+      62022,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 31 2017 00:00:00",
+      -3771,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ]
+  ]
+}

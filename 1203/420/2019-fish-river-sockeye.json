@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "July, 20 2019 00:00:00",
+      0,
+      420,
+      1203,
+      "Fish River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 21 2019 00:00:00",
+      0,
+      420,
+      1203,
+      "Fish River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 22 2019 00:00:00",
+      0,
+      420,
+      1203,
+      "Fish River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 23 2019 00:00:00",
+      0,
+      420,
+      1203,
+      "Fish River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 24 2019 00:00:00",
+      0,
+      420,
+      1203,
+      "Fish River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 25 2019 00:00:00",
+      0,
+      420,
+      1203,
+      "Fish River",
+      "Sockeye"
+    ]
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1975,
+      "September, 1 1975 00:00:00",
+      3,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 2 1975 00:00:00",
+      7,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 3 1975 00:00:00",
+      507,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 4 1975 00:00:00",
+      1878,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 5 1975 00:00:00",
+      2625,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 6 1975 00:00:00",
+      3853,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 7 1975 00:00:00",
+      3895,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 8 1975 00:00:00",
+      2051,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 9 1975 00:00:00",
+      2996,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 10 1975 00:00:00",
+      2949,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 11 1975 00:00:00",
+      6425,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 12 1975 00:00:00",
+      8278,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 13 1975 00:00:00",
+      8373,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 14 1975 00:00:00",
+      8374,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 15 1975 00:00:00",
+      8374,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 16 1975 00:00:00",
+      8374,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 17 1975 00:00:00",
+      14486,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 18 1975 00:00:00",
+      14972,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 19 1975 00:00:00",
+      13696,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 20 1975 00:00:00",
+      15047,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 21 1975 00:00:00",
+      13603,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 22 1975 00:00:00",
+      10571,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 23 1975 00:00:00",
+      12023,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 24 1975 00:00:00",
+      13422,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 25 1975 00:00:00",
+      12032,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 26 1975 00:00:00",
+      8258,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 27 1975 00:00:00",
+      7723,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 28 1975 00:00:00",
+      7692,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 29 1975 00:00:00",
+      13914,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "September, 30 1975 00:00:00",
+      11603,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 1 1975 00:00:00",
+      12613,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 2 1975 00:00:00",
+      10530,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 3 1975 00:00:00",
+      16678,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 4 1975 00:00:00",
+      10940,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 5 1975 00:00:00",
+      14149,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 6 1975 00:00:00",
+      11923,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 7 1975 00:00:00",
+      9304,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 8 1975 00:00:00",
+      5155,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 9 1975 00:00:00",
+      4566,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 10 1975 00:00:00",
+      4013,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 11 1975 00:00:00",
+      3496,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 12 1975 00:00:00",
+      3015,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 13 1975 00:00:00",
+      2569,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 14 1975 00:00:00",
+      2158,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 15 1975 00:00:00",
+      1784,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 16 1975 00:00:00",
+      1445,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 17 1975 00:00:00",
+      1142,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 18 1975 00:00:00",
+      874,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 19 1975 00:00:00",
+      642,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 20 1975 00:00:00",
+      446,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 21 1975 00:00:00",
+      285,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 22 1975 00:00:00",
+      161,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 23 1975 00:00:00",
+      71,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 24 1975 00:00:00",
+      18,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1975,
+      "October, 25 1975 00:00:00",
+      0,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ]
+  ]
+}

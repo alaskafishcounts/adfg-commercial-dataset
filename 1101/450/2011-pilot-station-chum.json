@@ -1,0 +1,877 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      13121,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 20 2011 00:00:00",
+      19355,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 21 2011 00:00:00",
+      14810,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 22 2011 00:00:00",
+      10421,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 23 2011 00:00:00",
+      5393,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 24 2011 00:00:00",
+      4236,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 25 2011 00:00:00",
+      4437,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 26 2011 00:00:00",
+      4476,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 27 2011 00:00:00",
+      8243,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 28 2011 00:00:00",
+      12759,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 29 2011 00:00:00",
+      12395,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 30 2011 00:00:00",
+      16405,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 31 2011 00:00:00",
+      20568,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 1 2011 00:00:00",
+      64647,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 2 2011 00:00:00",
+      90970,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 3 2011 00:00:00",
+      58326,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 4 2011 00:00:00",
+      20710,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 5 2011 00:00:00",
+      13890,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 6 2011 00:00:00",
+      8060,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 7 2011 00:00:00",
+      11368,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 8 2011 00:00:00",
+      56795,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 9 2011 00:00:00",
+      24330,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 10 2011 00:00:00",
+      16361,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 11 2011 00:00:00",
+      13079,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 12 2011 00:00:00",
+      15859,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 13 2011 00:00:00",
+      5798,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 14 2011 00:00:00",
+      4115,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 15 2011 00:00:00",
+      7436,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 16 2011 00:00:00",
+      19559,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 17 2011 00:00:00",
+      15777,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 18 2011 00:00:00",
+      40836,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 19 2011 00:00:00",
+      13167,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 20 2011 00:00:00",
+      3298,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 21 2011 00:00:00",
+      897,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 22 2011 00:00:00",
+      25256,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 23 2011 00:00:00",
+      48092,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 24 2011 00:00:00",
+      55442,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 25 2011 00:00:00",
+      21223,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 26 2011 00:00:00",
+      7323,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 27 2011 00:00:00",
+      3792,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 28 2011 00:00:00",
+      4044,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 29 2011 00:00:00",
+      3473,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 30 2011 00:00:00",
+      1719,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 31 2011 00:00:00",
+      4613,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 1 2011 00:00:00",
+      4020,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 2 2011 00:00:00",
+      15177,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 3 2011 00:00:00",
+      15880,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 4 2011 00:00:00",
+      5230,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 5 2011 00:00:00",
+      2729,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 6 2011 00:00:00",
+      2999,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 7 2011 00:00:00",
+      968,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      0,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      76,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1683,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      3432,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      13694,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      12908,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      8833,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      6777,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      6694,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      3947,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      3548,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      15069,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      83458,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      107115,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      40901,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      15873,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      16759,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      163469,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      235530,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      161283,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      73344,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      32636,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      16118,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      11717,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      15165,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      47194,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      71956,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      114005,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      196700,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      124124,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      60973,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      57260,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      53956,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      50906,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      54091,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      26357,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      16705,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      13865,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      10242,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      10740,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      15735,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      32504,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      29492,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      14667,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "450",
+    "year": "2011",
+    "totalRecords": 95,
+    "totalCount": 2925378,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

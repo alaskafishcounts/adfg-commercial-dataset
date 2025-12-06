@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "June, 25 2010 00:00:00",
+      0,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 26 2010 00:00:00",
+      59,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 27 2010 00:00:00",
+      243,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      327,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      1291,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      2017,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 1 2010 00:00:00",
+      2046,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 2 2010 00:00:00",
+      1256,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 3 2010 00:00:00",
+      438,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 4 2010 00:00:00",
+      641,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 5 2010 00:00:00",
+      444,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 6 2010 00:00:00",
+      425,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 7 2010 00:00:00",
+      771,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 8 2010 00:00:00",
+      1118,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 9 2010 00:00:00",
+      1167,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      1321,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      1334,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      1303,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      1125,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      1433,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      2332,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      3353,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      3291,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      3113,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      2949,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      5242,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      5235,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      5304,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      4335,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      3642,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      3082,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      2005,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      2162,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      1522,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      636,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      935,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      667,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 1 2010 00:00:00",
+      417,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 2 2010 00:00:00",
+      468,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 3 2010 00:00:00",
+      343,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 4 2010 00:00:00",
+      211,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 5 2010 00:00:00",
+      101,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 6 2010 00:00:00",
+      133,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 7 2010 00:00:00",
+      70,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 8 2010 00:00:00",
+      92,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 9 2010 00:00:00",
+      82,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      41,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      73,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 12 2010 00:00:00",
+      27,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 13 2010 00:00:00",
+      16,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 14 2010 00:00:00",
+      11,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 15 2010 00:00:00",
+      15,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 16 2010 00:00:00",
+      10,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 17 2010 00:00:00",
+      7,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 18 2010 00:00:00",
+      17,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 19 2010 00:00:00",
+      14,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 20 2010 00:00:00",
+      4,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 21 2010 00:00:00",
+      1,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 22 2010 00:00:00",
+      2,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 23 2010 00:00:00",
+      3,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1011,
+    "species_id": "420",
+    "year": "2010",
+    "totalRecords": 60,
+    "totalCount": 70722,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2010-12-31T00:00:00"
+  }
+}

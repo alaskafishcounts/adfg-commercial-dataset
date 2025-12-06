@@ -1,0 +1,436 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "June, 26 1996 00:00:00",
+      0,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 27 1996 00:00:00",
+      1,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 28 1996 00:00:00",
+      10,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 29 1996 00:00:00",
+      75,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 30 1996 00:00:00",
+      257,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 1 1996 00:00:00",
+      385,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 2 1996 00:00:00",
+      243,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 3 1996 00:00:00",
+      452,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 4 1996 00:00:00",
+      536,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 5 1996 00:00:00",
+      806,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 6 1996 00:00:00",
+      646,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 7 1996 00:00:00",
+      1105,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 8 1996 00:00:00",
+      945,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 9 1996 00:00:00",
+      954,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 10 1996 00:00:00",
+      908,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 11 1996 00:00:00",
+      1539,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 12 1996 00:00:00",
+      1122,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 13 1996 00:00:00",
+      821,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 14 1996 00:00:00",
+      458,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 15 1996 00:00:00",
+      368,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 16 1996 00:00:00",
+      299,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 17 1996 00:00:00",
+      209,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 18 1996 00:00:00",
+      370,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 19 1996 00:00:00",
+      268,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 20 1996 00:00:00",
+      233,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 21 1996 00:00:00",
+      251,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 22 1996 00:00:00",
+      308,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 23 1996 00:00:00",
+      67,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 24 1996 00:00:00",
+      117,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 25 1996 00:00:00",
+      99,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 26 1996 00:00:00",
+      236,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 27 1996 00:00:00",
+      244,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 28 1996 00:00:00",
+      81,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 29 1996 00:00:00",
+      46,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 30 1996 00:00:00",
+      38,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 31 1996 00:00:00",
+      51,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 1 1996 00:00:00",
+      32,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 2 1996 00:00:00",
+      47,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 3 1996 00:00:00",
+      31,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 4 1996 00:00:00",
+      23,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 5 1996 00:00:00",
+      9,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 6 1996 00:00:00",
+      6,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 7 1996 00:00:00",
+      5,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 8 1996 00:00:00",
+      4,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 9 1996 00:00:00",
+      7,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 10 1996 00:00:00",
+      2,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "420",
+    "year": "1996",
+    "totalRecords": 46,
+    "totalCount": 14714,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1996-12-31T00:00:00"
+  }
+}

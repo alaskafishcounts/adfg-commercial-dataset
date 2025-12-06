@@ -1,0 +1,679 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "June, 29 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "June, 30 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 1 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 2 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 3 2007 00:00:00",
+      2,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 4 2007 00:00:00",
+      10,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 5 2007 00:00:00",
+      8,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 6 2007 00:00:00",
+      9,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 7 2007 00:00:00",
+      3,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 8 2007 00:00:00",
+      7,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 9 2007 00:00:00",
+      44,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 10 2007 00:00:00",
+      38,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 11 2007 00:00:00",
+      40,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 12 2007 00:00:00",
+      183,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 13 2007 00:00:00",
+      124,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 14 2007 00:00:00",
+      52,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 15 2007 00:00:00",
+      79,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 16 2007 00:00:00",
+      36,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 17 2007 00:00:00",
+      24,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 18 2007 00:00:00",
+      100,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 19 2007 00:00:00",
+      260,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 20 2007 00:00:00",
+      168,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 21 2007 00:00:00",
+      422,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 22 2007 00:00:00",
+      578,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 23 2007 00:00:00",
+      408,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 24 2007 00:00:00",
+      54,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 25 2007 00:00:00",
+      65,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 26 2007 00:00:00",
+      76,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 27 2007 00:00:00",
+      31,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 28 2007 00:00:00",
+      323,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 29 2007 00:00:00",
+      115,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 30 2007 00:00:00",
+      35,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "July, 31 2007 00:00:00",
+      59,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 1 2007 00:00:00",
+      14,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 2 2007 00:00:00",
+      22,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 3 2007 00:00:00",
+      14,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 4 2007 00:00:00",
+      56,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 5 2007 00:00:00",
+      16,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 6 2007 00:00:00",
+      18,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 7 2007 00:00:00",
+      18,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 8 2007 00:00:00",
+      12,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 9 2007 00:00:00",
+      21,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 10 2007 00:00:00",
+      11,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 11 2007 00:00:00",
+      9,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 12 2007 00:00:00",
+      10,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 13 2007 00:00:00",
+      6,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 14 2007 00:00:00",
+      11,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 15 2007 00:00:00",
+      6,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 16 2007 00:00:00",
+      3,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 17 2007 00:00:00",
+      8,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 18 2007 00:00:00",
+      2,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 19 2007 00:00:00",
+      1,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 20 2007 00:00:00",
+      1,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 21 2007 00:00:00",
+      2,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 22 2007 00:00:00",
+      1,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 23 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 24 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 25 2007 00:00:00",
+      1,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 26 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 27 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 28 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 29 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 30 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 31 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 1 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 2 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 3 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 4 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 5 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 6 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 7 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 8 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 9 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2007,
+      "September, 10 2007 00:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ]
+  ]
+}

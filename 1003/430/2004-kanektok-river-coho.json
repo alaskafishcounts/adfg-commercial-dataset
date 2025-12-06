@@ -1,0 +1,769 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "June, 21 2004 00:00:00",
+      0,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 22 2004 00:00:00",
+      2,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 23 2004 00:00:00",
+      5,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 24 2004 00:00:00",
+      11,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 25 2004 00:00:00",
+      16,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 26 2004 00:00:00",
+      6,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 27 2004 00:00:00",
+      4,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 28 2004 00:00:00",
+      8,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 29 2004 00:00:00",
+      3,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 30 2004 00:00:00",
+      1,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 1 2004 00:00:00",
+      13,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 2 2004 00:00:00",
+      25,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 3 2004 00:00:00",
+      46,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 4 2004 00:00:00",
+      29,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 5 2004 00:00:00",
+      37,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 6 2004 00:00:00",
+      35,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 7 2004 00:00:00",
+      43,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 8 2004 00:00:00",
+      97,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 9 2004 00:00:00",
+      168,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 10 2004 00:00:00",
+      210,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 11 2004 00:00:00",
+      345,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 12 2004 00:00:00",
+      378,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 13 2004 00:00:00",
+      236,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 14 2004 00:00:00",
+      317,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 15 2004 00:00:00",
+      315,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 16 2004 00:00:00",
+      491,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 17 2004 00:00:00",
+      386,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 18 2004 00:00:00",
+      721,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 19 2004 00:00:00",
+      389,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 20 2004 00:00:00",
+      1148,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 21 2004 00:00:00",
+      693,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 22 2004 00:00:00",
+      1370,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 23 2004 00:00:00",
+      2083,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 24 2004 00:00:00",
+      1494,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 25 2004 00:00:00",
+      2182,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 26 2004 00:00:00",
+      2671,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 27 2004 00:00:00",
+      2522,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 28 2004 00:00:00",
+      1156,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 29 2004 00:00:00",
+      2412,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 30 2004 00:00:00",
+      1986,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 31 2004 00:00:00",
+      1645,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 1 2004 00:00:00",
+      1240,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 2 2004 00:00:00",
+      1830,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 3 2004 00:00:00",
+      2212,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 4 2004 00:00:00",
+      4103,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 5 2004 00:00:00",
+      1875,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 6 2004 00:00:00",
+      782,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 7 2004 00:00:00",
+      576,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 8 2004 00:00:00",
+      1144,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 9 2004 00:00:00",
+      2543,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 10 2004 00:00:00",
+      3466,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 11 2004 00:00:00",
+      3818,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 12 2004 00:00:00",
+      2974,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 13 2004 00:00:00",
+      1989,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 14 2004 00:00:00",
+      1640,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 15 2004 00:00:00",
+      2376,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 16 2004 00:00:00",
+      2030,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 17 2004 00:00:00",
+      2982,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 18 2004 00:00:00",
+      3577,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 19 2004 00:00:00",
+      2897,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 20 2004 00:00:00",
+      2789,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 21 2004 00:00:00",
+      2827,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 22 2004 00:00:00",
+      1439,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 23 2004 00:00:00",
+      1294,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 24 2004 00:00:00",
+      1546,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 25 2004 00:00:00",
+      1517,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 26 2004 00:00:00",
+      1220,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 27 2004 00:00:00",
+      1573,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 28 2004 00:00:00",
+      1941,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 29 2004 00:00:00",
+      1905,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 30 2004 00:00:00",
+      1592,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 31 2004 00:00:00",
+      1532,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 1 2004 00:00:00",
+      1471,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 2 2004 00:00:00",
+      1414,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 3 2004 00:00:00",
+      1354,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 4 2004 00:00:00",
+      1297,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 5 2004 00:00:00",
+      1242,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 6 2004 00:00:00",
+      1186,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 7 2004 00:00:00",
+      1134,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 8 2004 00:00:00",
+      1080,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 9 2004 00:00:00",
+      1031,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 10 2004 00:00:00",
+      980,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 11 2004 00:00:00",
+      934,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1003,
+    "species_id": "430",
+    "year": "2004",
+    "totalRecords": 83,
+    "totalCount": 104051,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2004-12-31T00:00:00"
+  }
+}

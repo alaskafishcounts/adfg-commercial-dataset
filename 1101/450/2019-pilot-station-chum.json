@@ -1,0 +1,850 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "July, 19 2019 00:00:00",
+      28306,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 20 2019 00:00:00",
+      31121,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 21 2019 00:00:00",
+      40568,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 22 2019 00:00:00",
+      25207,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 23 2019 00:00:00",
+      24094,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 24 2019 00:00:00",
+      28552,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 25 2019 00:00:00",
+      19666,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      9746,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 27 2019 00:00:00",
+      9766,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 28 2019 00:00:00",
+      12869,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 29 2019 00:00:00",
+      12805,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 30 2019 00:00:00",
+      7453,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 31 2019 00:00:00",
+      4998,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 1 2019 00:00:00",
+      3014,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 2 2019 00:00:00",
+      9933,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 3 2019 00:00:00",
+      19552,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 4 2019 00:00:00",
+      17646,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 5 2019 00:00:00",
+      12979,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 6 2019 00:00:00",
+      62820,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 7 2019 00:00:00",
+      39364,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 8 2019 00:00:00",
+      19684,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 9 2019 00:00:00",
+      7855,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 10 2019 00:00:00",
+      3312,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 11 2019 00:00:00",
+      2852,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 12 2019 00:00:00",
+      2417,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 13 2019 00:00:00",
+      1883,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 14 2019 00:00:00",
+      1415,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 15 2019 00:00:00",
+      7228,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 16 2019 00:00:00",
+      26193,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 17 2019 00:00:00",
+      49141,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 18 2019 00:00:00",
+      55455,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 19 2019 00:00:00",
+      29153,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 20 2019 00:00:00",
+      7306,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 21 2019 00:00:00",
+      6779,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 22 2019 00:00:00",
+      3245,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 23 2019 00:00:00",
+      3747,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 24 2019 00:00:00",
+      6396,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 25 2019 00:00:00",
+      20274,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 26 2019 00:00:00",
+      61824,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 27 2019 00:00:00",
+      48087,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 28 2019 00:00:00",
+      21165,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 29 2019 00:00:00",
+      10236,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 30 2019 00:00:00",
+      13195,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 31 2019 00:00:00",
+      12740,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 16 2019 00:00:00",
+      0,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 17 2019 00:00:00",
+      11,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 18 2019 00:00:00",
+      5,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 9 2019 00:00:00",
+      258,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 10 2019 00:00:00",
+      33,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 11 2019 00:00:00",
+      28,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 12 2019 00:00:00",
+      689,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 13 2019 00:00:00",
+      1584,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 14 2019 00:00:00",
+      2090,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 15 2019 00:00:00",
+      2037,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2055,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1997,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      649,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      269,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1429,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      524,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      591,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1085,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2244,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      4997,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      26078,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      10003,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      6477,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      23567,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      78018,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      36261,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      15199,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      22822,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      169606,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      160816,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      51248,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      68332,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      177290,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      137836,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      57963,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      53540,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      44319,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      17913,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      14099,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      12144,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      15319,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      16461,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      19322,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      28511,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      51056,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      31095,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      14345,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      20710,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "450",
+    "year": "2019",
+    "totalRecords": 92,
+    "totalCount": 2244966,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

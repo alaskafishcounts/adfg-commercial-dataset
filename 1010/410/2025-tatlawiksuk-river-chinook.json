@@ -1,0 +1,6862 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "June, 15 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 16 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 17 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 18 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 19 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 20 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 21 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 22 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 23 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 24 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 25 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 26 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 27 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 28 2025 0:00:00",
+      14,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 29 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 30 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 1 2025 0:00:00",
+      16,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 2 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 3 2025 0:00:00",
+      13,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 4 2025 0:00:00",
+      26,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      14,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      15,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 7 2025 0:00:00",
+      14,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 8 2025 0:00:00",
+      13,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      21,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      40,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 0:00:00",
+      78,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 0:00:00",
+      118,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      54,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 0:00:00",
+      64,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 0:00:00",
+      24,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 0:00:00",
+      65,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 18 2025 0:00:00",
+      146,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 0:00:00",
+      20,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 0:00:00",
+      381,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 0:00:00",
+      18,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 0:00:00",
+      9,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 0:00:00",
+      86,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 0:00:00",
+      46,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 25 2025 0:00:00",
+      33,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 26 2025 0:00:00",
+      18,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 27 2025 0:00:00",
+      15,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 28 2025 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 29 2025 0:00:00",
+      22,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 30 2025 0:00:00",
+      15,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 31 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 1 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 2 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 3 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 4 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 5 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 6 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 7 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 8 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 9 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 10 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 11 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 12 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 13 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 14 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 15 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 16 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 17 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 18 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 19 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 20 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 21 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 22 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 23 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 24 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 25 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 26 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 27 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 28 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 29 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 30 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 31 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 1 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 2 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 3 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 4 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 5 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 6 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 7 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 8 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 9 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 10 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 11 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 12 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 13 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 14 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 15 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 16 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 17 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 18 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 19 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 20 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 18 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 19 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 22 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 23 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 24 2025 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 25 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 26 2025 0:00:00",
+      20,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 27 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 28 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 29 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 30 2025 0:00:00",
+      22,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 1 2025 0:00:00",
+      26,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 2 2025 0:00:00",
+      149,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 3 2025 0:00:00",
+      47,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 4 2025 0:00:00",
+      30,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      42,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      17,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 7 2025 0:00:00",
+      18,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      73,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      51,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 0:00:00",
+      45,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 0:00:00",
+      50,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      9,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 0:00:00",
+      20,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 0:00:00",
+      47,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 18 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 0:00:00",
+      16,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 0:00:00",
+      7,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 25 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 26 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 27 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 28 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 29 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 30 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 31 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 1 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 3 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 4 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 5 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 6 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 7 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 8 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 9 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 12 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 25 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 2 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 21 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 22 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 23 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 24 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 25 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 26 2025 0:00:00",
+      71,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 27 2025 0:00:00",
+      18,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 28 2025 0:00:00",
+      38,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 29 2025 0:00:00",
+      15,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 30 2025 0:00:00",
+      105,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 1 2025 0:00:00",
+      364,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 2 2025 0:00:00",
+      24,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 3 2025 0:00:00",
+      27,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 4 2025 0:00:00",
+      13,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      111,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      428,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 7 2025 0:00:00",
+      170,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 8 2025 0:00:00",
+      21,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      29,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      29,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 0:00:00",
+      14,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 0:00:00",
+      48,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      150,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 0:00:00",
+      48,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 0:00:00",
+      47,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 0:00:00",
+      12,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 0:00:00",
+      19,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 18 2025 0:00:00",
+      31,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 0:00:00",
+      36,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 0:00:00",
+      17,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 0:00:00",
+      21,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 0:00:00",
+      11,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 0:00:00",
+      12,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 25 2025 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 26 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 27 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 28 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 29 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 30 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 31 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 1 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 2 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 3 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 5 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 8 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 11 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 12 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 27 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 22 2025 0:00:00",
+      19,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 23 2025 0:00:00",
+      67,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 26 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 27 2025 0:00:00",
+      517,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 28 2025 0:00:00",
+      21,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 29 2025 0:00:00",
+      195,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 30 2025 0:00:00",
+      25,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 1 2025 0:00:00",
+      15,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 2 2025 0:00:00",
+      84,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 3 2025 0:00:00",
+      108,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 4 2025 0:00:00",
+      135,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      338,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      64,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 7 2025 0:00:00",
+      145,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 8 2025 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      24,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      27,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 0:00:00",
+      48,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 0:00:00",
+      19,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      20,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 0:00:00",
+      21,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 0:00:00",
+      103,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 0:00:00",
+      15,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 18 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 0:00:00",
+      15,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 0:00:00",
+      14,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 0:00:00",
+      29,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 0:00:00",
+      13,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 0:00:00",
+      7,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 25 2025 0:00:00",
+      18,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 26 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 27 2025 0:00:00",
+      24,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 28 2025 0:00:00",
+      20,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 29 2025 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 30 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 1 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 2 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 3 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 4 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 6 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 8 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 10 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 13 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 15 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 19 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 21 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 3 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 7 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 9 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 21 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 22 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 15 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 16 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 18 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 19 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 20 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 21 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 24 2025 0:00:00",
+      11,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 25 2025 0:00:00",
+      74,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 26 2025 0:00:00",
+      241,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 27 2025 0:00:00",
+      21,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 28 2025 0:00:00",
+      84,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 29 2025 0:00:00",
+      75,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 30 2025 0:00:00",
+      43,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 1 2025 0:00:00",
+      315,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 2 2025 0:00:00",
+      131,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 3 2025 0:00:00",
+      86,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 4 2025 0:00:00",
+      165,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      243,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      7,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 7 2025 0:00:00",
+      84,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 8 2025 0:00:00",
+      106,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      229,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      165,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 0:00:00",
+      43,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 0:00:00",
+      16,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      98,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 0:00:00",
+      29,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 0:00:00",
+      31,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 0:00:00",
+      47,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 0:00:00",
+      161,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 18 2025 0:00:00",
+      53,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 0:00:00",
+      17,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 0:00:00",
+      12,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 0:00:00",
+      22,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 0:00:00",
+      26,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 0:00:00",
+      19,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 25 2025 0:00:00",
+      13,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 26 2025 0:00:00",
+      14,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 27 2025 0:00:00",
+      26,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 28 2025 0:00:00",
+      19,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 29 2025 0:00:00",
+      9,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 30 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 31 2025 0:00:00",
+      15,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 1 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 3 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 4 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 5 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 6 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 7 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 10 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 11 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 16 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 21 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 23 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 29 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 12 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 13 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 14 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 18 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 19 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 20 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 21 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 22 2025 0:00:00",
+      7,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 23 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 24 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 26 2025 0:00:00",
+      27,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 27 2025 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 30 2025 0:00:00",
+      192,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 1 2025 0:00:00",
+      24,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 2 2025 0:00:00",
+      74,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 3 2025 0:00:00",
+      481,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 4 2025 0:00:00",
+      248,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      181,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      87,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 7 2025 0:00:00",
+      140,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 8 2025 0:00:00",
+      98,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      112,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      95,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 0:00:00",
+      143,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 0:00:00",
+      101,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      86,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 0:00:00",
+      123,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 0:00:00",
+      35,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 0:00:00",
+      96,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 0:00:00",
+      70,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 18 2025 0:00:00",
+      65,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 0:00:00",
+      80,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 0:00:00",
+      52,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 0:00:00",
+      36,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 0:00:00",
+      24,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 0:00:00",
+      15,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 25 2025 0:00:00",
+      11,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 26 2025 0:00:00",
+      11,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 27 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 28 2025 0:00:00",
+      12,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 29 2025 0:00:00",
+      14,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 30 2025 0:00:00",
+      12,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 31 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 1 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 2 2025 0:00:00",
+      7,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 3 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 4 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 5 2025 0:00:00",
+      7,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 6 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 14 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 18 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 20 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 22 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 24 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 26 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 24 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 25 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 26 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 27 2025 0:00:00",
+      22,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 28 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 29 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 30 2025 0:00:00",
+      42,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 1 2025 0:00:00",
+      23,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 2 2025 0:00:00",
+      21,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 3 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 4 2025 0:00:00",
+      128,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      47,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      187,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 7 2025 0:00:00",
+      35,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 8 2025 0:00:00",
+      78,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      228,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      146,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 0:00:00",
+      46,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 0:00:00",
+      111,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      59,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 0:00:00",
+      52,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 0:00:00",
+      41,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 0:00:00",
+      36,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 0:00:00",
+      23,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 0:00:00",
+      52,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 0:00:00",
+      29,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 0:00:00",
+      24,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 0:00:00",
+      15,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 0:00:00",
+      29,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 0:00:00",
+      21,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 26 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 27 2025 0:00:00",
+      20,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 28 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 29 2025 0:00:00",
+      17,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 30 2025 0:00:00",
+      11,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 31 2025 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 1 2025 0:00:00",
+      11,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 2 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 5 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 6 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 7 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 27 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 28 2025 0:00:00",
+      23,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 29 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 30 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 1 2025 0:00:00",
+      92,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 2 2025 0:00:00",
+      22,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 3 2025 0:00:00",
+      72,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 4 2025 0:00:00",
+      83,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      52,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      46,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 7 2025 0:00:00",
+      76,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 8 2025 0:00:00",
+      269,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      488,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      147,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 0:00:00",
+      75,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 0:00:00",
+      30,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      37,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 0:00:00",
+      27,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 0:00:00",
+      70,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 0:00:00",
+      55,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 0:00:00",
+      52,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 18 2025 0:00:00",
+      51,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 0:00:00",
+      39,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 0:00:00",
+      21,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 0:00:00",
+      19,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 0:00:00",
+      15,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 0:00:00",
+      31,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 25 2025 0:00:00",
+      37,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 27 2025 0:00:00",
+      11,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 28 2025 0:00:00",
+      11,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 29 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 31 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 8 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 27 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 6 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 26 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 27 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 28 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 29 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 30 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 1 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 2 2025 0:00:00",
+      9,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 3 2025 0:00:00",
+      12,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 4 2025 0:00:00",
+      9,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      22,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      26,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 7 2025 0:00:00",
+      37,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 8 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      11,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      16,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 0:00:00",
+      39,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 0:00:00",
+      74,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      51,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 0:00:00",
+      150,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 0:00:00",
+      67,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 0:00:00",
+      28,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 0:00:00",
+      57,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 18 2025 0:00:00",
+      68,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 0:00:00",
+      64,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 0:00:00",
+      22,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 0:00:00",
+      81,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 0:00:00",
+      46,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 0:00:00",
+      34,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 0:00:00",
+      26,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 25 2025 0:00:00",
+      48,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 26 2025 0:00:00",
+      27,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 27 2025 0:00:00",
+      9,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 28 2025 0:00:00",
+      27,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 29 2025 0:00:00",
+      11,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 30 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 31 2025 0:00:00",
+      11,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 1 2025 0:00:00",
+      14,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 2 2025 0:00:00",
+      15,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 3 2025 0:00:00",
+      9,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 4 2025 0:00:00",
+      16,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 5 2025 0:00:00",
+      9,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 6 2025 0:00:00",
+      13,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 9 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 11 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 28 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 29 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 1 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 2 2025 0:00:00",
+      14,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 3 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 4 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      186,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 7 2025 0:00:00",
+      163,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 8 2025 0:00:00",
+      69,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      81,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      33,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 0:00:00",
+      152,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 0:00:00",
+      64,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      28,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 0:00:00",
+      59,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 0:00:00",
+      12,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 18 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 0:00:00",
+      38,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 0:00:00",
+      11,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 0:00:00",
+      28,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 28 2025 0:00:00",
+      7,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 30 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 31 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 6 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 9 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 15 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 16 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 18 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 23 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 24 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 25 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 26 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 27 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 28 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 1 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 2 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      38,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      34,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 7 2025 0:00:00",
+      81,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 8 2025 0:00:00",
+      27,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      34,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 0:00:00",
+      16,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 0:00:00",
+      24,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      35,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 0:00:00",
+      18,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 0:00:00",
+      19,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 0:00:00",
+      25,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 18 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 0:00:00",
+      14,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 0:00:00",
+      16,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 25 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 27 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 28 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 31 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 2 2025 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 17 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "September, 5 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 26 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 30 2025 0:00:00",
+      9,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 1 2025 0:00:00",
+      7,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 2 2025 0:00:00",
+      34,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 3 2025 0:00:00",
+      44,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 4 2025 0:00:00",
+      43,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      51,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      106,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 8 2025 0:00:00",
+      43,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      53,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      46,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 0:00:00",
+      27,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 0:00:00",
+      94,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      144,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 0:00:00",
+      26,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 0:00:00",
+      26,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 18 2025 0:00:00",
+      21,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 0:00:00",
+      42,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 0:00:00",
+      26,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 0:00:00",
+      12,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 0:00:00",
+      9,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 25 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 26 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 28 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 29 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 2 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 24 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 30 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 1 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 2 2025 0:00:00",
+      11,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 3 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 4 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      19,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 7 2025 0:00:00",
+      32,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 8 2025 0:00:00",
+      14,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      360,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      77,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 0:00:00",
+      47,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 0:00:00",
+      42,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      75,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 0:00:00",
+      11,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 0:00:00",
+      20,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 0:00:00",
+      27,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 0:00:00",
+      45,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 18 2025 0:00:00",
+      102,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 0:00:00",
+      35,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 0:00:00",
+      32,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 0:00:00",
+      18,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 26 2025 0:00:00",
+      17,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 27 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 29 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 31 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 1 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 2 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 8 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 14 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 23 2025 0:00:00",
+      7,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 25 2025 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 26 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 2 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 3 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 4 2025 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 7 2025 0:00:00",
+      13,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      11,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 0:00:00",
+      21,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 0:00:00",
+      56,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      16,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 0:00:00",
+      34,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 0:00:00",
+      86,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 0:00:00",
+      19,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 0:00:00",
+      33,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 18 2025 0:00:00",
+      17,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 0:00:00",
+      25,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 0:00:00",
+      25,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 26 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 27 2025 0:00:00",
+      13,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 30 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 13 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 21 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 22 2025 0:00:00",
+      12,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 23 2025 0:00:00",
+      20,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 24 2025 0:00:00",
+      28,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 25 2025 0:00:00",
+      40,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 26 2025 0:00:00",
+      47,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 27 2025 0:00:00",
+      99,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 28 2025 0:00:00",
+      37,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 29 2025 0:00:00",
+      21,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 1 2025 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 2 2025 0:00:00",
+      280,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 3 2025 0:00:00",
+      29,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 4 2025 0:00:00",
+      723,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      33,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      29,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 7 2025 0:00:00",
+      132,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 8 2025 0:00:00",
+      183,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      19,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      54,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 0:00:00",
+      12,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      12,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 0:00:00",
+      16,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 0:00:00",
+      20,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 0:00:00",
+      41,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 28 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 3 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 30 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 28 2025 0:00:00",
+      29,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 29 2025 0:00:00",
+      20,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 30 2025 0:00:00",
+      35,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 1 2025 0:00:00",
+      39,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 3 2025 0:00:00",
+      53,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 4 2025 0:00:00",
+      261,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      171,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      116,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 7 2025 0:00:00",
+      367,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 8 2025 0:00:00",
+      196,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      36,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      47,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 0:00:00",
+      189,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 0:00:00",
+      55,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      71,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 0:00:00",
+      93,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 0:00:00",
+      32,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 0:00:00",
+      44,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 0:00:00",
+      28,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 0:00:00",
+      35,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 0:00:00",
+      15,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 0:00:00",
+      20,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 0:00:00",
+      27,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 27 2025 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 29 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 5 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 11 2025 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 12 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 13 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 15 2025 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 21 2025 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 22 2025 0:00:00",
+      112,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 23 2025 0:00:00",
+      47,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 25 2025 0:00:00",
+      178,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 26 2025 0:00:00",
+      37,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 27 2025 0:00:00",
+      20,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 28 2025 0:00:00",
+      36,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 29 2025 0:00:00",
+      52,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 30 2025 0:00:00",
+      64,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 1 2025 0:00:00",
+      21,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 2 2025 0:00:00",
+      138,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 3 2025 0:00:00",
+      242,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 4 2025 0:00:00",
+      65,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      141,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      149,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 8 2025 0:00:00",
+      145,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      140,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      36,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 0:00:00",
+      53,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      30,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 0:00:00",
+      116,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 0:00:00",
+      94,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 0:00:00",
+      78,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 0:00:00",
+      71,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 18 2025 0:00:00",
+      55,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 0:00:00",
+      46,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 0:00:00",
+      37,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 0:00:00",
+      47,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 0:00:00",
+      17,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 0:00:00",
+      17,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 0:00:00",
+      24,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 25 2025 0:00:00",
+      26,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 26 2025 0:00:00",
+      26,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 28 2025 0:00:00",
+      13,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 4 2025 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 21 2025 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 30 2025 0:00:00",
+      15,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 1 2025 0:00:00",
+      76,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 2 2025 0:00:00",
+      43,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 3 2025 0:00:00",
+      58,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 4 2025 0:00:00",
+      71,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 5 2025 0:00:00",
+      95,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 6 2025 0:00:00",
+      237,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 7 2025 0:00:00",
+      75,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 8 2025 0:00:00",
+      151,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 9 2025 0:00:00",
+      145,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 10 2025 0:00:00",
+      216,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 0:00:00",
+      92,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 0:00:00",
+      125,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 0:00:00",
+      79,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 0:00:00",
+      65,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 0:00:00",
+      90,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 0:00:00",
+      65,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 18 2025 0:00:00",
+      42,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 0:00:00",
+      67,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 0:00:00",
+      31,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 0:00:00",
+      31,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 0:00:00",
+      14,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 0:00:00",
+      24,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 0:00:00",
+      29,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 25 2025 0:00:00",
+      19,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 27 2025 0:00:00",
+      14,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 17 2025 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1010,
+    "species_id": "410",
+    "year": "2025",
+    "totalRecords": 760,
+    "totalCount": 29020,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2025-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,778 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "July, 8 2023 00:00:00",
+      383,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 9 2023 00:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 10 2023 00:00:00",
+      603,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 11 2023 00:00:00",
+      1234,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 12 2023 00:00:00",
+      1415,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 13 2023 00:00:00",
+      461,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 14 2023 00:00:00",
+      6139,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 15 2023 00:00:00",
+      1500,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 16 2023 00:00:00",
+      4299,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 17 2023 00:00:00",
+      8363,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 18 2023 00:00:00",
+      5317,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 19 2023 00:00:00",
+      4760,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 20 2023 00:00:00",
+      4613,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 21 2023 00:00:00",
+      7446,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 22 2023 00:00:00",
+      8484,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 23 2023 00:00:00",
+      4843,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 24 2023 00:00:00",
+      4459,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 25 2023 00:00:00",
+      8029,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 26 2023 00:00:00",
+      20226,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 27 2023 00:00:00",
+      7136,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 28 2023 00:00:00",
+      8281,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 29 2023 00:00:00",
+      27789,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 30 2023 00:00:00",
+      14068,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 31 2023 00:00:00",
+      18373,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 1 2023 00:00:00",
+      17268,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 2 2023 00:00:00",
+      7150,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 3 2023 00:00:00",
+      8516,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 4 2023 00:00:00",
+      8287,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 5 2023 00:00:00",
+      17397,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 6 2023 00:00:00",
+      20467,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 7 2023 00:00:00",
+      17921,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 8 2023 00:00:00",
+      10004,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 9 2023 00:00:00",
+      10046,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 10 2023 00:00:00",
+      20057,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 11 2023 00:00:00",
+      24026,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 12 2023 00:00:00",
+      7070,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 13 2023 00:00:00",
+      6818,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 14 2023 00:00:00",
+      6706,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 15 2023 00:00:00",
+      9814,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 16 2023 00:00:00",
+      6999,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 17 2023 00:00:00",
+      2881,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 18 2023 00:00:00",
+      3931,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 19 2023 00:00:00",
+      6157,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 20 2023 00:00:00",
+      986,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 21 2023 00:00:00",
+      2220,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 22 2023 00:00:00",
+      3635,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 23 2023 00:00:00",
+      4096,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 24 2023 00:00:00",
+      10235,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 25 2023 00:00:00",
+      11735,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      16034,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      24397,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      29714,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      34474,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      39087,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      46533,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      55017,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      59860,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      64319,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      72348,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      92574,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      99710,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      107991,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      135780,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      149848,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      168221,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      185489,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      192639,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      201155,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      209442,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      226839,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      247306,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      265227,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      275231,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      285277,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      305334,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      329360,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      336430,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      343248,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      349954,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      359768,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      366767,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      369648,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      373579,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      379736,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1005,
+    "species_id": "430",
+    "year": "2023",
+    "totalRecords": 84,
+    "totalCount": 7210979,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

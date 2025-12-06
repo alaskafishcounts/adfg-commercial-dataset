@@ -1,0 +1,787 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "June, 25 2012 00:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 26 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 27 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 28 2012 00:00:00",
+      3,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 29 2012 00:00:00",
+      17,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 30 2012 00:00:00",
+      109,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 1 2012 00:00:00",
+      115,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 2 2012 00:00:00",
+      63,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 3 2012 00:00:00",
+      137,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 4 2012 00:00:00",
+      68,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 5 2012 00:00:00",
+      387,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 6 2012 00:00:00",
+      326,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 7 2012 00:00:00",
+      297,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 8 2012 00:00:00",
+      276,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 9 2012 00:00:00",
+      281,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 10 2012 00:00:00",
+      136,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 11 2012 00:00:00",
+      123,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 12 2012 00:00:00",
+      90,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 13 2012 00:00:00",
+      119,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 14 2012 00:00:00",
+      80,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 15 2012 00:00:00",
+      278,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 16 2012 00:00:00",
+      303,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 17 2012 00:00:00",
+      310,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 18 2012 00:00:00",
+      312,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 19 2012 00:00:00",
+      310,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 20 2012 00:00:00",
+      313,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 21 2012 00:00:00",
+      308,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 22 2012 00:00:00",
+      297,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 23 2012 00:00:00",
+      288,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 24 2012 00:00:00",
+      212,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 25 2012 00:00:00",
+      169,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 26 2012 00:00:00",
+      594,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 27 2012 00:00:00",
+      112,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 28 2012 00:00:00",
+      272,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 29 2012 00:00:00",
+      156,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 30 2012 00:00:00",
+      159,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 31 2012 00:00:00",
+      201,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 1 2012 00:00:00",
+      281,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 2 2012 00:00:00",
+      193,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 3 2012 00:00:00",
+      62,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 4 2012 00:00:00",
+      78,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 5 2012 00:00:00",
+      154,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 6 2012 00:00:00",
+      144,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 7 2012 00:00:00",
+      66,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 8 2012 00:00:00",
+      151,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 9 2012 00:00:00",
+      279,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 10 2012 00:00:00",
+      83,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 11 2012 00:00:00",
+      128,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 12 2012 00:00:00",
+      117,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 13 2012 00:00:00",
+      138,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 14 2012 00:00:00",
+      142,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 15 2012 00:00:00",
+      63,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 16 2012 00:00:00",
+      26,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 17 2012 00:00:00",
+      23,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 18 2012 00:00:00",
+      24,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 19 2012 00:00:00",
+      42,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 20 2012 00:00:00",
+      32,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 21 2012 00:00:00",
+      23,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 22 2012 00:00:00",
+      7,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 23 2012 00:00:00",
+      7,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 24 2012 00:00:00",
+      5,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 25 2012 00:00:00",
+      6,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 26 2012 00:00:00",
+      6,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 27 2012 00:00:00",
+      3,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 28 2012 00:00:00",
+      4,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 29 2012 00:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 30 2012 00:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 31 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 1 2012 00:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 2 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 3 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 4 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 5 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 6 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 7 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 8 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 9 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 10 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 11 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 12 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 13 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 14 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 15 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 16 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 17 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 18 2012 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ]
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1990,
+      "August, 21 1990 00:00:00",
+      15550,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "August, 22 1990 00:00:00",
+      1718,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "August, 23 1990 00:00:00",
+      1825,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "August, 24 1990 00:00:00",
+      1940,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "August, 25 1990 00:00:00",
+      1620,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "August, 26 1990 00:00:00",
+      1047,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "August, 27 1990 00:00:00",
+      1055,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "August, 28 1990 00:00:00",
+      1337,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "August, 29 1990 00:00:00",
+      1605,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "August, 30 1990 00:00:00",
+      881,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "August, 31 1990 00:00:00",
+      1609,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 1 1990 00:00:00",
+      1570,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 2 1990 00:00:00",
+      1695,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 3 1990 00:00:00",
+      1002,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 4 1990 00:00:00",
+      1159,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 5 1990 00:00:00",
+      955,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 6 1990 00:00:00",
+      1339,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 7 1990 00:00:00",
+      1259,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 8 1990 00:00:00",
+      1071,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 9 1990 00:00:00",
+      1411,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 10 1990 00:00:00",
+      854,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 11 1990 00:00:00",
+      1746,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 12 1990 00:00:00",
+      1726,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 13 1990 00:00:00",
+      1803,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 14 1990 00:00:00",
+      2196,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 15 1990 00:00:00",
+      2065,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 16 1990 00:00:00",
+      2175,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 17 1990 00:00:00",
+      2867,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 18 1990 00:00:00",
+      1909,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 19 1990 00:00:00",
+      2020,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 20 1990 00:00:00",
+      2372,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 21 1990 00:00:00",
+      2444,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 22 1990 00:00:00",
+      2667,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 23 1990 00:00:00",
+      1848,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 24 1990 00:00:00",
+      1819,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 25 1990 00:00:00",
+      1923,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 26 1990 00:00:00",
+      1392,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 27 1990 00:00:00",
+      1478,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 28 1990 00:00:00",
+      798,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 29 1990 00:00:00",
+      660,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "September, 30 1990 00:00:00",
+      534,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "October, 1 1990 00:00:00",
+      422,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "October, 2 1990 00:00:00",
+      323,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "October, 3 1990 00:00:00",
+      237,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "October, 4 1990 00:00:00",
+      165,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "October, 5 1990 00:00:00",
+      106,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "October, 6 1990 00:00:00",
+      59,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "October, 7 1990 00:00:00",
+      26,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "October, 8 1990 00:00:00",
+      7,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1990,
+      "October, 9 1990 00:00:00",
+      0,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ]
+  ]
+}

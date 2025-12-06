@@ -1,0 +1,472 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "June, 27 2024 00:00:00",
+      0,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "June, 28 2024 00:00:00",
+      1767,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "June, 29 2024 00:00:00",
+      378,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "June, 30 2024 00:00:00",
+      251,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 1 2024 00:00:00",
+      5577,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 2 2024 00:00:00",
+      31493,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 3 2024 00:00:00",
+      44732,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 4 2024 00:00:00",
+      14062,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 5 2024 00:00:00",
+      3673,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 6 2024 00:00:00",
+      29018,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 7 2024 00:00:00",
+      13958,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 8 2024 00:00:00",
+      40330,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 9 2024 00:00:00",
+      19010,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 10 2024 00:00:00",
+      12442,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 11 2024 00:00:00",
+      9106,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 12 2024 00:00:00",
+      11944,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 13 2024 00:00:00",
+      14630,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 14 2024 00:00:00",
+      12429,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 15 2024 00:00:00",
+      14884,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 16 2024 00:00:00",
+      9263,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 17 2024 00:00:00",
+      6694,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 18 2024 00:00:00",
+      4992,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 19 2024 00:00:00",
+      11285,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 20 2024 00:00:00",
+      5537,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 21 2024 00:00:00",
+      5753,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 22 2024 00:00:00",
+      8339,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 23 2024 00:00:00",
+      9485,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 24 2024 00:00:00",
+      8189,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      7424,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 26 2024 00:00:00",
+      1184,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 27 2024 00:00:00",
+      1721,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 28 2024 00:00:00",
+      543,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 29 2024 00:00:00",
+      1128,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 30 2024 00:00:00",
+      819,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 31 2024 00:00:00",
+      339,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 1 2024 00:00:00",
+      112,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 2 2024 00:00:00",
+      1031,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 3 2024 00:00:00",
+      420,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 4 2024 00:00:00",
+      289,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 5 2024 00:00:00",
+      123,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 6 2024 00:00:00",
+      284,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 7 2024 00:00:00",
+      158,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 8 2024 00:00:00",
+      51,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 9 2024 00:00:00",
+      15,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 10 2024 00:00:00",
+      33,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 11 2024 00:00:00",
+      21,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 12 2024 00:00:00",
+      7,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 13 2024 00:00:00",
+      14,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 14 2024 00:00:00",
+      30,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 15 2024 00:00:00",
+      27,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 16 2024 00:00:00",
+      10,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ]
+  ]
+}

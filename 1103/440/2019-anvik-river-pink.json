@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "June, 15 2019 00:00:00",
+      0,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 16 2019 00:00:00",
+      32,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 17 2019 00:00:00",
+      93,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 18 2019 00:00:00",
+      17,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 19 2019 00:00:00",
+      44,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 20 2019 00:00:00",
+      25,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 21 2019 00:00:00",
+      11,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 22 2019 00:00:00",
+      19,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1103,
+    "species_id": "440",
+    "year": "2019",
+    "totalRecords": 8,
+    "totalCount": 241,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

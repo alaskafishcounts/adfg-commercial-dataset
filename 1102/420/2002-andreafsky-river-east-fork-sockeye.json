@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "June, 19 2002 00:00:00",
+      0,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 20 2002 00:00:00",
+      1,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 21 2002 00:00:00",
+      3,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 22 2002 00:00:00",
+      2,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 23 2002 00:00:00",
+      4,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "420",
+    "year": "2002",
+    "totalRecords": 5,
+    "totalCount": 10,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2002-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "July, 10 1999 00:00:00",
+      32,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 11 1999 00:00:00",
+      107,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 12 1999 00:00:00",
+      83,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 13 1999 00:00:00",
+      119,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 14 1999 00:00:00",
+      519,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 15 1999 00:00:00",
+      226,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 16 1999 00:00:00",
+      232,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 17 1999 00:00:00",
+      155,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 18 1999 00:00:00",
+      258,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 19 1999 00:00:00",
+      404,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 20 1999 00:00:00",
+      202,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 21 1999 00:00:00",
+      316,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 22 1999 00:00:00",
+      260,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 23 1999 00:00:00",
+      293,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 24 1999 00:00:00",
+      193,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 25 1999 00:00:00",
+      108,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 26 1999 00:00:00",
+      34,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 27 1999 00:00:00",
+      27,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 28 1999 00:00:00",
+      55,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 29 1999 00:00:00",
+      42,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 30 1999 00:00:00",
+      28,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 31 1999 00:00:00",
+      22,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 1 1999 00:00:00",
+      22,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 2 1999 00:00:00",
+      22,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 3 1999 00:00:00",
+      19,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 4 1999 00:00:00",
+      4,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 5 1999 00:00:00",
+      24,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 6 1999 00:00:00",
+      30,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 7 1999 00:00:00",
+      32,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 8 1999 00:00:00",
+      16,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 9 1999 00:00:00",
+      40,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 10 1999 00:00:00",
+      44,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 11 1999 00:00:00",
+      100,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 12 1999 00:00:00",
+      12,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 13 1999 00:00:00",
+      14,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 14 1999 00:00:00",
+      14,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 15 1999 00:00:00",
+      14,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 16 1999 00:00:00",
+      14,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 17 1999 00:00:00",
+      10,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 18 1999 00:00:00",
+      11,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 19 1999 00:00:00",
+      8,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 20 1999 00:00:00",
+      3,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 21 1999 00:00:00",
+      6,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 22 1999 00:00:00",
+      4,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 23 1999 00:00:00",
+      1,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 24 1999 00:00:00",
+      6,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 25 1999 00:00:00",
+      24,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 26 1999 00:00:00",
+      4,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 27 1999 00:00:00",
+      2,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 28 1999 00:00:00",
+      2,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 29 1999 00:00:00",
+      1,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 30 1999 00:00:00",
+      0,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 31 1999 00:00:00",
+      0,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      1999,
+      "September, 1 1999 00:00:00",
+      0,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ]
+  ]
+}

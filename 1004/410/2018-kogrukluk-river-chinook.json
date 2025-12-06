@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "June, 15 2018 00:00:00",
+      1,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 16 2018 00:00:00",
+      0,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 17 2018 00:00:00",
+      6,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 18 2018 00:00:00",
+      17,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 19 2018 00:00:00",
+      31,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 20 2018 00:00:00",
+      30,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 21 2018 00:00:00",
+      38,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 22 2018 00:00:00",
+      113,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 23 2018 00:00:00",
+      129,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 24 2018 00:00:00",
+      170,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 25 2018 00:00:00",
+      208,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 26 2018 00:00:00",
+      105,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 27 2018 00:00:00",
+      202,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 28 2018 00:00:00",
+      110,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 29 2018 00:00:00",
+      568,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 30 2018 00:00:00",
+      400,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 1 2018 00:00:00",
+      383,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 2 2018 00:00:00",
+      335,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 3 2018 00:00:00",
+      484,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 4 2018 00:00:00",
+      293,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 5 2018 00:00:00",
+      441,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 6 2018 00:00:00",
+      217,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 7 2018 00:00:00",
+      260,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 8 2018 00:00:00",
+      288,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 9 2018 00:00:00",
+      185,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 10 2018 00:00:00",
+      134,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 11 2018 00:00:00",
+      95,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 12 2018 00:00:00",
+      154,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 13 2018 00:00:00",
+      128,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 14 2018 00:00:00",
+      138,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 15 2018 00:00:00",
+      94,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 16 2018 00:00:00",
+      83,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 17 2018 00:00:00",
+      72,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 18 2018 00:00:00",
+      61,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 19 2018 00:00:00",
+      52,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 20 2018 00:00:00",
+      33,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 21 2018 00:00:00",
+      28,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 22 2018 00:00:00",
+      24,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 23 2018 00:00:00",
+      22,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 24 2018 00:00:00",
+      19,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 25 2018 00:00:00",
+      16,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 26 2018 00:00:00",
+      13,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 27 2018 00:00:00",
+      11,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 28 2018 00:00:00",
+      9,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 29 2018 00:00:00",
+      8,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 30 2018 00:00:00",
+      7,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 31 2018 00:00:00",
+      5,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 1 2018 00:00:00",
+      2,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 2 2018 00:00:00",
+      3,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "410",
+    "year": "2018",
+    "totalRecords": 49,
+    "totalCount": 6225,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      5,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      4,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      7,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      12,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      26,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      41,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      40,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      50,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      32,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      67,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      90,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      78,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      140,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      53,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      58,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      51,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      83,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      88,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      57,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      73,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      61,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      112,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      104,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      76,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      86,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      75,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      65,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      52,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      39,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      46,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      38,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      34,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      21,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      16,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      25,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      14,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      10,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 17 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 18 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 19 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 6 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 7 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 8 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 9 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 10 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 11 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 12 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 13 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 14 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 15 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 20 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 21 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 22 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 23 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 24 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 25 2025 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1007,
+    "species_id": "450",
+    "year": "2025",
+    "totalRecords": 57,
+    "totalCount": 1929,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2025-12-31T00:00:00"
+  }
+}

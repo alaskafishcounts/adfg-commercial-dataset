@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "June, 25 1987 00:00:00",
+      0,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      1987,
+      "June, 26 1987 00:00:00",
+      3,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 4 1987 00:00:00",
+      6,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 10 1987 00:00:00",
+      10,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 13 1987 00:00:00",
+      19,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 14 1987 00:00:00",
+      39,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 16 1987 00:00:00",
+      100,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 17 1987 00:00:00",
+      113,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 18 1987 00:00:00",
+      84,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 19 1987 00:00:00",
+      55,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 20 1987 00:00:00",
+      26,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 21 1987 00:00:00",
+      32,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 23 1987 00:00:00",
+      16,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      1987,
+      "July, 25 1987 00:00:00",
+      29,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "440",
+    "year": "1987",
+    "totalRecords": 14,
+    "totalCount": 532,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1987-12-31T00:00:00"
+  }
+}

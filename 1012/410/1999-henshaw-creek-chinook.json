@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "July, 16 1999 00:00:00",
+      0,
+      410,
+      1012,
+      "Henshaw Creek",
+      "Chinook"
+    ],
+    [
+      1999,
+      "July, 17 1999 00:00:00",
+      0,
+      410,
+      1012,
+      "Henshaw Creek",
+      "Chinook"
+    ],
+    [
+      1999,
+      "July, 18 1999 00:00:00",
+      0,
+      410,
+      1012,
+      "Henshaw Creek",
+      "Chinook"
+    ],
+    [
+      1999,
+      "July, 19 1999 00:00:00",
+      2,
+      410,
+      1012,
+      "Henshaw Creek",
+      "Chinook"
+    ],
+    [
+      1999,
+      "July, 20 1999 00:00:00",
+      0,
+      410,
+      1012,
+      "Henshaw Creek",
+      "Chinook"
+    ],
+    [
+      1999,
+      "July, 31 1999 00:00:00",
+      1,
+      410,
+      1012,
+      "Henshaw Creek",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 1 1999 00:00:00",
+      0,
+      410,
+      1012,
+      "Henshaw Creek",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 6 1999 00:00:00",
+      1,
+      410,
+      1012,
+      "Henshaw Creek",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 7 1999 00:00:00",
+      0,
+      410,
+      1012,
+      "Henshaw Creek",
+      "Chinook"
+    ],
+    [
+      1999,
+      "August, 8 1999 00:00:00",
+      0,
+      410,
+      1012,
+      "Henshaw Creek",
+      "Chinook"
+    ]
+  ]
+}

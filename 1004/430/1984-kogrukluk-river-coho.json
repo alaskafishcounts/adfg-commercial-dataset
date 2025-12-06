@@ -1,0 +1,553 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1984,
+      "June, 19 1984 00:00:00",
+      0,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "June, 20 1984 00:00:00",
+      1,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "June, 21 1984 00:00:00",
+      4,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "June, 22 1984 00:00:00",
+      2,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "June, 23 1984 00:00:00",
+      3,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "June, 24 1984 00:00:00",
+      11,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "June, 25 1984 00:00:00",
+      14,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "June, 26 1984 00:00:00",
+      19,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "June, 27 1984 00:00:00",
+      32,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "June, 28 1984 00:00:00",
+      18,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "June, 29 1984 00:00:00",
+      53,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "June, 30 1984 00:00:00",
+      99,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 1 1984 00:00:00",
+      44,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 2 1984 00:00:00",
+      119,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 3 1984 00:00:00",
+      52,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 4 1984 00:00:00",
+      222,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 5 1984 00:00:00",
+      115,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 6 1984 00:00:00",
+      224,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 7 1984 00:00:00",
+      147,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 8 1984 00:00:00",
+      179,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 9 1984 00:00:00",
+      144,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 10 1984 00:00:00",
+      86,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 11 1984 00:00:00",
+      1258,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 12 1984 00:00:00",
+      995,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 13 1984 00:00:00",
+      537,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 14 1984 00:00:00",
+      321,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 15 1984 00:00:00",
+      1412,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 16 1984 00:00:00",
+      1730,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 17 1984 00:00:00",
+      1190,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 18 1984 00:00:00",
+      2031,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 19 1984 00:00:00",
+      2036,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 20 1984 00:00:00",
+      731,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 21 1984 00:00:00",
+      584,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 22 1984 00:00:00",
+      370,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 23 1984 00:00:00",
+      688,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 24 1984 00:00:00",
+      907,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 25 1984 00:00:00",
+      613,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 26 1984 00:00:00",
+      821,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 27 1984 00:00:00",
+      713,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 28 1984 00:00:00",
+      853,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 29 1984 00:00:00",
+      787,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 30 1984 00:00:00",
+      742,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "July, 31 1984 00:00:00",
+      343,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "August, 1 1984 00:00:00",
+      1107,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "August, 2 1984 00:00:00",
+      1081,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "August, 3 1984 00:00:00",
+      47,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "August, 4 1984 00:00:00",
+      830,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "August, 5 1984 00:00:00",
+      363,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "August, 6 1984 00:00:00",
+      357,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "August, 7 1984 00:00:00",
+      37,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "August, 8 1984 00:00:00",
+      187,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "August, 9 1984 00:00:00",
+      157,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "August, 10 1984 00:00:00",
+      135,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "August, 11 1984 00:00:00",
+      118,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "August, 12 1984 00:00:00",
+      80,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "August, 13 1984 00:00:00",
+      68,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "August, 14 1984 00:00:00",
+      58,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "August, 15 1984 00:00:00",
+      50,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1984,
+      "August, 16 1984 00:00:00",
+      39,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "430",
+    "year": "1984",
+    "totalRecords": 59,
+    "totalCount": 25964,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1984-12-31T00:00:00"
+  }
+}

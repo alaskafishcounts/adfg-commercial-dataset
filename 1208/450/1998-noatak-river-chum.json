@@ -1,0 +1,22 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "August, 3 1998 00:00:00",
+      3396,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ]
+  ]
+}

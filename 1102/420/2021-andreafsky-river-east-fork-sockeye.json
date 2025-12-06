@@ -1,0 +1,184 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "June, 18 2021 00:00:00",
+      0,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 19 2021 00:00:00",
+      1,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 20 2021 00:00:00",
+      9,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 21 2021 00:00:00",
+      3,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 22 2021 00:00:00",
+      2,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 23 2021 00:00:00",
+      5,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 24 2021 00:00:00",
+      18,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 25 2021 00:00:00",
+      29,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 26 2021 00:00:00",
+      16,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 27 2021 00:00:00",
+      24,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 28 2021 00:00:00",
+      26,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 29 2021 00:00:00",
+      17,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 30 2021 00:00:00",
+      12,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 1 2021 00:00:00",
+      8,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 2 2021 00:00:00",
+      6,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 3 2021 00:00:00",
+      7,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 4 2021 00:00:00",
+      10,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 5 2021 00:00:00",
+      11,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "420",
+    "year": "2021",
+    "totalRecords": 18,
+    "totalCount": 204,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

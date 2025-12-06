@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1986,
+      "June, 25 1986 00:00:00",
+      117,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "June, 26 1986 00:00:00",
+      1083,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "June, 27 1986 00:00:00",
+      6731,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "June, 28 1986 00:00:00",
+      9509,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "June, 29 1986 00:00:00",
+      12290,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "June, 30 1986 00:00:00",
+      13948,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "July, 1 1986 00:00:00",
+      13014,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "July, 2 1986 00:00:00",
+      12080,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "July, 3 1986 00:00:00",
+      11147,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "July, 4 1986 00:00:00",
+      19910,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "July, 5 1986 00:00:00",
+      8362,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "July, 6 1986 00:00:00",
+      1562,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "July, 7 1986 00:00:00",
+      7681,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "July, 8 1986 00:00:00",
+      5883,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "July, 9 1986 00:00:00",
+      4085,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "July, 10 1986 00:00:00",
+      5477,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "July, 11 1986 00:00:00",
+      4403,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "July, 12 1986 00:00:00",
+      5347,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "July, 13 1986 00:00:00",
+      2103,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1986,
+      "July, 14 1986 00:00:00",
+      7998,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "450",
+    "year": "1986",
+    "totalRecords": 20,
+    "totalCount": 152730,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1986-12-31T00:00:00"
+  }
+}

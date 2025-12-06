@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "June, 29 1994 00:00:00",
+      0,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 7 1994 00:00:00",
+      2,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 8 1994 00:00:00",
+      1,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 2 1994 00:00:00",
+      3,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 3 1994 00:00:00",
+      5,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 4 1994 00:00:00",
+      4,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "420",
+    "year": "1994",
+    "totalRecords": 6,
+    "totalCount": 15,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1994-12-31T00:00:00"
+  }
+}

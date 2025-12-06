@@ -1,0 +1,486 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "August, 1 2000 00:00:00",
+      627,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 10 2000 00:00:00",
+      112,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 11 2000 00:00:00",
+      61,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 12 2000 00:00:00",
+      14,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 13 2000 00:00:00",
+      124,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 14 2000 00:00:00",
+      10,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 15 2000 00:00:00",
+      7,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 16 2000 00:00:00",
+      47,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 17 2000 00:00:00",
+      7,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 18 2000 00:00:00",
+      11,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 19 2000 00:00:00",
+      7,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 2 2000 00:00:00",
+      1820,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 20 2000 00:00:00",
+      13,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 21 2000 00:00:00",
+      15,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 22 2000 00:00:00",
+      5,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 23 2000 00:00:00",
+      3,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 3 2000 00:00:00",
+      325,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 4 2000 00:00:00",
+      921,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 5 2000 00:00:00",
+      23,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 6 2000 00:00:00",
+      59,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 7 2000 00:00:00",
+      112,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 8 2000 00:00:00",
+      144,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "August, 9 2000 00:00:00",
+      269,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      658,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      719,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      1982,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      2358,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      57,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      8,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      125,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      502,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      2180,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      2686,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      1523,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      3066,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      2861,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      2686,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      2956,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      2353,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      1365,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 27 2000 00:00:00",
+      923,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 28 2000 00:00:00",
+      203,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 29 2000 00:00:00",
+      1562,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 30 2000 00:00:00",
+      1942,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 31 2000 00:00:00",
+      3057,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 4 2000 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 5 2000 00:00:00",
+      46,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 6 2000 00:00:00",
+      44,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 7 2000 00:00:00",
+      20,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 8 2000 00:00:00",
+      1000,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2000,
+      "July, 9 2000 00:00:00",
+      55,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1010,
+    "species_id": "410",
+    "year": "2000",
+    "totalRecords": 25,
+    "totalCount": 670,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2000-12-31T00:00:00",
+    "total_records": 51,
+    "date_range": {
+      "start": "August, 1 2000 00:00:00",
+      "end": "July, 9 2000 00:00:00"
+    }
+  }
+}

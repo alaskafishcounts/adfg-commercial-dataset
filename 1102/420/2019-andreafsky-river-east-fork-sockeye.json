@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "June, 28 2019 00:00:00",
+      0,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 29 2019 00:00:00",
+      2,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 30 2019 00:00:00",
+      11,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 1 2019 00:00:00",
+      18,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 2 2019 00:00:00",
+      23,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 3 2019 00:00:00",
+      17,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 4 2019 00:00:00",
+      6,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 5 2019 00:00:00",
+      8,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 6 2019 00:00:00",
+      7,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 7 2019 00:00:00",
+      5,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 8 2019 00:00:00",
+      15,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 9 2019 00:00:00",
+      13,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 10 2019 00:00:00",
+      4,
+      420,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "420",
+    "year": "2019",
+    "totalRecords": 13,
+    "totalCount": 129,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

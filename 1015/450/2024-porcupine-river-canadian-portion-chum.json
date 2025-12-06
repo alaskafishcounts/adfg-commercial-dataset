@@ -1,0 +1,643 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "August, 5 2024 00:00:00",
+      0,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 6 2024 00:00:00",
+      0,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 7 2024 00:00:00",
+      2,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 8 2024 00:00:00",
+      6,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 9 2024 00:00:00",
+      13,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 10 2024 00:00:00",
+      21,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 11 2024 00:00:00",
+      30,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 12 2024 00:00:00",
+      41,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 13 2024 00:00:00",
+      54,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 14 2024 00:00:00",
+      69,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 15 2024 00:00:00",
+      86,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 16 2024 00:00:00",
+      61,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 17 2024 00:00:00",
+      71,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 18 2024 00:00:00",
+      76,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 19 2024 00:00:00",
+      70,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 20 2024 00:00:00",
+      58,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 21 2024 00:00:00",
+      64,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 22 2024 00:00:00",
+      82,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 23 2024 00:00:00",
+      60,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 24 2024 00:00:00",
+      64,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 25 2024 00:00:00",
+      89,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 26 2024 00:00:00",
+      96,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 27 2024 00:00:00",
+      70,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 28 2024 00:00:00",
+      104,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 29 2024 00:00:00",
+      64,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 30 2024 00:00:00",
+      91,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 31 2024 00:00:00",
+      86,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 1 2024 00:00:00",
+      160,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 2 2024 00:00:00",
+      100,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 3 2024 00:00:00",
+      91,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 4 2024 00:00:00",
+      106,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 5 2024 00:00:00",
+      140,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 6 2024 00:00:00",
+      140,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 7 2024 00:00:00",
+      211,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 8 2024 00:00:00",
+      186,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 9 2024 00:00:00",
+      240,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 10 2024 00:00:00",
+      287,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 11 2024 00:00:00",
+      355,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 12 2024 00:00:00",
+      287,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 13 2024 00:00:00",
+      368,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 14 2024 00:00:00",
+      290,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 15 2024 00:00:00",
+      309,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 16 2024 00:00:00",
+      226,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 17 2024 00:00:00",
+      274,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 18 2024 00:00:00",
+      222,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 19 2024 00:00:00",
+      266,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 20 2024 00:00:00",
+      280,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 21 2024 00:00:00",
+      272,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 22 2024 00:00:00",
+      276,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 23 2024 00:00:00",
+      253,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 24 2024 00:00:00",
+      254,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 25 2024 00:00:00",
+      240,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 26 2024 00:00:00",
+      226,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 27 2024 00:00:00",
+      197,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 28 2024 00:00:00",
+      216,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 29 2024 00:00:00",
+      150,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "September, 30 2024 00:00:00",
+      148,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "October, 1 2024 00:00:00",
+      122,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "October, 2 2024 00:00:00",
+      94,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "October, 3 2024 00:00:00",
+      76,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "October, 4 2024 00:00:00",
+      61,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "October, 5 2024 00:00:00",
+      47,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "October, 6 2024 00:00:00",
+      36,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "October, 7 2024 00:00:00",
+      27,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "October, 8 2024 00:00:00",
+      19,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "October, 9 2024 00:00:00",
+      11,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "October, 10 2024 00:00:00",
+      6,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "October, 11 2024 00:00:00",
+      2,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "October, 12 2024 00:00:00",
+      0,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ],
+    [
+      2024,
+      "October, 13 2024 00:00:00",
+      0,
+      450,
+      1015,
+      "Porcupine River (Canadian Portion)",
+      "Chum"
+    ]
+  ]
+}

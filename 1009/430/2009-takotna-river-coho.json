@@ -1,0 +1,409 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "June, 25 2009 00:00:00",
+      0,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "June, 26 2009 00:00:00",
+      1,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "June, 27 2009 00:00:00",
+      8,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "June, 28 2009 00:00:00",
+      23,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "June, 29 2009 00:00:00",
+      18,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "June, 30 2009 00:00:00",
+      15,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 1 2009 00:00:00",
+      36,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 2 2009 00:00:00",
+      17,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 3 2009 00:00:00",
+      63,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 4 2009 00:00:00",
+      75,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 5 2009 00:00:00",
+      87,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 6 2009 00:00:00",
+      91,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 7 2009 00:00:00",
+      41,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 8 2009 00:00:00",
+      44,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 9 2009 00:00:00",
+      54,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 10 2009 00:00:00",
+      32,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 11 2009 00:00:00",
+      45,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 12 2009 00:00:00",
+      38,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 13 2009 00:00:00",
+      67,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 14 2009 00:00:00",
+      19,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 15 2009 00:00:00",
+      16,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 16 2009 00:00:00",
+      116,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 17 2009 00:00:00",
+      20,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 18 2009 00:00:00",
+      111,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 19 2009 00:00:00",
+      59,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 20 2009 00:00:00",
+      14,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 21 2009 00:00:00",
+      64,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 22 2009 00:00:00",
+      158,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 23 2009 00:00:00",
+      281,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 24 2009 00:00:00",
+      100,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 25 2009 00:00:00",
+      50,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 26 2009 00:00:00",
+      22,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 27 2009 00:00:00",
+      11,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 28 2009 00:00:00",
+      57,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 29 2009 00:00:00",
+      94,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 30 2009 00:00:00",
+      40,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 31 2009 00:00:00",
+      10,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 1 2009 00:00:00",
+      416,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 2 2009 00:00:00",
+      25,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 3 2009 00:00:00",
+      33,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 4 2009 00:00:00",
+      7,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 5 2009 00:00:00",
+      3,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 6 2009 00:00:00",
+      5,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1009,
+    "species_id": "430",
+    "year": "2009",
+    "totalRecords": 43,
+    "totalCount": 2486,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2009-12-31T00:00:00"
+  }
+}

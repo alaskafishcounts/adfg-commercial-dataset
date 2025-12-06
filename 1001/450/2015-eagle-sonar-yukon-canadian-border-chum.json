@@ -1,0 +1,589 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "August, 16 2015 00:00:00",
+      114,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 17 2015 00:00:00",
+      159,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 18 2015 00:00:00",
+      120,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 19 2015 00:00:00",
+      126,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 20 2015 00:00:00",
+      186,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 21 2015 00:00:00",
+      216,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 22 2015 00:00:00",
+      234,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 23 2015 00:00:00",
+      274,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 24 2015 00:00:00",
+      324,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 25 2015 00:00:00",
+      332,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 26 2015 00:00:00",
+      357,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 27 2015 00:00:00",
+      394,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 28 2015 00:00:00",
+      416,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 29 2015 00:00:00",
+      478,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 30 2015 00:00:00",
+      428,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 31 2015 00:00:00",
+      274,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 1 2015 00:00:00",
+      538,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 2 2015 00:00:00",
+      681,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 3 2015 00:00:00",
+      667,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 4 2015 00:00:00",
+      527,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 5 2015 00:00:00",
+      706,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 6 2015 00:00:00",
+      784,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 7 2015 00:00:00",
+      866,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 8 2015 00:00:00",
+      1224,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 9 2015 00:00:00",
+      1622,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 10 2015 00:00:00",
+      1696,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 11 2015 00:00:00",
+      1827,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 12 2015 00:00:00",
+      1990,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 13 2015 00:00:00",
+      2051,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 14 2015 00:00:00",
+      2133,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 15 2015 00:00:00",
+      2353,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 16 2015 00:00:00",
+      2901,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 17 2015 00:00:00",
+      3315,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 18 2015 00:00:00",
+      3720,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 19 2015 00:00:00",
+      4094,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 20 2015 00:00:00",
+      4519,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 21 2015 00:00:00",
+      4476,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 22 2015 00:00:00",
+      4663,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 23 2015 00:00:00",
+      4365,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 24 2015 00:00:00",
+      4773,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 25 2015 00:00:00",
+      4844,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 26 2015 00:00:00",
+      4785,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 27 2015 00:00:00",
+      4787,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 28 2015 00:00:00",
+      4576,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 29 2015 00:00:00",
+      4623,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "September, 30 2015 00:00:00",
+      4102,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 1 2015 00:00:00",
+      4082,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 2 2015 00:00:00",
+      4119,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 3 2015 00:00:00",
+      3938,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 4 2015 00:00:00",
+      3803,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 5 2015 00:00:00",
+      3866,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 6 2015 00:00:00",
+      3688,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 7 2015 00:00:00",
+      3099,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 8 2015 00:00:00",
+      2561,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 9 2015 00:00:00",
+      2074,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 10 2015 00:00:00",
+      1639,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 11 2015 00:00:00",
+      1255,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 12 2015 00:00:00",
+      922,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 13 2015 00:00:00",
+      640,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 14 2015 00:00:00",
+      410,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 15 2015 00:00:00",
+      230,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 16 2015 00:00:00",
+      103,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 17 2015 00:00:00",
+      26,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2015,
+      "October, 18 2015 00:00:00",
+      0,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ]
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "August, 18 2006 00:00:00",
+      190,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "August, 19 2006 00:00:00",
+      166,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "August, 20 2006 00:00:00",
+      292,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "August, 21 2006 00:00:00",
+      299,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "August, 22 2006 00:00:00",
+      300,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "August, 23 2006 00:00:00",
+      320,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "August, 24 2006 00:00:00",
+      452,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "August, 25 2006 00:00:00",
+      535,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "August, 26 2006 00:00:00",
+      579,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "August, 27 2006 00:00:00",
+      356,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "August, 28 2006 00:00:00",
+      660,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "August, 29 2006 00:00:00",
+      755,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "August, 30 2006 00:00:00",
+      1048,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "August, 31 2006 00:00:00",
+      1358,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 1 2006 00:00:00",
+      1993,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 2 2006 00:00:00",
+      2548,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 3 2006 00:00:00",
+      3233,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 4 2006 00:00:00",
+      4301,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 5 2006 00:00:00",
+      5452,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 6 2006 00:00:00",
+      5243,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 7 2006 00:00:00",
+      5203,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 8 2006 00:00:00",
+      5378,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 9 2006 00:00:00",
+      5849,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 10 2006 00:00:00",
+      6070,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 11 2006 00:00:00",
+      6310,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 12 2006 00:00:00",
+      6160,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 13 2006 00:00:00",
+      6457,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 14 2006 00:00:00",
+      7380,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 15 2006 00:00:00",
+      7888,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 16 2006 00:00:00",
+      9278,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 17 2006 00:00:00",
+      10612,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 18 2006 00:00:00",
+      11654,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 19 2006 00:00:00",
+      11408,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 20 2006 00:00:00",
+      10812,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 21 2006 00:00:00",
+      10659,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 22 2006 00:00:00",
+      9682,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 23 2006 00:00:00",
+      8972,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 24 2006 00:00:00",
+      8521,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 25 2006 00:00:00",
+      7289,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 26 2006 00:00:00",
+      7249,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 27 2006 00:00:00",
+      6594,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 28 2006 00:00:00",
+      6202,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 29 2006 00:00:00",
+      5883,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "September, 30 2006 00:00:00",
+      5125,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 1 2006 00:00:00",
+      4249,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 2 2006 00:00:00",
+      4066,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 3 2006 00:00:00",
+      3358,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 4 2006 00:00:00",
+      2961,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 5 2006 00:00:00",
+      2503,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 6 2006 00:00:00",
+      2534,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 7 2006 00:00:00",
+      2129,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 8 2006 00:00:00",
+      1760,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 9 2006 00:00:00",
+      1425,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 10 2006 00:00:00",
+      1127,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 11 2006 00:00:00",
+      862,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 12 2006 00:00:00",
+      634,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 13 2006 00:00:00",
+      440,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 14 2006 00:00:00",
+      282,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 15 2006 00:00:00",
+      158,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 16 2006 00:00:00",
+      70,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 17 2006 00:00:00",
+      18,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ],
+    [
+      2006,
+      "October, 18 2006 00:00:00",
+      0,
+      450,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chum"
+    ]
+  ]
+}

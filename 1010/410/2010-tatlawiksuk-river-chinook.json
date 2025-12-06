@@ -1,0 +1,684 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "August, 1 2010 00:00:00",
+      1,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      3,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      1,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 12 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 13 2010 00:00:00",
+      3,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 14 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 15 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 16 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 17 2010 00:00:00",
+      1,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 18 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 19 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 2 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 20 2010 00:00:00",
+      1,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 21 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 22 2010 00:00:00",
+      1,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 23 2010 00:00:00",
+      1,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 24 2010 00:00:00",
+      3,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 25 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 26 2010 00:00:00",
+      5,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 27 2010 00:00:00",
+      2,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 28 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 29 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 3 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 30 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 31 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 4 2010 00:00:00",
+      2,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 5 2010 00:00:00",
+      3,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 6 2010 00:00:00",
+      1,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 7 2010 00:00:00",
+      1,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 8 2010 00:00:00",
+      1,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "August, 9 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 1 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      1,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 2 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      2,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      1,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 3 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      2,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 4 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 5 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 6 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 7 2010 00:00:00",
+      3,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 8 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "July, 9 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "September, 1 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "September, 10 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "September, 2 2010 00:00:00",
+      1,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "September, 3 2010 00:00:00",
+      2,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "September, 4 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "September, 5 2010 00:00:00",
+      1,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "September, 6 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "September, 7 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "September, 8 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ],
+    [
+      2010,
+      "September, 9 2010 00:00:00",
+      0,
+      410,
+      1010,
+      "Yukon River Sonar",
+      "Chinook Salmon"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1010,
+    "species_id": "410",
+    "year": "2010",
+    "totalRecords": 24,
+    "totalCount": 417,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2010-12-31T00:00:00",
+    "total_records": 73,
+    "date_range": {
+      "start": "August, 1 2010 00:00:00",
+      "end": "September, 9 2010 00:00:00"
+    }
+  }
+}

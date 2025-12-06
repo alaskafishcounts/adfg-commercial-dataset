@@ -1,0 +1,454 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "June, 25 2012 00:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 26 2012 00:00:00",
+      10,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 27 2012 00:00:00",
+      15,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 28 2012 00:00:00",
+      7,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 29 2012 00:00:00",
+      81,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 30 2012 00:00:00",
+      105,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 1 2012 00:00:00",
+      13,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 2 2012 00:00:00",
+      20,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 3 2012 00:00:00",
+      30,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 4 2012 00:00:00",
+      45,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 5 2012 00:00:00",
+      54,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 6 2012 00:00:00",
+      73,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 7 2012 00:00:00",
+      85,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 8 2012 00:00:00",
+      107,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 9 2012 00:00:00",
+      133,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 10 2012 00:00:00",
+      178,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 11 2012 00:00:00",
+      307,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 12 2012 00:00:00",
+      294,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 13 2012 00:00:00",
+      201,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 14 2012 00:00:00",
+      209,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 15 2012 00:00:00",
+      217,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 16 2012 00:00:00",
+      216,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 17 2012 00:00:00",
+      213,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 18 2012 00:00:00",
+      118,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 19 2012 00:00:00",
+      119,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 20 2012 00:00:00",
+      87,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 21 2012 00:00:00",
+      59,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 22 2012 00:00:00",
+      152,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 23 2012 00:00:00",
+      113,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 24 2012 00:00:00",
+      144,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 25 2012 00:00:00",
+      70,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 26 2012 00:00:00",
+      135,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 27 2012 00:00:00",
+      72,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 28 2012 00:00:00",
+      47,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 29 2012 00:00:00",
+      114,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 30 2012 00:00:00",
+      63,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 31 2012 00:00:00",
+      68,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 1 2012 00:00:00",
+      55,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 2 2012 00:00:00",
+      38,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 3 2012 00:00:00",
+      31,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 4 2012 00:00:00",
+      19,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 5 2012 00:00:00",
+      11,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 6 2012 00:00:00",
+      12,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 7 2012 00:00:00",
+      9,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 8 2012 00:00:00",
+      5,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 9 2012 00:00:00",
+      6,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 10 2012 00:00:00",
+      2,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 11 2012 00:00:00",
+      1,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1007,
+    "species_id": "450",
+    "year": "2012",
+    "totalRecords": 48,
+    "totalCount": 4163,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2012-12-31T00:00:00"
+  }
+}

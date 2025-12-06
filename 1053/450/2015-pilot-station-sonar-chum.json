@@ -1,0 +1,859 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "May, 30 2015 00:00:00",
+      95,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "May, 31 2015 00:00:00",
+      353,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 1 2015 00:00:00",
+      753,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 2 2015 00:00:00",
+      784,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 3 2015 00:00:00",
+      2227,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 4 2015 00:00:00",
+      825,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 5 2015 00:00:00",
+      1244,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 6 2015 00:00:00",
+      3029,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 7 2015 00:00:00",
+      6004,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 8 2015 00:00:00",
+      13254,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 9 2015 00:00:00",
+      16097,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 10 2015 00:00:00",
+      12424,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 11 2015 00:00:00",
+      16727,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 12 2015 00:00:00",
+      13096,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 13 2015 00:00:00",
+      8755,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 14 2015 00:00:00",
+      20537,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 15 2015 00:00:00",
+      16759,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 16 2015 00:00:00",
+      43937,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 17 2015 00:00:00",
+      53692,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 18 2015 00:00:00",
+      41392,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 19 2015 00:00:00",
+      32658,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 20 2015 00:00:00",
+      46892,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 21 2015 00:00:00",
+      53657,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 22 2015 00:00:00",
+      30005,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 23 2015 00:00:00",
+      16894,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 24 2015 00:00:00",
+      8957,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 25 2015 00:00:00",
+      77451,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 26 2015 00:00:00",
+      44076,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 27 2015 00:00:00",
+      140561,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 28 2015 00:00:00",
+      138314,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 29 2015 00:00:00",
+      134559,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "June, 30 2015 00:00:00",
+      94150,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 1 2015 00:00:00",
+      41791,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 2 2015 00:00:00",
+      31459,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 3 2015 00:00:00",
+      77580,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 4 2015 00:00:00",
+      63322,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 5 2015 00:00:00",
+      40897,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 6 2015 00:00:00",
+      43199,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 7 2015 00:00:00",
+      21278,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 8 2015 00:00:00",
+      19803,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 9 2015 00:00:00",
+      14963,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 10 2015 00:00:00",
+      24255,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 11 2015 00:00:00",
+      30411,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 12 2015 00:00:00",
+      14933,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 13 2015 00:00:00",
+      20154,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 14 2015 00:00:00",
+      21151,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 15 2015 00:00:00",
+      15054,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 16 2015 00:00:00",
+      10998,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 17 2015 00:00:00",
+      5144,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 18 2015 00:00:00",
+      4955,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 19 2015 00:00:00",
+      11888,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 20 2015 00:00:00",
+      61921,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 21 2015 00:00:00",
+      57071,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 22 2015 00:00:00",
+      22162,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 23 2015 00:00:00",
+      6686,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 24 2015 00:00:00",
+      5000,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 25 2015 00:00:00",
+      5560,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 26 2015 00:00:00",
+      7009,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 27 2015 00:00:00",
+      6198,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 28 2015 00:00:00",
+      4194,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 29 2015 00:00:00",
+      14796,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 30 2015 00:00:00",
+      17204,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 31 2015 00:00:00",
+      18410,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 1 2015 00:00:00",
+      11261,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 2 2015 00:00:00",
+      3386,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 3 2015 00:00:00",
+      5707,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 4 2015 00:00:00",
+      15969,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 5 2015 00:00:00",
+      15144,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 6 2015 00:00:00",
+      13116,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 7 2015 00:00:00",
+      7038,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 8 2015 00:00:00",
+      5530,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 9 2015 00:00:00",
+      4790,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 10 2015 00:00:00",
+      5130,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 11 2015 00:00:00",
+      4986,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 12 2015 00:00:00",
+      17542,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 13 2015 00:00:00",
+      44230,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 14 2015 00:00:00",
+      48708,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 15 2015 00:00:00",
+      27217,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 16 2015 00:00:00",
+      18801,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 17 2015 00:00:00",
+      4440,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 18 2015 00:00:00",
+      3301,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 19 2015 00:00:00",
+      1375,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 20 2015 00:00:00",
+      1311,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 21 2015 00:00:00",
+      31714,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 22 2015 00:00:00",
+      33210,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 23 2015 00:00:00",
+      8673,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 24 2015 00:00:00",
+      7022,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 25 2015 00:00:00",
+      9766,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 26 2015 00:00:00",
+      6603,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 27 2015 00:00:00",
+      19655,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 28 2015 00:00:00",
+      26466,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 29 2015 00:00:00",
+      15575,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 30 2015 00:00:00",
+      8444,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 31 2015 00:00:00",
+      5274,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ]
+  ]
+}

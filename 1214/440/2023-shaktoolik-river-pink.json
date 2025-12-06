@@ -1,0 +1,328 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "June, 26 2023 00:00:00",
+      0,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 27 2023 00:00:00",
+      3,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 28 2023 00:00:00",
+      21,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 29 2023 00:00:00",
+      9,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 30 2023 00:00:00",
+      9,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 1 2023 00:00:00",
+      225,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 2 2023 00:00:00",
+      375,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 3 2023 00:00:00",
+      204,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 4 2023 00:00:00",
+      72,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 5 2023 00:00:00",
+      222,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 6 2023 00:00:00",
+      477,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 7 2023 00:00:00",
+      1023,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 8 2023 00:00:00",
+      1404,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 9 2023 00:00:00",
+      1854,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 10 2023 00:00:00",
+      411,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 30 2023 00:00:00",
+      2856,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 31 2023 00:00:00",
+      2601,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 1 2023 00:00:00",
+      1884,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 2 2023 00:00:00",
+      2244,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 3 2023 00:00:00",
+      2217,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 4 2023 00:00:00",
+      2370,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 6 2023 00:00:00",
+      804,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 7 2023 00:00:00",
+      1644,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 8 2023 00:00:00",
+      1932,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 9 2023 00:00:00",
+      1917,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 10 2023 00:00:00",
+      1365,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 11 2023 00:00:00",
+      564,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 12 2023 00:00:00",
+      165,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 13 2023 00:00:00",
+      156,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 14 2023 00:00:00",
+      78,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 15 2023 00:00:00",
+      27,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 16 2023 00:00:00",
+      114,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 17 2023 00:00:00",
+      54,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 18 2023 00:00:00",
+      51,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 19 2023 00:00:00",
+      -3,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ]
+  ]
+}

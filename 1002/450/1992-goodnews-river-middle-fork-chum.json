@@ -1,0 +1,652 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "June, 22 1992 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "June, 23 1992 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "June, 24 1992 00:00:00",
+      2,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "June, 25 1992 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "June, 26 1992 00:00:00",
+      28,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "June, 27 1992 00:00:00",
+      66,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "June, 28 1992 00:00:00",
+      173,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "June, 29 1992 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "June, 30 1992 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 1 1992 00:00:00",
+      3,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 2 1992 00:00:00",
+      7,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 3 1992 00:00:00",
+      8,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 4 1992 00:00:00",
+      26,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 5 1992 00:00:00",
+      52,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 6 1992 00:00:00",
+      94,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 7 1992 00:00:00",
+      161,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 8 1992 00:00:00",
+      246,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 9 1992 00:00:00",
+      395,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 10 1992 00:00:00",
+      409,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 11 1992 00:00:00",
+      677,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 12 1992 00:00:00",
+      920,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 13 1992 00:00:00",
+      342,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 14 1992 00:00:00",
+      1071,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 15 1992 00:00:00",
+      1177,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 16 1992 00:00:00",
+      685,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 17 1992 00:00:00",
+      1777,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 18 1992 00:00:00",
+      672,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 19 1992 00:00:00",
+      880,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 20 1992 00:00:00",
+      356,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 21 1992 00:00:00",
+      410,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 22 1992 00:00:00",
+      974,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 23 1992 00:00:00",
+      1019,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 24 1992 00:00:00",
+      1114,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 25 1992 00:00:00",
+      1191,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 26 1992 00:00:00",
+      607,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 27 1992 00:00:00",
+      681,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 28 1992 00:00:00",
+      599,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 29 1992 00:00:00",
+      821,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 30 1992 00:00:00",
+      606,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "July, 31 1992 00:00:00",
+      161,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 1 1992 00:00:00",
+      230,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 2 1992 00:00:00",
+      312,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 3 1992 00:00:00",
+      163,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 4 1992 00:00:00",
+      239,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 5 1992 00:00:00",
+      207,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 6 1992 00:00:00",
+      182,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 7 1992 00:00:00",
+      160,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 8 1992 00:00:00",
+      136,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 9 1992 00:00:00",
+      120,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 10 1992 00:00:00",
+      106,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 11 1992 00:00:00",
+      94,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 12 1992 00:00:00",
+      85,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 13 1992 00:00:00",
+      69,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 14 1992 00:00:00",
+      58,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 15 1992 00:00:00",
+      51,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 16 1992 00:00:00",
+      46,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 17 1992 00:00:00",
+      36,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 18 1992 00:00:00",
+      34,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 19 1992 00:00:00",
+      28,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 20 1992 00:00:00",
+      24,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 21 1992 00:00:00",
+      20,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 22 1992 00:00:00",
+      18,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 23 1992 00:00:00",
+      15,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 24 1992 00:00:00",
+      14,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 25 1992 00:00:00",
+      11,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 26 1992 00:00:00",
+      10,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 27 1992 00:00:00",
+      8,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 28 1992 00:00:00",
+      7,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 29 1992 00:00:00",
+      6,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 30 1992 00:00:00",
+      5,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 31 1992 00:00:00",
+      4,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ]
+  ]
+}

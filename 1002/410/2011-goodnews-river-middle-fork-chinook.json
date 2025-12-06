@@ -1,0 +1,796 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "June, 24 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "June, 25 2011 00:00:00",
+      1,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "June, 26 2011 00:00:00",
+      9,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "June, 27 2011 00:00:00",
+      4,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "June, 28 2011 00:00:00",
+      4,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "June, 29 2011 00:00:00",
+      28,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "June, 30 2011 00:00:00",
+      15,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 1 2011 00:00:00",
+      16,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 2 2011 00:00:00",
+      10,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 3 2011 00:00:00",
+      15,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 4 2011 00:00:00",
+      11,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 5 2011 00:00:00",
+      28,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 6 2011 00:00:00",
+      5,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 7 2011 00:00:00",
+      10,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 8 2011 00:00:00",
+      23,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 9 2011 00:00:00",
+      160,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 10 2011 00:00:00",
+      73,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 11 2011 00:00:00",
+      101,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 12 2011 00:00:00",
+      108,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 13 2011 00:00:00",
+      120,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 14 2011 00:00:00",
+      120,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 15 2011 00:00:00",
+      18,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 16 2011 00:00:00",
+      46,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 17 2011 00:00:00",
+      49,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 18 2011 00:00:00",
+      42,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      39,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 20 2011 00:00:00",
+      121,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 21 2011 00:00:00",
+      67,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 22 2011 00:00:00",
+      169,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 23 2011 00:00:00",
+      81,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 24 2011 00:00:00",
+      129,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 25 2011 00:00:00",
+      54,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 26 2011 00:00:00",
+      79,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 27 2011 00:00:00",
+      58,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 28 2011 00:00:00",
+      11,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 29 2011 00:00:00",
+      66,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 30 2011 00:00:00",
+      23,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 31 2011 00:00:00",
+      17,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 1 2011 00:00:00",
+      31,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 2 2011 00:00:00",
+      19,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 3 2011 00:00:00",
+      15,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 4 2011 00:00:00",
+      13,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 5 2011 00:00:00",
+      20,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 6 2011 00:00:00",
+      17,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 7 2011 00:00:00",
+      5,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 8 2011 00:00:00",
+      3,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 9 2011 00:00:00",
+      29,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 10 2011 00:00:00",
+      30,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 11 2011 00:00:00",
+      12,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 12 2011 00:00:00",
+      6,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 13 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 14 2011 00:00:00",
+      10,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 15 2011 00:00:00",
+      2,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 16 2011 00:00:00",
+      4,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 17 2011 00:00:00",
+      2,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 18 2011 00:00:00",
+      2,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 19 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 20 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 21 2011 00:00:00",
+      3,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 22 2011 00:00:00",
+      2,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 23 2011 00:00:00",
+      1,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 24 2011 00:00:00",
+      3,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 25 2011 00:00:00",
+      4,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 26 2011 00:00:00",
+      5,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 27 2011 00:00:00",
+      4,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 28 2011 00:00:00",
+      3,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 29 2011 00:00:00",
+      1,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 30 2011 00:00:00",
+      1,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "August, 31 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 1 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 2 2011 00:00:00",
+      2,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 3 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 4 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 5 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 6 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 7 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 8 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 9 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 10 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 11 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 12 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 13 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 14 2011 00:00:00",
+      1,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 15 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 16 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 17 2011 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2011,
+      "September, 18 2011 00:00:00",
+      1,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ]
+  ]
+}

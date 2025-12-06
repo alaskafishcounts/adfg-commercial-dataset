@@ -1,0 +1,832 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "June, 2 2019 00:00:00",
+      337,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 3 2019 00:00:00",
+      864,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 4 2019 00:00:00",
+      445,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 5 2019 00:00:00",
+      908,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 6 2019 00:00:00",
+      2635,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 7 2019 00:00:00",
+      2122,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 8 2019 00:00:00",
+      2861,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 9 2019 00:00:00",
+      2103,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 10 2019 00:00:00",
+      2617,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 11 2019 00:00:00",
+      1817,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 12 2019 00:00:00",
+      1235,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 13 2019 00:00:00",
+      1647,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 14 2019 00:00:00",
+      4006,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 15 2019 00:00:00",
+      2394,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 16 2019 00:00:00",
+      2891,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 17 2019 00:00:00",
+      3765,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 18 2019 00:00:00",
+      8548,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 19 2019 00:00:00",
+      5379,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 20 2019 00:00:00",
+      11696,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 21 2019 00:00:00",
+      12846,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 22 2019 00:00:00",
+      5946,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 23 2019 00:00:00",
+      4973,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 24 2019 00:00:00",
+      7746,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 25 2019 00:00:00",
+      13890,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 26 2019 00:00:00",
+      8109,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 27 2019 00:00:00",
+      3352,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 28 2019 00:00:00",
+      8539,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 29 2019 00:00:00",
+      11511,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 30 2019 00:00:00",
+      20404,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 1 2019 00:00:00",
+      6047,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 2 2019 00:00:00",
+      11318,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 3 2019 00:00:00",
+      12580,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 4 2019 00:00:00",
+      10155,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 5 2019 00:00:00",
+      4157,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 6 2019 00:00:00",
+      2388,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 7 2019 00:00:00",
+      3061,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 8 2019 00:00:00",
+      1123,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 9 2019 00:00:00",
+      868,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 10 2019 00:00:00",
+      1234,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 11 2019 00:00:00",
+      420,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 12 2019 00:00:00",
+      473,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 13 2019 00:00:00",
+      470,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 14 2019 00:00:00",
+      739,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 15 2019 00:00:00",
+      390,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 16 2019 00:00:00",
+      254,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 17 2019 00:00:00",
+      527,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 18 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 19 2019 00:00:00",
+      96,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 20 2019 00:00:00",
+      318,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 21 2019 00:00:00",
+      1451,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 22 2019 00:00:00",
+      595,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 23 2019 00:00:00",
+      520,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 24 2019 00:00:00",
+      440,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 25 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      188,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 27 2019 00:00:00",
+      172,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 28 2019 00:00:00",
+      339,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 29 2019 00:00:00",
+      165,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 30 2019 00:00:00",
+      294,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 31 2019 00:00:00",
+      149,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 1 2019 00:00:00",
+      751,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 2 2019 00:00:00",
+      786,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 3 2019 00:00:00",
+      462,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 4 2019 00:00:00",
+      329,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 5 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 6 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 7 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 8 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 9 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 10 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 11 2019 00:00:00",
+      135,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 12 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 13 2019 00:00:00",
+      194,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 14 2019 00:00:00",
+      211,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 15 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 16 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 17 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 18 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 19 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 20 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 21 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 22 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 23 2019 00:00:00",
+      102,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 24 2019 00:00:00",
+      137,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 25 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 26 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 27 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 28 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 29 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 30 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 31 2019 00:00:00",
+      0,
+      410,
+      1053,
+      "Pilot Station Sonar",
+      "Chinook"
+    ]
+  ]
+}

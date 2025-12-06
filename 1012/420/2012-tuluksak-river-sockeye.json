@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "June, 25 2012 00:00:00",
+      0,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 26 2012 00:00:00",
+      1,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 27 2012 00:00:00",
+      3,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 28 2012 00:00:00",
+      4,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 29 2012 00:00:00",
+      7,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 30 2012 00:00:00",
+      5,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 1 2012 00:00:00",
+      2,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 2 2012 00:00:00",
+      12,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 3 2012 00:00:00",
+      21,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 4 2012 00:00:00",
+      8,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 5 2012 00:00:00",
+      11,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 6 2012 00:00:00",
+      10,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 7 2012 00:00:00",
+      17,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 8 2012 00:00:00",
+      13,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 9 2012 00:00:00",
+      9,
+      420,
+      1012,
+      "Tuluksak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1012,
+    "species_id": "420",
+    "year": "2012",
+    "totalRecords": 15,
+    "totalCount": 123,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2012-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,652 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "June, 25 2002 00:00:00",
+      0,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 26 2002 00:00:00",
+      1,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 27 2002 00:00:00",
+      9,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 28 2002 00:00:00",
+      46,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 29 2002 00:00:00",
+      139,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 30 2002 00:00:00",
+      301,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 1 2002 00:00:00",
+      524,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 2 2002 00:00:00",
+      1128,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 3 2002 00:00:00",
+      603,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 4 2002 00:00:00",
+      1457,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 5 2002 00:00:00",
+      3152,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 6 2002 00:00:00",
+      1326,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 7 2002 00:00:00",
+      1928,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 8 2002 00:00:00",
+      2008,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 9 2002 00:00:00",
+      1605,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 10 2002 00:00:00",
+      2404,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 11 2002 00:00:00",
+      2645,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 12 2002 00:00:00",
+      1686,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 13 2002 00:00:00",
+      2292,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 14 2002 00:00:00",
+      2303,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 15 2002 00:00:00",
+      2083,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 16 2002 00:00:00",
+      1388,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 17 2002 00:00:00",
+      3186,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 18 2002 00:00:00",
+      2509,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 19 2002 00:00:00",
+      1217,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 20 2002 00:00:00",
+      1678,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 21 2002 00:00:00",
+      1402,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 22 2002 00:00:00",
+      2775,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 23 2002 00:00:00",
+      2184,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 24 2002 00:00:00",
+      1789,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 25 2002 00:00:00",
+      1474,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 26 2002 00:00:00",
+      1149,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 27 2002 00:00:00",
+      926,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 28 2002 00:00:00",
+      1407,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 29 2002 00:00:00",
+      1135,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 30 2002 00:00:00",
+      952,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 31 2002 00:00:00",
+      1221,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 1 2002 00:00:00",
+      1131,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 2 2002 00:00:00",
+      446,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 3 2002 00:00:00",
+      700,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 4 2002 00:00:00",
+      557,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 5 2002 00:00:00",
+      470,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 6 2002 00:00:00",
+      208,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 7 2002 00:00:00",
+      199,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 8 2002 00:00:00",
+      154,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 9 2002 00:00:00",
+      153,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 10 2002 00:00:00",
+      120,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 11 2002 00:00:00",
+      94,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 12 2002 00:00:00",
+      2,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 13 2002 00:00:00",
+      194,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 14 2002 00:00:00",
+      66,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 15 2002 00:00:00",
+      93,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 16 2002 00:00:00",
+      77,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 17 2002 00:00:00",
+      52,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 18 2002 00:00:00",
+      28,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 19 2002 00:00:00",
+      30,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 20 2002 00:00:00",
+      18,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 21 2002 00:00:00",
+      43,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 22 2002 00:00:00",
+      26,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 23 2002 00:00:00",
+      22,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 24 2002 00:00:00",
+      24,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 25 2002 00:00:00",
+      16,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 26 2002 00:00:00",
+      7,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 27 2002 00:00:00",
+      10,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 28 2002 00:00:00",
+      20,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 29 2002 00:00:00",
+      11,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 30 2002 00:00:00",
+      3,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "August, 31 2002 00:00:00",
+      13,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 1 2002 00:00:00",
+      5,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "September, 2 2002 00:00:00",
+      6,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1003,
+    "species_id": "420",
+    "year": "2002",
+    "totalRecords": 70,
+    "totalCount": 59030,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2002-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,814 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "June, 25 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "June, 26 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "June, 27 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "June, 28 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "June, 29 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "June, 30 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 1 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 2 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 3 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 4 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 5 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 6 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 7 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 8 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 9 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 10 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 11 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 12 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 13 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 14 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 15 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 16 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 17 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 18 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 19 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 20 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 21 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 22 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 23 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 24 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 25 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 26 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 27 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 28 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 29 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 30 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "July, 31 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 1 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 2 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 3 2009 00:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 4 2009 00:00:00",
+      1,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 5 2009 00:00:00",
+      2,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 6 2009 00:00:00",
+      42,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 7 2009 00:00:00",
+      4,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 8 2009 00:00:00",
+      9,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 9 2009 00:00:00",
+      43,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 10 2009 00:00:00",
+      46,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 11 2009 00:00:00",
+      107,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 12 2009 00:00:00",
+      12,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 13 2009 00:00:00",
+      48,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 14 2009 00:00:00",
+      65,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 15 2009 00:00:00",
+      48,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 16 2009 00:00:00",
+      220,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 17 2009 00:00:00",
+      88,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 18 2009 00:00:00",
+      112,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 19 2009 00:00:00",
+      95,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 20 2009 00:00:00",
+      189,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 21 2009 00:00:00",
+      107,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 22 2009 00:00:00",
+      82,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 23 2009 00:00:00",
+      230,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 24 2009 00:00:00",
+      538,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 25 2009 00:00:00",
+      818,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 26 2009 00:00:00",
+      312,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 27 2009 00:00:00",
+      580,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 28 2009 00:00:00",
+      1450,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 29 2009 00:00:00",
+      984,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 30 2009 00:00:00",
+      2913,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 31 2009 00:00:00",
+      688,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 1 2009 00:00:00",
+      315,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 2 2009 00:00:00",
+      18,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 3 2009 00:00:00",
+      333,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 4 2009 00:00:00",
+      529,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 5 2009 00:00:00",
+      766,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 6 2009 00:00:00",
+      723,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 7 2009 00:00:00",
+      479,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 8 2009 00:00:00",
+      356,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 9 2009 00:00:00",
+      944,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 10 2009 00:00:00",
+      681,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 11 2009 00:00:00",
+      745,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 12 2009 00:00:00",
+      573,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 13 2009 00:00:00",
+      512,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 14 2009 00:00:00",
+      299,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 15 2009 00:00:00",
+      687,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 16 2009 00:00:00",
+      567,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 17 2009 00:00:00",
+      301,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 18 2009 00:00:00",
+      462,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 19 2009 00:00:00",
+      405,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 20 2009 00:00:00",
+      171,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2009,
+      "September, 21 2009 00:00:00",
+      106,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ]
+  ]
+}

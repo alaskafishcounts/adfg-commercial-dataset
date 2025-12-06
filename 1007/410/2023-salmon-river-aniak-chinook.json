@@ -1,0 +1,261 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "July, 1 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 10 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 11 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 12 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 13 2023 00:00:00",
+      3,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 14 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 15 2023 00:00:00",
+      2,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 16 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 17 2023 00:00:00",
+      1,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 18 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 19 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 2 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 20 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 22 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 23 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 24 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 25 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 26 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 3 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 4 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 5 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 6 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 7 2023 00:00:00",
+      1,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 8 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "July, 9 2023 00:00:00",
+      1,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ],
+    [
+      2023,
+      "June, 30 2023 00:00:00",
+      0,
+      410,
+      1007,
+      "Norton River Daily Escapement",
+      "Chinook Salmon"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1007,
+    "species_id": "410",
+    "year": "2023",
+    "totalRecords": 33,
+    "totalCount": 957,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00",
+    "total_records": 26,
+    "date_range": {
+      "start": "July, 1 2023 00:00:00",
+      "end": "June, 30 2023 00:00:00"
+    }
+  }
+}

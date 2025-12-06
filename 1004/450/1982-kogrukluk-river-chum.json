@@ -1,0 +1,472 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "June, 26 1982 00:00:00",
+      4,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "June, 27 1982 00:00:00",
+      11,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "June, 28 1982 00:00:00",
+      63,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "June, 29 1982 00:00:00",
+      222,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "June, 30 1982 00:00:00",
+      553,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 1 1982 00:00:00",
+      1019,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 2 1982 00:00:00",
+      1563,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 3 1982 00:00:00",
+      2127,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 4 1982 00:00:00",
+      2617,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 5 1982 00:00:00",
+      3019,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 6 1982 00:00:00",
+      3305,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 7 1982 00:00:00",
+      3456,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 8 1982 00:00:00",
+      4469,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 9 1982 00:00:00",
+      3396,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 10 1982 00:00:00",
+      2999,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 11 1982 00:00:00",
+      2581,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 12 1982 00:00:00",
+      2961,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 13 1982 00:00:00",
+      2442,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 14 1982 00:00:00",
+      1945,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 15 1982 00:00:00",
+      2421,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 16 1982 00:00:00",
+      3018,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 17 1982 00:00:00",
+      2563,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 18 1982 00:00:00",
+      1919,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 19 1982 00:00:00",
+      1710,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 20 1982 00:00:00",
+      1414,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 21 1982 00:00:00",
+      904,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 22 1982 00:00:00",
+      916,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 23 1982 00:00:00",
+      747,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 24 1982 00:00:00",
+      638,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 25 1982 00:00:00",
+      547,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 26 1982 00:00:00",
+      476,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 27 1982 00:00:00",
+      393,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 28 1982 00:00:00",
+      384,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 29 1982 00:00:00",
+      440,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 30 1982 00:00:00",
+      273,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "July, 31 1982 00:00:00",
+      230,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 1 1982 00:00:00",
+      187,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 2 1982 00:00:00",
+      172,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 3 1982 00:00:00",
+      91,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 4 1982 00:00:00",
+      104,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 5 1982 00:00:00",
+      32,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 6 1982 00:00:00",
+      37,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 7 1982 00:00:00",
+      22,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 8 1982 00:00:00",
+      38,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 9 1982 00:00:00",
+      19,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 10 1982 00:00:00",
+      16,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 11 1982 00:00:00",
+      15,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 12 1982 00:00:00",
+      6,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 13 1982 00:00:00",
+      2,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1982,
+      "August, 14 1982 00:00:00",
+      0,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "450",
+    "year": "1982",
+    "totalRecords": 50,
+    "totalCount": 58486,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1982-12-31T00:00:00"
+  }
+}

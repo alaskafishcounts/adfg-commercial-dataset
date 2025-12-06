@@ -1,0 +1,742 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "June, 18 2003 00:00:00",
+      111,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 19 2003 00:00:00",
+      182,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 20 2003 00:00:00",
+      368,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 21 2003 00:00:00",
+      467,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 22 2003 00:00:00",
+      382,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 23 2003 00:00:00",
+      815,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 24 2003 00:00:00",
+      2088,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 25 2003 00:00:00",
+      1821,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 26 2003 00:00:00",
+      1867,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 27 2003 00:00:00",
+      3098,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 28 2003 00:00:00",
+      8016,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 29 2003 00:00:00",
+      6399,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 30 2003 00:00:00",
+      7431,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 1 2003 00:00:00",
+      7097,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 2 2003 00:00:00",
+      6896,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 3 2003 00:00:00",
+      9163,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 4 2003 00:00:00",
+      6233,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 5 2003 00:00:00",
+      5621,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 6 2003 00:00:00",
+      6477,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 7 2003 00:00:00",
+      4884,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 8 2003 00:00:00",
+      5284,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 9 2003 00:00:00",
+      3714,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 10 2003 00:00:00",
+      3949,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 11 2003 00:00:00",
+      2069,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 12 2003 00:00:00",
+      3852,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 13 2003 00:00:00",
+      3879,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 14 2003 00:00:00",
+      3574,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 15 2003 00:00:00",
+      2045,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 16 2003 00:00:00",
+      2481,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 17 2003 00:00:00",
+      1935,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 18 2003 00:00:00",
+      1216,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 19 2003 00:00:00",
+      1323,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 20 2003 00:00:00",
+      1588,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 21 2003 00:00:00",
+      918,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 22 2003 00:00:00",
+      1740,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 23 2003 00:00:00",
+      1237,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 24 2003 00:00:00",
+      937,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 25 2003 00:00:00",
+      962,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 26 2003 00:00:00",
+      914,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 27 2003 00:00:00",
+      728,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 28 2003 00:00:00",
+      667,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 29 2003 00:00:00",
+      724,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 30 2003 00:00:00",
+      802,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 31 2003 00:00:00",
+      572,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 1 2003 00:00:00",
+      442,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 2 2003 00:00:00",
+      408,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 3 2003 00:00:00",
+      270,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 4 2003 00:00:00",
+      198,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 5 2003 00:00:00",
+      154,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 6 2003 00:00:00",
+      253,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 7 2003 00:00:00",
+      131,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 8 2003 00:00:00",
+      95,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 9 2003 00:00:00",
+      49,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 10 2003 00:00:00",
+      88,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 11 2003 00:00:00",
+      127,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 12 2003 00:00:00",
+      87,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 13 2003 00:00:00",
+      73,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 14 2003 00:00:00",
+      86,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 15 2003 00:00:00",
+      114,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 16 2003 00:00:00",
+      100,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 17 2003 00:00:00",
+      71,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 18 2003 00:00:00",
+      47,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 19 2003 00:00:00",
+      33,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 20 2003 00:00:00",
+      42,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 21 2003 00:00:00",
+      27,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 22 2003 00:00:00",
+      20,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 23 2003 00:00:00",
+      10,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 24 2003 00:00:00",
+      13,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 25 2003 00:00:00",
+      14,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 26 2003 00:00:00",
+      12,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 27 2003 00:00:00",
+      25,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 28 2003 00:00:00",
+      16,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 29 2003 00:00:00",
+      22,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 30 2003 00:00:00",
+      6,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 31 2003 00:00:00",
+      9,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "September, 1 2003 00:00:00",
+      11,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "September, 2 2003 00:00:00",
+      3,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "September, 3 2003 00:00:00",
+      7,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "September, 4 2003 00:00:00",
+      5,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "September, 5 2003 00:00:00",
+      8,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1003,
+    "species_id": "420",
+    "year": "2003",
+    "totalRecords": 80,
+    "totalCount": 129602,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2003-12-31T00:00:00"
+  }
+}

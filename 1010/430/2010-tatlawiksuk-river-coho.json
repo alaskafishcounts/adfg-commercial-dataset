@@ -1,0 +1,472 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "June, 26 2010 00:00:00",
+      0,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "June, 27 2010 00:00:00",
+      1,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      2,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      3,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      8,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 1 2010 00:00:00",
+      10,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 2 2010 00:00:00",
+      14,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 3 2010 00:00:00",
+      41,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 4 2010 00:00:00",
+      49,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 5 2010 00:00:00",
+      26,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 6 2010 00:00:00",
+      31,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 7 2010 00:00:00",
+      43,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 8 2010 00:00:00",
+      37,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 9 2010 00:00:00",
+      62,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      67,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      82,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      94,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      97,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      107,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      70,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      132,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      144,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      143,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      150,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      154,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      119,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      100,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      174,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      171,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      184,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      141,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      210,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      147,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      99,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      106,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      110,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 1 2010 00:00:00",
+      86,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 2 2010 00:00:00",
+      92,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 3 2010 00:00:00",
+      53,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 4 2010 00:00:00",
+      72,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 5 2010 00:00:00",
+      40,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 6 2010 00:00:00",
+      48,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 7 2010 00:00:00",
+      39,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 8 2010 00:00:00",
+      46,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 9 2010 00:00:00",
+      44,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      35,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      20,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 12 2010 00:00:00",
+      23,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 13 2010 00:00:00",
+      15,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 14 2010 00:00:00",
+      13,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1010,
+    "species_id": "430",
+    "year": "2010",
+    "totalRecords": 50,
+    "totalCount": 3754,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2010-12-31T00:00:00"
+  }
+}

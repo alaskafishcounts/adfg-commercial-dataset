@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "August, 8 2022 00:00:00",
+      10,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 9 2022 00:00:00",
+      8,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 10 2022 00:00:00",
+      26,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 11 2022 00:00:00",
+      32,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 12 2022 00:00:00",
+      49,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 13 2022 00:00:00",
+      58,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 14 2022 00:00:00",
+      62,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 15 2022 00:00:00",
+      48,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 16 2022 00:00:00",
+      48,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 17 2022 00:00:00",
+      48,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 18 2022 00:00:00",
+      48,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 19 2022 00:00:00",
+      42,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 20 2022 00:00:00",
+      49,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 21 2022 00:00:00",
+      71,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 22 2022 00:00:00",
+      70,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 23 2022 00:00:00",
+      33,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 24 2022 00:00:00",
+      52,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 25 2022 00:00:00",
+      62,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      78,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 27 2022 00:00:00",
+      116,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 28 2022 00:00:00",
+      88,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 29 2022 00:00:00",
+      100,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 30 2022 00:00:00",
+      190,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 31 2022 00:00:00",
+      137,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 1 2022 00:00:00",
+      126,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 2 2022 00:00:00",
+      104,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 3 2022 00:00:00",
+      136,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 4 2022 00:00:00",
+      150,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 5 2022 00:00:00",
+      152,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 6 2022 00:00:00",
+      174,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 7 2022 00:00:00",
+      268,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 8 2022 00:00:00",
+      263,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 9 2022 00:00:00",
+      380,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 10 2022 00:00:00",
+      386,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 11 2022 00:00:00",
+      380,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 12 2022 00:00:00",
+      498,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 13 2022 00:00:00",
+      541,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 14 2022 00:00:00",
+      518,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 15 2022 00:00:00",
+      519,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 16 2022 00:00:00",
+      605,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 17 2022 00:00:00",
+      780,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 18 2022 00:00:00",
+      720,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 19 2022 00:00:00",
+      672,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 20 2022 00:00:00",
+      660,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 21 2022 00:00:00",
+      584,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 22 2022 00:00:00",
+      576,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 23 2022 00:00:00",
+      452,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 24 2022 00:00:00",
+      434,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 25 2022 00:00:00",
+      337,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 26 2022 00:00:00",
+      416,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 27 2022 00:00:00",
+      354,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 28 2022 00:00:00",
+      298,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 29 2022 00:00:00",
+      246,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 30 2022 00:00:00",
+      200,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 1 2022 00:00:00",
+      158,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 2 2022 00:00:00",
+      121,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 3 2022 00:00:00",
+      89,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 4 2022 00:00:00",
+      62,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 5 2022 00:00:00",
+      39,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 6 2022 00:00:00",
+      22,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 7 2022 00:00:00",
+      10,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 8 2022 00:00:00",
+      2,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2022,
+      "October, 9 2022 00:00:00",
+      0,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ]
+  ]
+}

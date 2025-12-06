@@ -1,0 +1,616 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "June, 20 2020 00:00:00",
+      1,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 21 2020 00:00:00",
+      0,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 22 2020 00:00:00",
+      3,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 23 2020 00:00:00",
+      4,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 24 2020 00:00:00",
+      2,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 25 2020 00:00:00",
+      5,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 26 2020 00:00:00",
+      8,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 27 2020 00:00:00",
+      28,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 28 2020 00:00:00",
+      17,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 29 2020 00:00:00",
+      7,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 30 2020 00:00:00",
+      6,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 1 2020 00:00:00",
+      13,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 2 2020 00:00:00",
+      30,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 3 2020 00:00:00",
+      55,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 4 2020 00:00:00",
+      40,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 5 2020 00:00:00",
+      57,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 6 2020 00:00:00",
+      114,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 7 2020 00:00:00",
+      150,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 8 2020 00:00:00",
+      173,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 9 2020 00:00:00",
+      269,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 10 2020 00:00:00",
+      330,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 11 2020 00:00:00",
+      368,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 12 2020 00:00:00",
+      590,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 13 2020 00:00:00",
+      482,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 14 2020 00:00:00",
+      718,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 15 2020 00:00:00",
+      789,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 16 2020 00:00:00",
+      636,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 17 2020 00:00:00",
+      509,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 18 2020 00:00:00",
+      525,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 19 2020 00:00:00",
+      433,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 20 2020 00:00:00",
+      573,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 21 2020 00:00:00",
+      756,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 22 2020 00:00:00",
+      704,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 23 2020 00:00:00",
+      721,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 24 2020 00:00:00",
+      637,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 25 2020 00:00:00",
+      667,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 26 2020 00:00:00",
+      622,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 27 2020 00:00:00",
+      695,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 28 2020 00:00:00",
+      840,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 29 2020 00:00:00",
+      645,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 30 2020 00:00:00",
+      706,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 31 2020 00:00:00",
+      518,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 1 2020 00:00:00",
+      354,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 2 2020 00:00:00",
+      407,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 3 2020 00:00:00",
+      491,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 4 2020 00:00:00",
+      355,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 5 2020 00:00:00",
+      249,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 6 2020 00:00:00",
+      265,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 7 2020 00:00:00",
+      225,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 8 2020 00:00:00",
+      227,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 9 2020 00:00:00",
+      164,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 10 2020 00:00:00",
+      168,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 11 2020 00:00:00",
+      177,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 12 2020 00:00:00",
+      126,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 13 2020 00:00:00",
+      100,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 14 2020 00:00:00",
+      108,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 15 2020 00:00:00",
+      56,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 16 2020 00:00:00",
+      41,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 17 2020 00:00:00",
+      32,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 18 2020 00:00:00",
+      39,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 19 2020 00:00:00",
+      60,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 20 2020 00:00:00",
+      24,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 21 2020 00:00:00",
+      33,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 22 2020 00:00:00",
+      20,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 23 2020 00:00:00",
+      14,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 24 2020 00:00:00",
+      27,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "450",
+    "year": "2020",
+    "totalRecords": 66,
+    "totalCount": 18208,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2020-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "June, 15 2018 00:00:00",
+      0,
+      410,
+      1216,
+      "Solomon River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 16 2018 00:00:00",
+      1,
+      410,
+      1216,
+      "Solomon River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 17 2018 00:00:00",
+      2,
+      410,
+      1216,
+      "Solomon River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1216,
+    "species_id": "410",
+    "year": "2018",
+    "totalRecords": 3,
+    "totalCount": 3,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

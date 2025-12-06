@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "June, 18 2003 00:00:00",
+      0,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "June, 19 2003 00:00:00",
+      6,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "June, 20 2003 00:00:00",
+      8,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "June, 21 2003 00:00:00",
+      12,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "June, 22 2003 00:00:00",
+      3,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "June, 23 2003 00:00:00",
+      14,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "June, 24 2003 00:00:00",
+      4,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "June, 25 2003 00:00:00",
+      27,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "June, 26 2003 00:00:00",
+      13,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "June, 27 2003 00:00:00",
+      25,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "June, 28 2003 00:00:00",
+      47,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "June, 29 2003 00:00:00",
+      67,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "June, 30 2003 00:00:00",
+      37,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 1 2003 00:00:00",
+      53,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 2 2003 00:00:00",
+      135,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 3 2003 00:00:00",
+      269,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 4 2003 00:00:00",
+      324,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 5 2003 00:00:00",
+      955,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 6 2003 00:00:00",
+      547,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 7 2003 00:00:00",
+      1006,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 8 2003 00:00:00",
+      1200,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 9 2003 00:00:00",
+      845,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 10 2003 00:00:00",
+      633,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 11 2003 00:00:00",
+      237,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 12 2003 00:00:00",
+      442,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 13 2003 00:00:00",
+      1145,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 14 2003 00:00:00",
+      2186,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 15 2003 00:00:00",
+      1430,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 16 2003 00:00:00",
+      1011,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 17 2003 00:00:00",
+      1593,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 18 2003 00:00:00",
+      1765,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 19 2003 00:00:00",
+      3171,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 20 2003 00:00:00",
+      3269,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 21 2003 00:00:00",
+      3210,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 22 2003 00:00:00",
+      3383,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 23 2003 00:00:00",
+      4100,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 24 2003 00:00:00",
+      3662,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 25 2003 00:00:00",
+      3701,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 26 2003 00:00:00",
+      2790,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 27 2003 00:00:00",
+      2101,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 28 2003 00:00:00",
+      4501,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 29 2003 00:00:00",
+      4661,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 30 2003 00:00:00",
+      2873,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "July, 31 2003 00:00:00",
+      1687,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 1 2003 00:00:00",
+      1907,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 2 2003 00:00:00",
+      2957,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 3 2003 00:00:00",
+      2002,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 4 2003 00:00:00",
+      1309,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 5 2003 00:00:00",
+      1857,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 6 2003 00:00:00",
+      1720,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 7 2003 00:00:00",
+      687,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 8 2003 00:00:00",
+      501,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 9 2003 00:00:00",
+      356,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 10 2003 00:00:00",
+      333,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 11 2003 00:00:00",
+      552,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 12 2003 00:00:00",
+      181,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 13 2003 00:00:00",
+      338,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 14 2003 00:00:00",
+      280,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 15 2003 00:00:00",
+      224,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 16 2003 00:00:00",
+      177,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 17 2003 00:00:00",
+      137,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 18 2003 00:00:00",
+      106,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "430",
+    "year": "2003",
+    "totalRecords": 62,
+    "totalCount": 74772,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2003-12-31T00:00:00"
+  }
+}

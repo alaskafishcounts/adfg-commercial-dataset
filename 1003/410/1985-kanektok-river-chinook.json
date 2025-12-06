@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "June, 18 1985 00:00:00",
+      8,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "June, 19 1985 00:00:00",
+      68,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "June, 20 1985 00:00:00",
+      5,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "June, 21 1985 00:00:00",
+      18,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "June, 22 1985 00:00:00",
+      181,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "June, 23 1985 00:00:00",
+      559,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "June, 24 1985 00:00:00",
+      1499,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "June, 25 1985 00:00:00",
+      1483,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "June, 26 1985 00:00:00",
+      1828,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "June, 27 1985 00:00:00",
+      1885,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "June, 28 1985 00:00:00",
+      3254,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "June, 29 1985 00:00:00",
+      1383,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "June, 30 1985 00:00:00",
+      1397,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 1 1985 00:00:00",
+      974,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 2 1985 00:00:00",
+      1775,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 3 1985 00:00:00",
+      2026,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 4 1985 00:00:00",
+      991,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 5 1985 00:00:00",
+      1458,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 6 1985 00:00:00",
+      1111,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 7 1985 00:00:00",
+      737,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 8 1985 00:00:00",
+      417,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 9 1985 00:00:00",
+      424,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 10 1985 00:00:00",
+      550,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 11 1985 00:00:00",
+      445,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 12 1985 00:00:00",
+      475,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 13 1985 00:00:00",
+      443,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 14 1985 00:00:00",
+      378,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 15 1985 00:00:00",
+      688,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 16 1985 00:00:00",
+      513,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 17 1985 00:00:00",
+      856,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 18 1985 00:00:00",
+      506,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 19 1985 00:00:00",
+      640,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 20 1985 00:00:00",
+      413,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 21 1985 00:00:00",
+      409,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 22 1985 00:00:00",
+      411,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 23 1985 00:00:00",
+      588,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 24 1985 00:00:00",
+      283,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 25 1985 00:00:00",
+      1247,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 26 1985 00:00:00",
+      230,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 27 1985 00:00:00",
+      788,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 28 1985 00:00:00",
+      860,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 29 1985 00:00:00",
+      543,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 30 1985 00:00:00",
+      798,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "July, 31 1985 00:00:00",
+      212,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1003,
+    "species_id": "410",
+    "year": "1985",
+    "totalRecords": 44,
+    "totalCount": 35757,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1985-12-31T00:00:00"
+  }
+}

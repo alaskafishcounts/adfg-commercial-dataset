@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "August, 8 2011 00:00:00",
+      254,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 9 2011 00:00:00",
+      284,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 10 2011 00:00:00",
+      237,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 11 2011 00:00:00",
+      167,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 12 2011 00:00:00",
+      154,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 13 2011 00:00:00",
+      157,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 14 2011 00:00:00",
+      152,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 15 2011 00:00:00",
+      72,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 16 2011 00:00:00",
+      80,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 17 2011 00:00:00",
+      91,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 18 2011 00:00:00",
+      114,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 19 2011 00:00:00",
+      80,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 20 2011 00:00:00",
+      146,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 21 2011 00:00:00",
+      164,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 22 2011 00:00:00",
+      164,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 23 2011 00:00:00",
+      187,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 24 2011 00:00:00",
+      206,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 25 2011 00:00:00",
+      146,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 26 2011 00:00:00",
+      108,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 27 2011 00:00:00",
+      137,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 28 2011 00:00:00",
+      218,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 29 2011 00:00:00",
+      359,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 30 2011 00:00:00",
+      640,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 31 2011 00:00:00",
+      1281,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 1 2011 00:00:00",
+      1741,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 2 2011 00:00:00",
+      2635,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 3 2011 00:00:00",
+      2604,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 4 2011 00:00:00",
+      2567,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 5 2011 00:00:00",
+      3068,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 6 2011 00:00:00",
+      3998,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 7 2011 00:00:00",
+      3696,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 8 2011 00:00:00",
+      3402,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 9 2011 00:00:00",
+      3546,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 10 2011 00:00:00",
+      3976,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 11 2011 00:00:00",
+      3450,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 12 2011 00:00:00",
+      2683,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 13 2011 00:00:00",
+      2881,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 14 2011 00:00:00",
+      3200,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 15 2011 00:00:00",
+      2849,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 16 2011 00:00:00",
+      2427,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 17 2011 00:00:00",
+      2357,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 18 2011 00:00:00",
+      2706,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 19 2011 00:00:00",
+      2804,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 20 2011 00:00:00",
+      4030,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 21 2011 00:00:00",
+      4084,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 22 2011 00:00:00",
+      4231,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 23 2011 00:00:00",
+      3901,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 24 2011 00:00:00",
+      3546,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 25 2011 00:00:00",
+      3089,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 26 2011 00:00:00",
+      2664,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 27 2011 00:00:00",
+      2269,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 28 2011 00:00:00",
+      1907,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 29 2011 00:00:00",
+      1576,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "September, 30 2011 00:00:00",
+      1277,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "October, 1 2011 00:00:00",
+      1008,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "October, 2 2011 00:00:00",
+      772,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "October, 3 2011 00:00:00",
+      567,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "October, 4 2011 00:00:00",
+      394,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "October, 5 2011 00:00:00",
+      252,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "October, 6 2011 00:00:00",
+      142,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "October, 7 2011 00:00:00",
+      63,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "October, 8 2011 00:00:00",
+      16,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      2011,
+      "October, 9 2011 00:00:00",
+      0,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ]
+  ]
+}

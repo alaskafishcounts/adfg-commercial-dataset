@@ -1,0 +1,499 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      61,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      56,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      65,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 27 2000 00:00:00",
+      105,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 28 2000 00:00:00",
+      115,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 29 2000 00:00:00",
+      166,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 30 2000 00:00:00",
+      260,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 31 2000 00:00:00",
+      434,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 1 2000 00:00:00",
+      1503,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 2 2000 00:00:00",
+      555,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 3 2000 00:00:00",
+      436,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 4 2000 00:00:00",
+      425,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 5 2000 00:00:00",
+      369,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 6 2000 00:00:00",
+      254,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 7 2000 00:00:00",
+      451,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 8 2000 00:00:00",
+      6148,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 9 2000 00:00:00",
+      4795,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 10 2000 00:00:00",
+      3034,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 11 2000 00:00:00",
+      3120,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 12 2000 00:00:00",
+      5469,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 13 2000 00:00:00",
+      2554,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 14 2000 00:00:00",
+      9062,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 15 2000 00:00:00",
+      9075,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 16 2000 00:00:00",
+      10503,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 17 2000 00:00:00",
+      11078,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 18 2000 00:00:00",
+      8220,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 19 2000 00:00:00",
+      7671,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 20 2000 00:00:00",
+      5320,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 21 2000 00:00:00",
+      10481,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 22 2000 00:00:00",
+      15174,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 23 2000 00:00:00",
+      11356,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 24 2000 00:00:00",
+      8619,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 25 2000 00:00:00",
+      8583,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 26 2000 00:00:00",
+      8920,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 27 2000 00:00:00",
+      4783,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 28 2000 00:00:00",
+      8088,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 29 2000 00:00:00",
+      4052,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 30 2000 00:00:00",
+      4182,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 31 2000 00:00:00",
+      4010,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 1 2000 00:00:00",
+      4033,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 2 2000 00:00:00",
+      4831,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 3 2000 00:00:00",
+      2307,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 4 2000 00:00:00",
+      1851,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 5 2000 00:00:00",
+      2885,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 6 2000 00:00:00",
+      1542,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 7 2000 00:00:00",
+      929,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 8 2000 00:00:00",
+      926,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 9 2000 00:00:00",
+      1183,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 10 2000 00:00:00",
+      937,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 11 2000 00:00:00",
+      1404,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 12 2000 00:00:00",
+      1329,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 13 2000 00:00:00",
+      1698,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 14 2000 00:00:00",
+      958,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "430",
+    "year": "2000",
+    "totalRecords": 53,
+    "totalCount": 206365,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2000-12-31T00:00:00"
+  }
+}

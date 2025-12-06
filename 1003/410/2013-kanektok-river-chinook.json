@@ -1,0 +1,400 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "June, 15 2013 00:00:00",
+      0,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 16 2013 00:00:00",
+      3,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 17 2013 00:00:00",
+      11,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 18 2013 00:00:00",
+      2,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 19 2013 00:00:00",
+      22,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 20 2013 00:00:00",
+      26,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 21 2013 00:00:00",
+      7,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 22 2013 00:00:00",
+      49,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 23 2013 00:00:00",
+      13,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 24 2013 00:00:00",
+      28,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 25 2013 00:00:00",
+      211,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 26 2013 00:00:00",
+      78,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 27 2013 00:00:00",
+      60,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 28 2013 00:00:00",
+      35,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 29 2013 00:00:00",
+      136,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 30 2013 00:00:00",
+      47,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 1 2013 00:00:00",
+      102,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 2 2013 00:00:00",
+      111,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 3 2013 00:00:00",
+      65,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 4 2013 00:00:00",
+      67,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 5 2013 00:00:00",
+      184,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 6 2013 00:00:00",
+      157,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 7 2013 00:00:00",
+      289,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 8 2013 00:00:00",
+      154,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 9 2013 00:00:00",
+      207,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      323,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      185,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      161,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      137,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      99,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      166,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      41,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      71,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      25,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      63,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      51,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      6,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      12,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      14,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      23,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      16,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      1,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1003,
+    "species_id": "410",
+    "year": "2013",
+    "totalRecords": 42,
+    "totalCount": 3458,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2013-12-31T00:00:00"
+  }
+}

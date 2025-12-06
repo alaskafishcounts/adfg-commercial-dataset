@@ -1,0 +1,211 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "June, 17 1999 00:00:00",
+      0,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 18 1999 00:00:00",
+      9,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 19 1999 00:00:00",
+      4,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 20 1999 00:00:00",
+      1,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 21 1999 00:00:00",
+      2,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 22 1999 00:00:00",
+      5,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 23 1999 00:00:00",
+      42,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 24 1999 00:00:00",
+      48,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 25 1999 00:00:00",
+      26,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 26 1999 00:00:00",
+      8,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 27 1999 00:00:00",
+      3,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 28 1999 00:00:00",
+      411,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 29 1999 00:00:00",
+      162,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "June, 30 1999 00:00:00",
+      1255,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "July, 1 1999 00:00:00",
+      704,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "July, 2 1999 00:00:00",
+      122,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "July, 3 1999 00:00:00",
+      40,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "July, 4 1999 00:00:00",
+      14,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "July, 5 1999 00:00:00",
+      19,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "July, 6 1999 00:00:00",
+      41,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1999,
+      "July, 7 1999 00:00:00",
+      20,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "430",
+    "year": "1999",
+    "totalRecords": 21,
+    "totalCount": 2936,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1999-12-31T00:00:00"
+  }
+}

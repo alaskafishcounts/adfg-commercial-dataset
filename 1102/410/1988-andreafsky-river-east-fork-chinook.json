@@ -1,0 +1,238 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1988,
+      "June, 21 1988 00:00:00",
+      60,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "June, 22 1988 00:00:00",
+      3,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "June, 23 1988 00:00:00",
+      0,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "June, 26 1988 00:00:00",
+      4,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "June, 27 1988 00:00:00",
+      12,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "June, 28 1988 00:00:00",
+      18,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "June, 29 1988 00:00:00",
+      55,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "June, 30 1988 00:00:00",
+      39,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "July, 1 1988 00:00:00",
+      81,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "July, 2 1988 00:00:00",
+      252,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "July, 3 1988 00:00:00",
+      90,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "July, 4 1988 00:00:00",
+      30,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "July, 5 1988 00:00:00",
+      43,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "July, 6 1988 00:00:00",
+      105,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "July, 7 1988 00:00:00",
+      69,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "July, 8 1988 00:00:00",
+      23,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "July, 9 1988 00:00:00",
+      42,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "July, 11 1988 00:00:00",
+      94,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "July, 12 1988 00:00:00",
+      93,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "July, 13 1988 00:00:00",
+      35,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "July, 14 1988 00:00:00",
+      24,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "July, 15 1988 00:00:00",
+      51,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "July, 19 1988 00:00:00",
+      9,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1988,
+      "July, 22 1988 00:00:00",
+      6,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "410",
+    "year": "1988",
+    "totalRecords": 24,
+    "totalCount": 1238,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1988-12-31T00:00:00"
+  }
+}

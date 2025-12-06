@@ -1,0 +1,571 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "June, 15 2005 00:00:00",
+      1,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "June, 16 2005 00:00:00",
+      0,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "June, 17 2005 00:00:00",
+      58,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "June, 18 2005 00:00:00",
+      36,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "June, 19 2005 00:00:00",
+      56,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "June, 20 2005 00:00:00",
+      81,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "June, 21 2005 00:00:00",
+      71,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "June, 22 2005 00:00:00",
+      379,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "June, 23 2005 00:00:00",
+      543,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "June, 24 2005 00:00:00",
+      851,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "June, 25 2005 00:00:00",
+      117,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "June, 26 2005 00:00:00",
+      1075,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "June, 27 2005 00:00:00",
+      976,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "June, 28 2005 00:00:00",
+      1219,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "June, 29 2005 00:00:00",
+      957,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "June, 30 2005 00:00:00",
+      1218,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 1 2005 00:00:00",
+      1309,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 2 2005 00:00:00",
+      1007,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 3 2005 00:00:00",
+      674,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 4 2005 00:00:00",
+      478,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 5 2005 00:00:00",
+      834,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 6 2005 00:00:00",
+      686,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 7 2005 00:00:00",
+      829,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 8 2005 00:00:00",
+      1136,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 9 2005 00:00:00",
+      868,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 10 2005 00:00:00",
+      517,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 11 2005 00:00:00",
+      551,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 12 2005 00:00:00",
+      893,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 13 2005 00:00:00",
+      536,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 14 2005 00:00:00",
+      636,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 15 2005 00:00:00",
+      456,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 16 2005 00:00:00",
+      385,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 17 2005 00:00:00",
+      204,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 18 2005 00:00:00",
+      273,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 19 2005 00:00:00",
+      320,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 20 2005 00:00:00",
+      235,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 21 2005 00:00:00",
+      167,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 22 2005 00:00:00",
+      132,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 23 2005 00:00:00",
+      131,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 24 2005 00:00:00",
+      104,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 25 2005 00:00:00",
+      98,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 26 2005 00:00:00",
+      64,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 27 2005 00:00:00",
+      57,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 28 2005 00:00:00",
+      45,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 29 2005 00:00:00",
+      51,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 30 2005 00:00:00",
+      30,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "July, 31 2005 00:00:00",
+      32,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "August, 1 2005 00:00:00",
+      14,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "August, 2 2005 00:00:00",
+      26,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "August, 3 2005 00:00:00",
+      33,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "August, 4 2005 00:00:00",
+      16,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "August, 5 2005 00:00:00",
+      13,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "August, 6 2005 00:00:00",
+      7,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "August, 7 2005 00:00:00",
+      9,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "August, 8 2005 00:00:00",
+      23,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "August, 9 2005 00:00:00",
+      8,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "August, 10 2005 00:00:00",
+      3,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "August, 11 2005 00:00:00",
+      4,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "August, 12 2005 00:00:00",
+      12,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "August, 13 2005 00:00:00",
+      5,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "August, 14 2005 00:00:00",
+      2,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "410",
+    "year": "2005",
+    "totalRecords": 61,
+    "totalCount": 21551,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2005-12-31T00:00:00"
+  }
+}

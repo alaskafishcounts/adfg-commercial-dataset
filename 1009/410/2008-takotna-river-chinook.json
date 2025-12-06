@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "June, 15 2008 00:00:00",
+      0,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "June, 16 2008 00:00:00",
+      1,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "June, 17 2008 00:00:00",
+      7,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "June, 18 2008 00:00:00",
+      5,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "June, 19 2008 00:00:00",
+      3,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "June, 20 2008 00:00:00",
+      2,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "June, 21 2008 00:00:00",
+      11,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "June, 22 2008 00:00:00",
+      10,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "June, 23 2008 00:00:00",
+      4,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "June, 24 2008 00:00:00",
+      12,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "June, 25 2008 00:00:00",
+      14,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "June, 26 2008 00:00:00",
+      23,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "June, 27 2008 00:00:00",
+      40,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "June, 28 2008 00:00:00",
+      30,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "June, 29 2008 00:00:00",
+      32,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "June, 30 2008 00:00:00",
+      35,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "July, 1 2008 00:00:00",
+      9,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "July, 2 2008 00:00:00",
+      18,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "July, 3 2008 00:00:00",
+      8,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "July, 4 2008 00:00:00",
+      6,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1009,
+    "species_id": "410",
+    "year": "2008",
+    "totalRecords": 20,
+    "totalCount": 270,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2008-12-31T00:00:00"
+  }
+}

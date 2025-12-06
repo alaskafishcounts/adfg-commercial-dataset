@@ -1,0 +1,409 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "June, 25 2012 00:00:00",
+      0,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 26 2012 00:00:00",
+      1,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 27 2012 00:00:00",
+      2,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 28 2012 00:00:00",
+      3,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 29 2012 00:00:00",
+      4,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 30 2012 00:00:00",
+      14,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 1 2012 00:00:00",
+      56,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 2 2012 00:00:00",
+      136,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 3 2012 00:00:00",
+      352,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 4 2012 00:00:00",
+      99,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 5 2012 00:00:00",
+      232,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 6 2012 00:00:00",
+      208,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 7 2012 00:00:00",
+      260,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 8 2012 00:00:00",
+      263,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 9 2012 00:00:00",
+      258,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 10 2012 00:00:00",
+      265,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 11 2012 00:00:00",
+      315,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 12 2012 00:00:00",
+      270,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 13 2012 00:00:00",
+      336,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 14 2012 00:00:00",
+      364,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 15 2012 00:00:00",
+      198,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 16 2012 00:00:00",
+      334,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 17 2012 00:00:00",
+      246,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 18 2012 00:00:00",
+      226,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 19 2012 00:00:00",
+      156,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 20 2012 00:00:00",
+      160,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 21 2012 00:00:00",
+      157,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 22 2012 00:00:00",
+      126,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 23 2012 00:00:00",
+      121,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 24 2012 00:00:00",
+      109,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 25 2012 00:00:00",
+      77,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 26 2012 00:00:00",
+      73,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 27 2012 00:00:00",
+      48,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 28 2012 00:00:00",
+      54,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 29 2012 00:00:00",
+      28,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 30 2012 00:00:00",
+      36,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 31 2012 00:00:00",
+      25,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 1 2012 00:00:00",
+      45,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 2 2012 00:00:00",
+      29,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 3 2012 00:00:00",
+      12,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 4 2012 00:00:00",
+      9,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 5 2012 00:00:00",
+      8,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 6 2012 00:00:00",
+      10,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1009,
+    "species_id": "450",
+    "year": "2012",
+    "totalRecords": 43,
+    "totalCount": 5725,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2012-12-31T00:00:00"
+  }
+}

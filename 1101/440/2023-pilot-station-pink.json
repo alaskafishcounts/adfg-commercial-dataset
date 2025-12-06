@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "June, 7 2023 00:00:00",
+      0,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 8 2023 00:00:00",
+      780,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 9 2023 00:00:00",
+      1203,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 10 2023 00:00:00",
+      917,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 11 2023 00:00:00",
+      580,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 12 2023 00:00:00",
+      747,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 13 2023 00:00:00",
+      630,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 14 2023 00:00:00",
+      370,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 15 2023 00:00:00",
+      298,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 16 2023 00:00:00",
+      274,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 17 2023 00:00:00",
+      435,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 18 2023 00:00:00",
+      422,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 19 2023 00:00:00",
+      315,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 20 2023 00:00:00",
+      253,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 21 2023 00:00:00",
+      150,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 22 2023 00:00:00",
+      744,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 23 2023 00:00:00",
+      920,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 24 2023 00:00:00",
+      131,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 25 2023 00:00:00",
+      365,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2023,
+      "June, 26 2023 00:00:00",
+      201,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "440",
+    "year": "2023",
+    "totalRecords": 20,
+    "totalCount": 9735,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,850 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "June, 2 2022 00:00:00",
+      0,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 3 2022 00:00:00",
+      201,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 4 2022 00:00:00",
+      784,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 5 2022 00:00:00",
+      3350,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 6 2022 00:00:00",
+      4497,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 7 2022 00:00:00",
+      7698,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 8 2022 00:00:00",
+      9151,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 9 2022 00:00:00",
+      10397,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 10 2022 00:00:00",
+      12375,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 11 2022 00:00:00",
+      16278,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 12 2022 00:00:00",
+      17121,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 13 2022 00:00:00",
+      26654,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 14 2022 00:00:00",
+      28897,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 15 2022 00:00:00",
+      32397,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 16 2022 00:00:00",
+      35863,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 17 2022 00:00:00",
+      39018,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 18 2022 00:00:00",
+      40855,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 19 2022 00:00:00",
+      44934,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 20 2022 00:00:00",
+      51068,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 21 2022 00:00:00",
+      52509,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 22 2022 00:00:00",
+      63956,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 23 2022 00:00:00",
+      66055,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 24 2022 00:00:00",
+      69440,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 25 2022 00:00:00",
+      70646,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 26 2022 00:00:00",
+      71521,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 27 2022 00:00:00",
+      76550,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 28 2022 00:00:00",
+      80038,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 29 2022 00:00:00",
+      80848,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "June, 30 2022 00:00:00",
+      81638,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 1 2022 00:00:00",
+      83468,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 2 2022 00:00:00",
+      84019,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 3 2022 00:00:00",
+      84644,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 4 2022 00:00:00",
+      86450,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 5 2022 00:00:00",
+      87649,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 6 2022 00:00:00",
+      98726,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 7 2022 00:00:00",
+      99037,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 8 2022 00:00:00",
+      99339,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 9 2022 00:00:00",
+      100086,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 10 2022 00:00:00",
+      100283,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 11 2022 00:00:00",
+      100469,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 12 2022 00:00:00",
+      100632,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 13 2022 00:00:00",
+      100811,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 14 2022 00:00:00",
+      100950,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 15 2022 00:00:00",
+      101983,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 16 2022 00:00:00",
+      102068,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 17 2022 00:00:00",
+      102432,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 18 2022 00:00:00",
+      103864,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 19 2022 00:00:00",
+      583,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 20 2022 00:00:00",
+      2566,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 21 2022 00:00:00",
+      1147,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 22 2022 00:00:00",
+      3201,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 23 2022 00:00:00",
+      1453,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 24 2022 00:00:00",
+      1246,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 25 2022 00:00:00",
+      1978,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 26 2022 00:00:00",
+      3903,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 27 2022 00:00:00",
+      843,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 28 2022 00:00:00",
+      9533,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 29 2022 00:00:00",
+      2243,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 30 2022 00:00:00",
+      3500,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "July, 31 2022 00:00:00",
+      3466,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 1 2022 00:00:00",
+      3155,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 2 2022 00:00:00",
+      1837,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 3 2022 00:00:00",
+      4079,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 4 2022 00:00:00",
+      6134,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 5 2022 00:00:00",
+      1441,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 6 2022 00:00:00",
+      11447,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 7 2022 00:00:00",
+      2099,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 8 2022 00:00:00",
+      3385,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 9 2022 00:00:00",
+      1206,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 10 2022 00:00:00",
+      875,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 11 2022 00:00:00",
+      5029,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 12 2022 00:00:00",
+      3488,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 13 2022 00:00:00",
+      810,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 14 2022 00:00:00",
+      790,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 15 2022 00:00:00",
+      1830,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 16 2022 00:00:00",
+      551,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 17 2022 00:00:00",
+      625,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 18 2022 00:00:00",
+      1806,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 19 2022 00:00:00",
+      1199,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 20 2022 00:00:00",
+      11077,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 21 2022 00:00:00",
+      311,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 22 2022 00:00:00",
+      302,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 23 2022 00:00:00",
+      747,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 24 2022 00:00:00",
+      197,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 25 2022 00:00:00",
+      186,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      163,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      179,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      139,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      1033,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      85,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      364,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      1432,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1005,
+    "species_id": "450",
+    "year": "2022",
+    "totalRecords": 92,
+    "totalCount": 2935312,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2022-12-31T00:00:00"
+  }
+}

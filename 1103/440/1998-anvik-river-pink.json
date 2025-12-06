@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "June, 22 1998 00:00:00",
+      0,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "June, 23 1998 00:00:00",
+      2844,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "June, 24 1998 00:00:00",
+      4302,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "June, 25 1998 00:00:00",
+      2553,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "June, 26 1998 00:00:00",
+      10219,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "June, 27 1998 00:00:00",
+      12580,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "June, 28 1998 00:00:00",
+      12791,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "June, 29 1998 00:00:00",
+      10347,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "June, 30 1998 00:00:00",
+      16312,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "July, 1 1998 00:00:00",
+      21363,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "July, 2 1998 00:00:00",
+      12072,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "July, 3 1998 00:00:00",
+      20177,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "July, 4 1998 00:00:00",
+      15131,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "July, 5 1998 00:00:00",
+      5404,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1103,
+    "species_id": "440",
+    "year": "1998",
+    "totalRecords": 14,
+    "totalCount": 146095,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1998-12-31T00:00:00"
+  }
+}

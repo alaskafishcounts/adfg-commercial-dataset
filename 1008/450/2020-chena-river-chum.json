@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "July, 20 2020 00:00:00",
+      76,
+      450,
+      1008,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 21 2020 00:00:00",
+      33,
+      450,
+      1008,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 22 2020 00:00:00",
+      46,
+      450,
+      1008,
+      "Chena River",
+      "Chum"
+    ]
+  ]
+}

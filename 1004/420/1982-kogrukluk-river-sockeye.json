@@ -1,0 +1,445 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "June, 26 1982 00:00:00",
+      0,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 27 1982 00:00:00",
+      12,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 28 1982 00:00:00",
+      68,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 29 1982 00:00:00",
+      218,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 30 1982 00:00:00",
+      492,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 1 1982 00:00:00",
+      835,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 2 1982 00:00:00",
+      1176,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 3 1982 00:00:00",
+      1466,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 4 1982 00:00:00",
+      1642,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 5 1982 00:00:00",
+      1733,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 6 1982 00:00:00",
+      1725,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 7 1982 00:00:00",
+      1655,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 8 1982 00:00:00",
+      2025,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 9 1982 00:00:00",
+      1750,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 10 1982 00:00:00",
+      748,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 11 1982 00:00:00",
+      830,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 12 1982 00:00:00",
+      821,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 13 1982 00:00:00",
+      575,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 14 1982 00:00:00",
+      302,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 15 1982 00:00:00",
+      686,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 16 1982 00:00:00",
+      781,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 17 1982 00:00:00",
+      371,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 18 1982 00:00:00",
+      443,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 19 1982 00:00:00",
+      630,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 20 1982 00:00:00",
+      315,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 21 1982 00:00:00",
+      140,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 22 1982 00:00:00",
+      149,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 23 1982 00:00:00",
+      187,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 24 1982 00:00:00",
+      185,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 25 1982 00:00:00",
+      141,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 26 1982 00:00:00",
+      123,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 27 1982 00:00:00",
+      89,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 28 1982 00:00:00",
+      86,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 29 1982 00:00:00",
+      77,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 30 1982 00:00:00",
+      67,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 31 1982 00:00:00",
+      56,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 1 1982 00:00:00",
+      26,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 2 1982 00:00:00",
+      29,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 3 1982 00:00:00",
+      23,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 4 1982 00:00:00",
+      17,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 5 1982 00:00:00",
+      8,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 6 1982 00:00:00",
+      9,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 7 1982 00:00:00",
+      6,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 8 1982 00:00:00",
+      5,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 9 1982 00:00:00",
+      3,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 10 1982 00:00:00",
+      4,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "August, 11 1982 00:00:00",
+      1,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "420",
+    "year": "1982",
+    "totalRecords": 47,
+    "totalCount": 22730,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1982-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "August, 8 2000 00:00:00",
+      526,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 9 2000 00:00:00",
+      466,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 10 2000 00:00:00",
+      445,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 11 2000 00:00:00",
+      522,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 12 2000 00:00:00",
+      401,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 13 2000 00:00:00",
+      478,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 14 2000 00:00:00",
+      530,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 15 2000 00:00:00",
+      433,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 16 2000 00:00:00",
+      482,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 17 2000 00:00:00",
+      500,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 18 2000 00:00:00",
+      451,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 19 2000 00:00:00",
+      460,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 20 2000 00:00:00",
+      665,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 21 2000 00:00:00",
+      621,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 22 2000 00:00:00",
+      706,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 23 2000 00:00:00",
+      591,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 24 2000 00:00:00",
+      2548,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 25 2000 00:00:00",
+      1802,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 26 2000 00:00:00",
+      1372,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 27 2000 00:00:00",
+      1172,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 28 2000 00:00:00",
+      1942,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 29 2000 00:00:00",
+      1782,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 30 2000 00:00:00",
+      1303,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "August, 31 2000 00:00:00",
+      1943,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 1 2000 00:00:00",
+      2601,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 2 2000 00:00:00",
+      1981,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 3 2000 00:00:00",
+      2021,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 4 2000 00:00:00",
+      2159,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 5 2000 00:00:00",
+      2150,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 6 2000 00:00:00",
+      2262,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 7 2000 00:00:00",
+      1902,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 8 2000 00:00:00",
+      1983,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 9 2000 00:00:00",
+      1650,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 10 2000 00:00:00",
+      1791,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 11 2000 00:00:00",
+      1921,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 12 2000 00:00:00",
+      1484,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 13 2000 00:00:00",
+      1496,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 14 2000 00:00:00",
+      1517,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 15 2000 00:00:00",
+      1160,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 16 2000 00:00:00",
+      1292,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 17 2000 00:00:00",
+      1225,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 18 2000 00:00:00",
+      1409,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 19 2000 00:00:00",
+      1289,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 20 2000 00:00:00",
+      1690,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 21 2000 00:00:00",
+      1765,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 22 2000 00:00:00",
+      1607,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 23 2000 00:00:00",
+      1113,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 24 2000 00:00:00",
+      1280,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 25 2000 00:00:00",
+      1665,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 26 2000 00:00:00",
+      1340,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 27 2000 00:00:00",
+      1142,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 28 2000 00:00:00",
+      959,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 29 2000 00:00:00",
+      793,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "September, 30 2000 00:00:00",
+      642,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "October, 1 2000 00:00:00",
+      507,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "October, 2 2000 00:00:00",
+      389,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "October, 3 2000 00:00:00",
+      285,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "October, 4 2000 00:00:00",
+      198,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "October, 5 2000 00:00:00",
+      127,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "October, 6 2000 00:00:00",
+      71,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "October, 7 2000 00:00:00",
+      32,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "October, 8 2000 00:00:00",
+      8,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2000,
+      "October, 9 2000 00:00:00",
+      0,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ]
+  ]
+}

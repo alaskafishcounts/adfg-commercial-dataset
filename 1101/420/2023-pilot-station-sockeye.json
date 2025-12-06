@@ -1,0 +1,211 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "June, 7 2023 00:00:00",
+      0,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 8 2023 00:00:00",
+      254,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 9 2023 00:00:00",
+      1128,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 10 2023 00:00:00",
+      895,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 11 2023 00:00:00",
+      172,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 12 2023 00:00:00",
+      225,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 13 2023 00:00:00",
+      286,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 14 2023 00:00:00",
+      427,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 15 2023 00:00:00",
+      177,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 16 2023 00:00:00",
+      362,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 17 2023 00:00:00",
+      358,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 18 2023 00:00:00",
+      99,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 19 2023 00:00:00",
+      111,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 20 2023 00:00:00",
+      394,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 21 2023 00:00:00",
+      85,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 22 2023 00:00:00",
+      93,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 23 2023 00:00:00",
+      104,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 24 2023 00:00:00",
+      374,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 25 2023 00:00:00",
+      97,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 26 2023 00:00:00",
+      135,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 27 2023 00:00:00",
+      81,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "420",
+    "year": "2023",
+    "totalRecords": 21,
+    "totalCount": 5857,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

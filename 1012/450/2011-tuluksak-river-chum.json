@@ -1,0 +1,499 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "June, 24 2011 00:00:00",
+      0,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 25 2011 00:00:00",
+      2,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 26 2011 00:00:00",
+      4,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 27 2011 00:00:00",
+      6,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 28 2011 00:00:00",
+      82,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 29 2011 00:00:00",
+      58,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 30 2011 00:00:00",
+      36,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 1 2011 00:00:00",
+      84,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 2 2011 00:00:00",
+      91,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 3 2011 00:00:00",
+      26,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 4 2011 00:00:00",
+      147,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 5 2011 00:00:00",
+      263,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 6 2011 00:00:00",
+      156,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 7 2011 00:00:00",
+      243,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 8 2011 00:00:00",
+      506,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 9 2011 00:00:00",
+      167,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 10 2011 00:00:00",
+      241,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 11 2011 00:00:00",
+      278,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 12 2011 00:00:00",
+      937,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 13 2011 00:00:00",
+      220,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 14 2011 00:00:00",
+      481,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 15 2011 00:00:00",
+      432,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 16 2011 00:00:00",
+      165,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 17 2011 00:00:00",
+      633,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 18 2011 00:00:00",
+      545,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      351,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 20 2011 00:00:00",
+      289,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 21 2011 00:00:00",
+      341,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 22 2011 00:00:00",
+      115,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 23 2011 00:00:00",
+      175,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 24 2011 00:00:00",
+      260,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 25 2011 00:00:00",
+      282,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 26 2011 00:00:00",
+      422,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 27 2011 00:00:00",
+      171,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 28 2011 00:00:00",
+      137,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 29 2011 00:00:00",
+      212,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 30 2011 00:00:00",
+      204,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 31 2011 00:00:00",
+      389,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 1 2011 00:00:00",
+      101,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 2 2011 00:00:00",
+      86,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 3 2011 00:00:00",
+      78,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 4 2011 00:00:00",
+      63,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 5 2011 00:00:00",
+      28,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 6 2011 00:00:00",
+      24,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 7 2011 00:00:00",
+      30,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 8 2011 00:00:00",
+      20,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 9 2011 00:00:00",
+      22,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 10 2011 00:00:00",
+      13,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 11 2011 00:00:00",
+      9,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 12 2011 00:00:00",
+      10,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 13 2011 00:00:00",
+      5,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 14 2011 00:00:00",
+      3,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 15 2011 00:00:00",
+      1,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1012,
+    "species_id": "450",
+    "year": "2011",
+    "totalRecords": 53,
+    "totalCount": 9644,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

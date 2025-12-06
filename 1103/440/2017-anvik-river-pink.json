@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "June, 15 2017 00:00:00",
+      0,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 16 2017 00:00:00",
+      13,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 17 2017 00:00:00",
+      93,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 18 2017 00:00:00",
+      60,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 19 2017 00:00:00",
+      56,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 20 2017 00:00:00",
+      204,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 21 2017 00:00:00",
+      21,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 22 2017 00:00:00",
+      57,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 23 2017 00:00:00",
+      12,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 24 2017 00:00:00",
+      215,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 25 2017 00:00:00",
+      45,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 26 2017 00:00:00",
+      47,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 27 2017 00:00:00",
+      22,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1103,
+    "species_id": "440",
+    "year": "2017",
+    "totalRecords": 13,
+    "totalCount": 845,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2017-12-31T00:00:00"
+  }
+}

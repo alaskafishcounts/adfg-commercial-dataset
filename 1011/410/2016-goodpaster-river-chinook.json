@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "July, 16 2016 00:00:00",
+      144,
+      410,
+      1011,
+      "Goodpaster River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 17 2016 00:00:00",
+      150,
+      410,
+      1011,
+      "Goodpaster River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 18 2016 00:00:00",
+      246,
+      410,
+      1011,
+      "Goodpaster River",
+      "Chinook"
+    ]
+  ]
+}

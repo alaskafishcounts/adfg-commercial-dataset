@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "July, 15 2001 00:00:00",
+      169,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 16 2001 00:00:00",
+      87,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 17 2001 00:00:00",
+      41,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 18 2001 00:00:00",
+      196,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 19 2001 00:00:00",
+      71,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 20 2001 00:00:00",
+      107,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 21 2001 00:00:00",
+      175,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 22 2001 00:00:00",
+      66,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 23 2001 00:00:00",
+      15,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 24 2001 00:00:00",
+      5,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 25 2001 00:00:00",
+      17,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 26 2001 00:00:00",
+      7,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 28 2001 00:00:00",
+      10,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 30 2001 00:00:00",
+      16,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "July, 31 2001 00:00:00",
+      11,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2001,
+      "August, 1 2001 00:00:00",
+      97,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "410",
+    "year": "2001",
+    "totalRecords": 16,
+    "totalCount": 1090,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2001-12-31T00:00:00"
+  }
+}

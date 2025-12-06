@@ -1,0 +1,625 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1991,
+      "June, 25 1991 00:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 26 1991 00:00:00",
+      17,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 27 1991 00:00:00",
+      102,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 28 1991 00:00:00",
+      348,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 29 1991 00:00:00",
+      75,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 30 1991 00:00:00",
+      1539,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 1 1991 00:00:00",
+      2347,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 2 1991 00:00:00",
+      1754,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 3 1991 00:00:00",
+      2553,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 4 1991 00:00:00",
+      1918,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 5 1991 00:00:00",
+      2622,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 6 1991 00:00:00",
+      2436,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 7 1991 00:00:00",
+      1326,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 8 1991 00:00:00",
+      2858,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 9 1991 00:00:00",
+      1910,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 10 1991 00:00:00",
+      2440,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 11 1991 00:00:00",
+      1797,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 12 1991 00:00:00",
+      2292,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 13 1991 00:00:00",
+      810,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 14 1991 00:00:00",
+      1279,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 15 1991 00:00:00",
+      1209,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 16 1991 00:00:00",
+      1370,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 17 1991 00:00:00",
+      1735,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 18 1991 00:00:00",
+      685,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 19 1991 00:00:00",
+      784,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 20 1991 00:00:00",
+      702,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 21 1991 00:00:00",
+      818,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 22 1991 00:00:00",
+      447,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 23 1991 00:00:00",
+      535,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 24 1991 00:00:00",
+      411,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 25 1991 00:00:00",
+      271,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 26 1991 00:00:00",
+      105,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 27 1991 00:00:00",
+      158,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 28 1991 00:00:00",
+      121,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 29 1991 00:00:00",
+      142,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 30 1991 00:00:00",
+      136,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 31 1991 00:00:00",
+      77,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 1 1991 00:00:00",
+      110,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 2 1991 00:00:00",
+      69,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 3 1991 00:00:00",
+      48,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 4 1991 00:00:00",
+      59,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 5 1991 00:00:00",
+      36,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 6 1991 00:00:00",
+      34,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 7 1991 00:00:00",
+      37,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 8 1991 00:00:00",
+      27,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 9 1991 00:00:00",
+      21,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 10 1991 00:00:00",
+      34,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 11 1991 00:00:00",
+      23,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 12 1991 00:00:00",
+      10,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 13 1991 00:00:00",
+      2,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 14 1991 00:00:00",
+      9,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 15 1991 00:00:00",
+      6,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 16 1991 00:00:00",
+      12,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 17 1991 00:00:00",
+      13,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 18 1991 00:00:00",
+      8,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 19 1991 00:00:00",
+      8,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 20 1991 00:00:00",
+      7,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 21 1991 00:00:00",
+      4,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 22 1991 00:00:00",
+      12,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 23 1991 00:00:00",
+      8,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 24 1991 00:00:00",
+      13,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 25 1991 00:00:00",
+      12,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 26 1991 00:00:00",
+      11,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 27 1991 00:00:00",
+      10,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 28 1991 00:00:00",
+      10,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 29 1991 00:00:00",
+      9,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 30 1991 00:00:00",
+      7,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 31 1991 00:00:00",
+      7,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ]
+  ]
+}

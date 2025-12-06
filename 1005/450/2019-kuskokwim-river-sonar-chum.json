@@ -1,0 +1,733 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "May, 31 2019 00:00:00",
+      0,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 1 2019 00:00:00",
+      331,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 2 2019 00:00:00",
+      351,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 3 2019 00:00:00",
+      379,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 4 2019 00:00:00",
+      659,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 5 2019 00:00:00",
+      1010,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 6 2019 00:00:00",
+      1641,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 7 2019 00:00:00",
+      2769,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 8 2019 00:00:00",
+      4406,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 9 2019 00:00:00",
+      4712,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 10 2019 00:00:00",
+      5853,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 11 2019 00:00:00",
+      9353,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 12 2019 00:00:00",
+      27359,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 13 2019 00:00:00",
+      33830,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 14 2019 00:00:00",
+      47880,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 15 2019 00:00:00",
+      56470,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 16 2019 00:00:00",
+      66431,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 17 2019 00:00:00",
+      87366,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 18 2019 00:00:00",
+      99407,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 19 2019 00:00:00",
+      113043,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 20 2019 00:00:00",
+      125151,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 21 2019 00:00:00",
+      132688,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 22 2019 00:00:00",
+      140463,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 23 2019 00:00:00",
+      145629,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 24 2019 00:00:00",
+      154753,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 25 2019 00:00:00",
+      165661,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 26 2019 00:00:00",
+      167919,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 27 2019 00:00:00",
+      175783,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 28 2019 00:00:00",
+      204771,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 29 2019 00:00:00",
+      217903,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "June, 30 2019 00:00:00",
+      239124,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 1 2019 00:00:00",
+      267589,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 2 2019 00:00:00",
+      286629,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 3 2019 00:00:00",
+      297988,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 4 2019 00:00:00",
+      315876,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 5 2019 00:00:00",
+      327978,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 6 2019 00:00:00",
+      332251,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 7 2019 00:00:00",
+      334836,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 8 2019 00:00:00",
+      347361,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 9 2019 00:00:00",
+      361288,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 10 2019 00:00:00",
+      385409,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 11 2019 00:00:00",
+      20,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 12 2019 00:00:00",
+      28,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 13 2019 00:00:00",
+      280,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 14 2019 00:00:00",
+      631,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 15 2019 00:00:00",
+      1128,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 16 2019 00:00:00",
+      1637,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 17 2019 00:00:00",
+      306,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 18 2019 00:00:00",
+      1141,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 19 2019 00:00:00",
+      3500,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 20 2019 00:00:00",
+      18006,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 21 2019 00:00:00",
+      6471,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 22 2019 00:00:00",
+      14050,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 23 2019 00:00:00",
+      8590,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 24 2019 00:00:00",
+      9961,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 25 2019 00:00:00",
+      20935,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      12041,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      13636,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      12108,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      7537,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      7775,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      5166,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      9124,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      10908,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      2258,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      7864,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      28988,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      13132,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      21221,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      28465,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      19040,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      11359,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      17888,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      12102,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      4273,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      2585,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      12525,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      13927,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      24121,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1005,
+    "species_id": "450",
+    "year": "2019",
+    "totalRecords": 79,
+    "totalCount": 6075027,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

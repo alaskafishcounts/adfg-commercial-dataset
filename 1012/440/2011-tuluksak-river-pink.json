@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "June, 19 2011 00:00:00",
+      0,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2011,
+      "June, 20 2011 00:00:00",
+      2,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2011,
+      "June, 21 2011 00:00:00",
+      1,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2011,
+      "June, 22 2011 00:00:00",
+      3,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2011,
+      "June, 23 2011 00:00:00",
+      6,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2011,
+      "June, 24 2011 00:00:00",
+      5,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2011,
+      "June, 25 2011 00:00:00",
+      7,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2011,
+      "June, 26 2011 00:00:00",
+      4,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2011,
+      "June, 27 2011 00:00:00",
+      10,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1012,
+    "species_id": "440",
+    "year": "2011",
+    "totalRecords": 9,
+    "totalCount": 38,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

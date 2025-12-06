@@ -1,0 +1,373 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "June, 22 2019 00:00:00",
+      464,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 23 2019 00:00:00",
+      997,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 24 2019 00:00:00",
+      2933,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 25 2019 00:00:00",
+      2605,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 26 2019 00:00:00",
+      2633,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 27 2019 00:00:00",
+      3169,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 28 2019 00:00:00",
+      5384,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 29 2019 00:00:00",
+      3064,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 30 2019 00:00:00",
+      4829,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 1 2019 00:00:00",
+      5767,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 2 2019 00:00:00",
+      8494,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 3 2019 00:00:00",
+      8587,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 4 2019 00:00:00",
+      10730,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 5 2019 00:00:00",
+      13101,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 6 2019 00:00:00",
+      9362,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 7 2019 00:00:00",
+      4758,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 8 2019 00:00:00",
+      7224,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 9 2019 00:00:00",
+      8228,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 10 2019 00:00:00",
+      7726,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 11 2019 00:00:00",
+      6139,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 12 2019 00:00:00",
+      4399,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 13 2019 00:00:00",
+      4038,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 14 2019 00:00:00",
+      5500,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 15 2019 00:00:00",
+      4502,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 16 2019 00:00:00",
+      4002,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 17 2019 00:00:00",
+      3171,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 18 2019 00:00:00",
+      2740,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 19 2019 00:00:00",
+      3676,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 20 2019 00:00:00",
+      2771,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 21 2019 00:00:00",
+      2354,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 22 2019 00:00:00",
+      2161,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 23 2019 00:00:00",
+      2318,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 24 2019 00:00:00",
+      1481,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 25 2019 00:00:00",
+      515,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      1359,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 27 2019 00:00:00",
+      1110,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 28 2019 00:00:00",
+      1159,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 29 2019 00:00:00",
+      1370,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 30 2019 00:00:00",
+      1214,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 31 2019 00:00:00",
+      1071,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ]
+  ]
+}

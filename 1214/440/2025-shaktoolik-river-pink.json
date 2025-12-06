@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 13 2025 00:00:00",
+      2214,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 14 2025 00:00:00",
+      1671,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 15 2025 00:00:00",
+      597,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      294,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      414,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      22,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 6 2025 00:00:00",
+      24,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 7 2025 00:00:00",
+      126,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 8 2025 00:00:00",
+      108,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 9 2025 00:00:00",
+      -6,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ]
+  ]
+}

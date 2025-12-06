@@ -1,0 +1,391 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "June, 27 2014 00:00:00",
+      95,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "June, 28 2014 00:00:00",
+      224,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "June, 29 2014 00:00:00",
+      347,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "June, 30 2014 00:00:00",
+      507,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 1 2014 00:00:00",
+      620,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 2 2014 00:00:00",
+      694,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 3 2014 00:00:00",
+      863,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 4 2014 00:00:00",
+      932,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 5 2014 00:00:00",
+      1136,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 6 2014 00:00:00",
+      1466,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 7 2014 00:00:00",
+      1653,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 8 2014 00:00:00",
+      1707,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 9 2014 00:00:00",
+      1898,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 10 2014 00:00:00",
+      1716,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 11 2014 00:00:00",
+      1992,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 12 2014 00:00:00",
+      2174,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 13 2014 00:00:00",
+      2060,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 14 2014 00:00:00",
+      2060,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 15 2014 00:00:00",
+      2164,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 16 2014 00:00:00",
+      2445,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 17 2014 00:00:00",
+      2596,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 18 2014 00:00:00",
+      2800,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 19 2014 00:00:00",
+      2727,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 20 2014 00:00:00",
+      2762,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 21 2014 00:00:00",
+      2597,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 22 2014 00:00:00",
+      3273,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 23 2014 00:00:00",
+      2949,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 24 2014 00:00:00",
+      2864,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 25 2014 00:00:00",
+      2506,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 26 2014 00:00:00",
+      1985,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 27 2014 00:00:00",
+      1416,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 28 2014 00:00:00",
+      969,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 29 2014 00:00:00",
+      1394,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 30 2014 00:00:00",
+      1304,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 31 2014 00:00:00",
+      1020,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 1 2014 00:00:00",
+      824,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 2 2014 00:00:00",
+      702,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 3 2014 00:00:00",
+      601,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 4 2014 00:00:00",
+      486,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 5 2014 00:00:00",
+      368,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 6 2014 00:00:00",
+      301,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "August, 7 2014 00:00:00",
+      265,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ]
+  ]
+}

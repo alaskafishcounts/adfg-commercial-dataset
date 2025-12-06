@@ -1,0 +1,436 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "June, 21 2004 00:00:00",
+      0,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 22 2004 00:00:00",
+      3,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 23 2004 00:00:00",
+      6,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 24 2004 00:00:00",
+      13,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 25 2004 00:00:00",
+      42,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 26 2004 00:00:00",
+      51,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 27 2004 00:00:00",
+      52,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 28 2004 00:00:00",
+      142,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 29 2004 00:00:00",
+      183,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 30 2004 00:00:00",
+      323,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 1 2004 00:00:00",
+      601,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 2 2004 00:00:00",
+      370,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 3 2004 00:00:00",
+      413,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 4 2004 00:00:00",
+      502,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 5 2004 00:00:00",
+      507,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 6 2004 00:00:00",
+      362,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 7 2004 00:00:00",
+      186,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 8 2004 00:00:00",
+      340,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 9 2004 00:00:00",
+      207,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 10 2004 00:00:00",
+      125,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 11 2004 00:00:00",
+      211,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 12 2004 00:00:00",
+      184,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 13 2004 00:00:00",
+      388,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 14 2004 00:00:00",
+      245,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 15 2004 00:00:00",
+      233,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 16 2004 00:00:00",
+      167,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 17 2004 00:00:00",
+      82,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 18 2004 00:00:00",
+      58,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 19 2004 00:00:00",
+      138,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 20 2004 00:00:00",
+      63,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 21 2004 00:00:00",
+      143,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 22 2004 00:00:00",
+      178,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 23 2004 00:00:00",
+      53,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 24 2004 00:00:00",
+      45,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 25 2004 00:00:00",
+      46,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 26 2004 00:00:00",
+      22,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 27 2004 00:00:00",
+      23,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 28 2004 00:00:00",
+      16,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 29 2004 00:00:00",
+      19,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 30 2004 00:00:00",
+      9,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 31 2004 00:00:00",
+      11,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 1 2004 00:00:00",
+      12,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 2 2004 00:00:00",
+      7,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 3 2004 00:00:00",
+      1,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 4 2004 00:00:00",
+      4,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 5 2004 00:00:00",
+      2,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "420",
+    "year": "2004",
+    "totalRecords": 46,
+    "totalCount": 6788,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2004-12-31T00:00:00"
+  }
+}

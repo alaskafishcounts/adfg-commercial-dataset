@@ -1,0 +1,517 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "June, 26 1994 00:00:00",
+      0,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "June, 27 1994 00:00:00",
+      12,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "June, 28 1994 00:00:00",
+      22,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "June, 29 1994 00:00:00",
+      29,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "June, 30 1994 00:00:00",
+      23,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 1 1994 00:00:00",
+      51,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 2 1994 00:00:00",
+      30,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 3 1994 00:00:00",
+      50,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 4 1994 00:00:00",
+      1,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 5 1994 00:00:00",
+      86,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 6 1994 00:00:00",
+      123,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 7 1994 00:00:00",
+      103,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 8 1994 00:00:00",
+      108,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 9 1994 00:00:00",
+      48,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 10 1994 00:00:00",
+      215,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 11 1994 00:00:00",
+      209,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 12 1994 00:00:00",
+      296,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 13 1994 00:00:00",
+      439,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 14 1994 00:00:00",
+      416,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 15 1994 00:00:00",
+      581,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 16 1994 00:00:00",
+      837,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 17 1994 00:00:00",
+      761,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 18 1994 00:00:00",
+      829,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 19 1994 00:00:00",
+      597,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 20 1994 00:00:00",
+      469,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 21 1994 00:00:00",
+      841,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 22 1994 00:00:00",
+      2096,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 23 1994 00:00:00",
+      2943,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 24 1994 00:00:00",
+      2713,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 25 1994 00:00:00",
+      1887,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 26 1994 00:00:00",
+      1007,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 27 1994 00:00:00",
+      396,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 28 1994 00:00:00",
+      842,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 29 1994 00:00:00",
+      1947,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 30 1994 00:00:00",
+      1400,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "July, 31 1994 00:00:00",
+      1155,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 1 1994 00:00:00",
+      643,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 2 1994 00:00:00",
+      630,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 3 1994 00:00:00",
+      425,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 4 1994 00:00:00",
+      384,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 5 1994 00:00:00",
+      527,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 6 1994 00:00:00",
+      436,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 7 1994 00:00:00",
+      356,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 8 1994 00:00:00",
+      203,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 9 1994 00:00:00",
+      158,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 10 1994 00:00:00",
+      19,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 11 1994 00:00:00",
+      65,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 12 1994 00:00:00",
+      47,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 13 1994 00:00:00",
+      35,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 14 1994 00:00:00",
+      28,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 15 1994 00:00:00",
+      13,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 16 1994 00:00:00",
+      7,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 17 1994 00:00:00",
+      5,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 18 1994 00:00:00",
+      4,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1994,
+      "August, 19 1994 00:00:00",
+      3,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "430",
+    "year": "1994",
+    "totalRecords": 55,
+    "totalCount": 27550,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1994-12-31T00:00:00"
+  }
+}

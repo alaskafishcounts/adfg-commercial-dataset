@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "June, 25 2007 00:00:00",
+      0,
+      420,
+      1009,
+      "Takotna River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 26 2007 00:00:00",
+      1,
+      420,
+      1009,
+      "Takotna River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 27 2007 00:00:00",
+      2,
+      420,
+      1009,
+      "Takotna River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1009,
+    "species_id": "420",
+    "year": "2007",
+    "totalRecords": 3,
+    "totalCount": 3,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2007-12-31T00:00:00"
+  }
+}

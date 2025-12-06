@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "June, 15 2018 00:00:00",
+      0,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 16 2018 00:00:00",
+      1,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 17 2018 00:00:00",
+      2,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 18 2018 00:00:00",
+      6,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 19 2018 00:00:00",
+      11,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 20 2018 00:00:00",
+      5,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 21 2018 00:00:00",
+      8,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 22 2018 00:00:00",
+      12,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 23 2018 00:00:00",
+      28,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 24 2018 00:00:00",
+      15,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 25 2018 00:00:00",
+      9,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 26 2018 00:00:00",
+      16,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 27 2018 00:00:00",
+      10,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 28 2018 00:00:00",
+      4,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 29 2018 00:00:00",
+      3,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1009,
+    "species_id": "410",
+    "year": "2018",
+    "totalRecords": 15,
+    "totalCount": 130,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

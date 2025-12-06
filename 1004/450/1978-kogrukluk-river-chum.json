@@ -1,0 +1,589 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1978,
+      "June, 26 1978 00:00:00",
+      0,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "June, 27 1978 00:00:00",
+      308,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "June, 28 1978 00:00:00",
+      618,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "June, 29 1978 00:00:00",
+      629,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "June, 30 1978 00:00:00",
+      648,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 1 1978 00:00:00",
+      1032,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 2 1978 00:00:00",
+      1695,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 3 1978 00:00:00",
+      1679,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 4 1978 00:00:00",
+      1954,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 5 1978 00:00:00",
+      2151,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 6 1978 00:00:00",
+      1403,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 7 1978 00:00:00",
+      2156,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 8 1978 00:00:00",
+      2296,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 9 1978 00:00:00",
+      2802,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 10 1978 00:00:00",
+      2969,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 11 1978 00:00:00",
+      2350,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 12 1978 00:00:00",
+      2172,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 13 1978 00:00:00",
+      3351,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 14 1978 00:00:00",
+      2502,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 15 1978 00:00:00",
+      2580,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 16 1978 00:00:00",
+      1881,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 17 1978 00:00:00",
+      1522,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 18 1978 00:00:00",
+      1381,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 19 1978 00:00:00",
+      1311,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 20 1978 00:00:00",
+      645,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 21 1978 00:00:00",
+      975,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 22 1978 00:00:00",
+      766,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 23 1978 00:00:00",
+      879,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 24 1978 00:00:00",
+      815,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 25 1978 00:00:00",
+      563,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 26 1978 00:00:00",
+      390,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 27 1978 00:00:00",
+      239,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 28 1978 00:00:00",
+      215,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 29 1978 00:00:00",
+      110,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 30 1978 00:00:00",
+      395,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "July, 31 1978 00:00:00",
+      360,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 1 1978 00:00:00",
+      318,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 2 1978 00:00:00",
+      278,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 3 1978 00:00:00",
+      251,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 4 1978 00:00:00",
+      227,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 5 1978 00:00:00",
+      193,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 6 1978 00:00:00",
+      178,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 7 1978 00:00:00",
+      161,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 8 1978 00:00:00",
+      139,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 9 1978 00:00:00",
+      127,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 10 1978 00:00:00",
+      115,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 11 1978 00:00:00",
+      98,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 12 1978 00:00:00",
+      92,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 13 1978 00:00:00",
+      84,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 14 1978 00:00:00",
+      74,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 15 1978 00:00:00",
+      63,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 16 1978 00:00:00",
+      54,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 17 1978 00:00:00",
+      58,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 18 1978 00:00:00",
+      45,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 19 1978 00:00:00",
+      38,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 20 1978 00:00:00",
+      33,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 21 1978 00:00:00",
+      31,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 22 1978 00:00:00",
+      27,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 23 1978 00:00:00",
+      25,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 24 1978 00:00:00",
+      23,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 25 1978 00:00:00",
+      16,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 26 1978 00:00:00",
+      15,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1978,
+      "August, 27 1978 00:00:00",
+      14,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "450",
+    "year": "1978",
+    "totalRecords": 63,
+    "totalCount": 50519,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1978-12-31T00:00:00"
+  }
+}

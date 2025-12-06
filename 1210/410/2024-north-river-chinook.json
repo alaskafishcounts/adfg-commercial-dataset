@@ -1,0 +1,346 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "June, 23 2024 00:00:00",
+      3,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "June, 24 2024 00:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "June, 25 2024 00:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "June, 26 2024 00:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "June, 27 2024 00:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "June, 28 2024 00:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "June, 29 2024 00:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "June, 30 2024 00:00:00",
+      9,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 1 2024 00:00:00",
+      3,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 2 2024 00:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 3 2024 00:00:00",
+      9,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 4 2024 00:00:00",
+      3,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 5 2024 00:00:00",
+      15,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 6 2024 00:00:00",
+      6,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 7 2024 00:00:00",
+      6,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 8 2024 00:00:00",
+      6,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 9 2024 00:00:00",
+      3,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 13 2024 00:00:00",
+      3,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 14 2024 00:00:00",
+      6,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 15 2024 00:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 16 2024 00:00:00",
+      12,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 17 2024 00:00:00",
+      18,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 18 2024 00:00:00",
+      3,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 19 2024 00:00:00",
+      9,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 20 2024 00:00:00",
+      18,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 21 2024 00:00:00",
+      9,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 22 2024 00:00:00",
+      33,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 23 2024 00:00:00",
+      18,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 24 2024 00:00:00",
+      15,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      6,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 26 2024 00:00:00",
+      3,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 27 2024 00:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 28 2024 00:00:00",
+      6,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 29 2024 00:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 30 2024 00:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 31 2024 00:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 1 2024 00:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ]
+  ]
+}

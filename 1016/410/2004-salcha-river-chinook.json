@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "June, 25 2004 00:00:00",
+      9,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 26 2004 00:00:00",
+      15,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 27 2004 00:00:00",
+      9,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 28 2004 00:00:00",
+      3,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 29 2004 00:00:00",
+      33,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 30 2004 00:00:00",
+      42,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 1 2004 00:00:00",
+      12,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 2 2004 00:00:00",
+      18,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 3 2004 00:00:00",
+      3,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 4 2004 00:00:00",
+      30,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 5 2004 00:00:00",
+      204,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 6 2004 00:00:00",
+      369,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 7 2004 00:00:00",
+      0,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 8 2004 00:00:00",
+      14,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 9 2004 00:00:00",
+      195,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 10 2004 00:00:00",
+      639,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 11 2004 00:00:00",
+      912,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 12 2004 00:00:00",
+      1500,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 13 2004 00:00:00",
+      876,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 14 2004 00:00:00",
+      2094,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 15 2004 00:00:00",
+      756,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 16 2004 00:00:00",
+      558,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 17 2004 00:00:00",
+      624,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 18 2004 00:00:00",
+      1098,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 19 2004 00:00:00",
+      885,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 20 2004 00:00:00",
+      696,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 21 2004 00:00:00",
+      672,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 22 2004 00:00:00",
+      1014,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 23 2004 00:00:00",
+      1161,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 24 2004 00:00:00",
+      237,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 25 2004 00:00:00",
+      249,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 26 2004 00:00:00",
+      267,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 27 2004 00:00:00",
+      114,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 28 2004 00:00:00",
+      117,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 29 2004 00:00:00",
+      66,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 30 2004 00:00:00",
+      84,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 31 2004 00:00:00",
+      42,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 1 2004 00:00:00",
+      36,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 2 2004 00:00:00",
+      15,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 3 2004 00:00:00",
+      3,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 4 2004 00:00:00",
+      30,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 5 2004 00:00:00",
+      12,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 6 2004 00:00:00",
+      9,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 7 2004 00:00:00",
+      6,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 8 2004 00:00:00",
+      3,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 9 2004 00:00:00",
+      0,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 10 2004 00:00:00",
+      9,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 11 2004 00:00:00",
+      3,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 12 2004 00:00:00",
+      0,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 13 2004 00:00:00",
+      3,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 14 2004 00:00:00",
+      6,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 15 2004 00:00:00",
+      0,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 16 2004 00:00:00",
+      3,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 17 2004 00:00:00",
+      3,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 18 2004 00:00:00",
+      0,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 19 2004 00:00:00",
+      0,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 20 2004 00:00:00",
+      0,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 21 2004 00:00:00",
+      3,
+      410,
+      1016,
+      "Salcha River",
+      "Chinook"
+    ]
+  ]
+}

@@ -1,0 +1,4945 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "June, 3 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 4 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 5 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 6 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 7 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 8 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 9 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 10 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 11 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 12 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 13 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 14 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 15 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 16 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 17 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 18 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 19 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 20 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 21 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 22 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 23 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 24 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 25 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 26 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 27 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 28 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 29 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 30 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 1 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 2 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 3 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 4 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 5 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 6 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 7 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 8 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 9 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 10 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 11 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 12 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 13 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 14 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 15 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 16 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 17 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 18 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 19 2020 0:00:00",
+      542,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 20 2020 0:00:00",
+      542,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 21 2020 0:00:00",
+      871,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 22 2020 0:00:00",
+      1336,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 23 2020 0:00:00",
+      1336,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 24 2020 0:00:00",
+      1556,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 25 2020 0:00:00",
+      2628,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 26 2020 0:00:00",
+      3056,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 27 2020 0:00:00",
+      3831,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 28 2020 0:00:00",
+      5037,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 29 2020 0:00:00",
+      8996,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 30 2020 0:00:00",
+      11206,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 31 2020 0:00:00",
+      12562,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 1 2020 0:00:00",
+      14726,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 2 2020 0:00:00",
+      17301,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 3 2020 0:00:00",
+      18720,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 4 2020 0:00:00",
+      22513,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 5 2020 0:00:00",
+      23410,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 6 2020 0:00:00",
+      23640,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 7 2020 0:00:00",
+      25046,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 8 2020 0:00:00",
+      29605,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 9 2020 0:00:00",
+      34471,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 10 2020 0:00:00",
+      43039,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 11 2020 0:00:00",
+      52218,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 12 2020 0:00:00",
+      60991,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 13 2020 0:00:00",
+      65632,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 14 2020 0:00:00",
+      76849,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 15 2020 0:00:00",
+      83008,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 16 2020 0:00:00",
+      95216,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 17 2020 0:00:00",
+      99427,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 18 2020 0:00:00",
+      108431,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 19 2020 0:00:00",
+      119404,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 20 2020 0:00:00",
+      129325,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 21 2020 0:00:00",
+      135520,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 22 2020 0:00:00",
+      139200,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 23 2020 0:00:00",
+      147200,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 24 2020 0:00:00",
+      157882,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 25 2020 0:00:00",
+      165685,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 1 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "June, 2 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 19 2020 0:00:00",
+      279,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 20 2020 0:00:00",
+      279,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 21 2020 0:00:00",
+      1856,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 22 2020 0:00:00",
+      7731,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 23 2020 0:00:00",
+      9560,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 24 2020 0:00:00",
+      12792,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 25 2020 0:00:00",
+      18560,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 26 2020 0:00:00",
+      27210,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 27 2020 0:00:00",
+      33073,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 28 2020 0:00:00",
+      39622,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 29 2020 0:00:00",
+      46518,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 30 2020 0:00:00",
+      52874,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 31 2020 0:00:00",
+      60375,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 1 2020 0:00:00",
+      68052,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 2 2020 0:00:00",
+      77005,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 3 2020 0:00:00",
+      83637,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 4 2020 0:00:00",
+      95337,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 5 2020 0:00:00",
+      110845,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 6 2020 0:00:00",
+      119336,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 7 2020 0:00:00",
+      129623,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 8 2020 0:00:00",
+      138523,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 9 2020 0:00:00",
+      145192,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 10 2020 0:00:00",
+      154095,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 11 2020 0:00:00",
+      165752,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 12 2020 0:00:00",
+      171472,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 13 2020 0:00:00",
+      174868,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 14 2020 0:00:00",
+      178405,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 15 2020 0:00:00",
+      181392,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 16 2020 0:00:00",
+      185629,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 17 2020 0:00:00",
+      190105,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 18 2020 0:00:00",
+      193341,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 19 2020 0:00:00",
+      196366,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 20 2020 0:00:00",
+      204912,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 21 2020 0:00:00",
+      214513,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 22 2020 0:00:00",
+      218985,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 23 2020 0:00:00",
+      221315,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 24 2020 0:00:00",
+      229689,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 25 2020 0:00:00",
+      232440,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 26 2020 0:00:00",
+      237285,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 20 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 21 2020 0:00:00",
+      521,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 22 2020 0:00:00",
+      2517,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 23 2020 0:00:00",
+      3691,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 24 2020 0:00:00",
+      3691,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 25 2020 0:00:00",
+      3691,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 26 2020 0:00:00",
+      4413,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 27 2020 0:00:00",
+      4644,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 28 2020 0:00:00",
+      4644,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 29 2020 0:00:00",
+      4644,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 30 2020 0:00:00",
+      5442,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 31 2020 0:00:00",
+      7196,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 1 2020 0:00:00",
+      10000,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 2 2020 0:00:00",
+      17936,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 3 2020 0:00:00",
+      28163,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 4 2020 0:00:00",
+      38324,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 5 2020 0:00:00",
+      46713,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 6 2020 0:00:00",
+      55903,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 7 2020 0:00:00",
+      59463,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 8 2020 0:00:00",
+      67958,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 9 2020 0:00:00",
+      78612,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 10 2020 0:00:00",
+      86400,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 11 2020 0:00:00",
+      90163,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 12 2020 0:00:00",
+      93613,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 13 2020 0:00:00",
+      99447,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 14 2020 0:00:00",
+      102546,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 15 2020 0:00:00",
+      109445,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 16 2020 0:00:00",
+      117016,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 17 2020 0:00:00",
+      125036,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 18 2020 0:00:00",
+      127397,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 19 2020 0:00:00",
+      133146,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 20 2020 0:00:00",
+      135530,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 21 2020 0:00:00",
+      140499,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 22 2020 0:00:00",
+      145901,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 23 2020 0:00:00",
+      152018,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 24 2020 0:00:00",
+      154530,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 25 2020 0:00:00",
+      156826,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 26 2020 0:00:00",
+      161469,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 8 2020 0:00:00",
+      383,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 9 2020 0:00:00",
+      383,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 10 2020 0:00:00",
+      383,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 11 2020 0:00:00",
+      986,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 12 2020 0:00:00",
+      986,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 13 2020 0:00:00",
+      986,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 14 2020 0:00:00",
+      986,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 15 2020 0:00:00",
+      986,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 16 2020 0:00:00",
+      986,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 17 2020 0:00:00",
+      986,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 18 2020 0:00:00",
+      2220,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 19 2020 0:00:00",
+      3635,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 20 2020 0:00:00",
+      4096,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 21 2020 0:00:00",
+      10235,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 22 2020 0:00:00",
+      11735,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 23 2020 0:00:00",
+      16034,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 24 2020 0:00:00",
+      24397,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 25 2020 0:00:00",
+      29714,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 26 2020 0:00:00",
+      34474,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 27 2020 0:00:00",
+      39087,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 28 2020 0:00:00",
+      46533,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 29 2020 0:00:00",
+      55017,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 30 2020 0:00:00",
+      59860,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 31 2020 0:00:00",
+      64319,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 1 2020 0:00:00",
+      72348,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 2 2020 0:00:00",
+      92574,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 3 2020 0:00:00",
+      99710,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 4 2020 0:00:00",
+      107991,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 5 2020 0:00:00",
+      135780,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 6 2020 0:00:00",
+      149848,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 7 2020 0:00:00",
+      168221,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 8 2020 0:00:00",
+      185489,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 9 2020 0:00:00",
+      192639,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 10 2020 0:00:00",
+      201155,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 11 2020 0:00:00",
+      209442,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 12 2020 0:00:00",
+      226839,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 13 2020 0:00:00",
+      247306,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 14 2020 0:00:00",
+      265227,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 15 2020 0:00:00",
+      275231,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 16 2020 0:00:00",
+      285277,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 17 2020 0:00:00",
+      305334,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 18 2020 0:00:00",
+      329360,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 19 2020 0:00:00",
+      336430,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 20 2020 0:00:00",
+      343248,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 21 2020 0:00:00",
+      349954,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 22 2020 0:00:00",
+      359768,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 23 2020 0:00:00",
+      366767,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 24 2020 0:00:00",
+      369648,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 25 2020 0:00:00",
+      373579,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 26 2020 0:00:00",
+      379736,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 10 2020 0:00:00",
+      294,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 11 2020 0:00:00",
+      2683,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 12 2020 0:00:00",
+      3643,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 13 2020 0:00:00",
+      3643,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 14 2020 0:00:00",
+      4975,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 15 2020 0:00:00",
+      4975,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 16 2020 0:00:00",
+      4975,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 17 2020 0:00:00",
+      4975,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 18 2020 0:00:00",
+      4975,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 19 2020 0:00:00",
+      4975,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 20 2020 0:00:00",
+      5418,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 21 2020 0:00:00",
+      8961,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 22 2020 0:00:00",
+      11047,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 23 2020 0:00:00",
+      14318,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 24 2020 0:00:00",
+      18167,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 25 2020 0:00:00",
+      20439,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 12 2020 0:00:00",
+      1792,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 13 2020 0:00:00",
+      1792,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 14 2020 0:00:00",
+      3792,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 15 2020 0:00:00",
+      5758,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 16 2020 0:00:00",
+      7545,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 17 2020 0:00:00",
+      9512,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 18 2020 0:00:00",
+      11275,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 19 2020 0:00:00",
+      11836,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 20 2020 0:00:00",
+      13139,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 21 2020 0:00:00",
+      20020,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 22 2020 0:00:00",
+      33024,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 23 2020 0:00:00",
+      45535,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 24 2020 0:00:00",
+      60495,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 25 2020 0:00:00",
+      74594,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 26 2020 0:00:00",
+      91243,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 27 2020 0:00:00",
+      105342,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 28 2020 0:00:00",
+      121388,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 29 2020 0:00:00",
+      135638,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 30 2020 0:00:00",
+      143987,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 31 2020 0:00:00",
+      151000,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 1 2020 0:00:00",
+      158642,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 2 2020 0:00:00",
+      164356,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 3 2020 0:00:00",
+      172290,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 4 2020 0:00:00",
+      182051,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 5 2020 0:00:00",
+      210694,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 6 2020 0:00:00",
+      249617,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 7 2020 0:00:00",
+      281062,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 8 2020 0:00:00",
+      302793,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 9 2020 0:00:00",
+      321755,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 10 2020 0:00:00",
+      328875,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 11 2020 0:00:00",
+      333706,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 12 2020 0:00:00",
+      338187,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 13 2020 0:00:00",
+      350281,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 14 2020 0:00:00",
+      359544,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 15 2020 0:00:00",
+      366153,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 16 2020 0:00:00",
+      371197,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 17 2020 0:00:00",
+      373409,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 18 2020 0:00:00",
+      374378,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 19 2020 0:00:00",
+      375355,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 20 2020 0:00:00",
+      378388,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 21 2020 0:00:00",
+      383892,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 22 2020 0:00:00",
+      388126,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 23 2020 0:00:00",
+      389873,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 24 2020 0:00:00",
+      391994,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 21 2020 0:00:00",
+      329,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 22 2020 0:00:00",
+      465,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 23 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 24 2020 0:00:00",
+      220,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 25 2020 0:00:00",
+      1072,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 26 2020 0:00:00",
+      428,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 27 2020 0:00:00",
+      775,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 28 2020 0:00:00",
+      1206,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 29 2020 0:00:00",
+      3959,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 30 2020 0:00:00",
+      2210,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 31 2020 0:00:00",
+      1356,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 1 2020 0:00:00",
+      2164,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 2 2020 0:00:00",
+      2575,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 3 2020 0:00:00",
+      1419,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 4 2020 0:00:00",
+      3793,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 5 2020 0:00:00",
+      897,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 6 2020 0:00:00",
+      230,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 7 2020 0:00:00",
+      1406,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 8 2020 0:00:00",
+      4559,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 9 2020 0:00:00",
+      4866,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 10 2020 0:00:00",
+      8568,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 11 2020 0:00:00",
+      9179,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 12 2020 0:00:00",
+      8773,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 13 2020 0:00:00",
+      4641,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 14 2020 0:00:00",
+      11217,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 15 2020 0:00:00",
+      6159,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 16 2020 0:00:00",
+      12208,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 17 2020 0:00:00",
+      4211,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 18 2020 0:00:00",
+      9004,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 19 2020 0:00:00",
+      10973,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 20 2020 0:00:00",
+      9921,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 21 2020 0:00:00",
+      6195,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 22 2020 0:00:00",
+      3680,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 23 2020 0:00:00",
+      8000,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 24 2020 0:00:00",
+      10682,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 25 2020 0:00:00",
+      7803,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 21 2020 0:00:00",
+      1577,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 22 2020 0:00:00",
+      5875,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 23 2020 0:00:00",
+      1829,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 24 2020 0:00:00",
+      3232,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 25 2020 0:00:00",
+      5768,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 26 2020 0:00:00",
+      8650,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 27 2020 0:00:00",
+      5863,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 28 2020 0:00:00",
+      6549,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 29 2020 0:00:00",
+      6896,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 30 2020 0:00:00",
+      6356,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 31 2020 0:00:00",
+      7501,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 1 2020 0:00:00",
+      7677,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 2 2020 0:00:00",
+      8953,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 3 2020 0:00:00",
+      6632,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 4 2020 0:00:00",
+      11700,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 5 2020 0:00:00",
+      15508,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 6 2020 0:00:00",
+      8491,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 7 2020 0:00:00",
+      10287,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 8 2020 0:00:00",
+      8900,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 9 2020 0:00:00",
+      6669,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 10 2020 0:00:00",
+      8903,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 11 2020 0:00:00",
+      11657,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 12 2020 0:00:00",
+      5720,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 13 2020 0:00:00",
+      3396,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 14 2020 0:00:00",
+      3537,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 15 2020 0:00:00",
+      2987,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 16 2020 0:00:00",
+      4237,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 17 2020 0:00:00",
+      4476,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 18 2020 0:00:00",
+      3236,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 19 2020 0:00:00",
+      3025,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 20 2020 0:00:00",
+      8546,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 21 2020 0:00:00",
+      9601,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 22 2020 0:00:00",
+      4472,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 23 2020 0:00:00",
+      2330,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 24 2020 0:00:00",
+      8374,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 25 2020 0:00:00",
+      2751,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 26 2020 0:00:00",
+      4845,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 22 2020 0:00:00",
+      1996,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 23 2020 0:00:00",
+      1174,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 24 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 25 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 26 2020 0:00:00",
+      722,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 27 2020 0:00:00",
+      231,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 28 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 29 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 30 2020 0:00:00",
+      798,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 31 2020 0:00:00",
+      1754,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 1 2020 0:00:00",
+      2804,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 2 2020 0:00:00",
+      7936,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 3 2020 0:00:00",
+      10227,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 4 2020 0:00:00",
+      10161,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 5 2020 0:00:00",
+      8389,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 6 2020 0:00:00",
+      9190,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 7 2020 0:00:00",
+      3560,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 8 2020 0:00:00",
+      8495,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 9 2020 0:00:00",
+      10654,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 10 2020 0:00:00",
+      7788,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 11 2020 0:00:00",
+      3763,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 12 2020 0:00:00",
+      3450,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 13 2020 0:00:00",
+      5834,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 14 2020 0:00:00",
+      3099,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 15 2020 0:00:00",
+      6899,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 16 2020 0:00:00",
+      7571,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 17 2020 0:00:00",
+      8020,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 18 2020 0:00:00",
+      2361,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 19 2020 0:00:00",
+      5749,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 20 2020 0:00:00",
+      2384,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 21 2020 0:00:00",
+      4969,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 22 2020 0:00:00",
+      5402,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 23 2020 0:00:00",
+      6117,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 24 2020 0:00:00",
+      2512,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 25 2020 0:00:00",
+      2296,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 26 2020 0:00:00",
+      4643,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 11 2020 0:00:00",
+      603,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 18 2020 0:00:00",
+      1234,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 19 2020 0:00:00",
+      1415,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 20 2020 0:00:00",
+      461,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 21 2020 0:00:00",
+      6139,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 22 2020 0:00:00",
+      1500,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 23 2020 0:00:00",
+      4299,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 24 2020 0:00:00",
+      8363,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 25 2020 0:00:00",
+      5317,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 26 2020 0:00:00",
+      4760,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 27 2020 0:00:00",
+      4613,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 28 2020 0:00:00",
+      7446,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 29 2020 0:00:00",
+      8484,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 30 2020 0:00:00",
+      4843,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 31 2020 0:00:00",
+      4459,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 1 2020 0:00:00",
+      8029,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 2 2020 0:00:00",
+      20226,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 3 2020 0:00:00",
+      7136,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 4 2020 0:00:00",
+      8281,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 5 2020 0:00:00",
+      27789,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 6 2020 0:00:00",
+      14068,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 7 2020 0:00:00",
+      18373,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 8 2020 0:00:00",
+      17268,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 9 2020 0:00:00",
+      7150,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 10 2020 0:00:00",
+      8516,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 11 2020 0:00:00",
+      8287,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 12 2020 0:00:00",
+      17397,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 13 2020 0:00:00",
+      20467,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 14 2020 0:00:00",
+      17921,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 15 2020 0:00:00",
+      10004,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 16 2020 0:00:00",
+      10046,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 17 2020 0:00:00",
+      20057,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 18 2020 0:00:00",
+      24026,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 19 2020 0:00:00",
+      7070,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 20 2020 0:00:00",
+      6818,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 21 2020 0:00:00",
+      6706,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 22 2020 0:00:00",
+      9814,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 23 2020 0:00:00",
+      6999,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 24 2020 0:00:00",
+      2881,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 25 2020 0:00:00",
+      3931,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 26 2020 0:00:00",
+      6157,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 11 2020 0:00:00",
+      2389,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 12 2020 0:00:00",
+      960,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 14 2020 0:00:00",
+      1332,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 19 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 20 2020 0:00:00",
+      443,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 21 2020 0:00:00",
+      3543,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 22 2020 0:00:00",
+      2086,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 23 2020 0:00:00",
+      3271,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 24 2020 0:00:00",
+      3849,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 25 2020 0:00:00",
+      2272,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 14 2020 0:00:00",
+      2000,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 15 2020 0:00:00",
+      1966,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 16 2020 0:00:00",
+      1787,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 17 2020 0:00:00",
+      1967,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 18 2020 0:00:00",
+      1763,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 19 2020 0:00:00",
+      561,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 20 2020 0:00:00",
+      1303,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 21 2020 0:00:00",
+      6881,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 22 2020 0:00:00",
+      13004,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 23 2020 0:00:00",
+      12511,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 24 2020 0:00:00",
+      14960,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 25 2020 0:00:00",
+      14099,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 26 2020 0:00:00",
+      16649,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 27 2020 0:00:00",
+      14099,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 28 2020 0:00:00",
+      16046,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 29 2020 0:00:00",
+      14250,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 30 2020 0:00:00",
+      8349,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 31 2020 0:00:00",
+      7013,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 1 2020 0:00:00",
+      7642,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 2 2020 0:00:00",
+      5714,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 3 2020 0:00:00",
+      7934,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 4 2020 0:00:00",
+      9761,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 5 2020 0:00:00",
+      28643,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 6 2020 0:00:00",
+      38923,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 7 2020 0:00:00",
+      31445,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 8 2020 0:00:00",
+      21731,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 9 2020 0:00:00",
+      18962,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 10 2020 0:00:00",
+      7120,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 11 2020 0:00:00",
+      4831,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 12 2020 0:00:00",
+      4481,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 13 2020 0:00:00",
+      12094,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 14 2020 0:00:00",
+      9263,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 15 2020 0:00:00",
+      6609,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 16 2020 0:00:00",
+      5044,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 17 2020 0:00:00",
+      2212,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 18 2020 0:00:00",
+      969,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 19 2020 0:00:00",
+      977,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 20 2020 0:00:00",
+      3033,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 21 2020 0:00:00",
+      5504,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 22 2020 0:00:00",
+      4234,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 23 2020 0:00:00",
+      1747,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 24 2020 0:00:00",
+      2121,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      0,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      542,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      329,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      465,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      220,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1072,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      428,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      775,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1206,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3959,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2210,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1356,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2164,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2575,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1419,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3793,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      897,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      230,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1406,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4559,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4866,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      8568,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      9179,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      8773,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4641,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      11217,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      6159,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      12208,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4211,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      9004,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      10973,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      9921,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      6195,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3680,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      8000,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      10682,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      7803,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      871,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1336,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1556,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2628,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3056,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3831,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      5037,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      8996,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      11206,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      12562,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      14726,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      17301,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      18720,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      22513,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      23410,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      23640,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      25046,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      29605,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      34471,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      43039,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      52218,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      60991,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      65632,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      76849,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      83008,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      95216,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      99427,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      108431,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      119404,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      129325,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      135520,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      139200,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      147200,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      157882,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      165685,
+      430,
+      1005,
+      "Kuskokwim River Sonar",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1005,
+    "species_id": "430",
+    "year": "2020",
+    "totalRecords": 547,
+    "totalCount": 28160065,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2020-12-31T00:00:00"
+  }
+}

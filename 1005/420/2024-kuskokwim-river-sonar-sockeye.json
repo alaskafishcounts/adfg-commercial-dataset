@@ -1,0 +1,814 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "June, 3 2024 00:00:00",
+      0,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 4 2024 00:00:00",
+      318,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 5 2024 00:00:00",
+      735,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 6 2024 00:00:00",
+      1230,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 7 2024 00:00:00",
+      2019,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 8 2024 00:00:00",
+      2937,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 9 2024 00:00:00",
+      4994,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 10 2024 00:00:00",
+      12242,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 11 2024 00:00:00",
+      15457,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 12 2024 00:00:00",
+      24501,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 13 2024 00:00:00",
+      36017,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 14 2024 00:00:00",
+      44920,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 15 2024 00:00:00",
+      58357,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 16 2024 00:00:00",
+      77948,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 17 2024 00:00:00",
+      101361,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 18 2024 00:00:00",
+      132239,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 19 2024 00:00:00",
+      153328,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 20 2024 00:00:00",
+      186635,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 21 2024 00:00:00",
+      224923,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 22 2024 00:00:00",
+      265958,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 23 2024 00:00:00",
+      290876,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 24 2024 00:00:00",
+      312491,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 25 2024 00:00:00",
+      330310,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 26 2024 00:00:00",
+      351779,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 27 2024 00:00:00",
+      372864,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 28 2024 00:00:00",
+      422849,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 29 2024 00:00:00",
+      450939,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 30 2024 00:00:00",
+      471809,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 1 2024 00:00:00",
+      495976,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 2 2024 00:00:00",
+      514766,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 3 2024 00:00:00",
+      533883,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 4 2024 00:00:00",
+      555366,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 5 2024 00:00:00",
+      577926,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 6 2024 00:00:00",
+      590842,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 7 2024 00:00:00",
+      598655,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 8 2024 00:00:00",
+      616521,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 9 2024 00:00:00",
+      631538,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 10 2024 00:00:00",
+      640545,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 11 2024 00:00:00",
+      648656,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 12 2024 00:00:00",
+      657138,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 13 2024 00:00:00",
+      666799,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 14 2024 00:00:00",
+      673022,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 15 2024 00:00:00",
+      682664,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 16 2024 00:00:00",
+      691027,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 17 2024 00:00:00",
+      695724,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 18 2024 00:00:00",
+      417,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 19 2024 00:00:00",
+      495,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 20 2024 00:00:00",
+      789,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 21 2024 00:00:00",
+      918,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 22 2024 00:00:00",
+      2057,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 23 2024 00:00:00",
+      7248,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 24 2024 00:00:00",
+      3215,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      9044,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      11516,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      8903,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      13437,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      19591,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      23413,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      30878,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      21089,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      33307,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      38288,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      41035,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      24918,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      21615,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      17819,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      21469,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      21085,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      49985,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      28090,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      20870,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      24167,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      18790,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      19117,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      21483,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      22560,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      12916,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      7813,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      17866,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      15017,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      9007,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      8111,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      8482,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      9661,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      6223,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      9642,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      8363,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      4697,
+      420,
+      1005,
+      "Kuskokwim River Sonar",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1005,
+    "species_id": "420",
+    "year": "2024",
+    "totalRecords": 88,
+    "totalCount": 15516490,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2024-12-31T00:00:00"
+  }
+}

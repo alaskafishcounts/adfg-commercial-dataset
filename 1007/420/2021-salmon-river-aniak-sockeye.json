@@ -1,0 +1,256 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "June, 26 2021 00:00:00",
+      0,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 27 2021 00:00:00",
+      2,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 28 2021 00:00:00",
+      6,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 29 2021 00:00:00",
+      12,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 30 2021 00:00:00",
+      19,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 1 2021 00:00:00",
+      37,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 2 2021 00:00:00",
+      29,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 3 2021 00:00:00",
+      25,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 4 2021 00:00:00",
+      22,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 5 2021 00:00:00",
+      47,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 6 2021 00:00:00",
+      102,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 7 2021 00:00:00",
+      66,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 8 2021 00:00:00",
+      130,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 9 2021 00:00:00",
+      89,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 10 2021 00:00:00",
+      39,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 11 2021 00:00:00",
+      57,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 12 2021 00:00:00",
+      32,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 13 2021 00:00:00",
+      46,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 14 2021 00:00:00",
+      17,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 15 2021 00:00:00",
+      40,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 16 2021 00:00:00",
+      9,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 17 2021 00:00:00",
+      4,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 18 2021 00:00:00",
+      5,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 19 2021 00:00:00",
+      11,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 20 2021 00:00:00",
+      3,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 21 2021 00:00:00",
+      1,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1007,
+    "species_id": "420",
+    "year": "2021",
+    "totalRecords": 26,
+    "totalCount": 850,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

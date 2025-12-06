@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1984,
+      "June, 15 1984 00:00:00",
+      0,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "June, 16 1984 00:00:00",
+      471,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "June, 17 1984 00:00:00",
+      350,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "June, 18 1984 00:00:00",
+      225,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "June, 19 1984 00:00:00",
+      286,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "June, 20 1984 00:00:00",
+      172,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "June, 21 1984 00:00:00",
+      1006,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "June, 22 1984 00:00:00",
+      676,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "June, 23 1984 00:00:00",
+      300,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "June, 24 1984 00:00:00",
+      1814,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "June, 25 1984 00:00:00",
+      590,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "June, 26 1984 00:00:00",
+      367,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "June, 27 1984 00:00:00",
+      6451,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "June, 28 1984 00:00:00",
+      10622,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "June, 29 1984 00:00:00",
+      6038,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "June, 30 1984 00:00:00",
+      1644,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "July, 1 1984 00:00:00",
+      1981,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "July, 2 1984 00:00:00",
+      1990,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "July, 3 1984 00:00:00",
+      4431,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1984,
+      "July, 4 1984 00:00:00",
+      1182,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1003,
+    "species_id": "440",
+    "year": "1984",
+    "totalRecords": 20,
+    "totalCount": 40596,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1984-12-31T00:00:00"
+  }
+}

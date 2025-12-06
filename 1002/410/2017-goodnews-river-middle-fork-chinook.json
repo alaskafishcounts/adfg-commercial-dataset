@@ -1,0 +1,652 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "June, 22 2017 00:00:00",
+      19,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 23 2017 00:00:00",
+      17,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 24 2017 00:00:00",
+      3,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 25 2017 00:00:00",
+      13,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 26 2017 00:00:00",
+      9,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 27 2017 00:00:00",
+      15,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 28 2017 00:00:00",
+      11,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 29 2017 00:00:00",
+      31,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 30 2017 00:00:00",
+      101,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 1 2017 00:00:00",
+      157,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 2 2017 00:00:00",
+      159,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 3 2017 00:00:00",
+      79,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 4 2017 00:00:00",
+      174,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 5 2017 00:00:00",
+      733,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 6 2017 00:00:00",
+      621,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 7 2017 00:00:00",
+      381,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 8 2017 00:00:00",
+      134,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 9 2017 00:00:00",
+      275,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 10 2017 00:00:00",
+      76,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 11 2017 00:00:00",
+      81,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 12 2017 00:00:00",
+      491,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 13 2017 00:00:00",
+      711,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 14 2017 00:00:00",
+      172,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 15 2017 00:00:00",
+      50,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 16 2017 00:00:00",
+      87,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 17 2017 00:00:00",
+      57,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 18 2017 00:00:00",
+      292,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 19 2017 00:00:00",
+      187,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 20 2017 00:00:00",
+      180,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 21 2017 00:00:00",
+      258,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 22 2017 00:00:00",
+      105,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 23 2017 00:00:00",
+      250,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 24 2017 00:00:00",
+      58,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 25 2017 00:00:00",
+      55,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 26 2017 00:00:00",
+      62,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 27 2017 00:00:00",
+      137,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 28 2017 00:00:00",
+      60,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 29 2017 00:00:00",
+      115,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 30 2017 00:00:00",
+      103,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 31 2017 00:00:00",
+      96,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 1 2017 00:00:00",
+      28,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 2 2017 00:00:00",
+      24,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 3 2017 00:00:00",
+      21,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 4 2017 00:00:00",
+      18,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 5 2017 00:00:00",
+      15,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 6 2017 00:00:00",
+      13,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 7 2017 00:00:00",
+      11,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 8 2017 00:00:00",
+      10,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 9 2017 00:00:00",
+      8,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 10 2017 00:00:00",
+      7,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 11 2017 00:00:00",
+      6,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 12 2017 00:00:00",
+      5,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 13 2017 00:00:00",
+      5,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 14 2017 00:00:00",
+      4,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 15 2017 00:00:00",
+      3,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 16 2017 00:00:00",
+      3,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 17 2017 00:00:00",
+      3,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 18 2017 00:00:00",
+      2,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 19 2017 00:00:00",
+      2,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 20 2017 00:00:00",
+      2,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 21 2017 00:00:00",
+      2,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 22 2017 00:00:00",
+      1,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 23 2017 00:00:00",
+      1,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 24 2017 00:00:00",
+      1,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 25 2017 00:00:00",
+      1,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 26 2017 00:00:00",
+      1,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 27 2017 00:00:00",
+      1,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 28 2017 00:00:00",
+      1,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 29 2017 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 30 2017 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "August, 31 2017 00:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ]
+  ]
+}

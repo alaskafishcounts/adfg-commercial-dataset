@@ -1,0 +1,742 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "June, 25 2007 00:00:00",
+      2,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 26 2007 00:00:00",
+      8,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 27 2007 00:00:00",
+      3,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 28 2007 00:00:00",
+      10,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 29 2007 00:00:00",
+      30,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 30 2007 00:00:00",
+      37,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 1 2007 00:00:00",
+      41,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 2 2007 00:00:00",
+      46,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 3 2007 00:00:00",
+      108,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 4 2007 00:00:00",
+      224,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 5 2007 00:00:00",
+      489,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 6 2007 00:00:00",
+      533,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 7 2007 00:00:00",
+      770,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 8 2007 00:00:00",
+      2016,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 9 2007 00:00:00",
+      2328,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 10 2007 00:00:00",
+      1373,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 11 2007 00:00:00",
+      983,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 12 2007 00:00:00",
+      2260,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 13 2007 00:00:00",
+      4863,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 14 2007 00:00:00",
+      3582,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 15 2007 00:00:00",
+      2992,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 16 2007 00:00:00",
+      5620,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 17 2007 00:00:00",
+      4160,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 18 2007 00:00:00",
+      1112,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 19 2007 00:00:00",
+      2032,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 20 2007 00:00:00",
+      3874,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 21 2007 00:00:00",
+      5077,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 22 2007 00:00:00",
+      5370,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 23 2007 00:00:00",
+      5816,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 24 2007 00:00:00",
+      5085,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 25 2007 00:00:00",
+      4153,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 26 2007 00:00:00",
+      2446,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 27 2007 00:00:00",
+      4997,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 28 2007 00:00:00",
+      3796,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 29 2007 00:00:00",
+      5720,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 30 2007 00:00:00",
+      5905,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 31 2007 00:00:00",
+      7256,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 1 2007 00:00:00",
+      4313,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 2 2007 00:00:00",
+      2945,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 3 2007 00:00:00",
+      3077,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 4 2007 00:00:00",
+      2964,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 5 2007 00:00:00",
+      2570,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 6 2007 00:00:00",
+      2190,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 7 2007 00:00:00",
+      2293,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 8 2007 00:00:00",
+      1829,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 9 2007 00:00:00",
+      2522,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 10 2007 00:00:00",
+      2146,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 11 2007 00:00:00",
+      1294,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 12 2007 00:00:00",
+      1300,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 13 2007 00:00:00",
+      1696,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 14 2007 00:00:00",
+      1494,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 15 2007 00:00:00",
+      1279,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 16 2007 00:00:00",
+      1194,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 17 2007 00:00:00",
+      1287,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 18 2007 00:00:00",
+      566,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 19 2007 00:00:00",
+      266,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 20 2007 00:00:00",
+      216,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 21 2007 00:00:00",
+      278,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 22 2007 00:00:00",
+      404,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 23 2007 00:00:00",
+      263,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 24 2007 00:00:00",
+      188,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 25 2007 00:00:00",
+      149,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 26 2007 00:00:00",
+      117,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 27 2007 00:00:00",
+      94,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 28 2007 00:00:00",
+      82,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 29 2007 00:00:00",
+      92,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 30 2007 00:00:00",
+      40,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 31 2007 00:00:00",
+      55,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 1 2007 00:00:00",
+      36,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 2 2007 00:00:00",
+      19,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 3 2007 00:00:00",
+      17,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 4 2007 00:00:00",
+      29,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 5 2007 00:00:00",
+      14,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 6 2007 00:00:00",
+      13,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 7 2007 00:00:00",
+      9,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 8 2007 00:00:00",
+      7,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 9 2007 00:00:00",
+      5,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 10 2007 00:00:00",
+      1,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 11 2007 00:00:00",
+      6,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 12 2007 00:00:00",
+      4,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1003,
+    "species_id": "450",
+    "year": "2007",
+    "totalRecords": 80,
+    "totalCount": 134480,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2007-12-31T00:00:00"
+  }
+}

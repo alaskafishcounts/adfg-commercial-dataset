@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "June, 12 1999 00:00:00",
+      0,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      1999,
+      "June, 13 1999 00:00:00",
+      485,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      1999,
+      "June, 14 1999 00:00:00",
+      1459,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      1999,
+      "June, 15 1999 00:00:00",
+      415,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      1999,
+      "June, 16 1999 00:00:00",
+      192,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      1999,
+      "June, 17 1999 00:00:00",
+      121,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      1999,
+      "June, 18 1999 00:00:00",
+      519,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      1999,
+      "June, 19 1999 00:00:00",
+      405,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      1999,
+      "June, 20 1999 00:00:00",
+      56,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      1999,
+      "June, 21 1999 00:00:00",
+      53,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      1999,
+      "June, 22 1999 00:00:00",
+      68,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      1999,
+      "June, 23 1999 00:00:00",
+      174,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "440",
+    "year": "1999",
+    "totalRecords": 12,
+    "totalCount": 3947,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1999-12-31T00:00:00"
+  }
+}

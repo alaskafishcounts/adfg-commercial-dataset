@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "June, 28 2024 00:00:00",
+      14,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "June, 29 2024 00:00:00",
+      6,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "June, 30 2024 00:00:00",
+      18,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 1 2024 00:00:00",
+      24,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 2 2024 00:00:00",
+      30,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 3 2024 00:00:00",
+      26,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 4 2024 00:00:00",
+      34,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 5 2024 00:00:00",
+      48,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 6 2024 00:00:00",
+      62,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 7 2024 00:00:00",
+      47,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 8 2024 00:00:00",
+      52,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 9 2024 00:00:00",
+      82,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 10 2024 00:00:00",
+      91,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 11 2024 00:00:00",
+      156,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 12 2024 00:00:00",
+      196,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 13 2024 00:00:00",
+      234,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 14 2024 00:00:00",
+      279,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 15 2024 00:00:00",
+      308,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 16 2024 00:00:00",
+      356,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 17 2024 00:00:00",
+      382,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 18 2024 00:00:00",
+      387,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 19 2024 00:00:00",
+      472,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 20 2024 00:00:00",
+      492,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 21 2024 00:00:00",
+      628,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 22 2024 00:00:00",
+      690,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 23 2024 00:00:00",
+      815,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 24 2024 00:00:00",
+      801,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      820,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 26 2024 00:00:00",
+      1023,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 27 2024 00:00:00",
+      1085,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 28 2024 00:00:00",
+      1078,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 29 2024 00:00:00",
+      975,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 30 2024 00:00:00",
+      917,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 31 2024 00:00:00",
+      1104,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 1 2024 00:00:00",
+      1087,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 2 2024 00:00:00",
+      923,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 3 2024 00:00:00",
+      819,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 4 2024 00:00:00",
+      758,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 5 2024 00:00:00",
+      717,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 6 2024 00:00:00",
+      662,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 7 2024 00:00:00",
+      714,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 8 2024 00:00:00",
+      532,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 9 2024 00:00:00",
+      572,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 10 2024 00:00:00",
+      508,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 11 2024 00:00:00",
+      415,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 12 2024 00:00:00",
+      321,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 13 2024 00:00:00",
+      328,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 14 2024 00:00:00",
+      334,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 15 2024 00:00:00",
+      264,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 16 2024 00:00:00",
+      262,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 17 2024 00:00:00",
+      203,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 18 2024 00:00:00",
+      187,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 19 2024 00:00:00",
+      140,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 20 2024 00:00:00",
+      132,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 21 2024 00:00:00",
+      122,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 22 2024 00:00:00",
+      98,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 23 2024 00:00:00",
+      46,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 24 2024 00:00:00",
+      76,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 25 2024 00:00:00",
+      96,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 26 2024 00:00:00",
+      64,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 27 2024 00:00:00",
+      71,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ]
+  ]
+}

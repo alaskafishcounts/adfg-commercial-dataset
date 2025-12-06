@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "June, 29 2011 00:00:00",
+      0,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ],
+    [
+      2011,
+      "June, 30 2011 00:00:00",
+      0,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ],
+    [
+      2011,
+      "July, 1 2011 00:00:00",
+      0,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ],
+    [
+      2011,
+      "July, 2 2011 00:00:00",
+      0,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ],
+    [
+      2011,
+      "July, 3 2011 00:00:00",
+      0,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ]
+  ]
+}

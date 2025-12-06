@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "June, 27 1987 00:00:00",
+      410,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "June, 28 1987 00:00:00",
+      195,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "June, 29 1987 00:00:00",
+      360,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "June, 30 1987 00:00:00",
+      43,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 1 1987 00:00:00",
+      152,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 2 1987 00:00:00",
+      130,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 3 1987 00:00:00",
+      419,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 4 1987 00:00:00",
+      227,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 5 1987 00:00:00",
+      184,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 6 1987 00:00:00",
+      276,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 7 1987 00:00:00",
+      896,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 8 1987 00:00:00",
+      825,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 9 1987 00:00:00",
+      641,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 10 1987 00:00:00",
+      261,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 11 1987 00:00:00",
+      323,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 12 1987 00:00:00",
+      620,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 13 1987 00:00:00",
+      530,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 14 1987 00:00:00",
+      269,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 15 1987 00:00:00",
+      567,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 16 1987 00:00:00",
+      1028,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 17 1987 00:00:00",
+      905,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      1987,
+      "July, 18 1987 00:00:00",
+      1768,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1003,
+    "species_id": "410",
+    "year": "1987",
+    "totalRecords": 22,
+    "totalCount": 11029,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1987-12-31T00:00:00"
+  }
+}

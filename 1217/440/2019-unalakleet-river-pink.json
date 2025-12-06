@@ -1,0 +1,400 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "June, 21 2019 00:00:00",
+      0,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 22 2019 00:00:00",
+      0,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 23 2019 00:00:00",
+      2,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 24 2019 00:00:00",
+      1,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 25 2019 00:00:00",
+      22,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 26 2019 00:00:00",
+      93,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 27 2019 00:00:00",
+      1470,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 28 2019 00:00:00",
+      575,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 29 2019 00:00:00",
+      23495,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 30 2019 00:00:00",
+      13645,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 1 2019 00:00:00",
+      3516,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 2 2019 00:00:00",
+      296,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 3 2019 00:00:00",
+      367,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 4 2019 00:00:00",
+      1921,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 5 2019 00:00:00",
+      6227,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 6 2019 00:00:00",
+      75313,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 7 2019 00:00:00",
+      120104,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 8 2019 00:00:00",
+      83701,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 9 2019 00:00:00",
+      87498,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 10 2019 00:00:00",
+      68853,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 11 2019 00:00:00",
+      67894,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 12 2019 00:00:00",
+      42167,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 13 2019 00:00:00",
+      59392,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 14 2019 00:00:00",
+      40057,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 15 2019 00:00:00",
+      46533,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 16 2019 00:00:00",
+      31774,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 17 2019 00:00:00",
+      50600,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 18 2019 00:00:00",
+      16567,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 19 2019 00:00:00",
+      12692,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 20 2019 00:00:00",
+      4353,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 21 2019 00:00:00",
+      13174,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 22 2019 00:00:00",
+      3107,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 23 2019 00:00:00",
+      36156,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 24 2019 00:00:00",
+      49113,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 25 2019 00:00:00",
+      26787,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      2022,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 27 2019 00:00:00",
+      16022,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 28 2019 00:00:00",
+      20331,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 29 2019 00:00:00",
+      19352,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 30 2019 00:00:00",
+      24815,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 31 2019 00:00:00",
+      19415,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 1 2019 00:00:00",
+      1739,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 2 2019 00:00:00",
+      2008,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ]
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "June, 15 2016 00:00:00",
+      0,
+      410,
+      1011,
+      "Telaquana River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 16 2016 00:00:00",
+      1,
+      410,
+      1011,
+      "Telaquana River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 17 2016 00:00:00",
+      3,
+      410,
+      1011,
+      "Telaquana River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 18 2016 00:00:00",
+      4,
+      410,
+      1011,
+      "Telaquana River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 19 2016 00:00:00",
+      2,
+      410,
+      1011,
+      "Telaquana River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 20 2016 00:00:00",
+      9,
+      410,
+      1011,
+      "Telaquana River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 21 2016 00:00:00",
+      5,
+      410,
+      1011,
+      "Telaquana River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 22 2016 00:00:00",
+      6,
+      410,
+      1011,
+      "Telaquana River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 23 2016 00:00:00",
+      11,
+      410,
+      1011,
+      "Telaquana River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 24 2016 00:00:00",
+      7,
+      410,
+      1011,
+      "Telaquana River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1011,
+    "species_id": "410",
+    "year": "2016",
+    "totalRecords": 10,
+    "totalCount": 48,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2016-12-31T00:00:00"
+  }
+}

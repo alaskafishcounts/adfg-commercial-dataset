@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "July, 16 1999 00:00:00",
+      115,
+      450,
+      1012,
+      "Henshaw Creek",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 17 1999 00:00:00",
+      111,
+      450,
+      1012,
+      "Henshaw Creek",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 18 1999 00:00:00",
+      694,
+      450,
+      1012,
+      "Henshaw Creek",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 19 1999 00:00:00",
+      104,
+      450,
+      1012,
+      "Henshaw Creek",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 20 1999 00:00:00",
+      32,
+      450,
+      1012,
+      "Henshaw Creek",
+      "Chum"
+    ],
+    [
+      1999,
+      "July, 31 1999 00:00:00",
+      36,
+      450,
+      1012,
+      "Henshaw Creek",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 1 1999 00:00:00",
+      37,
+      450,
+      1012,
+      "Henshaw Creek",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 6 1999 00:00:00",
+      65,
+      450,
+      1012,
+      "Henshaw Creek",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 7 1999 00:00:00",
+      116,
+      450,
+      1012,
+      "Henshaw Creek",
+      "Chum"
+    ],
+    [
+      1999,
+      "August, 8 1999 00:00:00",
+      72,
+      450,
+      1012,
+      "Henshaw Creek",
+      "Chum"
+    ]
+  ]
+}

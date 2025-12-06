@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "August, 29 1987 00:00:00",
+      11,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "August, 30 1987 00:00:00",
+      0,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "August, 31 1987 00:00:00",
+      30,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 1 1987 00:00:00",
+      139,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 2 1987 00:00:00",
+      250,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 3 1987 00:00:00",
+      312,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 4 1987 00:00:00",
+      302,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 5 1987 00:00:00",
+      410,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 6 1987 00:00:00",
+      348,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 7 1987 00:00:00",
+      368,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 8 1987 00:00:00",
+      346,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 9 1987 00:00:00",
+      279,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 10 1987 00:00:00",
+      262,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 11 1987 00:00:00",
+      375,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 12 1987 00:00:00",
+      566,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 13 1987 00:00:00",
+      863,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 14 1987 00:00:00",
+      1168,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 15 1987 00:00:00",
+      1633,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 16 1987 00:00:00",
+      1947,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 17 1987 00:00:00",
+      2904,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 18 1987 00:00:00",
+      3040,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 19 1987 00:00:00",
+      3879,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 20 1987 00:00:00",
+      3238,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 21 1987 00:00:00",
+      2770,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 22 1987 00:00:00",
+      2637,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 23 1987 00:00:00",
+      2089,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 24 1987 00:00:00",
+      1940,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 25 1987 00:00:00",
+      1743,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 26 1987 00:00:00",
+      1699,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 27 1987 00:00:00",
+      1563,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 28 1987 00:00:00",
+      1373,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 29 1987 00:00:00",
+      1104,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "September, 30 1987 00:00:00",
+      920,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 1 1987 00:00:00",
+      861,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 2 1987 00:00:00",
+      786,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 3 1987 00:00:00",
+      579,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 4 1987 00:00:00",
+      666,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 5 1987 00:00:00",
+      670,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 6 1987 00:00:00",
+      628,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 7 1987 00:00:00",
+      653,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 8 1987 00:00:00",
+      478,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 9 1987 00:00:00",
+      509,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 10 1987 00:00:00",
+      544,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 11 1987 00:00:00",
+      462,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 12 1987 00:00:00",
+      448,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 13 1987 00:00:00",
+      356,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 14 1987 00:00:00",
+      266,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 15 1987 00:00:00",
+      192,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 16 1987 00:00:00",
+      207,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 17 1987 00:00:00",
+      99,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 18 1987 00:00:00",
+      44,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 19 1987 00:00:00",
+      32,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 20 1987 00:00:00",
+      22,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 21 1987 00:00:00",
+      14,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 22 1987 00:00:00",
+      8,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 23 1987 00:00:00",
+      4,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 24 1987 00:00:00",
+      1,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1987,
+      "October, 25 1987 00:00:00",
+      0,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ]
+  ]
+}

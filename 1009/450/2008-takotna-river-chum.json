@@ -1,0 +1,499 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "June, 25 2008 00:00:00",
+      0,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "June, 26 2008 00:00:00",
+      9,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "June, 27 2008 00:00:00",
+      12,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "June, 28 2008 00:00:00",
+      7,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "June, 29 2008 00:00:00",
+      26,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "June, 30 2008 00:00:00",
+      19,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 1 2008 00:00:00",
+      20,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 2 2008 00:00:00",
+      32,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 3 2008 00:00:00",
+      36,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 4 2008 00:00:00",
+      41,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 5 2008 00:00:00",
+      104,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 6 2008 00:00:00",
+      109,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 7 2008 00:00:00",
+      111,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 8 2008 00:00:00",
+      179,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 9 2008 00:00:00",
+      155,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 10 2008 00:00:00",
+      191,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 11 2008 00:00:00",
+      175,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 12 2008 00:00:00",
+      160,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 13 2008 00:00:00",
+      182,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 14 2008 00:00:00",
+      279,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 15 2008 00:00:00",
+      210,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 16 2008 00:00:00",
+      221,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 17 2008 00:00:00",
+      266,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 18 2008 00:00:00",
+      289,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 19 2008 00:00:00",
+      242,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 20 2008 00:00:00",
+      277,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 21 2008 00:00:00",
+      229,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 22 2008 00:00:00",
+      193,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 23 2008 00:00:00",
+      276,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 24 2008 00:00:00",
+      232,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 25 2008 00:00:00",
+      190,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 26 2008 00:00:00",
+      110,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 27 2008 00:00:00",
+      125,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 28 2008 00:00:00",
+      121,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 29 2008 00:00:00",
+      96,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 30 2008 00:00:00",
+      123,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "July, 31 2008 00:00:00",
+      95,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 1 2008 00:00:00",
+      63,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 2 2008 00:00:00",
+      54,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 3 2008 00:00:00",
+      51,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 4 2008 00:00:00",
+      62,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 5 2008 00:00:00",
+      45,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 6 2008 00:00:00",
+      37,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 7 2008 00:00:00",
+      28,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 8 2008 00:00:00",
+      18,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 9 2008 00:00:00",
+      15,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 10 2008 00:00:00",
+      4,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 11 2008 00:00:00",
+      6,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 12 2008 00:00:00",
+      8,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 13 2008 00:00:00",
+      5,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 14 2008 00:00:00",
+      3,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 15 2008 00:00:00",
+      1,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ],
+    [
+      2008,
+      "August, 16 2008 00:00:00",
+      2,
+      450,
+      1009,
+      "Takotna River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1009,
+    "species_id": "450",
+    "year": "2008",
+    "totalRecords": 53,
+    "totalCount": 5544,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2008-12-31T00:00:00"
+  }
+}

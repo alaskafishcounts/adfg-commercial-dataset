@@ -1,0 +1,553 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "June, 26 2005 00:00:00",
+      256,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "June, 27 2005 00:00:00",
+      9,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "June, 28 2005 00:00:00",
+      424,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "June, 29 2005 00:00:00",
+      473,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "June, 30 2005 00:00:00",
+      432,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 1 2005 00:00:00",
+      239,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 2 2005 00:00:00",
+      1081,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 3 2005 00:00:00",
+      1063,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 4 2005 00:00:00",
+      1238,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 5 2005 00:00:00",
+      993,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 6 2005 00:00:00",
+      1218,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 7 2005 00:00:00",
+      1839,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 8 2005 00:00:00",
+      1270,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 9 2005 00:00:00",
+      1112,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 10 2005 00:00:00",
+      1370,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 11 2005 00:00:00",
+      195,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 12 2005 00:00:00",
+      197,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 13 2005 00:00:00",
+      1458,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 14 2005 00:00:00",
+      1242,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 15 2005 00:00:00",
+      557,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 16 2005 00:00:00",
+      449,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 17 2005 00:00:00",
+      196,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 18 2005 00:00:00",
+      246,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 19 2005 00:00:00",
+      141,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 20 2005 00:00:00",
+      523,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 21 2005 00:00:00",
+      493,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 22 2005 00:00:00",
+      182,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 23 2005 00:00:00",
+      167,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 24 2005 00:00:00",
+      54,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 25 2005 00:00:00",
+      80,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 26 2005 00:00:00",
+      28,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 27 2005 00:00:00",
+      32,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 28 2005 00:00:00",
+      100,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 29 2005 00:00:00",
+      112,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 30 2005 00:00:00",
+      74,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 31 2005 00:00:00",
+      79,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 1 2005 00:00:00",
+      50,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 2 2005 00:00:00",
+      25,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 3 2005 00:00:00",
+      23,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 4 2005 00:00:00",
+      5,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 5 2005 00:00:00",
+      24,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 6 2005 00:00:00",
+      30,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 7 2005 00:00:00",
+      14,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 8 2005 00:00:00",
+      19,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 10 2005 00:00:00",
+      8,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 11 2005 00:00:00",
+      18,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 12 2005 00:00:00",
+      10,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 13 2005 00:00:00",
+      3,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 14 2005 00:00:00",
+      7,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 18 2005 00:00:00",
+      11,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 19 2005 00:00:00",
+      0,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 20 2005 00:00:00",
+      1,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 22 2005 00:00:00",
+      2,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 24 2005 00:00:00",
+      4,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 25 2005 00:00:00",
+      6,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 28 2005 00:00:00",
+      20,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 29 2005 00:00:00",
+      22,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 31 2005 00:00:00",
+      12,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2005,
+      "September, 6 2005 00:00:00",
+      13,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "450",
+    "year": "2005",
+    "totalRecords": 59,
+    "totalCount": 19949,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2005-12-31T00:00:00"
+  }
+}

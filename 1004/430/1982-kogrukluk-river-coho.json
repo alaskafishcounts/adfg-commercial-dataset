@@ -1,0 +1,517 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "June, 26 1982 00:00:00",
+      0,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "June, 27 1982 00:00:00",
+      5,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "June, 28 1982 00:00:00",
+      6,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "June, 29 1982 00:00:00",
+      15,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "June, 30 1982 00:00:00",
+      17,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 1 1982 00:00:00",
+      16,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 2 1982 00:00:00",
+      42,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 3 1982 00:00:00",
+      36,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 4 1982 00:00:00",
+      55,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 5 1982 00:00:00",
+      106,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 6 1982 00:00:00",
+      91,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 7 1982 00:00:00",
+      58,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 8 1982 00:00:00",
+      78,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 9 1982 00:00:00",
+      195,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 10 1982 00:00:00",
+      56,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 11 1982 00:00:00",
+      511,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 12 1982 00:00:00",
+      465,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 13 1982 00:00:00",
+      371,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 14 1982 00:00:00",
+      283,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 15 1982 00:00:00",
+      409,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 16 1982 00:00:00",
+      142,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 17 1982 00:00:00",
+      228,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 18 1982 00:00:00",
+      647,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 19 1982 00:00:00",
+      868,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 20 1982 00:00:00",
+      804,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 21 1982 00:00:00",
+      946,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 22 1982 00:00:00",
+      820,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 23 1982 00:00:00",
+      632,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 24 1982 00:00:00",
+      1488,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 25 1982 00:00:00",
+      1680,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 26 1982 00:00:00",
+      1537,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 27 1982 00:00:00",
+      1905,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 28 1982 00:00:00",
+      1980,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 29 1982 00:00:00",
+      1285,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 30 1982 00:00:00",
+      1781,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "July, 31 1982 00:00:00",
+      5013,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 1 1982 00:00:00",
+      3219,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 2 1982 00:00:00",
+      2165,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 3 1982 00:00:00",
+      1460,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 4 1982 00:00:00",
+      1226,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 5 1982 00:00:00",
+      921,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 6 1982 00:00:00",
+      722,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 7 1982 00:00:00",
+      748,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 8 1982 00:00:00",
+      508,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 9 1982 00:00:00",
+      855,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 10 1982 00:00:00",
+      725,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 11 1982 00:00:00",
+      603,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 12 1982 00:00:00",
+      495,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 13 1982 00:00:00",
+      402,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 14 1982 00:00:00",
+      320,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 15 1982 00:00:00",
+      257,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 16 1982 00:00:00",
+      205,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 17 1982 00:00:00",
+      160,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 18 1982 00:00:00",
+      124,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1982,
+      "August, 19 1982 00:00:00",
+      96,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "430",
+    "year": "1982",
+    "totalRecords": 55,
+    "totalCount": 39782,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1982-12-31T00:00:00"
+  }
+}

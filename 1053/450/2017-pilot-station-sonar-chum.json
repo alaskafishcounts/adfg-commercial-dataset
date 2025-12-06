@@ -1,0 +1,913 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "May, 31 2017 00:00:00",
+      2471,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 1 2017 00:00:00",
+      2928,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 2 2017 00:00:00",
+      5483,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 3 2017 00:00:00",
+      5584,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 4 2017 00:00:00",
+      5890,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 5 2017 00:00:00",
+      5980,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 6 2017 00:00:00",
+      10204,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 7 2017 00:00:00",
+      8396,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 8 2017 00:00:00",
+      4568,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 9 2017 00:00:00",
+      10913,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 10 2017 00:00:00",
+      19212,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 11 2017 00:00:00",
+      7467,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 12 2017 00:00:00",
+      19253,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 13 2017 00:00:00",
+      10308,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 14 2017 00:00:00",
+      135953,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 15 2017 00:00:00",
+      97798,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 16 2017 00:00:00",
+      111187,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 17 2017 00:00:00",
+      59529,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 18 2017 00:00:00",
+      144351,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 19 2017 00:00:00",
+      187011,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 20 2017 00:00:00",
+      85803,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 21 2017 00:00:00",
+      284951,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 22 2017 00:00:00",
+      269131,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 23 2017 00:00:00",
+      222811,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 24 2017 00:00:00",
+      143035,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 25 2017 00:00:00",
+      37412,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 26 2017 00:00:00",
+      123733,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 27 2017 00:00:00",
+      132573,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 28 2017 00:00:00",
+      70052,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 29 2017 00:00:00",
+      121879,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "June, 30 2017 00:00:00",
+      97441,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 1 2017 00:00:00",
+      55843,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 2 2017 00:00:00",
+      59538,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 3 2017 00:00:00",
+      39854,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 4 2017 00:00:00",
+      48682,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 5 2017 00:00:00",
+      20560,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 6 2017 00:00:00",
+      57474,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 7 2017 00:00:00",
+      109692,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 8 2017 00:00:00",
+      85401,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 9 2017 00:00:00",
+      50828,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 10 2017 00:00:00",
+      41497,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 11 2017 00:00:00",
+      21900,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 12 2017 00:00:00",
+      17816,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 13 2017 00:00:00",
+      18175,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 14 2017 00:00:00",
+      6405,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 15 2017 00:00:00",
+      5165,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 16 2017 00:00:00",
+      2056,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 17 2017 00:00:00",
+      3199,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 18 2017 00:00:00",
+      6343,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 19 2017 00:00:00",
+      40875,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 20 2017 00:00:00",
+      103862,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 21 2017 00:00:00",
+      51416,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 22 2017 00:00:00",
+      8877,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 23 2017 00:00:00",
+      11982,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 24 2017 00:00:00",
+      6126,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 25 2017 00:00:00",
+      4351,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 26 2017 00:00:00",
+      9730,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 27 2017 00:00:00",
+      33362,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 28 2017 00:00:00",
+      19997,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 29 2017 00:00:00",
+      37150,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 30 2017 00:00:00",
+      63714,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "July, 31 2017 00:00:00",
+      27263,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 1 2017 00:00:00",
+      5751,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 2 2017 00:00:00",
+      3074,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 3 2017 00:00:00",
+      10637,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 4 2017 00:00:00",
+      20594,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 5 2017 00:00:00",
+      9837,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 6 2017 00:00:00",
+      2469,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 7 2017 00:00:00",
+      5035,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 8 2017 00:00:00",
+      6268,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 9 2017 00:00:00",
+      8215,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 10 2017 00:00:00",
+      6415,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 11 2017 00:00:00",
+      4557,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 12 2017 00:00:00",
+      3112,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 13 2017 00:00:00",
+      26535,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 14 2017 00:00:00",
+      236252,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 15 2017 00:00:00",
+      255251,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 16 2017 00:00:00",
+      314791,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 17 2017 00:00:00",
+      131998,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 18 2017 00:00:00",
+      50576,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 19 2017 00:00:00",
+      32911,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 20 2017 00:00:00",
+      15666,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 21 2017 00:00:00",
+      26158,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 22 2017 00:00:00",
+      23642,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 23 2017 00:00:00",
+      21094,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 24 2017 00:00:00",
+      17080,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 25 2017 00:00:00",
+      21722,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 26 2017 00:00:00",
+      13126,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 27 2017 00:00:00",
+      15966,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 28 2017 00:00:00",
+      20900,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 29 2017 00:00:00",
+      31849,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 30 2017 00:00:00",
+      11685,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "August, 31 2017 00:00:00",
+      7203,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 1 2017 00:00:00",
+      6573,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 2 2017 00:00:00",
+      10874,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 3 2017 00:00:00",
+      12785,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 4 2017 00:00:00",
+      8643,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 5 2017 00:00:00",
+      6105,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 6 2017 00:00:00",
+      3206,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ],
+    [
+      2017,
+      "September, 7 2017 00:00:00",
+      2671,
+      450,
+      1053,
+      "Pilot Station Sonar",
+      "Chum"
+    ]
+  ]
+}

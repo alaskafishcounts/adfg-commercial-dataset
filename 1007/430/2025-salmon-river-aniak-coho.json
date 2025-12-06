@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "June, 28 2025 00:00:00",
+      0,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2025,
+      "June, 29 2025 00:00:00",
+      9,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2025,
+      "June, 30 2025 00:00:00",
+      7,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 1 2025 00:00:00",
+      4,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 3 2025 00:00:00",
+      2,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 4 2025 00:00:00",
+      12,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 5 2025 00:00:00",
+      6,
+      430,
+      1007,
+      "Salmon River (Aniak)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1007,
+    "species_id": "430",
+    "year": "2025",
+    "totalRecords": 7,
+    "totalCount": 40,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2025-12-31T00:00:00"
+  }
+}

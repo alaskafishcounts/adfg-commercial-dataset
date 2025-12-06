@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "June, 29 2008 00:00:00",
+      1,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 30 2008 00:00:00",
+      0,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 1 2008 00:00:00",
+      4,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 2 2008 00:00:00",
+      3,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 3 2008 00:00:00",
+      2,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 4 2008 00:00:00",
+      11,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 5 2008 00:00:00",
+      9,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 6 2008 00:00:00",
+      8,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 7 2008 00:00:00",
+      7,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 8 2008 00:00:00",
+      5,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 9 2008 00:00:00",
+      6,
+      440,
+      1012,
+      "Tuluksak River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1012,
+    "species_id": "440",
+    "year": "2008",
+    "totalRecords": 11,
+    "totalCount": 56,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2008-12-31T00:00:00"
+  }
+}

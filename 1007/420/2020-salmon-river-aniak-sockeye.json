@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "June, 26 2020 00:00:00",
+      0,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 27 2020 00:00:00",
+      1,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 28 2020 00:00:00",
+      4,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 29 2020 00:00:00",
+      10,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 30 2020 00:00:00",
+      8,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 1 2020 00:00:00",
+      14,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 2 2020 00:00:00",
+      13,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 3 2020 00:00:00",
+      15,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 4 2020 00:00:00",
+      26,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 5 2020 00:00:00",
+      19,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 6 2020 00:00:00",
+      39,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 7 2020 00:00:00",
+      11,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 8 2020 00:00:00",
+      20,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 9 2020 00:00:00",
+      12,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 10 2020 00:00:00",
+      3,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 11 2020 00:00:00",
+      2,
+      420,
+      1007,
+      "Salmon River (Aniak)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1007,
+    "species_id": "420",
+    "year": "2020",
+    "totalRecords": 16,
+    "totalCount": 197,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2020-12-31T00:00:00"
+  }
+}

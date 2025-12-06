@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "June, 24 2013 00:00:00",
+      0,
+      420,
+      1010,
+      "Tatlawiksuk River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 25 2013 00:00:00",
+      1,
+      420,
+      1010,
+      "Tatlawiksuk River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 26 2013 00:00:00",
+      9,
+      420,
+      1010,
+      "Tatlawiksuk River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 27 2013 00:00:00",
+      3,
+      420,
+      1010,
+      "Tatlawiksuk River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 28 2013 00:00:00",
+      4,
+      420,
+      1010,
+      "Tatlawiksuk River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 29 2013 00:00:00",
+      5,
+      420,
+      1010,
+      "Tatlawiksuk River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 30 2013 00:00:00",
+      6,
+      420,
+      1010,
+      "Tatlawiksuk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1010,
+    "species_id": "420",
+    "year": "2013",
+    "totalRecords": 7,
+    "totalCount": 28,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2013-12-31T00:00:00"
+  }
+}

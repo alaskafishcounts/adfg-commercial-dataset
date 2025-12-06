@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1986,
+      "June, 16 1986 00:00:00",
+      0,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1986,
+      "June, 17 1986 00:00:00",
+      265,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1986,
+      "June, 18 1986 00:00:00",
+      199,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1986,
+      "June, 19 1986 00:00:00",
+      204,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1986,
+      "June, 20 1986 00:00:00",
+      49,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1986,
+      "June, 21 1986 00:00:00",
+      138,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1986,
+      "June, 22 1986 00:00:00",
+      603,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1986,
+      "June, 23 1986 00:00:00",
+      4312,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1986,
+      "June, 24 1986 00:00:00",
+      1769,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1986,
+      "June, 25 1986 00:00:00",
+      156,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1986,
+      "June, 26 1986 00:00:00",
+      223,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1986,
+      "June, 27 1986 00:00:00",
+      126,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ],
+    [
+      1986,
+      "June, 28 1986 00:00:00",
+      324,
+      440,
+      1003,
+      "Kanektok River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1003,
+    "species_id": "440",
+    "year": "1986",
+    "totalRecords": 13,
+    "totalCount": 8368,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1986-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "June, 15 1992 00:00:00",
+      0,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "June, 16 1992 00:00:00",
+      1,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "June, 17 1992 00:00:00",
+      4,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "June, 18 1992 00:00:00",
+      3,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "June, 19 1992 00:00:00",
+      2,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "June, 20 1992 00:00:00",
+      20,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "June, 21 1992 00:00:00",
+      28,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "June, 22 1992 00:00:00",
+      21,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "June, 23 1992 00:00:00",
+      11,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "June, 24 1992 00:00:00",
+      16,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "June, 25 1992 00:00:00",
+      17,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "June, 26 1992 00:00:00",
+      42,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "June, 27 1992 00:00:00",
+      81,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "June, 28 1992 00:00:00",
+      44,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "June, 29 1992 00:00:00",
+      121,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "June, 30 1992 00:00:00",
+      186,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 1 1992 00:00:00",
+      43,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 2 1992 00:00:00",
+      80,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 3 1992 00:00:00",
+      93,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 4 1992 00:00:00",
+      154,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 5 1992 00:00:00",
+      64,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 6 1992 00:00:00",
+      367,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 7 1992 00:00:00",
+      529,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 8 1992 00:00:00",
+      318,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 9 1992 00:00:00",
+      101,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 10 1992 00:00:00",
+      420,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 11 1992 00:00:00",
+      246,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 12 1992 00:00:00",
+      647,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 13 1992 00:00:00",
+      902,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 14 1992 00:00:00",
+      448,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 15 1992 00:00:00",
+      557,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 16 1992 00:00:00",
+      161,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 17 1992 00:00:00",
+      174,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 18 1992 00:00:00",
+      922,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 19 1992 00:00:00",
+      199,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 20 1992 00:00:00",
+      105,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 21 1992 00:00:00",
+      236,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 22 1992 00:00:00",
+      84,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 23 1992 00:00:00",
+      18,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 24 1992 00:00:00",
+      8,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 25 1992 00:00:00",
+      89,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 26 1992 00:00:00",
+      76,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 27 1992 00:00:00",
+      56,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 28 1992 00:00:00",
+      52,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 29 1992 00:00:00",
+      38,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 30 1992 00:00:00",
+      29,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "July, 31 1992 00:00:00",
+      24,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "August, 1 1992 00:00:00",
+      15,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1992,
+      "August, 2 1992 00:00:00",
+      10,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1012,
+    "species_id": "430",
+    "year": "1992",
+    "totalRecords": 49,
+    "totalCount": 7862,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1992-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,598 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "June, 28 2021 00:00:00",
+      11,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 29 2021 00:00:00",
+      8,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 30 2021 00:00:00",
+      38,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 1 2021 00:00:00",
+      37,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 2 2021 00:00:00",
+      92,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 3 2021 00:00:00",
+      70,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 4 2021 00:00:00",
+      127,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 5 2021 00:00:00",
+      204,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 6 2021 00:00:00",
+      222,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 7 2021 00:00:00",
+      352,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 8 2021 00:00:00",
+      386,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 9 2021 00:00:00",
+      404,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 10 2021 00:00:00",
+      444,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 11 2021 00:00:00",
+      444,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 12 2021 00:00:00",
+      410,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 13 2021 00:00:00",
+      532,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 14 2021 00:00:00",
+      592,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 15 2021 00:00:00",
+      620,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 16 2021 00:00:00",
+      646,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 17 2021 00:00:00",
+      790,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 18 2021 00:00:00",
+      799,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 19 2021 00:00:00",
+      838,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 20 2021 00:00:00",
+      824,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 21 2021 00:00:00",
+      750,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 22 2021 00:00:00",
+      792,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 23 2021 00:00:00",
+      822,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 24 2021 00:00:00",
+      822,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 25 2021 00:00:00",
+      780,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 26 2021 00:00:00",
+      914,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 27 2021 00:00:00",
+      1065,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 28 2021 00:00:00",
+      1026,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 29 2021 00:00:00",
+      1085,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 30 2021 00:00:00",
+      1185,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 31 2021 00:00:00",
+      1125,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 1 2021 00:00:00",
+      1069,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 2 2021 00:00:00",
+      987,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 3 2021 00:00:00",
+      1079,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 4 2021 00:00:00",
+      941,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 5 2021 00:00:00",
+      893,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 6 2021 00:00:00",
+      796,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 7 2021 00:00:00",
+      740,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 8 2021 00:00:00",
+      706,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 9 2021 00:00:00",
+      666,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 10 2021 00:00:00",
+      548,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 11 2021 00:00:00",
+      502,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 12 2021 00:00:00",
+      464,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 13 2021 00:00:00",
+      410,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 14 2021 00:00:00",
+      371,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 15 2021 00:00:00",
+      340,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 16 2021 00:00:00",
+      274,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 17 2021 00:00:00",
+      224,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 18 2021 00:00:00",
+      174,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 19 2021 00:00:00",
+      150,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 20 2021 00:00:00",
+      130,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 21 2021 00:00:00",
+      114,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 22 2021 00:00:00",
+      118,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 23 2021 00:00:00",
+      106,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 24 2021 00:00:00",
+      108,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 25 2021 00:00:00",
+      98,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 26 2021 00:00:00",
+      96,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 27 2021 00:00:00",
+      68,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 28 2021 00:00:00",
+      78,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 29 2021 00:00:00",
+      76,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 30 2021 00:00:00",
+      90,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 31 2021 00:00:00",
+      124,
+      410,
+      1001,
+      "Eagle Sonar (Yukon/Canadian Border)",
+      "Chinook"
+    ]
+  ]
+}

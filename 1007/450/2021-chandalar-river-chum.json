@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "August, 8 2021 00:00:00",
+      0,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 9 2021 00:00:00",
+      0,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 10 2021 00:00:00",
+      1,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 11 2021 00:00:00",
+      3,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 12 2021 00:00:00",
+      6,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 13 2021 00:00:00",
+      9,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 14 2021 00:00:00",
+      12,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 15 2021 00:00:00",
+      18,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 16 2021 00:00:00",
+      22,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 17 2021 00:00:00",
+      28,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 18 2021 00:00:00",
+      34,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 19 2021 00:00:00",
+      42,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 20 2021 00:00:00",
+      50,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 21 2021 00:00:00",
+      59,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 22 2021 00:00:00",
+      68,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 23 2021 00:00:00",
+      188,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 24 2021 00:00:00",
+      177,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 25 2021 00:00:00",
+      138,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 26 2021 00:00:00",
+      129,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 27 2021 00:00:00",
+      139,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 28 2021 00:00:00",
+      142,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 29 2021 00:00:00",
+      157,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 30 2021 00:00:00",
+      308,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "August, 31 2021 00:00:00",
+      545,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 1 2021 00:00:00",
+      478,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 2 2021 00:00:00",
+      655,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 3 2021 00:00:00",
+      737,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 4 2021 00:00:00",
+      651,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 5 2021 00:00:00",
+      772,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 6 2021 00:00:00",
+      699,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 7 2021 00:00:00",
+      620,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 8 2021 00:00:00",
+      668,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 9 2021 00:00:00",
+      758,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 10 2021 00:00:00",
+      832,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 11 2021 00:00:00",
+      627,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 12 2021 00:00:00",
+      615,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 13 2021 00:00:00",
+      853,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 14 2021 00:00:00",
+      625,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 15 2021 00:00:00",
+      528,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 16 2021 00:00:00",
+      685,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 17 2021 00:00:00",
+      579,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 18 2021 00:00:00",
+      684,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 19 2021 00:00:00",
+      726,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 20 2021 00:00:00",
+      707,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 21 2021 00:00:00",
+      653,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 22 2021 00:00:00",
+      535,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 23 2021 00:00:00",
+      621,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 24 2021 00:00:00",
+      580,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 25 2021 00:00:00",
+      541,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 26 2021 00:00:00",
+      526,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 27 2021 00:00:00",
+      708,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 28 2021 00:00:00",
+      292,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 29 2021 00:00:00",
+      241,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "September, 30 2021 00:00:00",
+      196,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "October, 1 2021 00:00:00",
+      154,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "October, 2 2021 00:00:00",
+      119,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "October, 3 2021 00:00:00",
+      87,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "October, 4 2021 00:00:00",
+      61,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "October, 5 2021 00:00:00",
+      39,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "October, 6 2021 00:00:00",
+      22,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "October, 7 2021 00:00:00",
+      10,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "October, 8 2021 00:00:00",
+      3,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ],
+    [
+      2021,
+      "October, 9 2021 00:00:00",
+      0,
+      450,
+      1007,
+      "Chandalar River",
+      "Chum"
+    ]
+  ]
+}

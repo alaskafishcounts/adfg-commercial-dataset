@@ -1,0 +1,337 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "June, 25 2002 00:00:00",
+      3,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 26 2002 00:00:00",
+      5,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 27 2002 00:00:00",
+      1,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 28 2002 00:00:00",
+      17,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 29 2002 00:00:00",
+      6,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 30 2002 00:00:00",
+      16,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 1 2002 00:00:00",
+      77,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 2 2002 00:00:00",
+      145,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 3 2002 00:00:00",
+      235,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 4 2002 00:00:00",
+      158,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 5 2002 00:00:00",
+      422,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 6 2002 00:00:00",
+      43,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 7 2002 00:00:00",
+      491,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 8 2002 00:00:00",
+      51,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 9 2002 00:00:00",
+      190,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 10 2002 00:00:00",
+      421,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 11 2002 00:00:00",
+      275,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 12 2002 00:00:00",
+      127,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 13 2002 00:00:00",
+      205,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 14 2002 00:00:00",
+      157,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 15 2002 00:00:00",
+      211,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 16 2002 00:00:00",
+      222,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 17 2002 00:00:00",
+      105,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 18 2002 00:00:00",
+      67,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 19 2002 00:00:00",
+      75,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 20 2002 00:00:00",
+      62,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 21 2002 00:00:00",
+      31,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 22 2002 00:00:00",
+      59,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 23 2002 00:00:00",
+      33,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 24 2002 00:00:00",
+      24,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 25 2002 00:00:00",
+      9,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 26 2002 00:00:00",
+      13,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 27 2002 00:00:00",
+      0,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 28 2002 00:00:00",
+      2,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 29 2002 00:00:00",
+      4,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "420",
+    "year": "2002",
+    "totalRecords": 35,
+    "totalCount": 3962,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2002-12-31T00:00:00"
+  }
+}

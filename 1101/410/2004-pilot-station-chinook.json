@@ -1,0 +1,571 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "May, 28 2004 00:00:00",
+      0,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "May, 29 2004 00:00:00",
+      328,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "May, 30 2004 00:00:00",
+      357,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "May, 31 2004 00:00:00",
+      378,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 1 2004 00:00:00",
+      191,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 2 2004 00:00:00",
+      188,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 3 2004 00:00:00",
+      320,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 4 2004 00:00:00",
+      331,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 5 2004 00:00:00",
+      1956,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 6 2004 00:00:00",
+      760,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 7 2004 00:00:00",
+      586,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 8 2004 00:00:00",
+      1049,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 9 2004 00:00:00",
+      1200,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 10 2004 00:00:00",
+      1938,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 11 2004 00:00:00",
+      2105,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 12 2004 00:00:00",
+      2544,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 13 2004 00:00:00",
+      2254,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 14 2004 00:00:00",
+      3720,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 15 2004 00:00:00",
+      9412,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 16 2004 00:00:00",
+      12140,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 17 2004 00:00:00",
+      10325,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 18 2004 00:00:00",
+      6950,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 19 2004 00:00:00",
+      6000,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 20 2004 00:00:00",
+      4904,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 21 2004 00:00:00",
+      2974,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 22 2004 00:00:00",
+      17326,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 23 2004 00:00:00",
+      11137,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 24 2004 00:00:00",
+      11849,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 25 2004 00:00:00",
+      8432,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 26 2004 00:00:00",
+      8325,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 27 2004 00:00:00",
+      8506,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 28 2004 00:00:00",
+      5916,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 29 2004 00:00:00",
+      6526,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 30 2004 00:00:00",
+      4331,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 1 2004 00:00:00",
+      4285,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 2 2004 00:00:00",
+      5321,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 3 2004 00:00:00",
+      2678,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 4 2004 00:00:00",
+      4767,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 5 2004 00:00:00",
+      3120,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 6 2004 00:00:00",
+      2690,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 7 2004 00:00:00",
+      3297,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 8 2004 00:00:00",
+      474,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 9 2004 00:00:00",
+      2890,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 10 2004 00:00:00",
+      1998,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 11 2004 00:00:00",
+      1066,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 12 2004 00:00:00",
+      1511,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 13 2004 00:00:00",
+      708,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 14 2004 00:00:00",
+      1160,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 15 2004 00:00:00",
+      736,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 16 2004 00:00:00",
+      836,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 17 2004 00:00:00",
+      360,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 18 2004 00:00:00",
+      720,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 19 2004 00:00:00",
+      306,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 20 2004 00:00:00",
+      885,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 21 2004 00:00:00",
+      682,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 22 2004 00:00:00",
+      1649,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 23 2004 00:00:00",
+      116,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 24 2004 00:00:00",
+      1297,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 25 2004 00:00:00",
+      154,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 26 2004 00:00:00",
+      437,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 27 2004 00:00:00",
+      160,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "410",
+    "year": "2004",
+    "totalRecords": 61,
+    "totalCount": 199561,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2004-12-31T00:00:00"
+  }
+}

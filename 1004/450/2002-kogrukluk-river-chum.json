@@ -1,0 +1,508 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "June, 25 2002 00:00:00",
+      247,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "June, 26 2002 00:00:00",
+      630,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "June, 27 2002 00:00:00",
+      474,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "June, 28 2002 00:00:00",
+      973,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "June, 29 2002 00:00:00",
+      1081,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "June, 30 2002 00:00:00",
+      1045,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 1 2002 00:00:00",
+      933,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 2 2002 00:00:00",
+      1111,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 3 2002 00:00:00",
+      1927,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 4 2002 00:00:00",
+      1705,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 5 2002 00:00:00",
+      2389,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 6 2002 00:00:00",
+      2266,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 7 2002 00:00:00",
+      2276,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 8 2002 00:00:00",
+      2373,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 9 2002 00:00:00",
+      3143,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 10 2002 00:00:00",
+      3402,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 11 2002 00:00:00",
+      3056,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 12 2002 00:00:00",
+      2337,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 13 2002 00:00:00",
+      2094,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 14 2002 00:00:00",
+      2154,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 15 2002 00:00:00",
+      2175,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 16 2002 00:00:00",
+      665,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 17 2002 00:00:00",
+      1613,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 18 2002 00:00:00",
+      1008,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 19 2002 00:00:00",
+      1330,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 20 2002 00:00:00",
+      1204,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 21 2002 00:00:00",
+      1198,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 22 2002 00:00:00",
+      1152,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 23 2002 00:00:00",
+      2913,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 24 2002 00:00:00",
+      1138,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 25 2002 00:00:00",
+      556,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 26 2002 00:00:00",
+      468,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 27 2002 00:00:00",
+      260,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 28 2002 00:00:00",
+      252,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 29 2002 00:00:00",
+      149,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 30 2002 00:00:00",
+      106,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "July, 31 2002 00:00:00",
+      73,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 1 2002 00:00:00",
+      55,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 2 2002 00:00:00",
+      295,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 3 2002 00:00:00",
+      264,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 4 2002 00:00:00",
+      239,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 5 2002 00:00:00",
+      21,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 6 2002 00:00:00",
+      14,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 7 2002 00:00:00",
+      18,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 8 2002 00:00:00",
+      15,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 9 2002 00:00:00",
+      8,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 10 2002 00:00:00",
+      5,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 11 2002 00:00:00",
+      25,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 12 2002 00:00:00",
+      6,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 13 2002 00:00:00",
+      4,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 14 2002 00:00:00",
+      2,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 15 2002 00:00:00",
+      3,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 16 2002 00:00:00",
+      1,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "August, 17 2002 00:00:00",
+      0,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "450",
+    "year": "2002",
+    "totalRecords": 54,
+    "totalCount": 52851,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2002-12-31T00:00:00"
+  }
+}

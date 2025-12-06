@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "June, 15 2021 00:00:00",
+      0,
+      410,
+      1216,
+      "Solomon River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 16 2021 00:00:00",
+      1,
+      410,
+      1216,
+      "Solomon River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1216,
+    "species_id": "410",
+    "year": "2021",
+    "totalRecords": 2,
+    "totalCount": 1,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

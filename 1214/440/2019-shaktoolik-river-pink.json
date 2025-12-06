@@ -1,0 +1,400 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "June, 19 2019 00:00:00",
+      0,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 20 2019 00:00:00",
+      0,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 21 2019 00:00:00",
+      3,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 22 2019 00:00:00",
+      -15,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 23 2019 00:00:00",
+      33,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 24 2019 00:00:00",
+      108,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 25 2019 00:00:00",
+      213,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 26 2019 00:00:00",
+      234,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 27 2019 00:00:00",
+      591,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 28 2019 00:00:00",
+      7407,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 29 2019 00:00:00",
+      24006,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 30 2019 00:00:00",
+      31014,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 1 2019 00:00:00",
+      -549,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 2 2019 00:00:00",
+      5487,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 3 2019 00:00:00",
+      6012,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 4 2019 00:00:00",
+      6003,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 5 2019 00:00:00",
+      28446,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 6 2019 00:00:00",
+      170235,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 7 2019 00:00:00",
+      270741,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 8 2019 00:00:00",
+      183531,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 9 2019 00:00:00",
+      264057,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 10 2019 00:00:00",
+      449286,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 11 2019 00:00:00",
+      169278,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 12 2019 00:00:00",
+      202353,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 13 2019 00:00:00",
+      223719,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 14 2019 00:00:00",
+      245121,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 15 2019 00:00:00",
+      250485,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 16 2019 00:00:00",
+      239100,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 17 2019 00:00:00",
+      111927,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 18 2019 00:00:00",
+      191988,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 19 2019 00:00:00",
+      152862,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 20 2019 00:00:00",
+      155448,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 21 2019 00:00:00",
+      71463,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 22 2019 00:00:00",
+      92376,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 23 2019 00:00:00",
+      191733,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 24 2019 00:00:00",
+      191307,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 25 2019 00:00:00",
+      111201,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      12843,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 27 2019 00:00:00",
+      21237,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 28 2019 00:00:00",
+      25497,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 29 2019 00:00:00",
+      31818,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 30 2019 00:00:00",
+      29862,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 31 2019 00:00:00",
+      9171,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ]
+  ]
+}

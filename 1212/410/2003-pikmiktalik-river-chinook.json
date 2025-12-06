@@ -1,0 +1,364 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "June, 19 2003 00:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 20 2003 00:00:00",
+      6,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 21 2003 00:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 22 2003 00:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 23 2003 00:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 24 2003 00:00:00",
+      3,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 25 2003 00:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 26 2003 00:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 27 2003 00:00:00",
+      -3,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 28 2003 00:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 29 2003 00:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 30 2003 00:00:00",
+      -6,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 1 2003 00:00:00",
+      6,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 2 2003 00:00:00",
+      33,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 3 2003 00:00:00",
+      51,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 4 2003 00:00:00",
+      60,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 5 2003 00:00:00",
+      21,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 6 2003 00:00:00",
+      9,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 7 2003 00:00:00",
+      6,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 8 2003 00:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 9 2003 00:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 10 2003 00:00:00",
+      18,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 11 2003 00:00:00",
+      -3,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 12 2003 00:00:00",
+      30,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 13 2003 00:00:00",
+      3,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 14 2003 00:00:00",
+      27,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 15 2003 00:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 16 2003 00:00:00",
+      18,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 17 2003 00:00:00",
+      6,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 18 2003 00:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 19 2003 00:00:00",
+      12,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 20 2003 00:00:00",
+      42,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 21 2003 00:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 22 2003 00:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 23 2003 00:00:00",
+      3,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 24 2003 00:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 25 2003 00:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 26 2003 00:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 27 2003 00:00:00",
+      3,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ]
+  ]
+}

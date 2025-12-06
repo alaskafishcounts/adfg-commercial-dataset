@@ -1,0 +1,679 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "June, 25 2007 00:00:00",
+      0,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 26 2007 00:00:00",
+      2,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 27 2007 00:00:00",
+      3,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 28 2007 00:00:00",
+      5,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 29 2007 00:00:00",
+      15,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 30 2007 00:00:00",
+      47,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 1 2007 00:00:00",
+      53,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 2 2007 00:00:00",
+      101,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 3 2007 00:00:00",
+      242,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 4 2007 00:00:00",
+      73,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 5 2007 00:00:00",
+      143,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 6 2007 00:00:00",
+      785,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 7 2007 00:00:00",
+      448,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 8 2007 00:00:00",
+      1142,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 9 2007 00:00:00",
+      1650,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 10 2007 00:00:00",
+      1435,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 11 2007 00:00:00",
+      1898,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 12 2007 00:00:00",
+      3141,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 13 2007 00:00:00",
+      3732,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 14 2007 00:00:00",
+      5069,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 15 2007 00:00:00",
+      4034,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 16 2007 00:00:00",
+      3366,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 17 2007 00:00:00",
+      3916,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 18 2007 00:00:00",
+      3632,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 19 2007 00:00:00",
+      2660,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 20 2007 00:00:00",
+      2755,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 21 2007 00:00:00",
+      3731,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 22 2007 00:00:00",
+      3232,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 23 2007 00:00:00",
+      3436,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 24 2007 00:00:00",
+      3006,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 25 2007 00:00:00",
+      2545,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 26 2007 00:00:00",
+      2409,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 27 2007 00:00:00",
+      1891,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 28 2007 00:00:00",
+      1718,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 29 2007 00:00:00",
+      2657,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 30 2007 00:00:00",
+      2398,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 31 2007 00:00:00",
+      1697,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 1 2007 00:00:00",
+      2266,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 2 2007 00:00:00",
+      1950,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 3 2007 00:00:00",
+      1291,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 4 2007 00:00:00",
+      1113,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 5 2007 00:00:00",
+      1024,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 6 2007 00:00:00",
+      924,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 7 2007 00:00:00",
+      911,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 8 2007 00:00:00",
+      850,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 9 2007 00:00:00",
+      719,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 10 2007 00:00:00",
+      446,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 11 2007 00:00:00",
+      356,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 12 2007 00:00:00",
+      305,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 13 2007 00:00:00",
+      264,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 14 2007 00:00:00",
+      226,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 15 2007 00:00:00",
+      195,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 16 2007 00:00:00",
+      166,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 17 2007 00:00:00",
+      77,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 18 2007 00:00:00",
+      116,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 19 2007 00:00:00",
+      84,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 20 2007 00:00:00",
+      52,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 21 2007 00:00:00",
+      67,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 22 2007 00:00:00",
+      54,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 23 2007 00:00:00",
+      45,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 24 2007 00:00:00",
+      32,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 25 2007 00:00:00",
+      37,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 26 2007 00:00:00",
+      25,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 27 2007 00:00:00",
+      27,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 28 2007 00:00:00",
+      19,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 29 2007 00:00:00",
+      14,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 30 2007 00:00:00",
+      10,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 31 2007 00:00:00",
+      11,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 1 2007 00:00:00",
+      8,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 2 2007 00:00:00",
+      4,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 3 2007 00:00:00",
+      6,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 4 2007 00:00:00",
+      1,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 5 2007 00:00:00",
+      7,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1010,
+    "species_id": "450",
+    "year": "2007",
+    "totalRecords": 73,
+    "totalCount": 82769,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2007-12-31T00:00:00"
+  }
+}

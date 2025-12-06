@@ -1,0 +1,724 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "June, 3 2024 00:00:00",
+      0,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 4 2024 00:00:00",
+      218,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 5 2024 00:00:00",
+      519,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 6 2024 00:00:00",
+      690,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 7 2024 00:00:00",
+      889,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 8 2024 00:00:00",
+      1157,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 9 2024 00:00:00",
+      1583,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 10 2024 00:00:00",
+      3121,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 11 2024 00:00:00",
+      5076,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 12 2024 00:00:00",
+      8662,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 13 2024 00:00:00",
+      10182,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 14 2024 00:00:00",
+      11416,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 15 2024 00:00:00",
+      18211,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 16 2024 00:00:00",
+      20879,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 17 2024 00:00:00",
+      24463,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 18 2024 00:00:00",
+      30265,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 19 2024 00:00:00",
+      33479,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 20 2024 00:00:00",
+      34595,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 21 2024 00:00:00",
+      43954,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 22 2024 00:00:00",
+      59436,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 23 2024 00:00:00",
+      74877,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 24 2024 00:00:00",
+      75369,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 25 2024 00:00:00",
+      79310,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 26 2024 00:00:00",
+      94360,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 27 2024 00:00:00",
+      112125,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 28 2024 00:00:00",
+      125349,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 29 2024 00:00:00",
+      133853,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "June, 30 2024 00:00:00",
+      140378,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 1 2024 00:00:00",
+      150817,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 2 2024 00:00:00",
+      170699,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 3 2024 00:00:00",
+      189457,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 4 2024 00:00:00",
+      199551,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 5 2024 00:00:00",
+      206976,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 6 2024 00:00:00",
+      213064,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 7 2024 00:00:00",
+      217130,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 8 2024 00:00:00",
+      235133,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 9 2024 00:00:00",
+      236298,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 10 2024 00:00:00",
+      238462,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 11 2024 00:00:00",
+      244013,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 12 2024 00:00:00",
+      253825,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 13 2024 00:00:00",
+      301,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 14 2024 00:00:00",
+      171,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 15 2024 00:00:00",
+      199,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 16 2024 00:00:00",
+      268,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 17 2024 00:00:00",
+      426,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 18 2024 00:00:00",
+      1538,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 19 2024 00:00:00",
+      1955,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 20 2024 00:00:00",
+      3586,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 21 2024 00:00:00",
+      1520,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 22 2024 00:00:00",
+      1234,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 23 2024 00:00:00",
+      6795,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 24 2024 00:00:00",
+      2668,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      3584,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      5802,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      3214,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      1116,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      9359,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      15482,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      15441,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      492,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      3941,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      15050,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      17765,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      13224,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      8504,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      6525,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      10439,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      19882,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      18758,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      10094,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      7425,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      6088,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      4066,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      18003,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      1165,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      2164,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      5551,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      9812,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1005,
+    "species_id": "450",
+    "year": "2024",
+    "totalRecords": 78,
+    "totalCount": 3953448,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2024-12-31T00:00:00"
+  }
+}

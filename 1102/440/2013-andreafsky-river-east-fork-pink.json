@@ -1,0 +1,238 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "July, 2 2013 00:00:00",
+      3,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 3 2013 00:00:00",
+      0,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 4 2013 00:00:00",
+      2,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 5 2013 00:00:00",
+      4,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 7 2013 00:00:00",
+      11,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 8 2013 00:00:00",
+      7,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 9 2013 00:00:00",
+      6,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      14,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      24,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      45,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      20,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      13,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      21,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      25,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      22,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      12,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      29,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      47,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      48,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      37,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      32,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      31,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      38,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      17,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "440",
+    "year": "2013",
+    "totalRecords": 24,
+    "totalCount": 508,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2013-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "June, 14 2017 00:00:00",
+      0,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 15 2017 00:00:00",
+      1,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 16 2017 00:00:00",
+      2,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 17 2017 00:00:00",
+      4,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 18 2017 00:00:00",
+      3,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 19 2017 00:00:00",
+      9,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 20 2017 00:00:00",
+      18,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 21 2017 00:00:00",
+      115,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 22 2017 00:00:00",
+      19,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 23 2017 00:00:00",
+      21,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 24 2017 00:00:00",
+      12,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 25 2017 00:00:00",
+      43,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 26 2017 00:00:00",
+      25,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 27 2017 00:00:00",
+      13,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 28 2017 00:00:00",
+      35,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 29 2017 00:00:00",
+      10,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "June, 30 2017 00:00:00",
+      6,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 1 2017 00:00:00",
+      20,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 2 2017 00:00:00",
+      27,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 3 2017 00:00:00",
+      38,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 4 2017 00:00:00",
+      48,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 5 2017 00:00:00",
+      37,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 6 2017 00:00:00",
+      5,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2017,
+      "July, 7 2017 00:00:00",
+      8,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1012,
+    "species_id": "410",
+    "year": "2017",
+    "totalRecords": 24,
+    "totalCount": 519,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2017-12-31T00:00:00"
+  }
+}

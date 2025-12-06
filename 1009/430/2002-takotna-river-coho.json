@@ -1,0 +1,382 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "June, 25 2002 00:00:00",
+      0,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "June, 26 2002 00:00:00",
+      1,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "June, 27 2002 00:00:00",
+      2,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "June, 28 2002 00:00:00",
+      6,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "June, 29 2002 00:00:00",
+      4,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "June, 30 2002 00:00:00",
+      26,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 1 2002 00:00:00",
+      27,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 2 2002 00:00:00",
+      23,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 3 2002 00:00:00",
+      36,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 4 2002 00:00:00",
+      49,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 5 2002 00:00:00",
+      20,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 6 2002 00:00:00",
+      159,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 7 2002 00:00:00",
+      17,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 8 2002 00:00:00",
+      11,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 9 2002 00:00:00",
+      266,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 10 2002 00:00:00",
+      326,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 11 2002 00:00:00",
+      328,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 12 2002 00:00:00",
+      397,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 13 2002 00:00:00",
+      301,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 14 2002 00:00:00",
+      267,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 15 2002 00:00:00",
+      107,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 16 2002 00:00:00",
+      134,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 17 2002 00:00:00",
+      121,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 18 2002 00:00:00",
+      127,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 19 2002 00:00:00",
+      205,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 20 2002 00:00:00",
+      133,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 21 2002 00:00:00",
+      63,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 22 2002 00:00:00",
+      90,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 23 2002 00:00:00",
+      118,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 24 2002 00:00:00",
+      109,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 25 2002 00:00:00",
+      79,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 26 2002 00:00:00",
+      39,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 27 2002 00:00:00",
+      19,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 28 2002 00:00:00",
+      21,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 29 2002 00:00:00",
+      37,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 30 2002 00:00:00",
+      13,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 31 2002 00:00:00",
+      14,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 1 2002 00:00:00",
+      16,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 2 2002 00:00:00",
+      7,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 3 2002 00:00:00",
+      5,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1009,
+    "species_id": "430",
+    "year": "2002",
+    "totalRecords": 40,
+    "totalCount": 3723,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2002-12-31T00:00:00"
+  }
+}

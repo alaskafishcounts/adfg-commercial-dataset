@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "June, 15 2004 00:00:00",
+      0,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 16 2004 00:00:00",
+      8,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 17 2004 00:00:00",
+      129,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 18 2004 00:00:00",
+      180,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 19 2004 00:00:00",
+      94,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 20 2004 00:00:00",
+      137,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 21 2004 00:00:00",
+      126,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 22 2004 00:00:00",
+      209,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 23 2004 00:00:00",
+      158,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 24 2004 00:00:00",
+      574,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 25 2004 00:00:00",
+      475,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 26 2004 00:00:00",
+      610,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 27 2004 00:00:00",
+      908,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 28 2004 00:00:00",
+      711,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 29 2004 00:00:00",
+      1357,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 30 2004 00:00:00",
+      404,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 1 2004 00:00:00",
+      928,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 2 2004 00:00:00",
+      887,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 3 2004 00:00:00",
+      618,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 4 2004 00:00:00",
+      819,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 5 2004 00:00:00",
+      879,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 6 2004 00:00:00",
+      1168,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 7 2004 00:00:00",
+      773,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 8 2004 00:00:00",
+      692,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 9 2004 00:00:00",
+      611,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 10 2004 00:00:00",
+      453,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 11 2004 00:00:00",
+      540,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 12 2004 00:00:00",
+      443,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 13 2004 00:00:00",
+      660,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 14 2004 00:00:00",
+      385,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 15 2004 00:00:00",
+      317,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 16 2004 00:00:00",
+      440,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 17 2004 00:00:00",
+      341,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 18 2004 00:00:00",
+      434,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 19 2004 00:00:00",
+      344,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 20 2004 00:00:00",
+      350,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 21 2004 00:00:00",
+      151,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 22 2004 00:00:00",
+      60,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 23 2004 00:00:00",
+      143,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 24 2004 00:00:00",
+      68,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 25 2004 00:00:00",
+      39,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 26 2004 00:00:00",
+      85,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 27 2004 00:00:00",
+      42,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 28 2004 00:00:00",
+      37,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 29 2004 00:00:00",
+      31,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 30 2004 00:00:00",
+      13,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 31 2004 00:00:00",
+      26,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 1 2004 00:00:00",
+      23,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 2 2004 00:00:00",
+      18,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 3 2004 00:00:00",
+      7,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 4 2004 00:00:00",
+      4,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 5 2004 00:00:00",
+      5,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 6 2004 00:00:00",
+      9,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 7 2004 00:00:00",
+      3,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 8 2004 00:00:00",
+      6,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 9 2004 00:00:00",
+      1,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 10 2004 00:00:00",
+      2,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1003,
+    "species_id": "410",
+    "year": "2004",
+    "totalRecords": 57,
+    "totalCount": 18935,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2004-12-31T00:00:00"
+  }
+}

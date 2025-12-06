@@ -1,0 +1,400 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "June, 24 2011 00:00:00",
+      0,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 25 2011 00:00:00",
+      1,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 26 2011 00:00:00",
+      2,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 27 2011 00:00:00",
+      3,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 28 2011 00:00:00",
+      10,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 29 2011 00:00:00",
+      9,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "June, 30 2011 00:00:00",
+      37,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 1 2011 00:00:00",
+      183,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 2 2011 00:00:00",
+      104,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 3 2011 00:00:00",
+      93,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 4 2011 00:00:00",
+      145,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 5 2011 00:00:00",
+      258,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 6 2011 00:00:00",
+      143,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 7 2011 00:00:00",
+      359,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 8 2011 00:00:00",
+      266,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 9 2011 00:00:00",
+      481,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 10 2011 00:00:00",
+      756,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 11 2011 00:00:00",
+      624,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 12 2011 00:00:00",
+      340,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 13 2011 00:00:00",
+      719,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 14 2011 00:00:00",
+      443,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 15 2011 00:00:00",
+      341,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 16 2011 00:00:00",
+      472,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 17 2011 00:00:00",
+      533,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 18 2011 00:00:00",
+      413,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      278,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 20 2011 00:00:00",
+      236,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 21 2011 00:00:00",
+      107,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 22 2011 00:00:00",
+      86,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 23 2011 00:00:00",
+      122,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 24 2011 00:00:00",
+      99,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 25 2011 00:00:00",
+      87,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 26 2011 00:00:00",
+      71,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 27 2011 00:00:00",
+      52,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 28 2011 00:00:00",
+      45,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 29 2011 00:00:00",
+      11,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 30 2011 00:00:00",
+      19,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "July, 31 2011 00:00:00",
+      20,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 1 2011 00:00:00",
+      23,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 2 2011 00:00:00",
+      7,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 3 2011 00:00:00",
+      6,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "August, 4 2011 00:00:00",
+      5,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "420",
+    "year": "2011",
+    "totalRecords": 42,
+    "totalCount": 8009,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "August, 10 1995 00:00:00",
+      964,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 11 1995 00:00:00",
+      882,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 12 1995 00:00:00",
+      468,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 13 1995 00:00:00",
+      344,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 14 1995 00:00:00",
+      359,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 15 1995 00:00:00",
+      1045,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 16 1995 00:00:00",
+      863,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 17 1995 00:00:00",
+      891,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 18 1995 00:00:00",
+      1172,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 19 1995 00:00:00",
+      1656,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 20 1995 00:00:00",
+      2105,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 21 1995 00:00:00",
+      2632,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 22 1995 00:00:00",
+      2676,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 23 1995 00:00:00",
+      3525,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 24 1995 00:00:00",
+      6301,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 25 1995 00:00:00",
+      4745,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 26 1995 00:00:00",
+      4445,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 27 1995 00:00:00",
+      6358,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 28 1995 00:00:00",
+      4839,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 29 1995 00:00:00",
+      6842,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 30 1995 00:00:00",
+      7436,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "August, 31 1995 00:00:00",
+      6517,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 1 1995 00:00:00",
+      8782,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 2 1995 00:00:00",
+      5856,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 3 1995 00:00:00",
+      7049,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 4 1995 00:00:00",
+      4186,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 5 1995 00:00:00",
+      4525,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 6 1995 00:00:00",
+      6084,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 7 1995 00:00:00",
+      6852,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 8 1995 00:00:00",
+      6318,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 9 1995 00:00:00",
+      5403,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 10 1995 00:00:00",
+      4957,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 11 1995 00:00:00",
+      6758,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 12 1995 00:00:00",
+      6597,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 13 1995 00:00:00",
+      6561,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 14 1995 00:00:00",
+      6184,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 15 1995 00:00:00",
+      10161,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 16 1995 00:00:00",
+      9026,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 17 1995 00:00:00",
+      9097,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 18 1995 00:00:00",
+      8525,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 19 1995 00:00:00",
+      8468,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 20 1995 00:00:00",
+      8065,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 21 1995 00:00:00",
+      9590,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 22 1995 00:00:00",
+      5943,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 23 1995 00:00:00",
+      6518,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 24 1995 00:00:00",
+      6432,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 25 1995 00:00:00",
+      6853,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 26 1995 00:00:00",
+      5909,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 27 1995 00:00:00",
+      5035,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 28 1995 00:00:00",
+      4231,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 29 1995 00:00:00",
+      3496,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "September, 30 1995 00:00:00",
+      2832,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "October, 1 1995 00:00:00",
+      2238,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "October, 2 1995 00:00:00",
+      1713,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "October, 3 1995 00:00:00",
+      1259,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "October, 4 1995 00:00:00",
+      874,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "October, 5 1995 00:00:00",
+      559,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "October, 6 1995 00:00:00",
+      315,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "October, 7 1995 00:00:00",
+      140,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "October, 8 1995 00:00:00",
+      35,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ],
+    [
+      1995,
+      "October, 9 1995 00:00:00",
+      0,
+      450,
+      1017,
+      "Sheenjek River",
+      "Chum"
+    ]
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "June, 5 2003 00:00:00",
+      0,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 6 2003 00:00:00",
+      277,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 7 2003 00:00:00",
+      906,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 8 2003 00:00:00",
+      107,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 9 2003 00:00:00",
+      307,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 10 2003 00:00:00",
+      249,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 11 2003 00:00:00",
+      348,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 12 2003 00:00:00",
+      481,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 13 2003 00:00:00",
+      312,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 14 2003 00:00:00",
+      1236,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 15 2003 00:00:00",
+      136,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 16 2003 00:00:00",
+      2443,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 17 2003 00:00:00",
+      423,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 18 2003 00:00:00",
+      363,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 19 2003 00:00:00",
+      311,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 20 2003 00:00:00",
+      176,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 21 2003 00:00:00",
+      737,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 22 2003 00:00:00",
+      749,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 23 2003 00:00:00",
+      276,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 24 2003 00:00:00",
+      264,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 25 2003 00:00:00",
+      446,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 26 2003 00:00:00",
+      419,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 27 2003 00:00:00",
+      261,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2003,
+      "June, 28 2003 00:00:00",
+      143,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "440",
+    "year": "2003",
+    "totalRecords": 24,
+    "totalCount": 11370,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2003-12-31T00:00:00"
+  }
+}

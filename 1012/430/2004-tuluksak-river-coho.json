@@ -1,0 +1,544 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "June, 21 2004 00:00:00",
+      0,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 22 2004 00:00:00",
+      1,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 23 2004 00:00:00",
+      2,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 24 2004 00:00:00",
+      3,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 25 2004 00:00:00",
+      14,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 26 2004 00:00:00",
+      9,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 27 2004 00:00:00",
+      5,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 28 2004 00:00:00",
+      38,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 29 2004 00:00:00",
+      56,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "June, 30 2004 00:00:00",
+      33,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 1 2004 00:00:00",
+      61,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 2 2004 00:00:00",
+      44,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 3 2004 00:00:00",
+      43,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 4 2004 00:00:00",
+      75,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 5 2004 00:00:00",
+      64,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 6 2004 00:00:00",
+      58,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 7 2004 00:00:00",
+      316,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 8 2004 00:00:00",
+      270,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 9 2004 00:00:00",
+      74,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 10 2004 00:00:00",
+      258,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 11 2004 00:00:00",
+      247,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 12 2004 00:00:00",
+      1164,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 13 2004 00:00:00",
+      157,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 14 2004 00:00:00",
+      204,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 15 2004 00:00:00",
+      843,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 16 2004 00:00:00",
+      956,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 17 2004 00:00:00",
+      731,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 18 2004 00:00:00",
+      806,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 19 2004 00:00:00",
+      1900,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 20 2004 00:00:00",
+      2142,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 21 2004 00:00:00",
+      266,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 22 2004 00:00:00",
+      1958,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 23 2004 00:00:00",
+      227,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 24 2004 00:00:00",
+      593,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 25 2004 00:00:00",
+      1329,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 26 2004 00:00:00",
+      647,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 27 2004 00:00:00",
+      203,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 28 2004 00:00:00",
+      34,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 29 2004 00:00:00",
+      53,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 30 2004 00:00:00",
+      127,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 31 2004 00:00:00",
+      925,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 1 2004 00:00:00",
+      1419,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 2 2004 00:00:00",
+      340,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 3 2004 00:00:00",
+      207,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 4 2004 00:00:00",
+      277,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 5 2004 00:00:00",
+      282,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 6 2004 00:00:00",
+      198,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 7 2004 00:00:00",
+      150,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 8 2004 00:00:00",
+      424,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 9 2004 00:00:00",
+      67,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 10 2004 00:00:00",
+      57,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 11 2004 00:00:00",
+      42,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 12 2004 00:00:00",
+      28,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 13 2004 00:00:00",
+      23,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 14 2004 00:00:00",
+      18,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 15 2004 00:00:00",
+      16,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 16 2004 00:00:00",
+      11,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 17 2004 00:00:00",
+      10,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1012,
+    "species_id": "430",
+    "year": "2004",
+    "totalRecords": 58,
+    "totalCount": 20505,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2004-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,481 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "June, 17 2011 00:00:00",
+      0,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 18 2011 00:00:00",
+      25,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 19 2011 00:00:00",
+      64,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 20 2011 00:00:00",
+      26,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 21 2011 00:00:00",
+      8,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 22 2011 00:00:00",
+      22,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 23 2011 00:00:00",
+      531,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 24 2011 00:00:00",
+      1701,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 25 2011 00:00:00",
+      872,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 26 2011 00:00:00",
+      208,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 27 2011 00:00:00",
+      85,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 28 2011 00:00:00",
+      312,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 29 2011 00:00:00",
+      2011,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "June, 30 2011 00:00:00",
+      604,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 1 2011 00:00:00",
+      289,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 2 2011 00:00:00",
+      932,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 3 2011 00:00:00",
+      2688,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 4 2011 00:00:00",
+      2894,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 5 2011 00:00:00",
+      163,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 6 2011 00:00:00",
+      2475,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 7 2011 00:00:00",
+      4269,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 8 2011 00:00:00",
+      7049,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 9 2011 00:00:00",
+      5867,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 10 2011 00:00:00",
+      588,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 11 2011 00:00:00",
+      4676,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 12 2011 00:00:00",
+      5626,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 13 2011 00:00:00",
+      4042,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 14 2011 00:00:00",
+      904,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 15 2011 00:00:00",
+      2598,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 16 2011 00:00:00",
+      4902,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 17 2011 00:00:00",
+      4476,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 18 2011 00:00:00",
+      5212,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      57,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 20 2011 00:00:00",
+      3864,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 21 2011 00:00:00",
+      6947,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 22 2011 00:00:00",
+      2515,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 23 2011 00:00:00",
+      1733,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 24 2011 00:00:00",
+      1006,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 25 2011 00:00:00",
+      1713,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 26 2011 00:00:00",
+      2894,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 27 2011 00:00:00",
+      1708,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 28 2011 00:00:00",
+      1518,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 29 2011 00:00:00",
+      3870,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 30 2011 00:00:00",
+      1484,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 31 2011 00:00:00",
+      1227,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 1 2011 00:00:00",
+      1332,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 2 2011 00:00:00",
+      934,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 3 2011 00:00:00",
+      1335,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 4 2011 00:00:00",
+      1270,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 5 2011 00:00:00",
+      1076,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 6 2011 00:00:00",
+      1283,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2011,
+      "August, 7 2011 00:00:00",
+      165,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ]
+  ]
+}

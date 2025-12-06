@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "July, 3 2023 00:00:00",
+      0,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 4 2023 00:00:00",
+      3,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 5 2023 00:00:00",
+      1,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 6 2023 00:00:00",
+      2,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 7 2023 00:00:00",
+      5,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2023,
+      "July, 8 2023 00:00:00",
+      4,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1009,
+    "species_id": "430",
+    "year": "2023",
+    "totalRecords": 6,
+    "totalCount": 15,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

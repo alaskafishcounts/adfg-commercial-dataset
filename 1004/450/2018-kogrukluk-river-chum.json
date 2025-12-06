@@ -1,0 +1,616 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "June, 26 2018 00:00:00",
+      2,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "June, 27 2018 00:00:00",
+      0,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "June, 28 2018 00:00:00",
+      1,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "June, 29 2018 00:00:00",
+      9,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "June, 30 2018 00:00:00",
+      16,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 1 2018 00:00:00",
+      33,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 2 2018 00:00:00",
+      188,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 3 2018 00:00:00",
+      263,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 4 2018 00:00:00",
+      444,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 5 2018 00:00:00",
+      415,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 6 2018 00:00:00",
+      544,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 7 2018 00:00:00",
+      733,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 8 2018 00:00:00",
+      950,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 9 2018 00:00:00",
+      1283,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 10 2018 00:00:00",
+      1192,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 11 2018 00:00:00",
+      1660,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 12 2018 00:00:00",
+      2601,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 13 2018 00:00:00",
+      1681,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 14 2018 00:00:00",
+      2336,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 15 2018 00:00:00",
+      2251,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 16 2018 00:00:00",
+      1806,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 17 2018 00:00:00",
+      1559,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 18 2018 00:00:00",
+      1885,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 19 2018 00:00:00",
+      1821,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 20 2018 00:00:00",
+      1836,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 21 2018 00:00:00",
+      2416,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 22 2018 00:00:00",
+      2690,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 23 2018 00:00:00",
+      2071,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 24 2018 00:00:00",
+      1659,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 25 2018 00:00:00",
+      1691,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 26 2018 00:00:00",
+      1574,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 27 2018 00:00:00",
+      2197,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 28 2018 00:00:00",
+      1731,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 29 2018 00:00:00",
+      1245,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 30 2018 00:00:00",
+      1144,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "July, 31 2018 00:00:00",
+      1050,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 1 2018 00:00:00",
+      954,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 2 2018 00:00:00",
+      1015,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 3 2018 00:00:00",
+      799,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 4 2018 00:00:00",
+      524,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 5 2018 00:00:00",
+      589,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 6 2018 00:00:00",
+      575,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 7 2018 00:00:00",
+      515,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 8 2018 00:00:00",
+      461,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 9 2018 00:00:00",
+      420,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 10 2018 00:00:00",
+      375,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 11 2018 00:00:00",
+      331,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 12 2018 00:00:00",
+      294,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 13 2018 00:00:00",
+      265,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 14 2018 00:00:00",
+      112,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 15 2018 00:00:00",
+      101,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 16 2018 00:00:00",
+      133,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 17 2018 00:00:00",
+      81,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 18 2018 00:00:00",
+      67,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 19 2018 00:00:00",
+      37,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 20 2018 00:00:00",
+      42,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 21 2018 00:00:00",
+      25,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 22 2018 00:00:00",
+      79,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 23 2018 00:00:00",
+      19,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 24 2018 00:00:00",
+      11,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 25 2018 00:00:00",
+      10,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 26 2018 00:00:00",
+      4,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 27 2018 00:00:00",
+      7,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 28 2018 00:00:00",
+      6,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 29 2018 00:00:00",
+      3,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2018,
+      "August, 30 2018 00:00:00",
+      5,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "450",
+    "year": "2018",
+    "totalRecords": 66,
+    "totalCount": 52836,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,526 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "June, 24 2011 00:00:00",
+      0,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "June, 25 2011 00:00:00",
+      1,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "June, 26 2011 00:00:00",
+      2,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "June, 27 2011 00:00:00",
+      3,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "June, 28 2011 00:00:00",
+      4,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "June, 29 2011 00:00:00",
+      24,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "June, 30 2011 00:00:00",
+      19,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 1 2011 00:00:00",
+      28,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 2 2011 00:00:00",
+      18,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 3 2011 00:00:00",
+      39,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 4 2011 00:00:00",
+      52,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 5 2011 00:00:00",
+      73,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 6 2011 00:00:00",
+      98,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 7 2011 00:00:00",
+      127,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 8 2011 00:00:00",
+      162,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 9 2011 00:00:00",
+      202,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 10 2011 00:00:00",
+      245,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 11 2011 00:00:00",
+      297,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 12 2011 00:00:00",
+      347,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 13 2011 00:00:00",
+      394,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 14 2011 00:00:00",
+      446,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 15 2011 00:00:00",
+      493,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 16 2011 00:00:00",
+      542,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 17 2011 00:00:00",
+      577,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 18 2011 00:00:00",
+      615,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      641,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 20 2011 00:00:00",
+      604,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 21 2011 00:00:00",
+      730,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 22 2011 00:00:00",
+      676,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 23 2011 00:00:00",
+      595,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 24 2011 00:00:00",
+      609,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 25 2011 00:00:00",
+      569,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 26 2011 00:00:00",
+      696,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 27 2011 00:00:00",
+      667,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 28 2011 00:00:00",
+      625,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 29 2011 00:00:00",
+      605,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 30 2011 00:00:00",
+      523,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 31 2011 00:00:00",
+      483,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 1 2011 00:00:00",
+      388,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 2 2011 00:00:00",
+      325,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 3 2011 00:00:00",
+      289,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 4 2011 00:00:00",
+      257,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 5 2011 00:00:00",
+      204,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 6 2011 00:00:00",
+      190,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 7 2011 00:00:00",
+      159,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 8 2011 00:00:00",
+      183,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 9 2011 00:00:00",
+      119,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 10 2011 00:00:00",
+      154,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 11 2011 00:00:00",
+      111,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 12 2011 00:00:00",
+      101,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 13 2011 00:00:00",
+      68,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 14 2011 00:00:00",
+      70,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 15 2011 00:00:00",
+      45,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 16 2011 00:00:00",
+      34,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 17 2011 00:00:00",
+      30,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 18 2011 00:00:00",
+      26,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1010,
+    "species_id": "430",
+    "year": "2011",
+    "totalRecords": 56,
+    "totalCount": 15584,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

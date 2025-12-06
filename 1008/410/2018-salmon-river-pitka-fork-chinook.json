@@ -1,0 +1,585 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "August, 1 2018 00:00:00",
+      390,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 10 2018 00:00:00",
+      603,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 11 2018 00:00:00",
+      810,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 12 2018 00:00:00",
+      2193,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 13 2018 00:00:00",
+      1359,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 14 2018 00:00:00",
+      561,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 15 2018 00:00:00",
+      774,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 16 2018 00:00:00",
+      312,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 17 2018 00:00:00",
+      1224,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 18 2018 00:00:00",
+      1233,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 19 2018 00:00:00",
+      1893,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 2 2018 00:00:00",
+      480,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 20 2018 00:00:00",
+      747,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 21 2018 00:00:00",
+      816,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 22 2018 00:00:00",
+      357,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 23 2018 00:00:00",
+      234,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 24 2018 00:00:00",
+      174,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 25 2018 00:00:00",
+      273,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 26 2018 00:00:00",
+      75,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 3 2018 00:00:00",
+      390,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 4 2018 00:00:00",
+      1131,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 5 2018 00:00:00",
+      822,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 6 2018 00:00:00",
+      657,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 7 2018 00:00:00",
+      48,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 8 2018 00:00:00",
+      183,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "August, 9 2018 00:00:00",
+      558,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 1 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 10 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 11 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 12 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 13 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 14 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 15 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 16 2018 00:00:00",
+      3,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 17 2018 00:00:00",
+      3,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 18 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 19 2018 00:00:00",
+      9,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 2 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 20 2018 00:00:00",
+      33,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 21 2018 00:00:00",
+      99,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 22 2018 00:00:00",
+      90,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 23 2018 00:00:00",
+      96,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 24 2018 00:00:00",
+      108,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 25 2018 00:00:00",
+      111,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 26 2018 00:00:00",
+      117,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 27 2018 00:00:00",
+      150,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 28 2018 00:00:00",
+      195,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 29 2018 00:00:00",
+      108,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 3 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 30 2018 00:00:00",
+      432,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 31 2018 00:00:00",
+      156,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 4 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 5 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 6 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 7 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 8 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "July, 9 2018 00:00:00",
+      3,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "June, 26 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "June, 27 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "June, 28 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "June, 29 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ],
+    [
+      2018,
+      "June, 30 2018 00:00:00",
+      0,
+      410,
+      1008,
+      "North River Weir",
+      "Chinook Salmon"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1008,
+    "species_id": "410",
+    "year": "2018",
+    "totalRecords": 37,
+    "totalCount": 5258,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00",
+    "total_records": 62,
+    "date_range": {
+      "start": "August, 1 2018 00:00:00",
+      "end": "June, 30 2018 00:00:00"
+    }
+  }
+}

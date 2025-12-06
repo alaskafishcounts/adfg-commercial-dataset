@@ -1,0 +1,400 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "June, 26 2018 00:00:00",
+      0,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "June, 27 2018 00:00:00",
+      1,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "June, 28 2018 00:00:00",
+      33,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "June, 29 2018 00:00:00",
+      659,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "June, 30 2018 00:00:00",
+      31958,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 1 2018 00:00:00",
+      10916,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 2 2018 00:00:00",
+      10417,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 3 2018 00:00:00",
+      10893,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 4 2018 00:00:00",
+      10649,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 5 2018 00:00:00",
+      11459,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 6 2018 00:00:00",
+      12949,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 7 2018 00:00:00",
+      11564,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 8 2018 00:00:00",
+      9906,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 9 2018 00:00:00",
+      10519,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 10 2018 00:00:00",
+      9677,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 11 2018 00:00:00",
+      9121,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 12 2018 00:00:00",
+      7039,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 13 2018 00:00:00",
+      4997,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 14 2018 00:00:00",
+      5102,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 15 2018 00:00:00",
+      4661,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 16 2018 00:00:00",
+      5754,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 17 2018 00:00:00",
+      1509,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 18 2018 00:00:00",
+      2343,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 19 2018 00:00:00",
+      1910,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 20 2018 00:00:00",
+      1979,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 21 2018 00:00:00",
+      1793,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 22 2018 00:00:00",
+      1467,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 23 2018 00:00:00",
+      1048,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 24 2018 00:00:00",
+      468,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 25 2018 00:00:00",
+      639,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 26 2018 00:00:00",
+      1417,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 27 2018 00:00:00",
+      1406,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 28 2018 00:00:00",
+      1082,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 29 2018 00:00:00",
+      478,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 30 2018 00:00:00",
+      587,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 31 2018 00:00:00",
+      626,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 1 2018 00:00:00",
+      96,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 2 2018 00:00:00",
+      75,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 3 2018 00:00:00",
+      59,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 4 2018 00:00:00",
+      46,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 5 2018 00:00:00",
+      36,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 6 2018 00:00:00",
+      28,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1011,
+    "species_id": "420",
+    "year": "2018",
+    "totalRecords": 42,
+    "totalCount": 197366,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

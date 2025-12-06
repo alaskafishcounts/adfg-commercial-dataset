@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "June, 15 2010 00:00:00",
+      0,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "June, 16 2010 00:00:00",
+      3,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "June, 17 2010 00:00:00",
+      5,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "June, 18 2010 00:00:00",
+      2,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "June, 19 2010 00:00:00",
+      19,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "June, 20 2010 00:00:00",
+      4,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "June, 21 2010 00:00:00",
+      1,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "June, 22 2010 00:00:00",
+      9,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "June, 23 2010 00:00:00",
+      8,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "June, 24 2010 00:00:00",
+      7,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "June, 25 2010 00:00:00",
+      12,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "June, 26 2010 00:00:00",
+      15,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "June, 27 2010 00:00:00",
+      16,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      11,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      6,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1012,
+    "species_id": "410",
+    "year": "2010",
+    "totalRecords": 15,
+    "totalCount": 118,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2010-12-31T00:00:00"
+  }
+}

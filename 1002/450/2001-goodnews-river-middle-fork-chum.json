@@ -1,0 +1,895 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "June, 25 2001 00:00:00",
+      4,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "June, 26 2001 00:00:00",
+      6,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "June, 27 2001 00:00:00",
+      71,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "June, 28 2001 00:00:00",
+      76,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "June, 29 2001 00:00:00",
+      104,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "June, 30 2001 00:00:00",
+      69,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 1 2001 00:00:00",
+      69,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 2 2001 00:00:00",
+      148,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 3 2001 00:00:00",
+      300,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 4 2001 00:00:00",
+      318,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 5 2001 00:00:00",
+      441,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 6 2001 00:00:00",
+      219,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 7 2001 00:00:00",
+      602,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 8 2001 00:00:00",
+      609,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 9 2001 00:00:00",
+      200,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 10 2001 00:00:00",
+      322,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 11 2001 00:00:00",
+      367,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 12 2001 00:00:00",
+      440,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 13 2001 00:00:00",
+      488,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 14 2001 00:00:00",
+      1486,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 15 2001 00:00:00",
+      1224,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 16 2001 00:00:00",
+      1344,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 17 2001 00:00:00",
+      1176,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 18 2001 00:00:00",
+      1094,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 19 2001 00:00:00",
+      2147,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 20 2001 00:00:00",
+      436,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 21 2001 00:00:00",
+      736,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 22 2001 00:00:00",
+      730,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 23 2001 00:00:00",
+      691,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 24 2001 00:00:00",
+      637,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 25 2001 00:00:00",
+      1058,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 26 2001 00:00:00",
+      696,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 27 2001 00:00:00",
+      1093,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 28 2001 00:00:00",
+      993,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 29 2001 00:00:00",
+      744,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 30 2001 00:00:00",
+      432,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 31 2001 00:00:00",
+      767,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 1 2001 00:00:00",
+      919,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 2 2001 00:00:00",
+      478,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 3 2001 00:00:00",
+      174,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 4 2001 00:00:00",
+      508,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 5 2001 00:00:00",
+      466,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 6 2001 00:00:00",
+      402,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 7 2001 00:00:00",
+      270,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 8 2001 00:00:00",
+      181,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 9 2001 00:00:00",
+      319,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 10 2001 00:00:00",
+      76,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 11 2001 00:00:00",
+      87,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 12 2001 00:00:00",
+      148,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 13 2001 00:00:00",
+      110,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 14 2001 00:00:00",
+      97,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 15 2001 00:00:00",
+      72,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 16 2001 00:00:00",
+      37,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 17 2001 00:00:00",
+      26,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 18 2001 00:00:00",
+      9,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 19 2001 00:00:00",
+      21,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 20 2001 00:00:00",
+      16,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 21 2001 00:00:00",
+      6,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 22 2001 00:00:00",
+      8,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 23 2001 00:00:00",
+      7,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 24 2001 00:00:00",
+      3,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 25 2001 00:00:00",
+      6,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 26 2001 00:00:00",
+      10,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 27 2001 00:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 28 2001 00:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 29 2001 00:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 30 2001 00:00:00",
+      3,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 31 2001 00:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 1 2001 00:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 2 2001 00:00:00",
+      2,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 3 2001 00:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 4 2001 00:00:00",
+      8,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 5 2001 00:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 6 2001 00:00:00",
+      3,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 7 2001 00:00:00",
+      2,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 8 2001 00:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 9 2001 00:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 10 2001 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 11 2001 00:00:00",
+      2,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 12 2001 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 13 2001 00:00:00",
+      2,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 14 2001 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 15 2001 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 16 2001 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 17 2001 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 18 2001 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 19 2001 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 20 2001 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 21 2001 00:00:00",
+      6,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 22 2001 00:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 23 2001 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 24 2001 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 25 2001 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 26 2001 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 27 2001 00:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 28 2001 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 29 2001 00:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 30 2001 00:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ]
+  ]
+}

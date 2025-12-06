@@ -1,0 +1,427 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "June, 25 2008 00:00:00",
+      0,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "June, 26 2008 00:00:00",
+      1,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "June, 27 2008 00:00:00",
+      2,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "June, 28 2008 00:00:00",
+      3,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "June, 29 2008 00:00:00",
+      5,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "June, 30 2008 00:00:00",
+      11,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 1 2008 00:00:00",
+      12,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 2 2008 00:00:00",
+      27,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 3 2008 00:00:00",
+      26,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 4 2008 00:00:00",
+      28,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 5 2008 00:00:00",
+      29,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 6 2008 00:00:00",
+      38,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 7 2008 00:00:00",
+      78,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 8 2008 00:00:00",
+      44,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 9 2008 00:00:00",
+      31,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 10 2008 00:00:00",
+      145,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 11 2008 00:00:00",
+      114,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 12 2008 00:00:00",
+      306,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 13 2008 00:00:00",
+      192,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 14 2008 00:00:00",
+      202,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 15 2008 00:00:00",
+      423,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 16 2008 00:00:00",
+      151,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 17 2008 00:00:00",
+      539,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 18 2008 00:00:00",
+      235,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 19 2008 00:00:00",
+      181,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 20 2008 00:00:00",
+      632,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 21 2008 00:00:00",
+      1044,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 22 2008 00:00:00",
+      548,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 23 2008 00:00:00",
+      355,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 24 2008 00:00:00",
+      508,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 25 2008 00:00:00",
+      100,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 26 2008 00:00:00",
+      184,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 27 2008 00:00:00",
+      140,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 28 2008 00:00:00",
+      17,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 29 2008 00:00:00",
+      23,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 30 2008 00:00:00",
+      19,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 31 2008 00:00:00",
+      59,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 1 2008 00:00:00",
+      272,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 2 2008 00:00:00",
+      112,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 3 2008 00:00:00",
+      74,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 4 2008 00:00:00",
+      80,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 5 2008 00:00:00",
+      102,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 6 2008 00:00:00",
+      63,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 7 2008 00:00:00",
+      43,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 8 2008 00:00:00",
+      34,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1012,
+    "species_id": "430",
+    "year": "2008",
+    "totalRecords": 45,
+    "totalCount": 7232,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2008-12-31T00:00:00"
+  }
+}

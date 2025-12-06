@@ -1,0 +1,553 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "May, 31 2021 00:00:00",
+      337,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 1 2021 00:00:00",
+      328,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 2 2021 00:00:00",
+      285,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 3 2021 00:00:00",
+      315,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 4 2021 00:00:00",
+      564,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 5 2021 00:00:00",
+      504,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 6 2021 00:00:00",
+      1449,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 7 2021 00:00:00",
+      645,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 8 2021 00:00:00",
+      2479,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 9 2021 00:00:00",
+      3516,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 10 2021 00:00:00",
+      3037,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 11 2021 00:00:00",
+      2448,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 12 2021 00:00:00",
+      908,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 13 2021 00:00:00",
+      3467,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 14 2021 00:00:00",
+      1622,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 15 2021 00:00:00",
+      1109,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 16 2021 00:00:00",
+      1092,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 17 2021 00:00:00",
+      2581,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 18 2021 00:00:00",
+      3320,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 19 2021 00:00:00",
+      3793,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 20 2021 00:00:00",
+      4767,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 21 2021 00:00:00",
+      3835,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 22 2021 00:00:00",
+      2350,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 23 2021 00:00:00",
+      1872,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 24 2021 00:00:00",
+      2744,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 25 2021 00:00:00",
+      2001,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 26 2021 00:00:00",
+      4032,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 27 2021 00:00:00",
+      2598,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 28 2021 00:00:00",
+      3365,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 29 2021 00:00:00",
+      5558,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 30 2021 00:00:00",
+      5886,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 1 2021 00:00:00",
+      6528,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 2 2021 00:00:00",
+      4835,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 3 2021 00:00:00",
+      6138,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 4 2021 00:00:00",
+      5744,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 5 2021 00:00:00",
+      4362,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 6 2021 00:00:00",
+      3510,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 7 2021 00:00:00",
+      2691,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 8 2021 00:00:00",
+      3125,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 9 2021 00:00:00",
+      1939,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 10 2021 00:00:00",
+      1913,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 11 2021 00:00:00",
+      1975,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 12 2021 00:00:00",
+      1674,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 13 2021 00:00:00",
+      1167,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 14 2021 00:00:00",
+      1036,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 15 2021 00:00:00",
+      1017,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 16 2021 00:00:00",
+      390,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 17 2021 00:00:00",
+      201,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 18 2021 00:00:00",
+      1294,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 19 2021 00:00:00",
+      375,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 20 2021 00:00:00",
+      79,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 21 2021 00:00:00",
+      281,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 22 2021 00:00:00",
+      247,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 23 2021 00:00:00",
+      137,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 24 2021 00:00:00",
+      138,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 25 2021 00:00:00",
+      220,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 26 2021 00:00:00",
+      0,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 1 2021 00:00:00",
+      332,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 3 2021 00:00:00",
+      353,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "410",
+    "year": "2021",
+    "totalRecords": 59,
+    "totalCount": 124508,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

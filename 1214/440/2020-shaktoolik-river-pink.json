@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "July, 10 2020 00:00:00",
+      100164,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 11 2020 00:00:00",
+      303474,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 12 2020 00:00:00",
+      185646,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 13 2020 00:00:00",
+      162855,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 14 2020 00:00:00",
+      198465,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 15 2020 00:00:00",
+      170112,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 16 2020 00:00:00",
+      39429,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 17 2020 00:00:00",
+      36906,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 18 2020 00:00:00",
+      172371,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 19 2020 00:00:00",
+      173868,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 20 2020 00:00:00",
+      101175,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 21 2020 00:00:00",
+      29553,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 22 2020 00:00:00",
+      15096,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 23 2020 00:00:00",
+      19113,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 24 2020 00:00:00",
+      19920,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 25 2020 00:00:00",
+      20436,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 26 2020 00:00:00",
+      17385,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 27 2020 00:00:00",
+      27702,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 28 2020 00:00:00",
+      25983,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 29 2020 00:00:00",
+      20811,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 30 2020 00:00:00",
+      25872,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 31 2020 00:00:00",
+      21354,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 1 2020 00:00:00",
+      13311,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 2 2020 00:00:00",
+      8580,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 3 2020 00:00:00",
+      12834,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 4 2020 00:00:00",
+      13599,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 5 2020 00:00:00",
+      8628,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 6 2020 00:00:00",
+      4044,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 7 2020 00:00:00",
+      3105,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 8 2020 00:00:00",
+      1662,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 9 2020 00:00:00",
+      2058,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 10 2020 00:00:00",
+      1998,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 11 2020 00:00:00",
+      1998,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 12 2020 00:00:00",
+      1812,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 13 2020 00:00:00",
+      2430,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 14 2020 00:00:00",
+      2208,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 15 2020 00:00:00",
+      1767,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 16 2020 00:00:00",
+      1770,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 17 2020 00:00:00",
+      1128,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 18 2020 00:00:00",
+      1776,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 19 2020 00:00:00",
+      1839,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 20 2020 00:00:00",
+      1707,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 21 2020 00:00:00",
+      1653,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 22 2020 00:00:00",
+      1878,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 23 2020 00:00:00",
+      1272,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 24 2020 00:00:00",
+      1467,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 25 2020 00:00:00",
+      798,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 26 2020 00:00:00",
+      666,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 27 2020 00:00:00",
+      495,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 28 2020 00:00:00",
+      3,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 30 2020 00:00:00",
+      336,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 31 2020 00:00:00",
+      270,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "September, 1 2020 00:00:00",
+      273,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "September, 2 2020 00:00:00",
+      156,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "September, 3 2020 00:00:00",
+      168,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "September, 4 2020 00:00:00",
+      135,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "September, 5 2020 00:00:00",
+      126,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2020,
+      "September, 6 2020 00:00:00",
+      129,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ]
+  ]
+}

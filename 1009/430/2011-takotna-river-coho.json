@@ -1,0 +1,382 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "June, 24 2011 00:00:00",
+      0,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "June, 25 2011 00:00:00",
+      2,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "June, 26 2011 00:00:00",
+      1,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "June, 27 2011 00:00:00",
+      4,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "June, 28 2011 00:00:00",
+      7,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "June, 29 2011 00:00:00",
+      12,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "June, 30 2011 00:00:00",
+      18,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 1 2011 00:00:00",
+      32,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 2 2011 00:00:00",
+      41,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 3 2011 00:00:00",
+      73,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 4 2011 00:00:00",
+      44,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 5 2011 00:00:00",
+      69,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 6 2011 00:00:00",
+      130,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 7 2011 00:00:00",
+      125,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 8 2011 00:00:00",
+      133,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 9 2011 00:00:00",
+      174,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 10 2011 00:00:00",
+      248,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 11 2011 00:00:00",
+      313,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 12 2011 00:00:00",
+      294,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 13 2011 00:00:00",
+      209,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 14 2011 00:00:00",
+      278,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 15 2011 00:00:00",
+      201,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 16 2011 00:00:00",
+      196,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 17 2011 00:00:00",
+      180,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 18 2011 00:00:00",
+      190,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      138,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 20 2011 00:00:00",
+      147,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 21 2011 00:00:00",
+      122,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 22 2011 00:00:00",
+      97,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 23 2011 00:00:00",
+      137,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 24 2011 00:00:00",
+      70,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 25 2011 00:00:00",
+      58,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 26 2011 00:00:00",
+      95,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 27 2011 00:00:00",
+      47,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 28 2011 00:00:00",
+      42,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 29 2011 00:00:00",
+      38,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 30 2011 00:00:00",
+      11,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "July, 31 2011 00:00:00",
+      26,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 1 2011 00:00:00",
+      9,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2011,
+      "August, 2 2011 00:00:00",
+      6,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1009,
+    "species_id": "430",
+    "year": "2011",
+    "totalRecords": 40,
+    "totalCount": 4017,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,526 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "June, 25 1994 00:00:00",
+      0,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "June, 26 1994 00:00:00",
+      1,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "June, 27 1994 00:00:00",
+      8,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "June, 28 1994 00:00:00",
+      4,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "June, 29 1994 00:00:00",
+      34,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "June, 30 1994 00:00:00",
+      35,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 1 1994 00:00:00",
+      96,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 2 1994 00:00:00",
+      121,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 3 1994 00:00:00",
+      70,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 4 1994 00:00:00",
+      321,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 5 1994 00:00:00",
+      294,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 6 1994 00:00:00",
+      288,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 7 1994 00:00:00",
+      211,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 8 1994 00:00:00",
+      495,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 9 1994 00:00:00",
+      401,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 10 1994 00:00:00",
+      553,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 11 1994 00:00:00",
+      476,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 12 1994 00:00:00",
+      754,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 13 1994 00:00:00",
+      615,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 14 1994 00:00:00",
+      625,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 15 1994 00:00:00",
+      587,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 16 1994 00:00:00",
+      942,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 17 1994 00:00:00",
+      808,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 18 1994 00:00:00",
+      690,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 19 1994 00:00:00",
+      1006,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 20 1994 00:00:00",
+      952,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 21 1994 00:00:00",
+      589,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 22 1994 00:00:00",
+      747,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 23 1994 00:00:00",
+      525,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 24 1994 00:00:00",
+      609,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 25 1994 00:00:00",
+      487,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 26 1994 00:00:00",
+      374,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 27 1994 00:00:00",
+      194,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 28 1994 00:00:00",
+      191,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 29 1994 00:00:00",
+      173,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 30 1994 00:00:00",
+      188,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "July, 31 1994 00:00:00",
+      170,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 1 1994 00:00:00",
+      175,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 2 1994 00:00:00",
+      202,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 3 1994 00:00:00",
+      130,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 4 1994 00:00:00",
+      89,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 5 1994 00:00:00",
+      54,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 6 1994 00:00:00",
+      53,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 7 1994 00:00:00",
+      63,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 8 1994 00:00:00",
+      37,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 9 1994 00:00:00",
+      7,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 10 1994 00:00:00",
+      23,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 11 1994 00:00:00",
+      22,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 12 1994 00:00:00",
+      33,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 13 1994 00:00:00",
+      19,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 14 1994 00:00:00",
+      18,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 15 1994 00:00:00",
+      9,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 16 1994 00:00:00",
+      2,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 17 1994 00:00:00",
+      3,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 18 1994 00:00:00",
+      6,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "August, 19 1994 00:00:00",
+      5,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1012,
+    "species_id": "450",
+    "year": "1994",
+    "totalRecords": 56,
+    "totalCount": 15584,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1994-12-31T00:00:00"
+  }
+}

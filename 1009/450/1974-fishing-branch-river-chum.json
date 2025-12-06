@@ -1,0 +1,472 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1974,
+      "September, 5 1974 00:00:00",
+      0,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 6 1974 00:00:00",
+      15,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 7 1974 00:00:00",
+      17,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 8 1974 00:00:00",
+      30,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 9 1974 00:00:00",
+      69,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 10 1974 00:00:00",
+      217,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 11 1974 00:00:00",
+      384,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 12 1974 00:00:00",
+      1477,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 13 1974 00:00:00",
+      1389,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 14 1974 00:00:00",
+      2896,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 15 1974 00:00:00",
+      3529,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 16 1974 00:00:00",
+      3742,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 17 1974 00:00:00",
+      3388,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 18 1974 00:00:00",
+      2369,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 19 1974 00:00:00",
+      1953,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 20 1974 00:00:00",
+      2325,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 21 1974 00:00:00",
+      1642,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 22 1974 00:00:00",
+      1017,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 23 1974 00:00:00",
+      1044,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 24 1974 00:00:00",
+      621,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 25 1974 00:00:00",
+      583,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 26 1974 00:00:00",
+      388,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 27 1974 00:00:00",
+      234,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 28 1974 00:00:00",
+      291,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 29 1974 00:00:00",
+      164,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "September, 30 1974 00:00:00",
+      166,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 1 1974 00:00:00",
+      220,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 2 1974 00:00:00",
+      92,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 3 1974 00:00:00",
+      123,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 4 1974 00:00:00",
+      88,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 5 1974 00:00:00",
+      31,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 6 1974 00:00:00",
+      30,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 7 1974 00:00:00",
+      20,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 8 1974 00:00:00",
+      26,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 9 1974 00:00:00",
+      5,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 10 1974 00:00:00",
+      14,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 11 1974 00:00:00",
+      70,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 12 1974 00:00:00",
+      85,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 13 1974 00:00:00",
+      17,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 14 1974 00:00:00",
+      81,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 15 1974 00:00:00",
+      35,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 16 1974 00:00:00",
+      124,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 17 1974 00:00:00",
+      344,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 18 1974 00:00:00",
+      170,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 19 1974 00:00:00",
+      125,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 20 1974 00:00:00",
+      87,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 21 1974 00:00:00",
+      56,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 22 1974 00:00:00",
+      31,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 23 1974 00:00:00",
+      14,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 24 1974 00:00:00",
+      3,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1974,
+      "October, 25 1974 00:00:00",
+      0,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ]
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      0,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1103,
+    "species_id": "440",
+    "year": "2023",
+    "totalRecords": 1,
+    "totalCount": 0,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

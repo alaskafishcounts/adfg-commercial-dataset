@@ -1,0 +1,526 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "July, 2 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 3 2019 00:00:00",
+      -3,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 4 2019 00:00:00",
+      6,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 5 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 6 2019 00:00:00",
+      3,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 7 2019 00:00:00",
+      27,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 8 2019 00:00:00",
+      12,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 9 2019 00:00:00",
+      18,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 10 2019 00:00:00",
+      15,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 11 2019 00:00:00",
+      6,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 12 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 13 2019 00:00:00",
+      6,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 14 2019 00:00:00",
+      6,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 15 2019 00:00:00",
+      3,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 16 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 17 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 18 2019 00:00:00",
+      -3,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 19 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 20 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 21 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 22 2019 00:00:00",
+      3,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 23 2019 00:00:00",
+      6,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 24 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 25 2019 00:00:00",
+      3,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 27 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 28 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 29 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 30 2019 00:00:00",
+      3,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 31 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 1 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 2 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 12 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 13 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 14 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 15 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 16 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 17 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 18 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 19 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 20 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 21 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 22 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 23 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 24 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 25 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 26 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 27 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 28 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 29 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 30 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 31 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "September, 1 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "September, 2 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "September, 3 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "September, 4 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "September, 5 2019 00:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ]
+  ]
+}

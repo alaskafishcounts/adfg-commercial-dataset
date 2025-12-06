@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "July, 2 2014 00:00:00",
+      12,
+      410,
+      1600,
+      "Gisasa River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 3 2014 00:00:00",
+      46,
+      410,
+      1600,
+      "Gisasa River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 4 2014 00:00:00",
+      46,
+      410,
+      1600,
+      "Gisasa River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 5 2014 00:00:00",
+      116,
+      410,
+      1600,
+      "Gisasa River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 6 2014 00:00:00",
+      229,
+      410,
+      1600,
+      "Gisasa River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 7 2014 00:00:00",
+      268,
+      410,
+      1600,
+      "Gisasa River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 8 2014 00:00:00",
+      100,
+      410,
+      1600,
+      "Gisasa River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 9 2014 00:00:00",
+      138,
+      410,
+      1600,
+      "Gisasa River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 10 2014 00:00:00",
+      146,
+      410,
+      1600,
+      "Gisasa River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 11 2014 00:00:00",
+      324,
+      410,
+      1600,
+      "Gisasa River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 12 2014 00:00:00",
+      87,
+      410,
+      1600,
+      "Gisasa River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "July, 13 2014 00:00:00",
+      77,
+      410,
+      1600,
+      "Gisasa River",
+      "Chinook"
+    ]
+  ]
+}

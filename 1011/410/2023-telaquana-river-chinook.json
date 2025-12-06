@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "June, 15 2023 00:00:00",
+      0,
+      410,
+      1011,
+      "Telaquana River",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 16 2023 00:00:00",
+      1,
+      410,
+      1011,
+      "Telaquana River",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 17 2023 00:00:00",
+      2,
+      410,
+      1011,
+      "Telaquana River",
+      "Chinook"
+    ],
+    [
+      2023,
+      "June, 18 2023 00:00:00",
+      6,
+      410,
+      1011,
+      "Telaquana River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1011,
+    "species_id": "410",
+    "year": "2023",
+    "totalRecords": 4,
+    "totalCount": 9,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

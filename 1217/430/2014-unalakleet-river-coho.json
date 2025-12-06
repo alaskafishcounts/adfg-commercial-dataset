@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "June, 28 2014 00:00:00",
+      0,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "June, 29 2014 00:00:00",
+      0,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "June, 30 2014 00:00:00",
+      1,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 1 2014 00:00:00",
+      1,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 2 2014 00:00:00",
+      1,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 3 2014 00:00:00",
+      0,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 4 2014 00:00:00",
+      0,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 5 2014 00:00:00",
+      0,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 6 2014 00:00:00",
+      3,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 7 2014 00:00:00",
+      17,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 8 2014 00:00:00",
+      4,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 9 2014 00:00:00",
+      5,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 10 2014 00:00:00",
+      4,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 11 2014 00:00:00",
+      3,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 12 2014 00:00:00",
+      10,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 13 2014 00:00:00",
+      6,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 14 2014 00:00:00",
+      30,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 15 2014 00:00:00",
+      7,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 16 2014 00:00:00",
+      5,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 17 2014 00:00:00",
+      11,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 18 2014 00:00:00",
+      42,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 19 2014 00:00:00",
+      43,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 20 2014 00:00:00",
+      16,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 21 2014 00:00:00",
+      32,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 22 2014 00:00:00",
+      48,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 23 2014 00:00:00",
+      87,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 24 2014 00:00:00",
+      111,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 25 2014 00:00:00",
+      129,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 26 2014 00:00:00",
+      1,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 27 2014 00:00:00",
+      77,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 28 2014 00:00:00",
+      97,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 29 2014 00:00:00",
+      246,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 30 2014 00:00:00",
+      185,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 31 2014 00:00:00",
+      150,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 1 2014 00:00:00",
+      121,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 2 2014 00:00:00",
+      987,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 3 2014 00:00:00",
+      1558,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 4 2014 00:00:00",
+      782,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 5 2014 00:00:00",
+      1898,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 6 2014 00:00:00",
+      3144,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 7 2014 00:00:00",
+      1698,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 8 2014 00:00:00",
+      1389,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 9 2014 00:00:00",
+      1582,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 10 2014 00:00:00",
+      1566,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 11 2014 00:00:00",
+      2206,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 12 2014 00:00:00",
+      2757,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 13 2014 00:00:00",
+      2041,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 14 2014 00:00:00",
+      1809,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 15 2014 00:00:00",
+      2122,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 16 2014 00:00:00",
+      2915,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 17 2014 00:00:00",
+      1716,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 18 2014 00:00:00",
+      1680,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 19 2014 00:00:00",
+      2293,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 20 2014 00:00:00",
+      2412,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 21 2014 00:00:00",
+      1513,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 22 2014 00:00:00",
+      634,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 23 2014 00:00:00",
+      559,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 24 2014 00:00:00",
+      917,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 25 2014 00:00:00",
+      825,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 26 2014 00:00:00",
+      501,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 27 2014 00:00:00",
+      1528,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ]
+  ]
+}

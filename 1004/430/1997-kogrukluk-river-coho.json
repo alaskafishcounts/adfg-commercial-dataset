@@ -1,0 +1,499 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "June, 13 1997 00:00:00",
+      0,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "June, 14 1997 00:00:00",
+      2,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "June, 15 1997 00:00:00",
+      1,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "June, 16 1997 00:00:00",
+      4,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "June, 17 1997 00:00:00",
+      5,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "June, 18 1997 00:00:00",
+      3,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "June, 19 1997 00:00:00",
+      23,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "June, 20 1997 00:00:00",
+      22,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "June, 21 1997 00:00:00",
+      47,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "June, 22 1997 00:00:00",
+      11,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "June, 23 1997 00:00:00",
+      26,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "June, 24 1997 00:00:00",
+      65,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "June, 25 1997 00:00:00",
+      89,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "June, 26 1997 00:00:00",
+      39,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "June, 27 1997 00:00:00",
+      48,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "June, 28 1997 00:00:00",
+      21,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "June, 29 1997 00:00:00",
+      64,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "June, 30 1997 00:00:00",
+      123,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 1 1997 00:00:00",
+      84,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 2 1997 00:00:00",
+      93,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 3 1997 00:00:00",
+      117,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 4 1997 00:00:00",
+      238,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 5 1997 00:00:00",
+      449,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 6 1997 00:00:00",
+      428,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 7 1997 00:00:00",
+      479,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 8 1997 00:00:00",
+      425,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 9 1997 00:00:00",
+      611,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 10 1997 00:00:00",
+      585,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 11 1997 00:00:00",
+      401,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 12 1997 00:00:00",
+      350,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 13 1997 00:00:00",
+      300,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 14 1997 00:00:00",
+      707,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 15 1997 00:00:00",
+      908,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 16 1997 00:00:00",
+      564,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 17 1997 00:00:00",
+      251,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 18 1997 00:00:00",
+      431,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 19 1997 00:00:00",
+      69,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 20 1997 00:00:00",
+      540,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 21 1997 00:00:00",
+      234,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 22 1997 00:00:00",
+      722,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 23 1997 00:00:00",
+      597,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 24 1997 00:00:00",
+      415,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 25 1997 00:00:00",
+      342,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 26 1997 00:00:00",
+      195,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 27 1997 00:00:00",
+      102,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 28 1997 00:00:00",
+      80,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 29 1997 00:00:00",
+      62,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 30 1997 00:00:00",
+      52,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "July, 31 1997 00:00:00",
+      76,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "August, 1 1997 00:00:00",
+      38,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "August, 2 1997 00:00:00",
+      28,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "August, 3 1997 00:00:00",
+      32,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1997,
+      "August, 4 1997 00:00:00",
+      27,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "430",
+    "year": "1997",
+    "totalRecords": 53,
+    "totalCount": 11625,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1997-12-31T00:00:00"
+  }
+}

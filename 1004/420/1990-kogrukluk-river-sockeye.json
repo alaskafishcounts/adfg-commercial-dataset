@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1990,
+      "June, 26 1990 00:00:00",
+      0,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "June, 27 1990 00:00:00",
+      5,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "June, 28 1990 00:00:00",
+      6,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "June, 29 1990 00:00:00",
+      77,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "June, 30 1990 00:00:00",
+      155,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 1 1990 00:00:00",
+      107,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 2 1990 00:00:00",
+      271,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 3 1990 00:00:00",
+      460,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 4 1990 00:00:00",
+      301,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 5 1990 00:00:00",
+      634,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 6 1990 00:00:00",
+      204,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 7 1990 00:00:00",
+      827,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 8 1990 00:00:00",
+      437,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 9 1990 00:00:00",
+      617,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 10 1990 00:00:00",
+      116,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 11 1990 00:00:00",
+      522,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 12 1990 00:00:00",
+      737,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 13 1990 00:00:00",
+      463,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 14 1990 00:00:00",
+      409,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 15 1990 00:00:00",
+      429,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 16 1990 00:00:00",
+      90,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 17 1990 00:00:00",
+      157,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 18 1990 00:00:00",
+      183,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 19 1990 00:00:00",
+      193,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 20 1990 00:00:00",
+      137,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 21 1990 00:00:00",
+      73,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 22 1990 00:00:00",
+      57,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 23 1990 00:00:00",
+      83,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 24 1990 00:00:00",
+      21,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 25 1990 00:00:00",
+      117,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 26 1990 00:00:00",
+      81,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 27 1990 00:00:00",
+      60,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 28 1990 00:00:00",
+      59,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 29 1990 00:00:00",
+      64,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 30 1990 00:00:00",
+      45,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 31 1990 00:00:00",
+      17,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 1 1990 00:00:00",
+      28,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 2 1990 00:00:00",
+      12,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 3 1990 00:00:00",
+      14,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 4 1990 00:00:00",
+      13,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 5 1990 00:00:00",
+      1,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 6 1990 00:00:00",
+      4,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 7 1990 00:00:00",
+      3,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 8 1990 00:00:00",
+      2,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "420",
+    "year": "1990",
+    "totalRecords": 44,
+    "totalCount": 8291,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1990-12-31T00:00:00"
+  }
+}

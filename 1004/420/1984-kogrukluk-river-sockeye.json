@@ -1,0 +1,391 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1984,
+      "June, 19 1984 00:00:00",
+      0,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 20 1984 00:00:00",
+      1,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 21 1984 00:00:00",
+      3,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 22 1984 00:00:00",
+      2,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 23 1984 00:00:00",
+      10,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 24 1984 00:00:00",
+      12,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 25 1984 00:00:00",
+      7,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 26 1984 00:00:00",
+      85,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 27 1984 00:00:00",
+      124,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 28 1984 00:00:00",
+      57,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 29 1984 00:00:00",
+      51,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 30 1984 00:00:00",
+      281,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 1 1984 00:00:00",
+      178,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 2 1984 00:00:00",
+      214,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 3 1984 00:00:00",
+      159,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 4 1984 00:00:00",
+      24,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 5 1984 00:00:00",
+      62,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 6 1984 00:00:00",
+      295,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 7 1984 00:00:00",
+      173,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 8 1984 00:00:00",
+      339,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 9 1984 00:00:00",
+      438,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 10 1984 00:00:00",
+      219,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 11 1984 00:00:00",
+      192,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 12 1984 00:00:00",
+      84,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 13 1984 00:00:00",
+      63,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 14 1984 00:00:00",
+      121,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 15 1984 00:00:00",
+      169,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 16 1984 00:00:00",
+      188,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 17 1984 00:00:00",
+      89,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 18 1984 00:00:00",
+      83,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 19 1984 00:00:00",
+      38,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 20 1984 00:00:00",
+      60,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 21 1984 00:00:00",
+      50,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 22 1984 00:00:00",
+      32,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 23 1984 00:00:00",
+      18,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 24 1984 00:00:00",
+      14,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 25 1984 00:00:00",
+      25,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 26 1984 00:00:00",
+      23,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 27 1984 00:00:00",
+      20,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 28 1984 00:00:00",
+      8,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 29 1984 00:00:00",
+      6,
+      420,
+      1004,
+      "Kogrukluk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "420",
+    "year": "1984",
+    "totalRecords": 41,
+    "totalCount": 4017,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1984-12-31T00:00:00"
+  }
+}

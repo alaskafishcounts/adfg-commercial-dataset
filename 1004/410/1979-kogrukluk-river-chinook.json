@@ -1,0 +1,481 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1979,
+      "June, 26 1979 00:00:00",
+      0,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "June, 27 1979 00:00:00",
+      2,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "June, 28 1979 00:00:00",
+      21,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "June, 29 1979 00:00:00",
+      156,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "June, 30 1979 00:00:00",
+      107,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 1 1979 00:00:00",
+      258,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 2 1979 00:00:00",
+      371,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 3 1979 00:00:00",
+      382,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 4 1979 00:00:00",
+      309,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 5 1979 00:00:00",
+      390,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 6 1979 00:00:00",
+      343,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 7 1979 00:00:00",
+      619,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 8 1979 00:00:00",
+      462,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 9 1979 00:00:00",
+      760,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 10 1979 00:00:00",
+      932,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 11 1979 00:00:00",
+      982,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 12 1979 00:00:00",
+      548,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 13 1979 00:00:00",
+      700,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 14 1979 00:00:00",
+      670,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 15 1979 00:00:00",
+      464,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 16 1979 00:00:00",
+      355,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 17 1979 00:00:00",
+      334,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 18 1979 00:00:00",
+      345,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 19 1979 00:00:00",
+      178,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 20 1979 00:00:00",
+      131,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 21 1979 00:00:00",
+      308,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 22 1979 00:00:00",
+      199,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 23 1979 00:00:00",
+      170,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 24 1979 00:00:00",
+      148,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 25 1979 00:00:00",
+      125,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 26 1979 00:00:00",
+      101,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 27 1979 00:00:00",
+      92,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 28 1979 00:00:00",
+      76,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 29 1979 00:00:00",
+      63,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 30 1979 00:00:00",
+      55,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "July, 31 1979 00:00:00",
+      45,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "August, 1 1979 00:00:00",
+      39,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "August, 2 1979 00:00:00",
+      32,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "August, 3 1979 00:00:00",
+      27,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "August, 4 1979 00:00:00",
+      23,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "August, 5 1979 00:00:00",
+      19,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "August, 6 1979 00:00:00",
+      16,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "August, 7 1979 00:00:00",
+      13,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "August, 8 1979 00:00:00",
+      11,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "August, 9 1979 00:00:00",
+      9,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "August, 10 1979 00:00:00",
+      8,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "August, 11 1979 00:00:00",
+      7,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "August, 12 1979 00:00:00",
+      5,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "August, 13 1979 00:00:00",
+      4,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "August, 14 1979 00:00:00",
+      3,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1979,
+      "August, 15 1979 00:00:00",
+      1,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "410",
+    "year": "1979",
+    "totalRecords": 51,
+    "totalCount": 11418,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1979-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,697 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "June, 19 2008 00:00:00",
+      2465,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 20 2008 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 21 2008 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 22 2008 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 23 2008 00:00:00",
+      574,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 24 2008 00:00:00",
+      657,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 25 2008 00:00:00",
+      1187,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 26 2008 00:00:00",
+      2122,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 27 2008 00:00:00",
+      2658,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 28 2008 00:00:00",
+      3249,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 29 2008 00:00:00",
+      6030,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 30 2008 00:00:00",
+      41387,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 1 2008 00:00:00",
+      8430,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 2 2008 00:00:00",
+      36018,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 3 2008 00:00:00",
+      29437,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 4 2008 00:00:00",
+      78990,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 5 2008 00:00:00",
+      24995,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 6 2008 00:00:00",
+      19310,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 7 2008 00:00:00",
+      19872,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 8 2008 00:00:00",
+      17589,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 9 2008 00:00:00",
+      13178,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 10 2008 00:00:00",
+      8240,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 11 2008 00:00:00",
+      13144,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 12 2008 00:00:00",
+      15510,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 13 2008 00:00:00",
+      16032,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 14 2008 00:00:00",
+      6638,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 15 2008 00:00:00",
+      8554,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 16 2008 00:00:00",
+      21645,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 17 2008 00:00:00",
+      15563,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 18 2008 00:00:00",
+      13455,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 19 2008 00:00:00",
+      14861,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 20 2008 00:00:00",
+      10461,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 21 2008 00:00:00",
+      12455,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 22 2008 00:00:00",
+      6301,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 23 2008 00:00:00",
+      6629,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 24 2008 00:00:00",
+      9226,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 25 2008 00:00:00",
+      16378,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 26 2008 00:00:00",
+      6934,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 27 2008 00:00:00",
+      9988,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 28 2008 00:00:00",
+      9285,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 29 2008 00:00:00",
+      13836,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 30 2008 00:00:00",
+      4673,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 31 2008 00:00:00",
+      2591,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 1 2008 00:00:00",
+      4271,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 2 2008 00:00:00",
+      6131,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 3 2008 00:00:00",
+      4075,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 4 2008 00:00:00",
+      2811,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 5 2008 00:00:00",
+      1126,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 6 2008 00:00:00",
+      1256,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 7 2008 00:00:00",
+      1207,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 8 2008 00:00:00",
+      817,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 9 2008 00:00:00",
+      1197,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 10 2008 00:00:00",
+      167,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 11 2008 00:00:00",
+      1289,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 12 2008 00:00:00",
+      755,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 13 2008 00:00:00",
+      324,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 14 2008 00:00:00",
+      627,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 15 2008 00:00:00",
+      151,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 16 2008 00:00:00",
+      204,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 17 2008 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 18 2008 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 19 2008 00:00:00",
+      2076,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 20 2008 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 21 2008 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 22 2008 00:00:00",
+      163,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 23 2008 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 24 2008 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 25 2008 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 26 2008 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 27 2008 00:00:00",
+      570,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 28 2008 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 29 2008 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 30 2008 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 31 2008 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 1 2008 00:00:00",
+      0,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 2 2008 00:00:00",
+      363,
+      440,
+      1053,
+      "Pilot Station Sonar",
+      "Pink"
+    ]
+  ]
+}

@@ -1,0 +1,625 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "June, 25 1993 00:00:00",
+      0,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "June, 26 1993 00:00:00",
+      1,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "June, 27 1993 00:00:00",
+      10,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "June, 28 1993 00:00:00",
+      2,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "June, 29 1993 00:00:00",
+      7,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "June, 30 1993 00:00:00",
+      18,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 1 1993 00:00:00",
+      17,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 2 1993 00:00:00",
+      22,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 3 1993 00:00:00",
+      42,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 4 1993 00:00:00",
+      26,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 5 1993 00:00:00",
+      37,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 6 1993 00:00:00",
+      101,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 7 1993 00:00:00",
+      146,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 8 1993 00:00:00",
+      119,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 9 1993 00:00:00",
+      154,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 10 1993 00:00:00",
+      149,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 11 1993 00:00:00",
+      205,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 12 1993 00:00:00",
+      313,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 13 1993 00:00:00",
+      312,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 14 1993 00:00:00",
+      242,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 15 1993 00:00:00",
+      255,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 16 1993 00:00:00",
+      379,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 17 1993 00:00:00",
+      215,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 18 1993 00:00:00",
+      341,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 19 1993 00:00:00",
+      467,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 20 1993 00:00:00",
+      413,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 21 1993 00:00:00",
+      402,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 22 1993 00:00:00",
+      816,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 23 1993 00:00:00",
+      1010,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 24 1993 00:00:00",
+      745,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 25 1993 00:00:00",
+      534,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 26 1993 00:00:00",
+      563,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 27 1993 00:00:00",
+      377,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 28 1993 00:00:00",
+      250,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 29 1993 00:00:00",
+      243,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 30 1993 00:00:00",
+      324,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "July, 31 1993 00:00:00",
+      451,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 1 1993 00:00:00",
+      387,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 2 1993 00:00:00",
+      301,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 3 1993 00:00:00",
+      322,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 4 1993 00:00:00",
+      334,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 5 1993 00:00:00",
+      248,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 6 1993 00:00:00",
+      184,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 7 1993 00:00:00",
+      234,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 8 1993 00:00:00",
+      213,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 9 1993 00:00:00",
+      194,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 10 1993 00:00:00",
+      193,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 11 1993 00:00:00",
+      148,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 12 1993 00:00:00",
+      83,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 13 1993 00:00:00",
+      63,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 14 1993 00:00:00",
+      54,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 15 1993 00:00:00",
+      48,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 16 1993 00:00:00",
+      53,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 17 1993 00:00:00",
+      50,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 18 1993 00:00:00",
+      31,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 19 1993 00:00:00",
+      23,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 20 1993 00:00:00",
+      15,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 21 1993 00:00:00",
+      30,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 22 1993 00:00:00",
+      27,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 23 1993 00:00:00",
+      55,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 24 1993 00:00:00",
+      9,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 25 1993 00:00:00",
+      16,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 26 1993 00:00:00",
+      24,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 27 1993 00:00:00",
+      19,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 28 1993 00:00:00",
+      8,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 29 1993 00:00:00",
+      6,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      1993,
+      "August, 30 1993 00:00:00",
+      3,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1012,
+    "species_id": "450",
+    "year": "1993",
+    "totalRecords": 67,
+    "totalCount": 13083,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1993-12-31T00:00:00"
+  }
+}

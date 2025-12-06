@@ -1,0 +1,490 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "June, 22 2015 00:00:00",
+      0,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "June, 23 2015 00:00:00",
+      2,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "June, 24 2015 00:00:00",
+      4,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "June, 25 2015 00:00:00",
+      3,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "June, 26 2015 00:00:00",
+      1,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "June, 27 2015 00:00:00",
+      10,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "June, 28 2015 00:00:00",
+      28,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "June, 29 2015 00:00:00",
+      61,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "June, 30 2015 00:00:00",
+      39,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 1 2015 00:00:00",
+      75,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 2 2015 00:00:00",
+      144,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 3 2015 00:00:00",
+      131,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 4 2015 00:00:00",
+      175,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 5 2015 00:00:00",
+      277,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 6 2015 00:00:00",
+      169,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 7 2015 00:00:00",
+      167,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 8 2015 00:00:00",
+      391,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 9 2015 00:00:00",
+      740,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 10 2015 00:00:00",
+      665,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 11 2015 00:00:00",
+      576,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 12 2015 00:00:00",
+      784,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 13 2015 00:00:00",
+      623,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 14 2015 00:00:00",
+      414,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 15 2015 00:00:00",
+      947,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 16 2015 00:00:00",
+      510,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 17 2015 00:00:00",
+      422,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 18 2015 00:00:00",
+      1272,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 19 2015 00:00:00",
+      1971,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 20 2015 00:00:00",
+      943,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 21 2015 00:00:00",
+      324,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 22 2015 00:00:00",
+      387,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 23 2015 00:00:00",
+      298,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 24 2015 00:00:00",
+      703,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 25 2015 00:00:00",
+      361,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 26 2015 00:00:00",
+      464,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 27 2015 00:00:00",
+      508,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 28 2015 00:00:00",
+      282,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 29 2015 00:00:00",
+      674,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 30 2015 00:00:00",
+      273,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "July, 31 2015 00:00:00",
+      178,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "August, 1 2015 00:00:00",
+      181,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "August, 2 2015 00:00:00",
+      182,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "August, 3 2015 00:00:00",
+      130,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "August, 4 2015 00:00:00",
+      133,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "August, 5 2015 00:00:00",
+      78,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "August, 6 2015 00:00:00",
+      82,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "August, 7 2015 00:00:00",
+      67,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "August, 8 2015 00:00:00",
+      54,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "August, 9 2015 00:00:00",
+      44,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "August, 10 2015 00:00:00",
+      35,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "August, 11 2015 00:00:00",
+      22,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "August, 12 2015 00:00:00",
+      18,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1010,
+    "species_id": "430",
+    "year": "2015",
+    "totalRecords": 52,
+    "totalCount": 17022,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2015-12-31T00:00:00"
+  }
+}

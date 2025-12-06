@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "August, 29 1992 00:00:00",
+      16,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 30 1992 00:00:00",
+      71,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "August, 31 1992 00:00:00",
+      135,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 1 1992 00:00:00",
+      374,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 2 1992 00:00:00",
+      308,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 3 1992 00:00:00",
+      719,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 4 1992 00:00:00",
+      944,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 5 1992 00:00:00",
+      528,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 6 1992 00:00:00",
+      1014,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 7 1992 00:00:00",
+      701,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 8 1992 00:00:00",
+      811,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 9 1992 00:00:00",
+      845,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 10 1992 00:00:00",
+      450,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 11 1992 00:00:00",
+      472,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 12 1992 00:00:00",
+      703,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 13 1992 00:00:00",
+      585,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 14 1992 00:00:00",
+      284,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 15 1992 00:00:00",
+      409,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 16 1992 00:00:00",
+      275,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 17 1992 00:00:00",
+      238,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 18 1992 00:00:00",
+      246,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 19 1992 00:00:00",
+      548,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 20 1992 00:00:00",
+      252,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 21 1992 00:00:00",
+      368,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 22 1992 00:00:00",
+      367,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 23 1992 00:00:00",
+      360,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 24 1992 00:00:00",
+      291,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 25 1992 00:00:00",
+      238,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 26 1992 00:00:00",
+      350,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 27 1992 00:00:00",
+      284,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 28 1992 00:00:00",
+      371,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 29 1992 00:00:00",
+      398,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "September, 30 1992 00:00:00",
+      257,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 1 1992 00:00:00",
+      200,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 2 1992 00:00:00",
+      162,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 3 1992 00:00:00",
+      426,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 4 1992 00:00:00",
+      836,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 5 1992 00:00:00",
+      821,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 6 1992 00:00:00",
+      971,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 7 1992 00:00:00",
+      810,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 8 1992 00:00:00",
+      805,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 9 1992 00:00:00",
+      813,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 10 1992 00:00:00",
+      698,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 11 1992 00:00:00",
+      731,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 12 1992 00:00:00",
+      393,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 13 1992 00:00:00",
+      353,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 14 1992 00:00:00",
+      166,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 15 1992 00:00:00",
+      70,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 16 1992 00:00:00",
+      40,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 17 1992 00:00:00",
+      10,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 18 1992 00:00:00",
+      8,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 19 1992 00:00:00",
+      6,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 20 1992 00:00:00",
+      4,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 21 1992 00:00:00",
+      3,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 22 1992 00:00:00",
+      1,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 23 1992 00:00:00",
+      1,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 24 1992 00:00:00",
+      0,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ],
+    [
+      1992,
+      "October, 25 1992 00:00:00",
+      0,
+      450,
+      1009,
+      "Fishing Branch River",
+      "Chum"
+    ]
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "June, 25 2009 00:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "June, 26 2009 00:00:00",
+      1,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "June, 27 2009 00:00:00",
+      4,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "June, 28 2009 00:00:00",
+      3,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "June, 29 2009 00:00:00",
+      9,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "June, 30 2009 00:00:00",
+      18,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 1 2009 00:00:00",
+      100,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 2 2009 00:00:00",
+      38,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 3 2009 00:00:00",
+      259,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 4 2009 00:00:00",
+      305,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 5 2009 00:00:00",
+      181,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 6 2009 00:00:00",
+      184,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 7 2009 00:00:00",
+      216,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 8 2009 00:00:00",
+      208,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 9 2009 00:00:00",
+      242,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 10 2009 00:00:00",
+      160,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 11 2009 00:00:00",
+      547,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 12 2009 00:00:00",
+      601,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 13 2009 00:00:00",
+      572,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 14 2009 00:00:00",
+      402,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 15 2009 00:00:00",
+      418,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 16 2009 00:00:00",
+      465,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 17 2009 00:00:00",
+      505,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 18 2009 00:00:00",
+      391,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 19 2009 00:00:00",
+      342,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 20 2009 00:00:00",
+      313,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 21 2009 00:00:00",
+      479,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 22 2009 00:00:00",
+      363,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 23 2009 00:00:00",
+      340,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 24 2009 00:00:00",
+      297,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 25 2009 00:00:00",
+      220,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 26 2009 00:00:00",
+      201,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 27 2009 00:00:00",
+      191,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 28 2009 00:00:00",
+      133,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 29 2009 00:00:00",
+      153,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 30 2009 00:00:00",
+      75,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "July, 31 2009 00:00:00",
+      77,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 1 2009 00:00:00",
+      57,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 2 2009 00:00:00",
+      74,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 3 2009 00:00:00",
+      62,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 4 2009 00:00:00",
+      22,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 5 2009 00:00:00",
+      12,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 6 2009 00:00:00",
+      7,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 7 2009 00:00:00",
+      14,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2009,
+      "August, 8 2009 00:00:00",
+      2,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1007,
+    "species_id": "450",
+    "year": "2009",
+    "totalRecords": 45,
+    "totalCount": 9263,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2009-12-31T00:00:00"
+  }
+}

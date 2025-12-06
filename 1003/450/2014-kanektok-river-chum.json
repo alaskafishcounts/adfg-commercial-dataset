@@ -1,0 +1,481 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "June, 25 2014 00:00:00",
+      4,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "June, 26 2014 00:00:00",
+      12,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "June, 27 2014 00:00:00",
+      89,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "June, 28 2014 00:00:00",
+      80,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "June, 29 2014 00:00:00",
+      99,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "June, 30 2014 00:00:00",
+      77,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 1 2014 00:00:00",
+      140,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 2 2014 00:00:00",
+      198,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 3 2014 00:00:00",
+      275,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 4 2014 00:00:00",
+      302,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 5 2014 00:00:00",
+      559,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 6 2014 00:00:00",
+      757,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 7 2014 00:00:00",
+      297,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 8 2014 00:00:00",
+      485,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 9 2014 00:00:00",
+      519,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 10 2014 00:00:00",
+      647,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 11 2014 00:00:00",
+      739,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 12 2014 00:00:00",
+      651,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 13 2014 00:00:00",
+      466,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 14 2014 00:00:00",
+      746,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 15 2014 00:00:00",
+      720,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 16 2014 00:00:00",
+      924,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 17 2014 00:00:00",
+      811,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 18 2014 00:00:00",
+      713,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 19 2014 00:00:00",
+      337,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 20 2014 00:00:00",
+      357,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 21 2014 00:00:00",
+      738,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 22 2014 00:00:00",
+      626,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 23 2014 00:00:00",
+      564,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 24 2014 00:00:00",
+      368,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 25 2014 00:00:00",
+      392,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 26 2014 00:00:00",
+      492,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 27 2014 00:00:00",
+      481,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 28 2014 00:00:00",
+      400,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 29 2014 00:00:00",
+      233,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 30 2014 00:00:00",
+      325,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 31 2014 00:00:00",
+      419,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 1 2014 00:00:00",
+      227,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 2 2014 00:00:00",
+      203,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 3 2014 00:00:00",
+      196,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 4 2014 00:00:00",
+      267,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 5 2014 00:00:00",
+      285,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 6 2014 00:00:00",
+      274,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 7 2014 00:00:00",
+      219,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 8 2014 00:00:00",
+      160,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 9 2014 00:00:00",
+      110,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 10 2014 00:00:00",
+      136,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 11 2014 00:00:00",
+      122,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 12 2014 00:00:00",
+      100,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 13 2014 00:00:00",
+      60,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2014,
+      "August, 14 2014 00:00:00",
+      121,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1003,
+    "species_id": "450",
+    "year": "2014",
+    "totalRecords": 51,
+    "totalCount": 18522,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2014-12-31T00:00:00"
+  }
+}
